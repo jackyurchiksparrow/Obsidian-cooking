@@ -1,0 +1,18 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "type": "date",
+    "date": "date",
+    "taste rating": "number",
+    "nutrition rating": "number",
+    "active time": "text",
+    "yield": "number",
+    "scaling_factor": "number",
+    "scale_factor": "multitext",
+    "part_of_the_set": "multitext",
+    "hydration": "number",
+    "outcome": "text"
+  }
+}
