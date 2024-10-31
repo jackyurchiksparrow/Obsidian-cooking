@@ -21,13 +21,6 @@ while (!customJS?.state?._ready) {
 
 const {RecipeScaler} = await cJS();
 RecipeScaler.RecipeScaler();
-
-window.onerror = function (message, source, lineno, colno, error) {
-	if (error instanceof TypeError && message.includes("Cannot read properties of undefined")) {
-		RecipeScaler.RecipeScaler();
-		return true;
-	}
-    };
 ```
 
 | Banneton | Scoring           | Apearance         | Crumb             |
@@ -37,7 +30,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 > [!tip] Overproofed on the sides. The temperature wasn't distributed evenly (shaped too early)
 ## Ingredients
 
-###### 5
+###### 4
 ###### Scale
 ###### Unreleased
 ###### Unreleased
