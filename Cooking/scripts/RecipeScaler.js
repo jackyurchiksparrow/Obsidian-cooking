@@ -401,7 +401,7 @@ class RecipeScaler {
             const ingredient_title = tr.querySelectorAll('td')[ingredients_col_pos_idx]?.querySelector('div').textContent;
             const ingredient_qty = tr.querySelectorAll('td')[quantity_col_pos_idx]?.querySelector('div').textContent;
 
-            if(ingredient_title.toLowerCase().contains("flour"))
+            if(ingredient_title.toLowerCase().contains("flour") || ingredient_title.toLowerCase().contains("malt"))
                 if(!isNaN(ingredient_qty) && ingredient_qty != null && ingredient_qty !== '')
                     overall_flour_weight+=parseFloat(ingredient_qty);
 

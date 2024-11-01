@@ -2,7 +2,7 @@
 tags:
   - "#staple"
 date: 2021-10-21
-thumbnail: src/img/stock.jpg
+thumbnail: https://lh3.googleusercontent.com/pw/AP1GczNiMOPMtD1liIvGTR0MEwm_YoQCQqzxStLWY7WovNKHOesBlGH-XCE80hYCb3u2cBpebpCmhnNk9iuCjhESKCIOWd2A1LHVeZ48UaJ6Msf4zSh84jpNi2RzvCl9TbPP91SIaFF0VG0L15Buko-iRn5Q=w1280-h1026-s-no-gm?authuser=0
 passive time: 5 h
 active time: 30 min
 yield: 1
@@ -27,17 +27,17 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-|                |     |     |     |
-| -------------- | --- | --- | --- |
-| ![[stock.jpg]] |     |     |     |
+|                                                                                                                                                                                                                                       |     |     |     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- | --- |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczNiMOPMtD1liIvGTR0MEwm_YoQCQqzxStLWY7WovNKHOesBlGH-XCE80hYCb3u2cBpebpCmhnNk9iuCjhESKCIOWd2A1LHVeZ48UaJ6Msf4zSh84jpNi2RzvCl9TbPP91SIaFF0VG0L15Buko-iRn5Q=w1280-h1026-s-no-gm?authuser=0) |     |     |     |
 
 ## Ingredients
 
-###### 3
+###### 1
 ###### Scale
-###### Unreleased
-###### Unreleased
-###### Unreleased
+###### 27.6+54.3 = 81.9
+###### Calculate
+###### Unreleased 3
 
 | Ingredient         | Quantity, g | %   | Note     |
 | ------------------ | ----------- | --- | -------- |
@@ -52,53 +52,46 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ---
 ## Directions:
-### Dough:
 
 1. Step 1
 2. Step 2
 3. Step 3
 
-### Filling:
-
-1. Step 1
-2. Step 2
-3. Step 3
 
 ---
 ## Nutrition Facts:
 
-| **Servings:** 22       |       | % Daily Value |
+| **Servings:**          |       | % Daily Value |
 | ---------------------- | ----- | ------------- |
-| **Amount per serving** | 60g   |               |
-| **Calories**: 110      |       |               |
+| **Amount per serving** |       |               |
+| **Calories**:          |       |               |
 |                        |       |               |
-| **Total Fat**          | 0.7g  | 1%            |
-| **Saturated Fat**      | 0.1g  | 0%            |
-| **Cholesterol**        | 0mg   | 0%            |
-| **Sodium**             | 356mg | 15%           |
-| **Total Carbohydrate** | 23.4g | 9%            |
-| **Dietary Fiber**      | 2.2g  | 8%            |
-| **Total Sugars**       | 1g    |               |
-| **Protein**            | 3.6g  |               |
-| **Vitamin D**          | 0mcg  | 0%            |
-| **Calcium**            | 5mg   | 0%            |
-| **Iron**               | 1mg   | 7%            |
-| **Potassium**          | 33mg  | 1%            |
+| **Total Fat**          |       |               |
+| **Saturated Fat**      |       |               |
+| **Cholesterol**        |       |               |
+| **Sodium**             |       |               |
+| **Total Carbohydrate** |       |               |
+| **Dietary Fiber**      |       |               |
+| **Total Sugars**       |       |               |
+| **Protein**            |       |               |
+| **Vitamin D**          |       |               |
+| **Calcium**            |       |               |
+| **Iron**               |       |               |
+| **Potassium**          |       |               |
 
 ---
 ## History:
 
-|                 |                   |                   |                   |
-| --------------- | ----------------- | ----------------- | ----------------- |
-| ![[25_rye.jpg]] | ![[25_rye_2.jpg]] | ![[25_rye_3.jpg]] | ![[25_rye_4.jpg]] |
+|     |                   |                   |                   |
+| --- | ----------------- | ----------------- | ----------------- |
+|     |                   |                   |                   |
 
 
 ---
 ## Notes
 
-sth written ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-fffffffffffff
-> Your Notes Here
+
+>
 
 ---
 

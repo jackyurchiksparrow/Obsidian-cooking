@@ -7,7 +7,7 @@ hydration: 76.5
 bulk fermentation: 6 h 40 min
 cold retard: 8 h
 outcome: overproofed
-thumbnail: src/img/25_rye.jpg
+thumbnail: https://lh3.googleusercontent.com/pw/AP1GczODWIsrBLZDO3wsP5_OwV_vOBtNgoLno5b-GHOZClO_fCbLR8fvSpRJOBG7HRTakS8u7J56mg2kpXKqH0rk5YD_RbqO_DqNu6yqSjXqcn_yg993uQcpJFftKVzVS0tJs02k030KROF1evS7jctcXq_k=w1280-h960-s-no-gm?authuser=0
 yield: 1
 nutrition rating: 8
 taste rating: 10
@@ -18,10 +18,10 @@ part_of_the_set:
 while (!customJS?.state?._ready) { 
 	await new Promise(resolve => setTimeout(resolve, 50)); 
 } 
-a
+
 const {RecipeScaler} = await cJS();
 RecipeScaler.RecipeScaler();
-n```
+```
 ```dataviewjs
 while (!customJS?.state?._ready) { 
 	await new Promise(resolve => setTimeout(resolve, 50)); 
@@ -38,9 +38,9 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-| Banneton | Scoring           | Appearance        | Crumb             |
-| -------- | ----------------- | ----------------- | ----------------- |
-|          | ![[25_rye_5.jpg]] | ![[25_rye_7.jpg]] | ![[25_rye_8.jpg]] |
+| Banneton | Scoring                                                                                                                                                                                                                              | Appearance                                                                                                                                                                                                                           | Crumb                                                                                                                                                                                                                                |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|          | ![](https://lh3.googleusercontent.com/pw/AP1GczM0h7QvOCyyXXlWz1AtU11x_NdyFH9a3L3YmzaD0Sv5exAeJg4JKBzXMI8PZnLrxp1EbfoaHmke8qGkucZOXocDyX0k3RdW6f102Gvr7Y2UsoKOeTL5BZSB0SGJ_mEfpam1R-7c0ysYFa_unyScFk8F=w1280-h960-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczODWIsrBLZDO3wsP5_OwV_vOBtNgoLno5b-GHOZClO_fCbLR8fvSpRJOBG7HRTakS8u7J56mg2kpXKqH0rk5YD_RbqO_DqNu6yqSjXqcn_yg993uQcpJFftKVzVS0tJs02k030KROF1evS7jctcXq_k=w1280-h960-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczOvGkN742N_9_kQtxty-IsvmLYVTHGR350qLjMwQ4M9bkON72FLLDWNJm9Cub_uwzWnwCT1OL7t__Spp3rOD_auUKB_8qXIMJTAcQx0pxUeVfIPuAvgtnJa0GwajyF-30-poOhp9RVVdq-3RHl1gtaU=w1280-h960-s-no-gm?authuser=0) |
 
 > [!tip] Overproofed on the sides. The temperature wasn't distributed evenly (shaped too early). Could try 2-3.5% more water (it was 320 + 180 g) if still using [[fruit water]].
 ## Ingredients
@@ -71,15 +71,15 @@ window.onerror = function (message, source, lineno, colno, error) {
 ## Directions:
 ### Dough:
 
-1. Step 1
-2. Step 2
-3. Step 3
-
-### Filling:
-
-1. Step 1
-2. Step 2
-3. Step 3
+1. Mix all wet ingredients.
+2. Dissolve or tear the starter.
+3. Combine the dry ingredients on top, mix.
+4. Wait for 30 minutes until fermentolyse.
+5. Perform initial kneading by tucking the dough under itself.
+6. Keep resting it for ~30 min and give stretches and folds. Stop when the dough looks puffy.
+7. When the [[poke test]] shows that the finger indentation springs back slowly - bake. If slightly slower - put it in the fridge.
+8. Preheat the oven to 240C for 40 min. Bake 30 min with steam and a lid, 20-25 minutes - no steam no lead, 220C.
+9. Cool it down at least one hour before slicing into.
 
 ---
 ## Nutrition Facts:
@@ -105,17 +105,15 @@ window.onerror = function (message, source, lineno, colno, error) {
 ---
 ## History:
 
-| Banneton                        | Scoring                                                                          | Appearance      | Crumb             |
-| ------------------------------- | -------------------------------------------------------------------------------- | --------------- | ----------------- |
-|                                 |                                                                                  | ![[25_rye.jpg]] | ![[25_rye_4.jpg]] |
-| Overproofed; proofing bag used. | Could try 2-3.5% more water (it was 340 + 180 g) if still using [[fruit water]]. |                 |                   |
+| Banneton                        | Scoring                                                                          | Appearance                                                                                                                                                                                                                           | Crumb                                                                                                                                                                                                                                |
+| ------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|                                 |                                                                                  | ![](https://lh3.googleusercontent.com/pw/AP1GczPMEbhIWLe6DgcxiOuDn4a5OwVlWxPHaE5hKZ95yUZySU5umsyFE9xXjkkLloFjJ9VxsOvQgkqiB2olsHr6kSWWpy7d1eym9LEDss14B13tmzncAtmZmsBFtX16DSAFe5leqJGghuuV3OFJtWeMsdc2=w1280-h960-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczNG03lxJCHkMzC29neXTarJOv-wyCvpRaqBNVt7vB-TQgdm0ZttYvpt-K8queuaHuLpMr298lfGZaKDcghXJnERAjJhl0_y-bRDzlM-GSNZTddrlIR73OwyRm3_v2u_XavmtWxn39U6dxDQ0PhfU-RG=w1280-h960-s-no-gm?authuser=0) |
+| Overproofed; proofing bag used. | Could try 2-3.5% more water (it was 340 + 180 g) if still using [[fruit water]]. |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |
 
 ---
 ## Notes
 
-sth written fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff3
-> Your Notes Here
+> 
 
 ---
 
