@@ -50,7 +50,6 @@ window.onerror = function (message, source, lineno, colno, error) {
 `class: scale-button`
 ###### Scale
 
-`class: ingredients-table`
 | Ingredient                                           | Quantity, g | Baker's % | Note |
 | ---------------------------------------------------- | ----------- | --------- | ---- |
 | [[Fruit water]]                                      | 180         |           |      |
