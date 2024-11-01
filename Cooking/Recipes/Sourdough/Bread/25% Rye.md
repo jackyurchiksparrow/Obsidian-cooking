@@ -23,7 +23,7 @@ const {RecipeScaler} = await cJS();
 RecipeScaler.RecipeScaler();
 ```
 
-| Banneton | Scoring           | Apearance         | Crumb             |
+| Banneton | Scoring           | Appearance        | Crumb             |
 | -------- | ----------------- | ----------------- | ----------------- |
 |          | ![[25_rye_5.jpg]] | ![[25_rye_7.jpg]] | ![[25_rye_8.jpg]] |
 
@@ -36,6 +36,7 @@ RecipeScaler.RecipeScaler();
 ###### Unreleased
 ###### Unreleased
 
+`class: ingredients-table`
 | Ingredient                                           | Quantity, g | Baker's % | Note |
 | ---------------------------------------------------- | ----------- | --------- | ---- |
 | [[Fruit water]]                                      | 180         |           |      |
