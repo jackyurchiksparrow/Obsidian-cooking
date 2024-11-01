@@ -14,12 +14,6 @@ class RecipeScaler {
     static SCALE_VALUE_BUTTON_ORDER_IDX = 0;
     // the index of the button (runs the event of scaling) on the whole page 0 - the first button on the page, 1 - the second etc.
     static SCALE_BUTTON_ORDER_IDX = 1;
-    // the index of the table (for ingredients list) on the whole page 0 - the first table on the page, 1 - the second etc.
-    static INGREDIENTS_TABLE_ORDER_IDX = 1;
-    // yet to come
-    static UNRELEASED_BUTTON_1_ORDER_IDX = 2;
-    static UNRELEASED_BUTTON_2_ORDER_IDX = 3;
-    static UNRELEASED_BUTTON_3_ORDER_IDX = 4;
 
     // LOWERCASE ingredients table column names; they work by the fuzzy principle of "includes" (with the exception of ING_TBL_PERCENTAGE_COL that compares strictly)
     static ING_TBL_INGREDIENTS_COL = "ingredient";
@@ -48,10 +42,6 @@ class RecipeScaler {
         // Indexes for targeting specific elements within the DOM
         this.scale_value_element_pos_index = start_from_idx+RecipeScaler.SCALE_VALUE_BUTTON_ORDER_IDX;
         this.scale_the_ingredients_button_pos_index = start_from_idx+RecipeScaler.SCALE_BUTTON_ORDER_IDX;
-        this.table_with_ingredients_pos_index = first_table_idx+RecipeScaler.INGREDIENTS_TABLE_ORDER_IDX;
-        this.unreleased_button1 = start_from_idx+RecipeScaler.UNRELEASED_BUTTON_1_ORDER_IDX;
-        this.unreleased_button2 = start_from_idx+RecipeScaler.UNRELEASED_BUTTON_2_ORDER_IDX;
-        this.unreleased_button2 = start_from_idx+RecipeScaler.UNRELEASED_BUTTON_3_ORDER_IDX;
 
         // listeners are set up
         this.setupListeners();
@@ -86,10 +76,8 @@ class RecipeScaler {
 
     // Ensures that listeners are attached only when elements are available
     checkAndAddListeners() {
-        console.log("checkAndAddListeners();");
-        const h6_headers = document.querySelectorAll('.HyperMD-header-6 span.cm-header-6:last-of-type');
-        this.scaleIngredientsValue_container = h6_headers[this.scale_value_element_pos_index];
-        this.scaleIngredients_button = h6_headers[this.scale_the_ingredients_button_pos_index];
+        this.scaleIngredientsValue_container = document.querySelector(".scale-value");
+        this.scaleIngredients_button = document.querySelector(".scale-button");
 
 
         // Select all close tab buttons
@@ -144,7 +132,7 @@ class RecipeScaler {
         const scaleIngredientsMainParent = document.querySelectorAll('.HyperMD-header-6')[this.scale_value_element_pos_index];
 
         scaleIngredientsMainParent.addEventListener('mouseover', (event) => {
-            // Use mousedown instead of click
+  
             const range = document.createRange();
             range.selectNodeContents(scaleIngredientsMainParent);
             const selection = window.getSelection();
@@ -283,8 +271,7 @@ class RecipeScaler {
         this.scaleIngredients_button.addEventListener('click', (event) => {
             console.log(RecipeScaler.intervals);
             console.log(`The scale value is ${this.getScaleIngredientsValue()}`);
-            console.log(`this.table_with_ingredients_pos_index = ${this.table_with_ingredients_pos_index}`);
-            const ingredients_table = document.querySelectorAll("table")[this.table_with_ingredients_pos_index];
+            const ingredients_table = document.querySelector(".ingredients-table table");
             const ingredients_table_ths = ingredients_table.querySelectorAll("th");
             
             // Get the column indices
@@ -305,7 +292,7 @@ class RecipeScaler {
             const ingredients_table_tbody_trs = ingredients_table.querySelectorAll("tbody tr");
             ingredients_table_tbody_trs.forEach((tr) => {
                 // Get the initial quantity and scale it
-                const initial_amount_el = tr.querySelectorAll('td')[quantity_col_pos_idx]?.querySelector('div');
+                const initial_amount_el = tr.querySelectorAll('td')[quantity_col_pos_idx];
                 const scaled_td = tr.querySelectorAll('td')[new_column_idx];
                 
                 if (!initial_amount_el || !scaled_td) return; // Skip if elements are missing
@@ -326,6 +313,8 @@ class RecipeScaler {
             if(bakers_percentage_col_pos_idx)
                 sourdough_flag = true;
 
+            console.log("--------------------");
+            console.log(sourdough_flag, ingredients_table_tbody_trs, ingredients_col_pos_idx, quantity_col_pos_idx, scaled_col_idx, percentage_col_pos_idx, bakers_percentage_col_pos_idx, new_column_idx, scale_value);
             this.calculate_percentages(sourdough_flag, ingredients_table_tbody_trs, ingredients_col_pos_idx, quantity_col_pos_idx, scaled_col_idx, percentage_col_pos_idx, bakers_percentage_col_pos_idx, new_column_idx, scale_value);
             
         });
@@ -368,8 +357,8 @@ class RecipeScaler {
 
         // -- get the overall weight and overall flour weight --
         table_rows.forEach((tr) => {
-            const ingredient_title = tr.querySelectorAll('td')[ingredients_col_pos_idx]?.querySelector('div').textContent;
-            const ingredient_qty = tr.querySelectorAll('td')[quantity_col_pos_idx]?.querySelector('div').textContent;
+            const ingredient_title = tr.querySelectorAll('td')[ingredients_col_pos_idx].textContent;
+            const ingredient_qty = tr.querySelectorAll('td')[quantity_col_pos_idx].textContent;
 
             if(ingredient_title.toLowerCase().contains("flour"))
                 if(!isNaN(ingredient_qty) && ingredient_qty != null && ingredient_qty !== '')
@@ -387,9 +376,9 @@ class RecipeScaler {
         }
 
         table_rows.forEach((tr) => {
-            const ingredient_title = tr.querySelectorAll('td')[ingredients_col_pos_idx]?.querySelector('div').textContent;
-            const ingredient_qty_el = tr.querySelectorAll('td')[quantity_col_pos_idx]?.querySelector('div');
-            const ingredient_scaled_qty_el = tr.querySelectorAll('td')[new_column_idx]?.querySelector('div');
+            const ingredient_title = tr.querySelectorAll('td')[ingredients_col_pos_idx].textContent;
+            const ingredient_qty_el = tr.querySelectorAll('td')[quantity_col_pos_idx];
+            const ingredient_scaled_qty_el = tr.querySelectorAll('td')[new_column_idx];
             const ingredient_qty = ingredient_qty_el.textContent;
 
             let ingredient_percent_el = tr.querySelectorAll('td');
@@ -399,10 +388,10 @@ class RecipeScaler {
             if(!isNaN(ingredient_qty) && ingredient_qty != null && !ingredient_title.toLowerCase().contains(RecipeScaler.OVERALL_WEIGHT_ROW)) {
                 if(sourdough_flag) {
                     percentage = parseFloat(ingredient_qty) / overall_flour_weight;
-                    ingredient_percent_el = ingredient_percent_el[bakers_percentage_col_pos_idx].querySelector('div');
+                    ingredient_percent_el = ingredient_percent_el[bakers_percentage_col_pos_idx];
                 } else {
                     percentage = parseFloat(ingredient_qty) / overall_weight;
-                    ingredient_percent_el = ingredient_percent_el[percentage_col_pos_idx].querySelector('div');
+                    ingredient_percent_el = ingredient_percent_el[percentage_col_pos_idx];
                 }
             }
             
