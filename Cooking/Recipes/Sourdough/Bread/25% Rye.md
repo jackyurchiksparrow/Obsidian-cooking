@@ -36,7 +36,6 @@ RecipeScaler.RecipeScaler();
 ###### Unreleased
 ###### Unreleased
 
-`class: ingredients-table`
 | Ingredient                                           | Quantity, g | Baker's % | Note |
 | ---------------------------------------------------- | ----------- | --------- | ---- |
 | [[Fruit water]]                                      | 180         |           |      |
