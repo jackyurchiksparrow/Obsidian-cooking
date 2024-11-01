@@ -14,6 +14,14 @@ taste rating: 10
 credit: https://heartbeetkitchen.com/rye-sourdough-bread-recipe/
 part_of_the_set:
 ---
+r```dataviewjs
+while (!customJS?.state?._ready) { 
+	await new Promise(resolve => setTimeout(resolve, 50)); 
+} 
+a
+const {RecipeScaler} = await cJS();
+RecipeScaler.RecipeScaler();
+n```
 ```dataviewjs
 while (!customJS?.state?._ready) { 
 	await new Promise(resolve => setTimeout(resolve, 50)); 
@@ -21,6 +29,13 @@ while (!customJS?.state?._ready) {
 
 const {RecipeScaler} = await cJS();
 RecipeScaler.RecipeScaler();
+
+window.onerror = function (message, source, lineno, colno, error) {
+	if (error instanceof TypeError && message.includes("Cannot read properties of undefined")) {
+		RecipeScaler.RecipeScaler();
+		return true;
+	}
+    };
 ```
 
 | Banneton | Scoring           | Appearance        | Crumb             |
@@ -30,8 +45,8 @@ RecipeScaler.RecipeScaler();
 > [!tip] Overproofed on the sides. The temperature wasn't distributed evenly (shaped too early)
 ## Ingredients
 
-`class: scale-value`
-###### 1
+`cls: scale-value`
+4
 `class: scale-button`
 ###### Scale
 
@@ -90,10 +105,10 @@ RecipeScaler.RecipeScaler();
 ---
 ## History:
 
-| Banneton                        | Scoring                                                     | Appearance      | Crumb             |
-| ------------------------------- | ----------------------------------------------------------- | --------------- | ----------------- |
-|                                 |                                                             | ![[25_rye.jpg]] | ![[25_rye_4.jpg]] |
-| Overproofed; proofing bag used. | Could try 2-3.5% more water if still using [[fruit water]]. |                 |                   |
+| Banneton                        | Scoring                                                                          | Appearance      | Crumb             |
+| ------------------------------- | -------------------------------------------------------------------------------- | --------------- | ----------------- |
+|                                 |                                                                                  | ![[25_rye.jpg]] | ![[25_rye_4.jpg]] |
+| Overproofed; proofing bag used. | Could try 2-3.5% more water (it was 340 + 180 g) if still using [[fruit water]]. |                 |                   |
 
 ---
 ## Notes
