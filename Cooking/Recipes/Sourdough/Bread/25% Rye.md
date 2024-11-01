@@ -30,7 +30,7 @@ RecipeScaler.RecipeScaler();
 > [!tip] Overproofed on the sides. The temperature wasn't distributed evenly (shaped too early)
 ## Ingredients
 
-###### 4
+###### 5
 ###### Scale
 ###### Unreleased
 ###### Unreleased
