@@ -14,7 +14,7 @@ taste rating: 10
 credit: https://heartbeetkitchen.com/rye-sourdough-bread-recipe/
 part_of_the_set:
 ---
-r```dataviewjs
+```dataviewjs
 while (!customJS?.state?._ready) { 
 	await new Promise(resolve => setTimeout(resolve, 50)); 
 } 
@@ -42,21 +42,22 @@ window.onerror = function (message, source, lineno, colno, error) {
 | -------- | ----------------- | ----------------- | ----------------- |
 |          | ![[25_rye_5.jpg]] | ![[25_rye_7.jpg]] | ![[25_rye_8.jpg]] |
 
-> [!tip] Overproofed on the sides. The temperature wasn't distributed evenly (shaped too early)
+> [!tip] Overproofed on the sides. The temperature wasn't distributed evenly (shaped too early). Could try 2-3.5% more water (it was 320 + 180 g) if still using [[fruit water]].
 ## Ingredients
 
-`cls: scale-value`
-4
-`class: scale-button`
+###### 2
 ###### Scale
+###### 26.5 +54.6 = 81.1
+###### Calculate
+###### Unreleased 3
 
 | Ingredient                                           | Quantity, g | Baker's % | Note |
 | ---------------------------------------------------- | ----------- | --------- | ---- |
 | [[Fruit water]]                                      | 180         |           |      |
-| Water                                                | 340         |           |      |
+| Water                                                | 371         |           |      |
 | [[Sourdough starter types\|Sourdough starter (50%)]] | 90          |           |      |
 | Honey                                                | 25          |           |      |
-| Sea salt                                             | 20          |           |      |
+| Sea salt                                             | 15          |           |      |
 | [[Flours\|Wheat flour (HH Manitoba)]]                | 442         |           |      |
 | [[Flours\|Whole rye flour (Лавка традицій)]]         | 170         |           |      |
 | [[Flours\|Whole wheat flour (Caputo)]]               | 68          |           |      |

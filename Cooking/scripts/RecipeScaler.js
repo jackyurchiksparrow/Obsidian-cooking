@@ -16,9 +16,11 @@ class RecipeScaler {
     static SCALE_BUTTON_ORDER_IDX = 1;
     // the index of the table (for ingredients list) on the whole page 0 - the first table on the page, 1 - the second etc.
     static INGREDIENTS_TABLE_ORDER_IDX = 1;
+    // the index of the 
+    static MATH_EXPRESSION_CONT_ORDER_IDX = 2;
+    static CALCULATE_EXPRESSION_BUTTON_ORDER_IDX = 3;
+
     // yet to come
-    static UNRELEASED_BUTTON_1_ORDER_IDX = 2;
-    static UNRELEASED_BUTTON_2_ORDER_IDX = 3;
     static UNRELEASED_BUTTON_3_ORDER_IDX = 4;
 
     // LOWERCASE ingredients table column names; they work by the fuzzy principle of "includes" (with the exception of ING_TBL_PERCENTAGE_COL that compares strictly)
@@ -49,8 +51,9 @@ class RecipeScaler {
         this.scale_value_element_pos_index = start_from_idx+RecipeScaler.SCALE_VALUE_BUTTON_ORDER_IDX;
         this.scale_the_ingredients_button_pos_index = start_from_idx+RecipeScaler.SCALE_BUTTON_ORDER_IDX;
         this.table_with_ingredients_pos_index = first_table_idx+RecipeScaler.INGREDIENTS_TABLE_ORDER_IDX;
-        this.unreleased_button1 = start_from_idx+RecipeScaler.UNRELEASED_BUTTON_1_ORDER_IDX;
-        this.unreleased_button2 = start_from_idx+RecipeScaler.UNRELEASED_BUTTON_2_ORDER_IDX;
+        this.math_expression_cont_pos_index = start_from_idx+RecipeScaler.MATH_EXPRESSION_CONT_ORDER_IDX;
+        this.calculate_expression_button_pos_index = start_from_idx+RecipeScaler.CALCULATE_EXPRESSION_BUTTON_ORDER_IDX;
+        // yet to come
         this.unreleased_button2 = start_from_idx+RecipeScaler.UNRELEASED_BUTTON_3_ORDER_IDX;
 
         // listeners are set up
@@ -90,6 +93,8 @@ class RecipeScaler {
         const h6_headers = document.querySelectorAll('.HyperMD-header-6 span.cm-header-6:last-of-type');
         this.scaleIngredientsValue_container = h6_headers[this.scale_value_element_pos_index];
         this.scaleIngredients_button = h6_headers[this.scale_the_ingredients_button_pos_index];
+        this.calculate_expression_container = h6_headers[this.math_expression_cont_pos_index];
+        this.calculate_expression_button = h6_headers[this.calculate_expression_button_pos_index];
 
 
         // Select all close tab buttons
@@ -106,6 +111,11 @@ class RecipeScaler {
         if(this.scaleIngredientsValue_container && !this.scaleIngredientsValue_container.listenerAdded) {
             this.addScaleIngredientsValue_containerButtonListener();
             this.scaleIngredientsValue_container.listenerAdded = true;
+        }
+
+        if(this.calculate_expression_button && !this.calculate_expression_button.listenerAdded) {
+            this.addCalculateExpressionButtonListener();
+            this.calculate_expression_button.listenerAdded = true;
         }
 
         if(this.tree_structure_files) {
@@ -204,6 +214,26 @@ class RecipeScaler {
         }
 
         return is_active_tabs;
+    }
+
+    addCalculateExpressionButtonListener() {
+        if(this.calculate_expression_container)
+            this.calculate_expression_button.addEventListener('click', (event) => {
+                let expression = this.calculate_expression_container.textContent.trim(); // Get the current text
+                let result = 0;
+
+                if(expression.includes("="))
+                    expression = expression.replace(/=.*/, "").trim(); // Replace everything after '='
+                
+                try {
+                    result = eval(expression); // Evaluate the expression
+                } catch (err) {
+                    alert(err);
+                    return; // Exit if there's an error
+                }
+                
+                this.calculate_expression_container.textContent = `${expression} = ${RecipeScaler.round(result,2)}`; // Update the h6 with the result
+            });
     }
 
     addNonActiveTabsButtonListener(tab) {
@@ -355,13 +385,13 @@ class RecipeScaler {
         return [ingredients_col_pos_idx, quantity_col_pos_idx, percentage_col_pos_idx, bakers_percentage_col_pos_idx, note_col_pos_idx, scaled_col_dx];
     }
 
+    static round(num, decimals) {
+        var n = Math.pow(10, decimals);
+
+        return Math.round((n * num).toFixed(decimals)) / n;
+    };
+
     calculate_percentages(sourdough_flag, table_rows, ingredients_col_pos_idx, quantity_col_pos_idx, scaled_col_idx, percentage_col_pos_idx, bakers_percentage_col_pos_idx, new_column_idx, scale_value) {
-        function round(num, decimals) {
-            var n = Math.pow(10, decimals);
-
-            return Math.round((n * num).toFixed(decimals)) / n;
-        };
-
         // ---------------- calculate percentages ------------------
         var overall_flour_weight = 0;
         var overall_weight = 0;
@@ -407,10 +437,10 @@ class RecipeScaler {
             }
             
             if(!ingredient_title.toLowerCase().contains(RecipeScaler.OVERALL_WEIGHT_ROW))
-                ingredient_percent_el.innerHTML = isNaN(percentage) ? '' : round(percentage*100, RecipeScaler.ING_TBL_DECIMALS)+"%";
+                ingredient_percent_el.innerHTML = isNaN(percentage) ? '' : RecipeScaler.round(percentage*100, RecipeScaler.ING_TBL_DECIMALS)+"%";
             else {
-                ingredient_qty_el.innerHTML = "<strong>" + round(overall_weight, RecipeScaler.ING_TBL_DECIMALS) + "</strong>";
-                ingredient_scaled_qty_el.innerHTML = "<strong>" + round(overall_weight*scale_value, 1) + "</strong>";
+                ingredient_qty_el.innerHTML = "<strong>" + RecipeScaler.round(overall_weight, RecipeScaler.ING_TBL_DECIMALS) + "</strong>";
+                ingredient_scaled_qty_el.innerHTML = "<strong>" + RecipeScaler.round(overall_weight*scale_value, 1) + "</strong>";
             }
         });
     }
