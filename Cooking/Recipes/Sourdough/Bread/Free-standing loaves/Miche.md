@@ -78,7 +78,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 4. Wait for 30 minutes until fermentolyse.
 5. Perform initial kneading by tucking the dough under itself.
 6. Keep resting it for ~30 min and give stretches and folds. Stop when the dough looks puffy.
-7. When the [[poke test]] shows that the finger indentation springs back slowly - bake. If slightly slower - put it in the fridge.
+7. When the [[Poke test]] shows that the finger indentation springs back slowly - bake. If slightly slower - put it in the fridge.
 8. Preheat the oven to 240C for 40 min. Bake 30 min with steam and a lid, 20-25 minutes - no steam no lead, 220C.
 9. Cool it down at least one hour before slicing into.
 
