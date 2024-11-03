@@ -22,6 +22,13 @@ while (!customJS?.state?._ready) {
 const {RecipeScaler} = await cJS();
 RecipeScaler.RecipeScaler();
 
+window.onerror = function (message, source, lineno, colno, error) {
+	if (error instanceof TypeError && message.includes("Cannot read properties of undefined")) {
+		RecipeScaler.RecipeScaler();
+		return true;
+	}
+    };
+
 ```
 ```dataviewjs
 while (!customJS?.state?._ready) { 
