@@ -3,15 +3,15 @@ tags:
   - "#rye"
   - "#sourdough"
 date: 2024-11-04
-hydration: 81.1
+hydration: 78.1
 bulk fermentation: 
 cold retard: 
 outcome: underproofed
-thumbnail: https://lh3.googleusercontent.com/pw/AP1GczNrVwM2Db1Mg7_GEJ-sWAyYm-UZcFczq6Yf7376tL_n90Iu5x2oqr50BzbD6fj0WyuixkskClYQrCqmFj_GCIv_cQRAj-cOw4Ul__OlazFyfLs8q9utoWX7oWz1wsfMJw4itFnd6SDev6J2lMD9tkMz=w1280-h960-s-no-gm?authuser=0
+thumbnail: 
 yield: 1
-nutrition rating: 7
-taste rating: 10
-credit: https://heartbeetkitchen.com/rye-sourdough-bread-recipe/
+nutrition rating: 
+taste rating: 
+credit: 
 part_of_the_set:
 ---
 ```dataviewjs
@@ -50,19 +50,19 @@ window.onerror = function (message, source, lineno, colno, error) {
 | -------- | ------- | ---------- | ----- |
 | ![]()    | ![]()   | ![]()      | ![]() |
 
-> [!tip] Slightly underproofed. The finger indentation sprang back faster that "a bit slower than fast". Increase the time to ~+15min. 
+> [!tip] 
 ## Ingredients
 
 ###### 1
 ###### Scale
-###### 27.6+54.4 = 82
+###### 27.3+50.8 = 78.1
 ###### Calculate
 ###### Unreleased 3
 
 | Ingredient                                            | Quantity, g | Baker's % | Note |
 | ----------------------------------------------------- | ----------- | --------- | ---- |
 | [[Fruit water]]                                       | 180         |           |      |
-| Water                                                 | 355         |           |      |
+| Water                                                 | 335         |           |      |
 | [[Sourdough starter types\|Sourdough starter (100%)]] | 90          |           |      |
 | Sea salt                                              | 15          |           |      |
 | [[Flours\|Wheat flour (HH Manitoba)]]                 | 330         |           |      |

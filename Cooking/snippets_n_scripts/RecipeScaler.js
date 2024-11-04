@@ -330,14 +330,31 @@ class RecipeScaler {
                 // change the column title
                 ingredients_table_ths[scaled_col_idx].querySelector('strong').innerHTML = `x${scale_value}`;
             }
+
+            let sourdough_obj = {
+                sourdough_flag: false,
+                levain_weight: 1,
+                hydration: 100
+            };
             
             // Iterate through each row in tbody to scale values
             const ingredients_table_tbody_trs = ingredients_table.querySelectorAll("tbody tr");
             ingredients_table_tbody_trs.forEach((tr) => {
                 // Get the initial quantity and scale it
+                const ingredient_title_lower = tr.querySelectorAll('td')[ingredients_col_pos_idx]?.querySelector('div').textContent.toLowerCase();
                 const initial_amount_el = tr.querySelectorAll('td')[quantity_col_pos_idx]?.querySelector('div');
                 const scaled_td = tr.querySelectorAll('td')[new_column_idx];
                 
+                if(ingredient_title_lower.contains("sourdough")) {
+                    sourdough_obj.sourdough_flag = true;
+
+                    if(ingredient_title_lower.contains("%")) {
+                        sourdough_obj.hydration = ingredient_title_lower.match(/(\d+(?:\.\d+)?)\s*%/)[1];
+                        sourdough_obj.levain_weight = initial_amount_el.textContent;
+                    } else
+                        console.error("You might've forgotten to specify the levain's hydration!");
+                }
+
                 if (!initial_amount_el || !scaled_td) return; // Skip if elements are missing
             
                 const curr_initial_amount = initial_amount_el.textContent;
@@ -352,11 +369,7 @@ class RecipeScaler {
                 scaled_div.innerHTML = new_amount;
             });
 
-            let sourdough_flag = false;
-            if(bakers_percentage_col_pos_idx)
-                sourdough_flag = true;
-
-            this.calculate_percentages(sourdough_flag, ingredients_table_tbody_trs, ingredients_col_pos_idx, quantity_col_pos_idx, scaled_col_idx, percentage_col_pos_idx, bakers_percentage_col_pos_idx, new_column_idx, scale_value);
+            this.calculate_percentages(sourdough_obj, ingredients_table_tbody_trs, ingredients_col_pos_idx, quantity_col_pos_idx, scaled_col_idx, percentage_col_pos_idx, bakers_percentage_col_pos_idx, new_column_idx, scale_value);
             
         });
     }
@@ -391,7 +404,7 @@ class RecipeScaler {
         return Math.round((n * num).toFixed(decimals)) / n;
     };
 
-    calculate_percentages(sourdough_flag, table_rows, ingredients_col_pos_idx, quantity_col_pos_idx, scaled_col_idx, percentage_col_pos_idx, bakers_percentage_col_pos_idx, new_column_idx, scale_value) {
+    calculate_percentages(sourdough_obj, table_rows, ingredients_col_pos_idx, quantity_col_pos_idx, scaled_col_idx, percentage_col_pos_idx, bakers_percentage_col_pos_idx, new_column_idx, scale_value) {
         // ---------------- calculate percentages ------------------
         var overall_flour_weight = 0;
         var overall_weight = 0;
@@ -427,8 +440,13 @@ class RecipeScaler {
             let percentage = 0;
 
             if(!isNaN(ingredient_qty) && ingredient_qty != null && !ingredient_title.toLowerCase().contains(RecipeScaler.OVERALL_WEIGHT_ROW)) {
-                if(sourdough_flag) {
-                    percentage = parseFloat(ingredient_qty) / overall_flour_weight;
+                if(sourdough_obj.sourdough_flag) {
+                    let levain_weight = sourdough_obj.levain_weight;
+                    let levain_flour_parts = 100 / sourdough_obj.hydration;
+                    let levain_water_amount = levain_weight/(levain_flour_parts+1); // x flour parts for 1 part water
+                    let levain_flour_amount = levain_weight - levain_water_amount;
+
+                    percentage = parseFloat(ingredient_qty) / (overall_flour_weight + levain_flour_amount - levain_water_amount);
                     ingredient_percent_el = ingredient_percent_el[bakers_percentage_col_pos_idx].querySelector('div');
                 } else {
                     percentage = parseFloat(ingredient_qty) / overall_weight;

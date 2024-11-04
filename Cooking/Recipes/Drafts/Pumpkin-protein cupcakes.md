@@ -37,30 +37,30 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ###### 1
 ###### Scale
-###### 27.6+54.3 = 81.9
+###### 100 * 50 / 100 = 50
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                           | Quantity, g | %   | Note   |
-| ---------------------------------------------------- | ----------- | --- | ------ |
-| [[Sourdough starter types\|Sourdough discard (50%)]] | 263         |     |        |
-| Whole wheat flour                                    | 45          |     |        |
-| Olive oil                                            | 60          |     |        |
-| Baking soda                                          | 5           |     |        |
-| Cinnamon; ground                                     | 5           |     |        |
-| Ginger; ground                                       | 5           |     |        |
-| Flaxseed; ground                                     | 35          |     |        |
-| Anise seed; ground                                   | 5           |     |        |
-| Eggs                                                 | 150         |     | 3 pcs. |
-| Cottage cheese                                       | 200         |     |        |
-| Sugar                                                | 100         |     |        |
-| Honey                                                | 65          |     |        |
-| Applesauce                                           | 60          |     |        |
-| Banana                                               | 30          |     |        |
-| Pumpkin; grated                                      | 400         |     |        |
-| Raisins                                              | 85          |     |        |
-| Salt                                                 | 5           |     |        |
-| **Overall weight**                                   |             |     |        |
+| Ingredient                                           | Quantity, g | Baker's % | Note   |
+| ---------------------------------------------------- | ----------- | --------- | ------ |
+| [[Sourdough starter types\|Sourdough discard (50%)]] | 263         |           |        |
+| Whole wheat flour                                    | 45          |           |        |
+| Olive oil                                            | 60          |           |        |
+| Baking soda                                          | 5           |           |        |
+| Cinnamon; ground                                     | 5           |           |        |
+| Ginger; ground                                       | 5           |           |        |
+| Flaxseed; ground                                     | 35          |           |        |
+| Anise seed; ground                                   | 5           |           |        |
+| Eggs                                                 | 150         |           | 3 pcs. |
+| Cottage cheese                                       | 200         |           |        |
+| Sugar                                                | 100         |           |        |
+| Honey                                                | 65          |           |        |
+| Applesauce                                           | 60          |           |        |
+| Banana                                               | 30          |           |        |
+| Pumpkin; grated                                      | 400         |           |        |
+| Raisins                                              | 85          |           |        |
+| Salt                                                 | 5           |           |        |
+| **Overall weight**                                   |             |           |        |
 
 
 

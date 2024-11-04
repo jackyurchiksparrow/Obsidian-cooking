@@ -3,7 +3,7 @@ tags:
   - "#rye"
   - "#sourdough"
 date: 2024-11-03
-hydration: 82.1
+hydration: 78.6
 bulk fermentation: 4 h 48 min
 cold retard: 22 h
 outcome: overproofed
@@ -47,7 +47,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ###### 2
 ###### Scale
-###### 55.6 +26.5 = 82.1
+###### 25.4 +53.2 = 78.6
 ###### Calculate
 ###### Unreleased 3
 
