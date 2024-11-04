@@ -68,7 +68,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 ---
 ## Directions:
 
-1. Mix liquid ingredients, add dry. Mix and leave for an hour or overnight in the fridge. Bake at 160-180C no fan.
+1. Mix liquid ingredients, add dry. Mix and leave for an hour or overnight in the fridge. Bake at 160-180C no fan..
 
 
 ---

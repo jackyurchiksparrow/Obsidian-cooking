@@ -16,6 +16,10 @@ table td, th {
     width: 20%;
 }
 
+table th {
+    text-align: center !important;
+}
+
 /* make all "add column" buttons for tables visible by default */
 .table-col-btn {
     border-left: 1px solid white !important;
@@ -43,14 +47,14 @@ table td, th {
 }
 
 /* hide table borders for tables */
-table:has(.internal-embed.media-embed.image-embed.is-loaded),
+/* table:has(.internal-embed.media-embed.image-embed.is-loaded),
 table:has(.internal-embed.media-embed.image-embed.is-loaded) tr,
 table:has(.internal-embed.media-embed.image-embed.is-loaded) td,
 table:has(.internal-embed.media-embed.image-embed.is-loaded) th {
     border: hidden;
-    /* margin-top: -5%; */
+    margin-top: -5%;
     padding: 0;
-}
+} */
 
 /* bg for all tr with th (headers of tables) */
 tr:has(th) {
@@ -62,44 +66,29 @@ tr:not(:has(th)):hover {
     background-color: #f0f8ff29 !important;
 }
 
-.cc-container:has(.ingredient-table-buttons) {
-    width: -webkit-fill-available;
-}
-
-.ingredient-table-buttons ul,
-.ingredient-table-buttons ul li {
-    list-style: none;
-    padding: 0 !important;
-    margin: 0 !important;
+/* hindered the table images from being hovered in full size */
+.cm-embed-block.cm-table-widget.markdown-rendered,
+.markdown-source-view.mod-cm6 .cm-content > [contenteditable=false] {
+    contain: unset !important;
 }
 
 /* js buttons styles (h6) */
 .HyperMD-header.HyperMD-header-6.cm-line {
-    font-size: 17pt;
-    padding: 0;
+    display: inline-block;
+    margin-right: 45px !important;
     vertical-align: middle;
-    height: 42px;
-    width: 65px;
+    min-height: 42px;
+    min-width: 55px;
     border: 1px solid;
     padding: 5px 5px 5px 5px !important;
     background-color: black;
-    cursor: pointer;
 }
-
 
 /* js buttons styles (h6; hover) */
 .HyperMD-header.HyperMD-header-6.cm-line:hover {
-    /* background-color: rgb(27, 25, 25); */
+    background-color: rgb(27, 25, 25);
     cursor: pointer;
-
 }
-
-/* Disable the Custom Classes class view ONLY for h6 elements during editing */
-.cm-line:has(.cm-inline-code){ /*:has(+.HyperMD-header.HyperMD-header-6.cm-line) {*/
-    display: none !important;
-}
-
-
 
 /* hide any "#" symbold in h6 editing mode by default */
 .cm-formatting-header-6.cm-header-6 {
@@ -111,11 +100,12 @@ tr:not(:has(th)):hover {
 /* remove properties title */
 .metadata-properties-heading {
     display: none;
+    font-weight: bold;
 }
 
 /* the main parent container for properties */
 .metadata-properties {
-    font-size: 15pt;
+    font-size: 18pt;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -188,16 +178,21 @@ tr:not(:has(th)):hover {
     display: inline-block; /* Aligns items in a row */
     margin-right: 10px !important; /* Adds space between items */
     vertical-align: middle; /* Aligns images to the top */
-    width: 250px; /* Set a uniform width */
-    height: 250px; /* Set a uniform height */
+    width: 350px; /* Set a uniform width */
+    height: 350px; /* Set a uniform height */
     overflow: hidden; /* Ensures no overflow issues */
 }
 
+/* if an image is inside a table, it's centered */
+.table-cell-wrapper:has(img){
+    align-content: center;
+}
 
 /* image gallery (img inside the div of each picture) */
 .internal-embed.media-embed.image-embed.is-loaded img {
     width: 100%;
     height: 100%;
+    vertical-align: middle;
     object-fit: cover;
     transition: transform 0.3s ease, opacity 0.3s ease;
     transform-origin: center center; /* Ensures center scaling */
@@ -207,28 +202,14 @@ tr:not(:has(th)):hover {
 img:hover {
     position: fixed !important;
     z-index: 10 !important;
-    top: 1% !important;
-    left: 1% !important;
+    width: 70% !important;
+    height: 70% !important;
+    top: 15% !important;
+    left: 15% !important;
     object-fit: contain !important;
     background: rgba(0, 0, 0, 0.6);
     opacity: 1;
 }
-
-
-/* Enlarge image for dynamically added 'expanded' class -> deprecated */
-/* .internal-embed.media-embed.image-embed.is-loaded.expanded img {
-    position: fixed;
-    top: 10vh; 
-    left: 10vw;
-    width: 80vw;
-    height: 80vh;
-    transform: scale(1.05);
-    background: rgba(0, 0, 0, 0.8);
-    z-index: 10;
-    opacity: 1;
-} */
-
-
 
 /* a custom clas to apply bold and colorful text */
 .bold-aqua {
@@ -269,3 +250,22 @@ img:hover {
     position: relative;
     top: -30px;
 }
+
+/* --------------- disabling width restrictions section -------------- begin */
+
+/* page container width restrictions */
+.cm-sizer {
+	max-width: unset !important;
+}
+
+/* disable table container width restrictions */
+.markdown-source-view.mod-cm6.is-readable-line-width .cm-content  {
+    max-width: unset !important;
+}
+
+/* hr */
+.markdown-source-view.mod-cm6.is-readable-line-width .cm-line {
+    max-width: unset !important;
+}
+
+/* --------------- disabling width restrictions section -------------- end */
