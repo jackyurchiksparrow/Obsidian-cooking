@@ -25,8 +25,9 @@ When you starter has peaked:
 
 ### Pan loaf
 
-1. Preheat the oven to 240C for 15 min. Brush or spritz with water or milk generously. Lower the temperature to 200C and bake 50-60 min more or until the inner temperature is 98C.
-2. Cool it down at least one hour before slicing into.
+1. Put the loaf pan upside down, fold the parchment paper accordingly to the edges. Put it inside, ensure it's tall enough, if not - consider greasing the edges.
+2. Preheat the oven to 240C for 15 min. Brush or spritz with water or milk generously. Lower the temperature to 200C and bake 50-60 min more or until the inner temperature is 98C.
+3. Cool it down at least one hour before slicing into.
 ### Free-standing loaf
 
 1. Preheat the oven to 240C for 40 min. Bake 30 min with steam and a lid, 20-25 minutes - no steam no lead, 220C.
