@@ -358,7 +358,7 @@ class RecipeScaler {
                 if (!initial_amount_el || !scaled_td) return; // Skip if elements are missing
             
                 const curr_initial_amount = initial_amount_el.textContent;
-                let new_amount = isNaN(curr_initial_amount) || curr_initial_amount === "" ? "" : parseFloat(curr_initial_amount) * scale_value;
+                let new_amount = isNaN(curr_initial_amount) || curr_initial_amount === "" ? "" : RecipeScaler.round(parseFloat(curr_initial_amount) * scale_value, 1);
             
                 // Set the scaled amount in the new column's cell, ensuring `div` exists
                 let scaled_div = scaled_td.querySelector('div');
