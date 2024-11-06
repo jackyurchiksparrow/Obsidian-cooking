@@ -202,6 +202,10 @@ class RecipeScaler {
 
     isActiveTabsOpened() {
         const active_tabs = document.querySelectorAll(".workspace-tabs.mod-top.mod-top-right-space.mod-active .workspace-tab-header-container .workspace-tab-header.tappable.is-active.mod-active .workspace-tab-header-inner-title");
+        
+        if(active_tabs.length == 0)
+            return true;
+        
         let is_active_tabs = false;
 
         for (let i = 0; i < active_tabs.length; i++) {
@@ -435,28 +439,34 @@ class RecipeScaler {
             const ingredient_scaled_qty_el = tr.querySelectorAll('td')[new_column_idx]?.querySelector('div');
             const ingredient_qty = ingredient_qty_el.textContent;
 
-            let ingredient_percent_el = tr.querySelectorAll('td');
+            let ingredient_percent_el = tr.querySelectorAll('td'),
+                ingredient_bakers_percent_el = tr.querySelectorAll('td');
 
-            let percentage = 0;
+            let bakers_percentage = 0, overall_percentage = 0;
 
             if(!isNaN(ingredient_qty) && ingredient_qty != null && !ingredient_title.toLowerCase().contains(RecipeScaler.OVERALL_WEIGHT_ROW)) {
+                // calculate baker's percentages (sourdough)
                 if(sourdough_obj.sourdough_flag) {
                     let levain_weight = sourdough_obj.levain_weight;
                     let levain_flour_parts = 100 / sourdough_obj.hydration;
                     let levain_water_amount = levain_weight/(levain_flour_parts+1); // x flour parts for 1 part water
                     let levain_flour_amount = levain_weight - levain_water_amount;
 
-                    percentage = parseFloat(ingredient_qty) / (overall_flour_weight + levain_flour_amount - levain_water_amount);
-                    ingredient_percent_el = ingredient_percent_el[bakers_percentage_col_pos_idx].querySelector('div');
-                } else {
-                    percentage = parseFloat(ingredient_qty) / overall_weight;
+                    bakers_percentage = parseFloat(ingredient_qty) / (overall_flour_weight + levain_flour_amount - levain_water_amount);
+                    ingredient_bakers_percent_el = ingredient_bakers_percent_el[bakers_percentage_col_pos_idx].querySelector('div');
+                } 
+                
+                // calculate simple percentages (basic)
+                if (percentage_col_pos_idx) {
+                    overall_percentage = parseFloat(ingredient_qty) / overall_weight;
                     ingredient_percent_el = ingredient_percent_el[percentage_col_pos_idx].querySelector('div');
                 }
             }
             
-            if(!ingredient_title.toLowerCase().contains(RecipeScaler.OVERALL_WEIGHT_ROW))
-                ingredient_percent_el.innerHTML = isNaN(percentage) ? '' : RecipeScaler.round(percentage*100, RecipeScaler.ING_TBL_DECIMALS)+"%";
-            else {
+            if(!ingredient_title.toLowerCase().contains(RecipeScaler.OVERALL_WEIGHT_ROW)) {
+                ingredient_percent_el.innerHTML = isNaN(overall_percentage) ? '' : RecipeScaler.round(overall_percentage*100, RecipeScaler.ING_TBL_DECIMALS)+"%";
+                ingredient_bakers_percent_el.innerHTML = isNaN(bakers_percentage) ? '' : RecipeScaler.round(bakers_percentage*100, RecipeScaler.ING_TBL_DECIMALS)+"%";
+            } else {
                 ingredient_qty_el.innerHTML = "<strong>" + RecipeScaler.round(overall_weight, RecipeScaler.ING_TBL_DECIMALS) + "</strong>";
                 ingredient_scaled_qty_el.innerHTML = "<strong>" + RecipeScaler.round(overall_weight*scale_value, 1) + "</strong>";
             }

@@ -56,30 +56,30 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ###### 1
 ###### Scale
-###### 22.6+57.8 = 80.4
+###### 431-180 = 251
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                           | Quantity, g | Baker's % | Note |
-| ---------------------------------------------------- | ----------- | --------- | ---- |
-| Rolled oats                                          | 38          |           |      |
-| Sesame seeds                                         | 17          |           |      |
-| Pumpkin seeds                                        | 17          |           |      |
-| Sunflower seeds                                      | 11          |           |      |
-| Flaxseeds                                            | 11          |           |      |
-| Chia seeds                                           | 11          |           |      |
-| Soaker liquid                                        | 120         |           |      |
-| [[Fruit water]]                                      | 121         |           |      |
-| Water                                                | 310         |           |      |
-| [[Sourdough starter types\|Sourdough starter (50%)]] | 90          |           |      |
-| Honey                                                | 38          |           |      |
-| Sea salt                                             | 15          |           |      |
-| [[Flours\|Wheat flour (HH Manitoba)]]                | 143         |           |      |
-| [[Flours\|Whole wheat flour (Caputo)]]               | 363         |           |      |
-| Wheat bran                                           | 11          |           |      |
-| Sesame seeds for topping                             |             |           |      |
-|                                                      |             |           |      |
-| **Overall weight**                                   |             |           |      |
+| Ingredient                                           | Quantity, g | Baker's % | Note                         |
+| ---------------------------------------------------- | ----------- | --------- | ---------------------------- |
+| Rolled oats                                          | 38          |           |                              |
+| Sesame seeds                                         | 17          |           |                              |
+| Pumpkin seeds                                        | 17          |           |                              |
+| Sunflower seeds                                      | 11          |           |                              |
+| Flaxseeds                                            | 11          |           |                              |
+| Chia seeds                                           | 11          |           |                              |
+| Soaker liquid                                        | 120         |           |                              |
+| [[Fruit water]]                                      | 180         |           |                              |
+| Water                                                | 251         |           |                              |
+| [[Sourdough starter types\|Sourdough starter (50%)]] | 90          |           |                              |
+| Honey                                                | 38          |           |                              |
+| Sea salt                                             | 15          |           |                              |
+| [[Flours\|Wheat flour (HH Manitoba)]]                | 143         |           |                              |
+| [[Flours\|Whole wheat flour (Caputo)]]               | 363         |           |                              |
+| Wheat bran                                           | 11          |           | may replace with whole wheat |
+| Sesame seeds for topping                             |             |           |                              |
+|                                                      |             |           |                              |
+| **Overall weight**                                   |             |           |                              |
 
 
 
