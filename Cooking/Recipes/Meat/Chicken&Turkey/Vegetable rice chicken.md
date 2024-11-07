@@ -41,28 +41,28 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient         | Quantity, g | Baker's % | %   | Note     |
-| ------------------ | ----------- | --------- | --- | -------- |
-| Chicken thighs     | 1000        |           |     | 4-6 pcs. |
-| Salt               |             |           |     |          |
-| Pepper             |             |           |     |          |
-| Olive oil          |             |           |     |          |
-| Butter             |             |           |     |          |
-| Yellow onions      |             |           |     |          |
-| Thyme              |             |           |     |          |
-| Rice               |             |           |     |          |
-| Broth/stock        |             |           |     |          |
-|                    |             |           |     |          |
-|                    |             |           |     |          |
-|                    |             |           |     |          |
-|                    |             |           |     |          |
-|                    |             |           |     |          |
-|                    |             |           |     |          |
-|                    |             |           |     |          |
-|                    |             |           |     |          |
-|                    |             |           |     |          |
-|                    |             |           |     |          |
-| **Overall weight** |             |           |     |          |
+| Ingredient                     | Quantity, g | Baker's % | %   | Note     |
+| ------------------------------ | ----------- | --------- | --- | -------- |
+| Chicken thighs                 | 1000        |           |     | 4-6 pcs. |
+| Utskho-suneli (blue fenugreek) |             |           |     |          |
+| Сilantro                       |             |           |     |          |
+|                                |             |           |     |          |
+|                                |             |           |     |          |
+| Salt                           |             |           |     |          |
+| Pepper                         |             |           |     |          |
+| Olive oil                      |             |           |     |          |
+|                                |             |           |     |          |
+| Butter                         |             |           |     |          |
+| Yellow onions                  |             |           |     |          |
+| Thyme                          |             |           |     |          |
+| Rice                           |             |           |     |          |
+| Broth/stock                    |             |           |     |          |
+|                                |             |           |     |          |
+|                                |             |           |     |          |
+|                                |             |           |     |          |
+|                                |             |           |     |          |
+|                                |             |           |     |          |
+| **Overall weight**             |             |           |     |          |
 
 
 
