@@ -3,6 +3,7 @@ tags:
   - "#no-bake"
   - "#vegan"
   - "#fast"
+  - sweet
 date: 2024-11-03
 thumbnail: https://lh3.googleusercontent.com/pw/AP1GczNS3xfz_lHojJZwqPdNr18kTX2DSLyQ9iDrHClPUWQ6Vofnwgv2Ii_XA20X0BFkh30Wb7xdI_RFz7XT0PFX_n-G4b8GqMJiM2SjkoFKu2vOhV_gl3cGLB-68_hZYju96Apb-P5rY3bREzAdtM0TfS26=w1171-h879-s-no-gm?authuser=0
 passive time: 4 h

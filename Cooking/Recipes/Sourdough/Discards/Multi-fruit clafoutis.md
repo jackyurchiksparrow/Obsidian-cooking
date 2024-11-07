@@ -1,6 +1,7 @@
 ---
 tags:
   - sourdough_discard
+  - sweet
 date: 2024-08-19
 thumbnail: https://lh3.googleusercontent.com/pw/AP1GczO5bi5j2k9yX20FkujBJJqnJlCLe9cqjN4szwCa-h8EXvLm0TveCHvxz_QKBa-tcSNj_p2uBj62MJmBgLjK3BYd5VZjYBbBkDRyVpJI38bD-p3wQyJFZWpIZtN5RT1pvWMdw0FDbQmV9vgc5942BwB8=w1280-h960-s-no-gm?authuser=0
 passive time: 2 h

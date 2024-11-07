@@ -58,16 +58,16 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                            | Quantity, g | Baker's % | Note |
-| ----------------------------------------------------- | ----------- | --------- | ---- |
-| [[Fruit water]]                                       | 180         |           |      |
-| Water                                                 | 335         |           |      |
-| [[Sourdough starter types\|Sourdough starter (100%)]] | 90          |           |      |
-| Sea salt                                              | 15          |           |      |
-| [[Flours\|Wheat flour (HH Manitoba)]]                 | 330         |           |      |
-| [[Flours\|Whole wheat flour (Caputo)]]                | 330         |           |      |
-| **Overall weight**                                    |             |           |      |
-|                                                       |             |           |      |
+| Ingredient                                            | Quantity, g | Baker's % | %   | Note |
+| ----------------------------------------------------- | ----------- | --------- | --- | ---- |
+| [[Fruit water]]                                       | 180         |           |     |      |
+| Water                                                 | 335         |           |     |      |
+| [[Sourdough starter types\|Sourdough starter (100%)]] | 90          |           |     |      |
+| Sea salt                                              | 15          |           |     |      |
+| [[Flours\|Wheat flour (HH Manitoba)]]                 | 330         |           |     |      |
+| [[Flours\|Whole wheat flour (Caputo)]]                | 330         |           |     |      |
+| **Overall weight**                                    |             |           |     |      |
+|                                                       |             |           |     |      |
 
 
 

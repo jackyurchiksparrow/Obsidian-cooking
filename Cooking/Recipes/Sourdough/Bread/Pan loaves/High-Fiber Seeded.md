@@ -4,7 +4,7 @@ tags:
   - "#fiber"
   - "#seeds"
 date: 2024-11-07
-hydration: 80.4
+hydration: 77
 bulk fermentation: 
 cold retard: 
 outcome: 
@@ -51,35 +51,35 @@ window.onerror = function (message, source, lineno, colno, error) {
 | ----- | ------------------ | ---------- | ----- |
 | ![]() | ![]()              | ![]()      | ![]() |
 
-> [!tip] The hydration was too high, adjusted. The dough was underproofed considering the significant extra rise on top.
+> [!tip] The hydration was too high, adjusted (80+->77). The dough was underproofed considering the significant extra rise on top.
 ## Ingredients
 
 ###### 1
 ###### Scale
-###### 431-180 = 251
+###### 33.6+43.4 = 77
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                           | Quantity, g | Baker's % | Note                         |
-| ---------------------------------------------------- | ----------- | --------- | ---------------------------- |
-| Rolled oats                                          | 38          |           |                              |
-| Sesame seeds                                         | 17          |           |                              |
-| Pumpkin seeds                                        | 17          |           |                              |
-| Sunflower seeds                                      | 11          |           |                              |
-| Flaxseeds                                            | 11          |           |                              |
-| Chia seeds                                           | 11          |           |                              |
-| Soaker liquid                                        | 120         |           |                              |
-| [[Fruit water]]                                      | 180         |           |                              |
-| Water                                                | 251         |           |                              |
-| [[Sourdough starter types\|Sourdough starter (50%)]] | 90          |           |                              |
-| Honey                                                | 38          |           |                              |
-| Sea salt                                             | 15          |           |                              |
-| [[Flours\|Wheat flour (HH Manitoba)]]                | 143         |           |                              |
-| [[Flours\|Whole wheat flour (Caputo)]]               | 363         |           |                              |
-| Wheat bran                                           | 11          |           | may replace with whole wheat |
-| Sesame seeds for topping                             |             |           |                              |
-|                                                      |             |           |                              |
-| **Overall weight**                                   |             |           |                              |
+| Ingredient                                           | Quantity, g | Baker's % | %   | Note                         |
+| ---------------------------------------------------- | ----------- | --------- | --- | ---------------------------- |
+| Rolled oats                                          | 38          |           |     |                              |
+| Sesame seeds                                         | 17          |           |     |                              |
+| Pumpkin seeds                                        | 17          |           |     |                              |
+| Sunflower seeds                                      | 11          |           |     |                              |
+| Flaxseeds                                            | 11          |           |     |                              |
+| Chia seeds                                           | 11          |           |     |                              |
+| Soaker liquid                                        | 120         |           |     |                              |
+| [[Fruit water]]                                      | 180         |           |     |                              |
+| Water                                                | 233         |           |     |                              |
+| [[Sourdough starter types\|Sourdough starter (50%)]] | 90          |           |     |                              |
+| Honey                                                | 38          |           |     |                              |
+| Sea salt                                             | 15          |           |     |                              |
+| [[Flours\|Wheat flour (HH Manitoba)]]                | 143         |           |     |                              |
+| [[Flours\|Whole wheat flour (Caputo)]]               | 363         |           |     |                              |
+| Wheat bran                                           | 11          |           |     | may replace with whole wheat |
+| Sesame seeds for topping                             |             |           |     |                              |
+|                                                      |             |           |     |                              |
+| **Overall weight**                                   |             |           |     |                              |
 
 
 

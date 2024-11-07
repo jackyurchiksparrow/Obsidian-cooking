@@ -1,12 +1,13 @@
 ---
 tags:
   - sourdough_discard
+  - sweet
 date: 2024-07-06
-thumbnail: 
+thumbnail: https://lh3.googleusercontent.com/pw/AP1GczPoxy3QuC9UGLhMNe4TW2o1Pyl-6x9GXpWMgQfWsld1PIXQgGdbkpxJ7U5q_NZ-8T5IUD_Uu9vddE8fzXvQ0mRzvNI1RsysPMgLBhq4xWpMwGrPcU9pWJlmG4nmE1P-2cV1MH1sf5-yYlVhcPqiXOz9=w1038-h858-s-no-gm?authuser=0
 passive time: 2 h
 active time: 1 h
 yield: 17
-nutrition rating: 
+nutrition rating: 7
 taste rating: 8
 credit: Perfect loaf book
 part_of_the_set:
@@ -46,8 +47,9 @@ window.onerror = function (message, source, lineno, colno, error) {
 | [[Flours\|Bread flour (Zernari) / any 00 flour]]      | 300          |           |     |                                                                                          |
 | Almond flour                                          | 75           |           |     |                                                                                          |
 | Granulated sugar                                      | 150          |           |     |                                                                                          |
-| Butter / oil; soft or melted                          | 100          |           |     |                                                                                          |
-| Whole anise seed                                      | 6            |           |     |                                                                                          |
+| Baking soda                                           | 7            |           |     |                                                                                          |
+| Butter / oil; melted                                  | 100          |           |     |                                                                                          |
+| Anise seed; ground                                    | 6            |           |     |                                                                                          |
 | Sea salt                                              | 5            |           |     |                                                                                          |
 | Eggs                                                  | 150          |           |     | 3 pcs.                                                                                   |
 | Dried cherries / cranberries                          | 120          |           |     |                                                                                          |
@@ -61,9 +63,17 @@ window.onerror = function (message, source, lineno, colno, error) {
 ---
 ## Directions:
 
-1. 
+1. Add dry ingredients (starter if it's stiff, wheat flour, almond flour, sugar, salt, ground anise seeds, baking soda).
+2. Mix wet ingredients (starter if its liquid, eggs, butter/oil, dried fruit).
+	Batch with nuts:
+	- Add as much nuts as possible; preferably almonds with skins (not on top).
+	Batch with seeds:
+	 - To the batch without nuts add the same amount of mixed different seeds (not on top).
+3. Wait for an hour or place into the fridge overnight (roll in advance then).
+4. Bush the dough with milk or egg + water. Bake 160-180C with fan until risen and lightly browned about 35 min. ==DO NOT USE DEEP TRAY==. 
+5. Wait for 10-15 minutes and cut into log-shaped slices, place on their sides and bake 20 more minutes NO FAN 160C to dry out.
 
-
+> [!Tip] Adding the dry fruit to the liquid ingredients helps us ensure they start plumping up and won't burn in the oven.
 
 
 ---

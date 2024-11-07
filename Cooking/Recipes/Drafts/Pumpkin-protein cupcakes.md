@@ -2,6 +2,7 @@
 tags:
   - "#pumpkin"
   - "#draft"
+  - sweet
 date: 2024-11-02
 thumbnail: https://lh3.googleusercontent.com/pw/AP1GczOYaRLg6nCdYxTclgEC75lwp63N5DWATI8XXwfuUuSTcHF5GqgjuDk9EZTBhCTjf_Wf6Y1qZvIKXH-7FEJeUcwreJi0mLTkgig1LLTnCxfz-CENilluHYHSfUXUTby3g3FKE4C99-GFAmcUdxFJ9UZg=w1280-h960-s-no-gm?authuser=0
 passive time: 2.5 h
