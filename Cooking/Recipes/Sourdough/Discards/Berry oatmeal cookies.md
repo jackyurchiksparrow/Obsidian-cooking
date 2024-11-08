@@ -36,7 +36,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 > [!Tip] Remove egg whites, add lemon juice, increase the fat content, add sour cream (recipe adjusted).
 ## Ingredients
 
-###### 4
+###### 2
 ###### Scale
 ###### 11.5+37.4+21.6+15.8+13+0.4+0.4 = 100.1
 ###### Calculate
@@ -48,7 +48,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 250         |           |     | it's ok to add up to 40 more grams |
 | Whole oats                                           | 325         |           |     |                                    |
 | Granulated sugar                                     | 200         |           |     |                                    |
-| Butter; cold                                         | 200         |           |     |                                    |
+| Butter; soft                                         | 200         |           |     |                                    |
 | Vanilla                                              | to taste    |           |     |                                    |
 | Sea salt                                             | 5           |           |     |                                    |
 | Baking soda                                          | 10          |           |     |                                    |
