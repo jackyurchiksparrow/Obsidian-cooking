@@ -4,14 +4,14 @@ tags:
   - "#fiber"
   - "#seeds"
 date: 2024-11-07
-hydration: 77
-bulk fermentation: 
-cold retard: 
-outcome: 
-thumbnail: 
+hydration: 75
+bulk fermentation: 4h 16min
+cold retard: 18.5h
+outcome: underproofed
+thumbnail: https://lh3.googleusercontent.com/pw/AP1GczOEpc6Lp9gfgHnfm2S0VmGbnjTNBw8-Ug-ZTF2DmoWnpQ6NnD0bGmSerQc5-lrr-gnhjz7pv9wCGk_ryjJ5Ryn7B1YemPVHlASDcViTxdciIJZqaUJaDLeZvdymyMJg9wz_y4XgWT0zv7m9CiAw0fDb=w1171-h879-s-no-gm?authuser=0
 yield: 1
 nutrition rating: 9
-taste rating: 
+taste rating: 7
 credit: https://www.youtube.com/watch?v=SPe8E2vpuwE&t=526s
 part_of_the_set:
 ---
@@ -47,16 +47,16 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-| Pan   | Scoring / Brushing | Appearance | Crumb |
-| ----- | ------------------ | ---------- | ----- |
-| ![]() | ![]()              | ![]()      | ![]() |
+| Pan                                                                                                                                                                                                                                 | Scoring / Brushing                                                                                                                                                                                                                  | Appearance                                                                                                                                                                                                                           | Crumb                                                                                                                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczMeA4rgM2Ez4G6FUmQf7EaypLaj1UB3-uvmfcll6hFEi833GmzlmF06xPPWVmf_bF-OLkAdLJvtUBPfmFIvENE8OzxR2dSe5T3ncIrXlqak-fqB0AN9HcT9AMr8mET-au13kc-DV6mCuKeL4lG8MC4q=w659-h879-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczPKsL_yh8gJmW83yWVjkQWn_7KCnEfTvq1kHbrjJBLb1y56rtu4lkU2qYzXwMIzYSGU89J2vtDeyMRru2DZ-9RHTGrhDKDp7ySULmqq_hTdEKrbaIKwtMGUIlBuccdZLRU4jZiv-rfgkoXrmNriPY3X=w659-h879-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczOEpc6Lp9gfgHnfm2S0VmGbnjTNBw8-Ug-ZTF2DmoWnpQ6NnD0bGmSerQc5-lrr-gnhjz7pv9wCGk_ryjJ5Ryn7B1YemPVHlASDcViTxdciIJZqaUJaDLeZvdymyMJg9wz_y4XgWT0zv7m9CiAw0fDb=w1171-h879-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczMz_WRMittL8yIMM4Kd0N60MNTDYfq19uRviMIPijgGQPJoZzYS1GW_ZHp3poseFm9NVEd4rbbwxhiKNmEMljd3UJan1aSq1xR-y8sguLGi_d4p7RGxzUlPO-JUtGtYlD7QY_oum-WSmwgOYdS8iMKe=w659-h879-s-no-gm?authuser=0) |
 
-> [!tip] The hydration was too high, adjusted (80+->77). The dough was underproofed considering the significant extra rise on top.
+> [!tip] The hydration was too high, adjusted (80+->75). The dough was underproofed considering the significant extra rise on top. It was also shaped too tightly. It's better to have it lightly folded in the pan. I also think it is better to add the soaker right away at the initial phase of kneading.
 ## Ingredients
 
 ###### 1
 ###### Scale
-###### 33.6+43.4 = 77
+###### 33.6+41.4 = 75
 ###### Calculate
 ###### Unreleased 3
 
@@ -70,7 +70,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Chia seeds                                           | 11          |           |     |                              |
 | Soaker liquid                                        | 120         |           |     |                              |
 | [[Fruit water]]                                      | 180         |           |     |                              |
-| Water                                                | 233         |           |     |                              |
+| Water                                                | 222         |           |     |                              |
 | [[Sourdough starter types\|Sourdough starter (50%)]] | 90          |           |     |                              |
 | Honey                                                | 38          |           |     |                              |
 | Sea salt                                             | 15          |           |     |                              |

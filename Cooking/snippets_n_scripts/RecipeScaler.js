@@ -451,8 +451,12 @@ class RecipeScaler {
                     let levain_flour_parts = 100 / sourdough_obj.hydration;
                     let levain_water_amount = levain_weight/(levain_flour_parts+1); // x flour parts for 1 part water
                     let levain_flour_amount = levain_weight - levain_water_amount;
+                    // console.log("Flour in levain:", levain_flour_amount);
+                    // console.log("Water in levain:", levain_water_amount);
+                    // console.log("Flour without levain:", overall_flour_weight);
+                    // console.log("Flour with levain:", overall_flour_weight + levain_flour_amount);
 
-                    bakers_percentage = parseFloat(ingredient_qty) / (overall_flour_weight + levain_flour_amount - levain_water_amount);
+                    bakers_percentage = parseFloat(ingredient_qty) / (overall_flour_weight + levain_flour_amount);
                     ingredient_bakers_percent_el = ingredient_bakers_percent_el[bakers_percentage_col_pos_idx].querySelector('div');
                 } 
                 

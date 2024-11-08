@@ -21,6 +21,13 @@ while (!customJS?.state?._ready) {
 
 const {RecipeScaler} = await cJS();
 RecipeScaler.RecipeScaler();
+
+window.onerror = function (message, source, lineno, colno, error) {
+	if (error instanceof TypeError && message.includes("Cannot read properties of undefined")) {
+		RecipeScaler.RecipeScaler();
+		return true;
+	}
+    };
 ```
 ```dataviewjs
 while (!customJS?.state?._ready) { 
@@ -42,27 +49,27 @@ window.onerror = function (message, source, lineno, colno, error) {
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | ![](https://lh3.googleusercontent.com/pw/AP1GczMzUH_p5t-C2Nlk6iYxsW8p0WnMkXsWt0TKzoUCxTHczKJMukwCCHxX6SznUcvVTkhlttRVQfCOah8Yz6Q1VM2ElHWCHuJdA4dsqpvIO4kC7eOHY18ylqv3AXNJqipw4f0nNZp7ZSNhr5um3tivFmjY=w1171-h879-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczMS5Q56Fg3SaDIO5zhzRDdbsdO-1JXz136mi72z6tKawIhx3T2RGOxLcCWey9U2Pr-CzBbRcD4P9Gghfr8CrhfDZbpR2KxxAPTzTcBHQSETaymXUzxBQ0i_Sjlnpv9B_7cHwvKa_Iidp3UtjOhxpQkI=w1171-h879-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczOsjhCIC2TqGYnxmbD1wTC5vgwA3p8MtjNIXMoZoLYL0rtbQ9PfFZBmWyKvPjzjdqmiAuF542EGZVnzpQmI3d89cW6zyP8TqqmWXoqch5J_L3a88mNFjbbA4M9HgIJQ2t9AVaNc3cYT9KCO2E7rcT6e=w1171-h879-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczMXs8ZgpNr0HthmQisi63C_RjRRc96M8HOcZvfLnNgmVqIR4fJ3iE874aZA4pqPqDCY_As-pQZlfSa0MX2JSpL_KKGujkkrlGdwGexNapcmqU9SDezA9jKDWH8Zu-rEWiIDNYmIENKNQ6CN2riYWciI=w1171-h879-s-no-gm?authuser=0) |
 
-> [!tip] Too long in the fridge. Most likely A LACK OF DOUGH STRENGTH. I didn't perform a single lamination. Used warm windowsill so the temperature was high when going to the fridge. The poke had already been showing somewhat slow response. Either reduce the cold retard or put the bread into the fridge when the poke test gives a faster response.
+> [!tip] Too long in the fridge. Most likely A LACK OF DOUGH STRENGTH. I didn't perform a single lamination. Used warm windowsill so the temperature was high when going to the fridge. The poke test had already been showing a somewhat slow response. Either reduce the cold retard or put the bread into the fridge when the poke test gives a faster response.
 ## Ingredients
 
 ###### 2
 ###### Scale
-###### 25.4 +53.2 = 78.6
+###### 442 +170+68 = 680
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                           | Quantity, g | Baker's % | Note |
-| ---------------------------------------------------- | ----------- | --------- | ---- |
-| [[Fruit water]]                                      | 180         |           |      |
-| Water                                                | 378         |           |      |
-| [[Sourdough starter types\|Sourdough starter (50%)]] | 90          |           |      |
-| Honey                                                | 25          |           |      |
-| Sea salt                                             | 15          |           |      |
-| [[Flours\|Wheat flour (HH Manitoba)]]                | 442         |           |      |
-| [[Flours\|Whole rye flour (Лавка традицій)]]         | 170         |           |      |
-| [[Flours\|Whole wheat flour (Caputo)]]               | 68          |           |      |
-| **Overall weight**                                   |             |           |      |
-|                                                      |             |           |      |
+| Ingredient                                           | Quantity, g | Baker's % | %   | Note |
+| ---------------------------------------------------- | ----------- | --------- | --- | ---- |
+| [[Fruit water]]                                      | 180         |           |     |      |
+| Water                                                | 378         |           |     |      |
+| [[Sourdough starter types\|Sourdough starter (50%)]] | 90          |           |     |      |
+| Honey                                                | 25          |           |     |      |
+| Sea salt                                             | 15          |           |     |      |
+| [[Flours\|Wheat flour (HH Manitoba)]]                | 442         |           |     |      |
+| [[Flours\|Whole rye flour (Лавка традицій)]]         | 170         |           |     |      |
+| [[Flours\|Whole wheat flour (Caputo)]]               | 68          |           |     |      |
+| **Overall weight**                                   |             |           |     |      |
+|                                                      |             |           |     |      |
 
 
 
