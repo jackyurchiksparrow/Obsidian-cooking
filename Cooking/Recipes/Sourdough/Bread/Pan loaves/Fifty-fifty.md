@@ -27,22 +27,6 @@ window.onerror = function (message, source, lineno, colno, error) {
 		return true;
 	}
     };
-
-```
-```dataviewjs
-while (!customJS?.state?._ready) { 
-	await new Promise(resolve => setTimeout(resolve, 50)); 
-} 
-
-const {RecipeScaler} = await cJS();
-RecipeScaler.RecipeScaler();
-
-window.onerror = function (message, source, lineno, colno, error) {
-	if (error instanceof TypeError && message.includes("Cannot read properties of undefined")) {
-		RecipeScaler.RecipeScaler();
-		return true;
-	}
-    };
 ```
 
 | Pan                                                                                                                                                                                                                                  | Scoring / Brushing | Appearance                                                                                                                                                                                                                           | Crumb |
@@ -66,8 +50,10 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Sea salt                                              | 15          |           |     |      |
 | [[Flours\|Wheat flour (HH Manitoba)]]                 | 330         |           |     |      |
 | [[Flours\|Whole wheat flour (Caputo)]]                | 330         |           |     |      |
-| **Overall weight**                                    |             |           |     |      |
 |                                                       |             |           |     |      |
+| **Overall hydration**                                 |             |           |     |      |
+| **Overall weight**                                    |             |           |     |      |
+
 
 
 

@@ -69,6 +69,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | [[Flours\|Wheat flour (HH Manitoba)]]                | 475         |           |     |      |
 | [[Flours\|Whole wheat flour (Caputo)]]               | 138         |           |     |      |
 |                                                      |             |           |     |      |
+| **Overall hydration**                                |             |           |     |      |
 | **Overall weight**                                   |             |           |     |      |
 
 
