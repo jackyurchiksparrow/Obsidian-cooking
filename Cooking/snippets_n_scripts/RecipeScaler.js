@@ -428,7 +428,7 @@ class RecipeScaler {
                 if(!isNaN(ingredient_qty) && ingredient_qty != null && ingredient_qty !== '')
                     weight_of_flour_ingredients+=parseFloat(ingredient_qty);
             }
-            else if(ingredient_title_lower.contains("water") || ingredient_title_lower.contains("milk")) {
+            else if(ingredient_title_lower.contains("water") || ingredient_title_lower.contains("milk") || ingredient_title_lower.contains("yolk")  || ingredient_title_lower.contains("whites") || ingredient_title_lower.contains("eggs")) {
                 if(!isNaN(ingredient_qty) && ingredient_qty != null && ingredient_qty !== '')
                     weight_of_water_ingredients+=parseFloat(ingredient_qty);
             }
