@@ -2,7 +2,7 @@
 tags:
   - "#sourdough"
 date: ""
-hydration: 77
+hydration: 77.1
 bulk fermentation: 
 cold retard: 
 outcome: 
@@ -61,7 +61,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Ingredient                                           | Quantity, g | Baker's % | %   | Note |
 | ---------------------------------------------------- | ----------- | --------- | --- | ---- |
 | [[Fruit water]]                                      | 180         |           |     |      |
-| Water                                                | 338         |           |     |      |
+| Water                                                | 309         |           |     |      |
 | [[Sourdough starter types\|Sourdough starter (50%)]] | 90          |           |     |      |
 | Olive oil                                            | 40          |           |     |      |
 | Honey                                                | 35          |           |     |      |

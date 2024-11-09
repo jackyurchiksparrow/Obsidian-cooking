@@ -421,19 +421,19 @@ class RecipeScaler {
 
         // -- get the overall weight and overall flour weight --
         table_rows.forEach((tr) => {
-            const ingredient_title = tr.querySelectorAll('td')[ingredients_col_pos_idx]?.querySelector('div').textContent;
+            const ingredient_title_lower = tr.querySelectorAll('td')[ingredients_col_pos_idx]?.querySelector('div').textContent.toLowerCase();
             const ingredient_qty = tr.querySelectorAll('td')[quantity_col_pos_idx]?.querySelector('div').textContent;
 
-            if(ingredient_title.toLowerCase().contains("flour") || ingredient_title.toLowerCase().contains("malt")) {
+            if(ingredient_title_lower.contains("flour") || ingredient_title_lower.contains("malt")) {
                 if(!isNaN(ingredient_qty) && ingredient_qty != null && ingredient_qty !== '')
                     weight_of_flour_ingredients+=parseFloat(ingredient_qty);
             }
-            else if(ingredient_title.toLowerCase().contains("water")) {
+            else if(ingredient_title_lower.contains("water") || ingredient_title_lower.contains("milk")) {
                 if(!isNaN(ingredient_qty) && ingredient_qty != null && ingredient_qty !== '')
                     weight_of_water_ingredients+=parseFloat(ingredient_qty);
             }
 
-            if(!isNaN(ingredient_qty) && ingredient_qty != null && ingredient_qty !== '' && !ingredient_title.toLowerCase().contains(RecipeScaler.OVERALL_WEIGHT_ROW)) {
+            if(!isNaN(ingredient_qty) && ingredient_qty != null && ingredient_qty !== '' && !ingredient_title_lower.contains(RecipeScaler.OVERALL_WEIGHT_ROW)) {
                 overall_weight+=parseFloat(ingredient_qty);
             }
         });

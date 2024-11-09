@@ -61,7 +61,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Ingredient                                           | Quantity, g | Baker's % | %   | Note |
 | ---------------------------------------------------- | ----------- | --------- | --- | ---- |
 | [[Fruit water]]                                      | 180         |           |     |      |
-| Water                                                | 370         |           |     |      |
+| Water                                                | 340         |           |     |      |
 | [[Sourdough starter types\|Sourdough starter (50%)]] | 90          |           |     |      |
 | Honey                                                | 25          |           |     |      |
 | Sea salt                                             | 15          |           |     |      |

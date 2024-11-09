@@ -46,15 +46,17 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Ingredient                                           | Quantity, g | Baker's % | Note |
 | ---------------------------------------------------- | ----------- | --------- | ---- |
 | [[Fruit water]]                                      | 180         |           |      |
-| Water                                                | 355         |           |      |
+| Water                                                | 326         |           |      |
 | [[Sourdough starter types\|Sourdough starter (50%)]] | 90          |           |      |
 | Sea salt                                             | 15          |           |      |
 | [[Flours\|Wheat flour (HH Manitoba)]]                | 394         |           |      |
 | [[Flours\|Whole wheat flour (Caputo)]]               | 213         |           |      |
 | [[Flours\|Whole rye flour (Лавка традицій)]]         | 44          |           |      |
 | [[Malt]]                                             | 2           |           |      |
-| **Overall weight**                                   |             |           |      |
 |                                                      |             |           |      |
+| **Overall hydration**                                |             |           |      |
+| **Overall weight**                                   |             |           |      |
+
 
 
 
