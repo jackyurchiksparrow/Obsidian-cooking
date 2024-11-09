@@ -2,7 +2,7 @@
 tags:
   - "#sourdough"
 date: 2024-11-04
-hydration: 78.1
+hydration: 74
 bulk fermentation: 4 h
 cold retard: 12 h
 outcome: underproofed
@@ -54,7 +54,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ###### 1
 ###### Scale
-###### 27.3+50.8 = 78.1
+###### 25.5+47.5+6.4 = 79.4
 ###### Calculate
 ###### Unreleased 3
 

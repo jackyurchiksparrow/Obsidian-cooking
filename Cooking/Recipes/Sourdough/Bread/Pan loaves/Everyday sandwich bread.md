@@ -2,7 +2,7 @@
 tags:
   - "#sourdough"
 date: ""
-hydration: 78
+hydration: 77
 bulk fermentation: 
 cold retard: 
 outcome: 
@@ -52,16 +52,16 @@ window.onerror = function (message, source, lineno, colno, error) {
 > [!tip] T
 ## Ingredients
 
-###### 1
+###### 2
 ###### Scale
-###### 138/(475+138+60) = 0.21
+###### 26.8+50.2 = 77
 ###### Calculate
 ###### Unreleased 3
 
 | Ingredient                                           | Quantity, g | Baker's % | %   | Note |
 | ---------------------------------------------------- | ----------- | --------- | --- | ---- |
 | [[Fruit water]]                                      | 180         |           |     |      |
-| Water                                                | 358         |           |     |      |
+| Water                                                | 338         |           |     |      |
 | [[Sourdough starter types\|Sourdough starter (50%)]] | 90          |           |     |      |
 | Olive oil                                            | 40          |           |     |      |
 | Honey                                                | 35          |           |     |      |

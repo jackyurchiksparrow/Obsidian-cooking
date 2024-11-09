@@ -3,7 +3,7 @@ tags:
   - "#rye"
   - "#sourdough"
 date: 2024-10-31
-hydration: 78.4
+hydration: 75.1
 bulk fermentation: 6 h 40 min
 cold retard: 8 h
 outcome: underproofed
@@ -28,22 +28,6 @@ window.onerror = function (message, source, lineno, colno, error) {
 		return true;
 	}
     };
-
-```
-```dataviewjs
-while (!customJS?.state?._ready) { 
-	await new Promise(resolve => setTimeout(resolve, 50)); 
-} 
-
-const {RecipeScaler} = await cJS();
-RecipeScaler.RecipeScaler();
-
-window.onerror = function (message, source, lineno, colno, error) {
-	if (error instanceof TypeError && message.includes("Cannot read properties of undefined")) {
-		RecipeScaler.RecipeScaler();
-		return true;
-	}
-    };
 ```
 
 | Banneton                                                                                                                                                                                                                             | Scoring                                                                                                                                                                                                                              | Appearance                                                                                                                                                                                                                           | Crumb                                                                                                                                                                                                                                |
@@ -53,9 +37,9 @@ window.onerror = function (message, source, lineno, colno, error) {
 > [!tip] Slightly underproofed. The finger indentation sprang back faster that "a bit slower than fast". Increase the time to ~+15min. 
 ## Ingredients
 
-###### 1
+###### 2
 ###### Scale
-###### 26.4+52 = 78.4
+###### 25.3+49.8 = 75.1
 ###### Calculate
 ###### Unreleased 3
 

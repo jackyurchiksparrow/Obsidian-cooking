@@ -352,7 +352,7 @@ class RecipeScaler {
                 if(ingredient_title_lower.contains("sourdough")) {
                     sourdough_obj.sourdough_flag = true;
 
-                    if(ingredient_title_lower.contains("%")) {
+                    if(ingredient_title_lower.contains("%")) { // if the ingredient that says "sourdough" has "%"
                         sourdough_obj.hydration = ingredient_title_lower.match(/(\d+(?:\.\d+)?)\s*%/)[1];
                         sourdough_obj.levain_weight = initial_amount_el.textContent;
                     } else
@@ -429,8 +429,11 @@ class RecipeScaler {
 
         // -- calculate overall weight and percentages --
         if(scaled_col_idx === false || scaled_col_idx === undefined) {
-            bakers_percentage_col_pos_idx = bakers_percentage_col_pos_idx+1;
-            percentage_col_pos_idx = percentage_col_pos_idx+1;
+            if(bakers_percentage_col_pos_idx)
+                bakers_percentage_col_pos_idx = bakers_percentage_col_pos_idx+1;
+
+            if(percentage_col_pos_idx)
+                percentage_col_pos_idx = percentage_col_pos_idx+1;
         }
 
         table_rows.forEach((tr) => {
@@ -456,7 +459,11 @@ class RecipeScaler {
                     // console.log("Flour without levain:", overall_flour_weight);
                     // console.log("Flour with levain:", overall_flour_weight + levain_flour_amount);
 
-                    bakers_percentage = parseFloat(ingredient_qty) / (overall_flour_weight + levain_flour_amount);
+                    if(sourdough_obj.hydration == 50) // this levain has more flour than water, we need to account for that
+                        bakers_percentage = parseFloat(ingredient_qty) / (overall_flour_weight + levain_flour_amount - levain_water_amount);
+                    else // otherwise we assume the hydration is 100 and since it is 1:1, water and flour cancel each other
+                        bakers_percentage = parseFloat(ingredient_qty) / (overall_flour_weight + levain_flour_amount);
+
                     ingredient_bakers_percent_el = ingredient_bakers_percent_el[bakers_percentage_col_pos_idx].querySelector('div');
                 } 
                 
