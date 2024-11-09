@@ -64,6 +64,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Cloves                                               | a pinch         |           |     |                                         |
 | Salt                                                 | a pinch         |           |     |                                         |
 | Milk                                                 | for brushing    |           |     |                                         |
+|                                                      |                 |           |     |                                         |
 | **Overall weight**                                   |                 |           |     |                                         |
 
 

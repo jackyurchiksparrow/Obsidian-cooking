@@ -2,7 +2,7 @@
 tags:
   - "#sourdough"
 date: 2024-11-04
-hydration: 74
+hydration: 75
 bulk fermentation: 4 h
 cold retard: 12 h
 outcome: underproofed
@@ -45,7 +45,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Ingredient                                            | Quantity, g | Baker's % | %   | Note |
 | ----------------------------------------------------- | ----------- | --------- | --- | ---- |
 | [[Fruit water]]                                       | 180         |           |     |      |
-| Water                                                 | 297         |           |     |      |
+| Water                                                 | 304         |           |     |      |
 | [[Sourdough starter types\|Sourdough starter (100%)]] | 90          |           |     |      |
 | Sea salt                                              | 15          |           |     |      |
 | [[Flours\|Wheat flour (HH Manitoba)]]                 | 330         |           |     |      |
