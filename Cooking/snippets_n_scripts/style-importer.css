@@ -202,10 +202,10 @@ tr:not(:has(th)):hover {
 img:hover {
     position: fixed !important;
     z-index: 10 !important;
-    width: 70% !important;
+    width: 90% !important;
     height: 70% !important;
     top: 15% !important;
-    left: 15% !important;
+    left: 5% !important;
     object-fit: contain !important;
     background: rgba(0, 0, 0, 0.6);
     opacity: 1;

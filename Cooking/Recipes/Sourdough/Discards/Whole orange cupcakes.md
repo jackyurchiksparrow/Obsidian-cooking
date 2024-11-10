@@ -2,6 +2,7 @@
 tags:
   - sourdough_discard
   - sweet
+  - orange
 date: 2024-08-19
 thumbnail: https://lh3.googleusercontent.com/pw/AP1GczOE1TOtqXAHe7xqkfCWtZayzx4gjNSMOKS4fIG-hUX9ZMYSs8RVDYSHS2cz2vgiAy8cGOreNoTYqdchzJN7oVk6uUYHzAs5-ipR9GijnEyTJRJdeYAw6ecd5axh2gRIO50Y_ugXKd1mnHx4wi0ZRjlX=w1074-h870-s-no-gm?authuser=0
 passive time: 2 h
@@ -62,6 +63,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 ---
 ## Directions:
 
+0. Remember [[Cupcakes]] theory.
 ### Dough
 
 1. While you're making the dough, wash the orange and boil it for 30 minutes.
