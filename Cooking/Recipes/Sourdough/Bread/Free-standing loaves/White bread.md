@@ -2,15 +2,15 @@
 tags:
   - "#sourdough"
 date: 2014-07-12
-hydration: 77.1
+hydration: 75
 bulk fermentation: 8h
 cold retard: 8h
-outcome: underproofed
+outcome: overproofed
 thumbnail: https://lh3.googleusercontent.com/pw/AP1GczNq7wtjlaNNsYkDMK_c6ui43hVCCaGGa8Hlbgn0VDNeLJpnnmLOhIg4gI0xRYFr0COatjc7-TLt2j1uWjYE0bPuhjMvm3vPxG0tu4lBCVqKqgMu9r2vYRQXFXrtTQ4MGLR6aYjShVy_aXJypHVAgdHm=w544-h718-s-no-gm?authuser=0
 yield: 1
 nutrition rating: 7
 taste rating: 7
-credit: me
+credit: Perfect loaf book
 part_of_the_set:
 ---
 ```dataviewjs
@@ -48,24 +48,23 @@ window.onerror = function (message, source, lineno, colno, error) {
 | -------- | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | ![]()    | ![]()   | ![](https://lh3.googleusercontent.com/pw/AP1GczNq7wtjlaNNsYkDMK_c6ui43hVCCaGGa8Hlbgn0VDNeLJpnnmLOhIg4gI0xRYFr0COatjc7-TLt2j1uWjYE0bPuhjMvm3vPxG0tu4lBCVqKqgMu9r2vYRQXFXrtTQ4MGLR6aYjShVy_aXJypHVAgdHm=w544-h718-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczMgWyCCFDBWXb76ZG9-EJw1l08SBxef6YNX4M3N7VxDb5pIQeh_y1jBKLGDtV2m7XbDzsjsrRgu9M0HsMQuL6jKiMQjrOpl4svjguPvs4wHaWG38-fpuXgKdVs99RYEthB4W5bPZhk6v_QeFFwMVpbi=w1096-h808-s-no-gm?authuser=0) |
 
-> [!tip] not enough strength. Skipped the initial kneadings. Underproofed in the center -> shaped too early, the heat wasn't distributed correctly. Hydration: 74.3, no fruit water, starter amount was 9.4%, took 8.48h bulk + fridge overnight
+> [!tip] not enough strength. Skipped the initial kneadings. Underproofed in the center -> shaped too early, the heat wasn't distributed correctly. Hydration: 74.3, no fruit water, starter amount was 9.4%, took 8.48h bulk + fridge overnight. I will also remove the spelt flour next time.
 ## Ingredients
 
-###### 3
+###### 1
 ###### Scale
-###### 24.3 +50 = 74.3
+###### 560 +70 = 630
 ###### Calculate
 ###### Unreleased 3
 
 | Ingredient                                           | Quantity, g | Baker's % | %   | Note |
 | ---------------------------------------------------- | ----------- | --------- | --- | ---- |
 | [[Fruit water]]                                      | 180         |           |     |      |
-| Water                                                | 376         |           |     |      |
+| Water                                                | 360         |           |     |      |
 | [[Sourdough starter types\|Sourdough starter (50%)]] | 90          |           |     |      |
 | Sea salt                                             | 15          |           |     |      |
-| [[Flours\|Wheat flour (HH Manitoba)]]                | 560         |           |     |      |
-| [[Flours\|Whole organic spelt flour (Екород)]]       | 70          |           |     |      |
-| [[Flours\|Whole wheat flour (Caputo)]]               | 70          |           |     |      |
+| [[Flours\|Wheat flour (HH Manitoba)]]                | 624         |           |     |      |
+| [[Flours\|Whole wheat flour (Caputo)]]               | 76          |           |     |      |
 |                                                      |             |           |     |      |
 | **Overall hydration**                                |             |           |     |      |
 | **Overall weight**                                   |             |           |     |      |
