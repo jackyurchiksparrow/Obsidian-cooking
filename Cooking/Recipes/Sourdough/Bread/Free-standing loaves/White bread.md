@@ -5,7 +5,7 @@ date: 2014-07-12
 hydration: 75
 bulk fermentation: 8h
 cold retard: 8h
-outcome: overproofed
+outcome: underproofed
 thumbnail: https://lh3.googleusercontent.com/pw/AP1GczNq7wtjlaNNsYkDMK_c6ui43hVCCaGGa8Hlbgn0VDNeLJpnnmLOhIg4gI0xRYFr0COatjc7-TLt2j1uWjYE0bPuhjMvm3vPxG0tu4lBCVqKqgMu9r2vYRQXFXrtTQ4MGLR6aYjShVy_aXJypHVAgdHm=w544-h718-s-no-gm?authuser=0
 yield: 1
 nutrition rating: 7
