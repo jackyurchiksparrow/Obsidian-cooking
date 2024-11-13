@@ -3,7 +3,7 @@
 ### Your sourdough contains seeds / other grains (soaker):
 0. In a tall jar, combine the seed soaker ingredients, cover, and let sit until called for during mixing. If you need it shortly - use boiling water, if no - room temperature water.
 
-When you starter has peaked:
+### Then, When you starter ==is PAST ITS peak==:
 1. Mix all wet ingredients.
 2. Dissolve or tear the starter.
 3. Combine the dry ingredients on top, mix.
