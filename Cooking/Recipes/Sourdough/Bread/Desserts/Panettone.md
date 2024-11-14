@@ -75,6 +75,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Honey / inverted sugar                               |             |           |     | Any with subtle flavor, not strong                                                                                                                                                                                                                                              |
 |                                                      |             |           |     |                                                                                                                                                                                                                                                                                 |
 | Fruit panettone                                      |             |           |     |                                                                                                                                                                                                                                                                                 |
+| Coarse sugar                                         |             |           |     |                                                                                                                                                                                                                                                                                 |
 |                                                      |             |           |     |                                                                                                                                                                                                                                                                                 |
 | **Overall hydration**                                |             |           |     |                                                                                                                                                                                                                                                                                 |
 | **Overall weight**                                   |             |           |     |                                                                                                                                                                                                                                                                                 |
@@ -90,7 +91,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 2. Now the dough must look smooth, glossy, detached from the walls, not too dry, not too wet. Add the egg yolks all at once. The goal now is to return to the initial consistency, but it will be slightly more wet and sticky. It will first start to break down, that's OK. When the yolks are mixed in slightly, we may increase the speed to medium.
 3. Take the dough out from the mixer onto the counter. Fold it a few times to form a strong big boule.
 4. Wait until it quadruples in size (8-13h) at 26C. The more it takes and not accelerated with higher temperatures, the more preservation time we have, the more moisture retainment longevity. 8h - 2 weeks, 12-13h - 3 weeks/up to 1 month. It still must be safe to eat even after 3 weeks, but it won't be perfect.
-
+5. Make the [[Neutral glaze|Neutral glaze]] and place into the fridge overnight.
 ### Second kneading:
 1. Water (25-26C), egg yolks (cold; from the fridge), butter (19-22C). Degas the first dough in the hand mixer on low.
 2. Add the flour all at once, but careful. Aim for strength and structure (4-5 min). This is the most crucial step. All the flour must be incorporated and well-kneaded into the dough without adding any other ingredients at this step. (When the flour is slightly mixed in, increase the speed a bit). In the end, the dough must not stick to the walls (almost at least), be shiny and glossy, pass the window pane test.
@@ -109,12 +110,14 @@ window.onerror = function (message, source, lineno, colno, error) {
 12. Divide into portions folding each piece once with one hand while dividing the rest. Each mold must contain precisely 1/3 grams of its volume. If a mold fits 1.5 L of water, we will need to use 500 g of dough.
 13. Make three fold for each dough piece and then round with a scraper. Set aside for 30 min.
 14. Round them again, place into molds. Always keep the upper part of the dough on top. It is not sticky.
-15. 26C 8 hour proof. Each degree below will make us wait 1 hour more. Each degree above may melt the butter too much.
-16. Make a glaze.
+15. 26C 8 hour proof. Each degree below will make us wait 1 hour more. Each degree above may melt the butter too much. It is done when the dough is almost near the edges of the molds.
+### Baking
 
-### Making a glaze (neutral)
+16. Apply the glaze on top.
+17. Top with coarse sugar.
+18. Bake 35 minutes 160 C until it's 96C inside.
+19. Hang them upside down overnight (the chef said it's fine to just wait until they have cooled to 28C). Do it fast before they collapse.
 
-1. 
 
 ---
 ## Nutrition Facts:
