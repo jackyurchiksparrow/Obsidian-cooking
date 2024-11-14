@@ -122,7 +122,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | **Servings:**          |     | % Daily Value |
 | ---------------------- | --- | ------------- |
 | **Amount per serving** |     |               |
-| **Calories**0          |     |               |
+| **Calories**           |     |               |
 |                        |     |               |
 | **Total Fat**          |     |               |
 | **Saturated Fat**      |     |               |
