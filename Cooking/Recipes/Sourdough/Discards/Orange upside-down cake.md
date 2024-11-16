@@ -48,7 +48,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Fresh orange juice                                   | 180                  |           |     | If not enough, replace with sour cream/kefir/yoghurt |
 | Eggs                                                 | 150                  |           |     | 3 pcs.                                               |
 | Sour cream                                           | 80                   |           |     |                                                      |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 300                  |           |     |                                                      |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 340                  |           |     |                                                      |
 | Baking powder                                        | 15                   |           |     | 2 tsp.                                               |
 | Butter; softened                                     | 80                   |           |     |                                                      |
 | Sugar (the dough)                                    | 250                  |           |     |                                                      |
