@@ -40,15 +40,15 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient              | Quantity, g | %   | Note |
-| ----------------------- | ----------- | --- | ---- |
-| Sugar                   | 85          |     |      |
-| Rice flour / cornstarch | 9           |     |      |
-| Almond flour            | 43          |     |      |
-| Cocoa powder            | 11          |     |      |
-| Egg whites              | 48          |     |      |
-|                         |             |     |      |
-| **Overall weight**      |             |     |      |
+| Ingredient                                       | Quantity, g | %   | Note |
+| ------------------------------------------------ | ----------- | --- | ---- |
+| Sugar                                            | 85          |     |      |
+| Rice flour / cornstarch                          | 9           |     |      |
+| Almond flour                                     | 43          |     |      |
+| [[Cocoa powders\|Cocoa powder; Dutch-processed]] | 11          |     |      |
+| Egg whites                                       | 48          |     |      |
+|                                                  |             |     |      |
+| **Overall weight**                               |             |     |      |
 
 
 

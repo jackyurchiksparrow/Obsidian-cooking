@@ -41,13 +41,13 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient         | Quantity, g | Baker's % | %   | Note |
-| ------------------ | ----------- | --------- | --- | ---- |
-| Water              | 150         |           |     |      |
-| Cocoa powder       | 13          |           |     |      |
-| Dark chocolate     | 300         |           |     |      |
-|                    |             |           |     |      |
-| **Overall weight** |             |           |     |      |
+| Ingredient                                       | Quantity, g | Baker's % | %   | Note |
+| ------------------------------------------------ | ----------- | --------- | --- | ---- |
+| Water                                            | 150         |           |     |      |
+| [[Cocoa powders\|Cocoa powder; Dutch-processed]] | 13          |           |     |      |
+| Dark chocolate                                   | 300         |           |     |      |
+|                                                  |             |           |     |      |
+| **Overall weight**                               |             |           |     |      |
 
 
 
