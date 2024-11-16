@@ -3,13 +3,14 @@ tags:
   - staple
 date: ""
 thumbnail: 
-passive time: 
-active time: 
-yield: 
-nutrition rating: 
+passive time: 0h
+active time: 15min
+yield: 6
+nutrition rating: 4
 taste rating: 
-credit: 
+credit: Lluís Costa
 part_of_the_set:
+  - "[[Panettone (chocolate version)]]"
 ---
 ```dataviewjs
 while (!customJS?.state?._ready) { 
@@ -40,20 +41,13 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient              | Quantity, g | Baker's % | %   | Note |
-| ----------------------- | ----------- | --------- | --- | ---- |
-| Sugar                   |             |           |     |      |
-| Rice flour / cornstarch |             |           |     |      |
-| Almond flour            |             |           |     |      |
-| Egg whites              |             |           |     |      |
-|                         |             |           |     |      |
-|                         |             |           |     |      |
-|                         |             |           |     |      |
-|                         |             |           |     |      |
-|                         |             |           |     |      |
-|                         |             |           |     |      |
-|                         |             |           |     |      |
-| **Overall weight**      |             |           |     |      |
+| Ingredient         | Quantity, g | Baker's % | %   | Note |
+| ------------------ | ----------- | --------- | --- | ---- |
+| Water              | 150         |           |     |      |
+| Cocoa powder       | 13          |           |     |      |
+| Dark chocolate     | 300         |           |     |      |
+|                    |             |           |     |      |
+| **Overall weight** |             |           |     |      |
 
 
 
@@ -61,8 +55,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 ---
 ## Directions:
 
-1. Mix the rice flour / cornstarch, sugar, almond flour. Mix.
-2. Add the egg whites, mix. Better place it into the fridge covered to hydrate properly for 24 h.
+1. Do not put cocoa powder into the panettone dough directly, it will absorb moisture from it. Mix cocoa powder with water, then with melted chocolate. Hydrate in the fridge for 24h.
 
 
 ---

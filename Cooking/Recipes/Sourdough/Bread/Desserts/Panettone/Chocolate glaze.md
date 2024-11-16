@@ -5,7 +5,7 @@ date: ""
 thumbnail: 
 passive time: 
 active time: 
-yield: 
+yield: 6
 nutrition rating: 
 taste rating: 
 credit: 
@@ -34,26 +34,21 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ## Ingredients
 
-###### 1
+###### 1.105
 ###### Scale
 ###### 11.5 = 11.5
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient              | Quantity, g | Baker's % | %   | Note |
-| ----------------------- | ----------- | --------- | --- | ---- |
-| Sugar                   |             |           |     |      |
-| Rice flour / cornstarch |             |           |     |      |
-| Almond flour            |             |           |     |      |
-| Egg whites              |             |           |     |      |
-|                         |             |           |     |      |
-|                         |             |           |     |      |
-|                         |             |           |     |      |
-|                         |             |           |     |      |
-|                         |             |           |     |      |
-|                         |             |           |     |      |
-|                         |             |           |     |      |
-| **Overall weight**      |             |           |     |      |
+| Ingredient              | Quantity, g | %   | Note |
+| ----------------------- | ----------- | --- | ---- |
+| Sugar                   | 85          |     |      |
+| Rice flour / cornstarch | 9           |     |      |
+| Almond flour            | 43          |     |      |
+| Cocoa powder            | 11          |     |      |
+| Egg whites              | 48          |     |      |
+|                         |             |     |      |
+| **Overall weight**      |             |     |      |
 
 
 
@@ -61,7 +56,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 ---
 ## Directions:
 
-1. Mix the rice flour / cornstarch, sugar, almond flour. Mix.
+1. Mix the rice flour / cornstarch, sugar, almond flour and cocoa powder. Mix.
 2. Add the egg whites, mix. Better place it into the fridge covered to hydrate properly for 24 h.
 
 

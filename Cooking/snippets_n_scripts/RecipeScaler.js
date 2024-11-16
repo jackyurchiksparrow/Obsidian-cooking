@@ -9,7 +9,7 @@ class RecipeScaler {
     // the amount of buttons per page (in the top of the page where all functionality is)
     static AMOUNT_OF_BUTTONS_PER_PAGE = 5;
     // the amount of tables per page (in the top of the page where all functionality is)
-    static AMOUNT_OF_TABLES_PER_PAGE = 2;
+    static AMOUNT_OF_TABLES_PER_PAGE = 3;
     // the index of the button (holds the scale value) on the whole page 0 - the first button on the page, 1 - the second etc.
     static SCALE_VALUE_BUTTON_ORDER_IDX = 0;
     // the index of the button (runs the event of scaling) on the whole page 0 - the first button on the page, 1 - the second etc.
