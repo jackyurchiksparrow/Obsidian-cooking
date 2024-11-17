@@ -64,7 +64,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 5. Combine the sugar, orange juice, water, inverted sugar and bring to a boil. Throw the peels in. Cook with a lid  on LOW (not to turn it into a candy) about 60-90 minutes. They are ready, when:
  - they are translucent and soft
  - the syrup has became lightly syrupy (on a candy thermometer this will be be approximately soft ball stage - 112-115C)
- 6. Allow to cool and either dry or pour into a jar with the syrup (providing that they are fully submerged in it and store in the fridge for up to 6 months).
+ 6. Allow to cool and either dry or pour into a jar with the syrup (providing that they are fully submerged in it and store in the fridge for up to 6 months - this is for the soonest use 'cause this ain't convenient for large batches).
 
 ---
 ## Nutrition Facts:
