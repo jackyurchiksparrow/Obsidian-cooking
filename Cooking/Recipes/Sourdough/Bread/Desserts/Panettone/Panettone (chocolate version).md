@@ -11,7 +11,7 @@ thumbnail:
 yield: 6
 nutrition rating: 
 taste rating: 
-credit: 
+credit: Lluís Costa
 part_of_the_set:
 ---
 ```dataviewjs
@@ -56,7 +56,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | [[Flours\|Wheat flour (HH Manitoba)]]                | 212                  |           |     | high-protein, at room temperature                                                                                                                                                                                                                                               |
 | Sugar                                                | 170                  |           |     |                                                                                                                                                                                                                                                                                 |
 | Yolks                                                | 142                  |           |     |                                                                                                                                                                                                                                                                                 |
-| Honey / inverted sugar paste                         | 63                   |           |     | Any with subtle flavor, not strong                                                                                                                                                                                                                                              |
+| Honey / [[Inverted sugar (theory)]] paste                     | 63                   |           |     | Any with subtle flavor, not strong                                                                                                                                                                                                                                              |
 | Salt                                                 | 12                   |           |     | Only fine; coarse one may damage the gluten network (if accidentally not mixed in, will just tear it during stretches).                                                                                                                                                         |
 | Butter                                               | 326                  |           |     | 82%, room temperature (19-22C)                                                                                                                                                                                                                                                  |
 | Water                                                | 85                   |           |     | 25-26C                                                                                                                                                                                                                                                                          |
