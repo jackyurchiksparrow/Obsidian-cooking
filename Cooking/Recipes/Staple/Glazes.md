@@ -8,3 +8,12 @@
 ## Neutral glaze
 
 [[Neutral glaze]]
+
+## Egg-white glaze (royal icing)
+
+Ingredients: 
+• 2 pasteurized egg whites or 1/4 cup pasteurized liquid egg whites 
+• 3/4 tsp cream of tartar 
+• 3 cup powdered sugar 
+• Food coloring (if desired) 
+• 1 1/2 tsp water (if needed)
