@@ -13,6 +13,9 @@ nutrition rating:
 taste rating: 
 credit: Lluís Costa
 part_of_the_set:
+  - "[[Dehydrated candied citrus]]"
+  - "[[Panettone (chocolate version)]]"
+  - "[[Candied peels]]"
 ---
 ```dataviewjs
 while (!customJS?.state?._ready) { 

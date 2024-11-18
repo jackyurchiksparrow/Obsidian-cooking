@@ -9,8 +9,10 @@ active time:
 yield: 
 nutrition rating: 
 taste rating: 
-credit: 
+credit: https://www.youtube.com/watch?v=tZRy6QoQdFM
 part_of_the_set:
+  - "[[Dehydrated candied citrus]]"
+  - "[[Panettone (fruit version)]]"
 ---
 ```dataviewjs
 while (!customJS?.state?._ready) { 
@@ -57,11 +59,12 @@ window.onerror = function (message, source, lineno, colno, error) {
 ---
 ## Directions:
 
-1. Trim the top and bottom of the fruit. Peel them with a knife while rotating.
-2. Trim the excess white pith if any, but leave some, the stripes must be thick.
-3. Cut them into thick strips. 
-4. Bring water to a rolling boil and boil them for 15 minutes three times, changing the water and rinsing the peels with cold water.
-5. Combine the sugar, orange juice, water, inverted sugar and bring to a boil. Throw the peels in. Cook with a lid  on LOW (not to turn it into a candy) about 60-90 minutes. They are ready, when:
+1. Wash the fruit thoroughly. Use a sponge or a brush.
+2. Trim the top and bottom of the fruit. Peel them with a knife while rotating.
+3. Trim the excess white pith if any, but leave some, the stripes must be thick.
+4. Cut them into thick strips. 
+5. Bring water to a rolling boil and boil them for 15 minutes three times, changing the water and rinsing the peels with cold water.
+6. Combine the sugar, orange juice, water, inverted sugar and bring to a boil. Throw the peels in. Cook with a lid  on LOW (not to turn it into a candy) about 60-90 minutes. They are ready, when:
  - they are translucent and soft
  - the syrup has became lightly syrupy (on a candy thermometer this will be be approximately soft ball stage - 112-115C)
  6. Allow to cool and either dry or pour into a jar with the syrup (providing that they are fully submerged in it and store in the fridge for up to 6 months - this is for the soonest use 'cause this ain't convenient for large batches).
