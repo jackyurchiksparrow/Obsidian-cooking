@@ -40,20 +40,20 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient              | Quantity, g | Baker's % | %   | Note |
-| ----------------------- | ----------- | --------- | --- | ---- |
-| Sugar                   |             |           |     |      |
-| Rice flour / cornstarch |             |           |     |      |
-| Almond flour            |             |           |     |      |
-| Egg whites              |             |           |     |      |
-|                         |             |           |     |      |
-|                         |             |           |     |      |
-|                         |             |           |     |      |
-|                         |             |           |     |      |
-|                         |             |           |     |      |
-|                         |             |           |     |      |
-|                         |             |           |     |      |
-| **Overall weight**      |             |           |     |      |
+| Ingredient         | Quantity, g | Baker's % | %   | Note |
+| ------------------ | ----------- | --------- | --- | ---- |
+|                    |             |           |     |      |
+|                    |             |           |     |      |
+|                    |             |           |     |      |
+|                    |             |           |     |      |
+|                    |             |           |     |      |
+|                    |             |           |     |      |
+|                    |             |           |     |      |
+|                    |             |           |     |      |
+|                    |             |           |     |      |
+|                    |             |           |     |      |
+|                    |             |           |     |      |
+| **Overall weight** |             |           |     |      |
 
 
 

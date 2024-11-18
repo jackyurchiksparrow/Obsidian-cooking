@@ -12,6 +12,7 @@ nutrition rating: 7
 taste rating: 9
 credit: 
 part_of_the_set:
+  - "[[Glazes]]"
 ---
 ```dataviewjs
 while (!customJS?.state?._ready) { 
