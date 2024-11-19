@@ -57,16 +57,16 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                           | Quantity, g | Baker's % | %   | Note                                     |
-| ---------------------------------------------------- | ----------- | --------- | --- | ---------------------------------------- |
-| Water                                                | 538         |           |     |                                          |
-| [[Sourdough starter types\|Sourdough starter (60%)]] | 90          |           |     | Fed overnight at 8 p.m., ready at 9 a.m. |
-| Sea salt                                             | 15          |           |     |                                          |
-| [[Flours\|Wheat flour (HH Manitoba)]]                | 624         |           |     |                                          |
-| [[Flours\|Whole wheat flour (Caputo)]]               | 76          |           |     |                                          |
-|                                                      |             |           |     |                                          |
-| **Overall hydration**                                |             |           |     |                                          |
-| **Overall weight**                                   |             |           |     |                                          |
+| Ingredient                                           | Quantity, g | Baker's % | %   | Note                                         |
+| ---------------------------------------------------- | ----------- | --------- | --- | -------------------------------------------- |
+| Water                                                | 538         |           |     |                                              |
+| [[Sourdough starter types\|Sourdough starter (60%)]] | 90          |           |     | Fed overnight at 8 p.m 1:9., ready by 9 a.m. |
+| Sea salt                                             | 15          |           |     |                                              |
+| [[Flours\|Wheat flour (HH Manitoba)]]                | 624         |           |     |                                              |
+| [[Flours\|Whole wheat flour (Caputo)]]               | 76          |           |     |                                              |
+|                                                      |             |           |     |                                              |
+| **Overall hydration**                                |             |           |     |                                              |
+| **Overall weight**                                   |             |           |     |                                              |
 
 
 

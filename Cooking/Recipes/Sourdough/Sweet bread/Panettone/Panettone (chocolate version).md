@@ -2,6 +2,7 @@
 tags:
   - "#sourdough"
   - sweet
+  - chocolate
 date: ""
 hydration: 
 bulk fermentation: 

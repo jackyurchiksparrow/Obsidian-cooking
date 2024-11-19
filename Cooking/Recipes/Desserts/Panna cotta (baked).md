@@ -1,18 +1,16 @@
 ---
 tags:
   - sweet
-  - nextday
-  - cottage_cheese
+  - egg_whites
 date: ""
 thumbnail: 
 passive time: 
 active time: 
 yield: 
 nutrition rating: 
-taste rating: 9
+taste rating: 
 credit: 
 part_of_the_set:
-  - "[[Chocolate sauce]]"
 ---
 ```dataviewjs
 while (!customJS?.state?._ready) { 
@@ -38,18 +36,17 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ###### 2
 ###### Scale
-###### 400/3 = 133.33
+###### 33 * 5 = 165
 ###### Calculate
 ###### Unreleased 3
 
 | Ingredient         | Quantity, g | %   | Note   |
 | ------------------ | ----------- | --- | ------ |
-| Cottage cheese     | 600         |     |        |
-| Sugar              | 133         |     |        |
-| Vanilla            | to taste    |     |        |
-| Salt               | 1/3 tsp.    |     |        |
-| Eggs               | 200         |     | 4 pcs. |
-| Cream (10%)        | 200         |     |        |
+| Egg whites         | 165         |     | 5 pcs. |
+| Cream (10%)        | 1000        |     |        |
+| Sugar              | 60          |     |        |
+| Vanilla            | must have   |     |        |
+| Salt               | to taste    |     |        |
 |                    |             |     |        |
 | **Overall weight** |             |     |        |
 
@@ -59,7 +56,10 @@ window.onerror = function (message, source, lineno, colno, error) {
 ---
 ## Directions:
 
-1. Co
+1. Preheat the oven to 160C.
+2. Gently heat the cream with the sugar until it's dissolved, adjust sweetness. Cool. Add vanilla.
+3. Lightly whisk egg whites with salt until foamy and no transparent areas.
+4. Bake until ? with the steam (need to make a research).
 
 
 

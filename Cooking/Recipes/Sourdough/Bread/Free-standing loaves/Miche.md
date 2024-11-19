@@ -44,18 +44,18 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                           | Quantity, g | Baker's % | %   | Note |
-| ---------------------------------------------------- | ----------- | --------- | --- | ---- |
-| Water                                                | 520         |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (60%)]] | 90          |           |     |      |
-| Sea salt                                             | 15          |           |     |      |
-| [[Flours\|Wheat flour (HH Manitoba)]]                | 410         |           |     |      |
-| [[Flours\|Whole wheat flour (Caputo)]]               | 222         |           |     |      |
-| [[Flours\|Whole rye flour (Лавка традицій)]]         | 46          |           |     |      |
-| [[Malt]]                                             | 2           |           |     |      |
-|                                                      |             |           |     |      |
-| **Overall hydration**                                |             |           |     |      |
-| **Overall weight**                                   |             |           |     |      |
+| Ingredient                                           | Quantity, g | Baker's % | %   | Note                                        |
+| ---------------------------------------------------- | ----------- | --------- | --- | ------------------------------------------- |
+| Water                                                | 520         |           |     |                                             |
+| [[Sourdough starter types\|Sourdough starter (60%)]] | 90          |           |     | fed overnight at 9:30 p.m 1:12, ready by 10 |
+| Sea salt                                             | 15          |           |     |                                             |
+| [[Flours\|Wheat flour (HH Manitoba)]]                | 410         |           |     |                                             |
+| [[Flours\|Whole wheat flour (Caputo)]]               | 222         |           |     |                                             |
+| [[Flours\|Whole rye flour (Лавка традицій)]]         | 46          |           |     |                                             |
+| [[Malt]]                                             | 2           |           |     |                                             |
+|                                                      |             |           |     |                                             |
+| **Overall hydration**                                |             |           |     |                                             |
+| **Overall weight**                                   |             |           |     |                                             |
 
 
 
