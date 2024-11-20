@@ -32,7 +32,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | --- | --- |
 |     |     |
 
-
+> [!tip] The water will have evaporated by the time the syrup is ready, so to calculate the overall volume, consider only sugar (more or less).
 ## Ingredients
 
 ###### 1
@@ -58,7 +58,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 1. Don't forget [[Inverted sugar (theory)|the theory]].
 2. Mix sugar and water in a sauce pan with a thick bottom. Bring to a rolling boil.
 3. Add the lemon juice / citric acid and stir.
-4. The syrup is ready when it is at the soft ball stage (112-115C). You may also do a thread test, when you cool a drop of the syrup and try if it produces a thread between two fingers.
+4. The syrup is ready when it is at the soft ball stage (112-115C). You may also do a thread test, when you cool a drop of the syrup and try if it produces a thread between two fingers. (The remote thermometer was showing 110C, when it was ready).
 5. Allow to cool for a few minutes and then pour into a jar. It will last for 2+ years, but may crystallize in 6 month. Store in the fridge.
 
 
