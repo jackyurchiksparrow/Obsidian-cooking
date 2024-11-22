@@ -5,11 +5,11 @@ date: ""
 thumbnail: 
 passive time: 
 active time: 
-yield: 6
+yield: 
 nutrition rating: 
 taste rating: 
 credit: 
-part_of_the_set:
+part_of_the_set: []
 ---
 ```dataviewjs
 while (!customJS?.state?._ready) { 
@@ -31,24 +31,25 @@ window.onerror = function (message, source, lineno, colno, error) {
 | --- | --- |
 |     |     |
 
-
+> [!tip] Fits for lasagne, casseroles, soufflés, fillings.
 ## Ingredients
 
-###### 1
+###### 0.8345
 ###### Scale
 ###### 11.5 = 11.5
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                       | Quantity, g | %   | Note |
-| ------------------------------------------------ | ----------- | --- | ---- |
-| Sugar                                            | 85          |     |      |
-| Rice flour / cornstarch                          | 9           |     |      |
-| Almond flour                                     | 43          |     |      |
-| [[Cocoa powders\|Cocoa powder; Dutch-processed]] | 11          |     |      |
-| Egg whites                                       | 48          |     |      |
-|                                                  |             |     |      |
-| **Overall weight**                               |             |     |      |
+| Ingredient                | Quantity, g | %   | Note                           |
+| ------------------------- | ----------- | --- | ------------------------------ |
+| Butter                    | 50          |     | 30 for "runny", 70 for "thick" |
+| White wheat flour; sieved | 50          |     | 30 for "runny", 70 for "thick" |
+| Milk                      | 500         |     |                                |
+| Nutmeg; freshly grated    | to taste    |     |                                |
+| Salt                      | to taste    |     |                                |
+| Pepper (pref. white)      | to taste    |     |                                |
+|                           |             |     |                                |
+| **Overall weight**        |             |     |                                |
 
 
 
@@ -56,9 +57,10 @@ window.onerror = function (message, source, lineno, colno, error) {
 ---
 ## Directions:
 
-1. Mix the rice flour / cornstarch, sugar, almond flour and cocoa powder. Mix.
-2. Add the egg whites, mix. Better place it into the fridge covered to hydrate properly for 24 h.
-
+1. Melt butter over low heat.
+2. Add flour and sauté it, until it's smooth and not browned.
+3. Add milk gradually, whisking constantly (do it either over very low heat or no heat).
+4. After adding all the milk, add the nutmeg, salt and pepper.
 
 ---
 ## Nutrition Facts:

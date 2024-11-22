@@ -5,11 +5,11 @@ date: ""
 thumbnail: 
 passive time: 
 active time: 
-yield: 6
+yield: 
 nutrition rating: 
 taste rating: 
 credit: 
-part_of_the_set:
+part_of_the_set: []
 ---
 ```dataviewjs
 while (!customJS?.state?._ready) { 
@@ -31,7 +31,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | --- | --- |
 |     |     |
 
-
+> [!tip] Fits for poached eggs, fish, casseroles, pasta etc. You can add any inclusions to the butter (onion, leeks, mushrooms etc.)
 ## Ingredients
 
 ###### 1
@@ -40,15 +40,14 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                       | Quantity, g | %   | Note |
-| ------------------------------------------------ | ----------- | --- | ---- |
-| Sugar                                            | 85          |     |      |
-| Rice flour / cornstarch                          | 9           |     |      |
-| Almond flour                                     | 43          |     |      |
-| [[Cocoa powders\|Cocoa powder; Dutch-processed]] | 11          |     |      |
-| Egg whites                                       | 48          |     |      |
-|                                                  |             |     |      |
-| **Overall weight**                               |             |     |      |
+| Ingredient                                                 | Quantity, g            | %   | Note      |
+| ---------------------------------------------------------- | ---------------------- | --- | --------- |
+| [[Béchamel (classic)]]                                     | 500                    |     | 42:42:418 |
+| Cheese (any soft or semi-soft or a little bit of parmesan) | 100                    |     |           |
+| Egg yolk (optional)                                        | 1                      |     |           |
+| Cream (optional)                                           | substitute 10% of milk |     |           |
+|                                                            |                        |     |           |
+| **Overall weight**                                         |                        |     |           |
 
 
 
@@ -56,9 +55,8 @@ window.onerror = function (message, source, lineno, colno, error) {
 ---
 ## Directions:
 
-1. Mix the rice flour / cornstarch, sugar, almond flour and cocoa powder. Mix.
-2. Add the egg whites, mix. Better place it into the fridge covered to hydrate properly for 24 h.
-
+1. Make béchamel, lower the heat and slowly stir the grated cheese(s). Heat too high -> it will separate. Too low -> will clump.
+2. If using yolks, add them in the very end, vigorously whisking over low heat.
 
 ---
 ## Nutrition Facts:

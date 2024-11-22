@@ -33,16 +33,16 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-| Banneton | Scoring | Appearance | Crumb |
-| -------- | ------- | ---------- | ----- |
-| ![]()    | ![]()   | ![]()      | ![]() |
-|          |         |            |       |
+| First dough | Second dough | Appearance | Crumb |
+| ----------- | ------------ | ---------- | ----- |
+| ![]()       | ![]()        | ![]()      | ![]() |
+|             |              |            |       |
 
 ## Ingredients
 
 ###### 1
 ###### Scale
-###### 192/2 = 96
+###### 140/20 = 7
 ###### Calculate
 ###### Unreleased 3
 
@@ -66,7 +66,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Chocolate (chips)                                    | 83                   |           |     | It is important to use milk chocolate or any other with low cocoa butter content. Otherwise it may melt during baking and won't be noticeable in the overall texture.<br><br>Also, the older the chocolate (6 months old) the better the texture is and the distribution of it. |
 | Raisins                                              | 207                  |           |     |                                                                                                                                                                                                                                                                                 |
 | Cranberries                                          | 93                   |           |     |                                                                                                                                                                                                                                                                                 |
-| [[Candied peels]]                                    | 114                  |           |     | if they are dried, moisturize them with syrup or water.                                                                                                                                                                                                                         |
+| [[Candied peels]]                                    | 114                  |           |     | if they are dry, moisturize them with syrup or water.                                                                                                                                                                                                                           |
 | Vanilla seeds                                        | from 1 pod; optional |           |     |                                                                                                                                                                                                                                                                                 |
 | Coarse sugar                                         | for topping          |           |     |                                                                                                                                                                                                                                                                                 |
 |                                                      |                      |           |     |                                                                                                                                                                                                                                                                                 |
@@ -95,7 +95,7 @@ ST 16:30: **3rd refreshment ratio: 91 sourdough starter: 38 water: 76 white flou
 > Once the fermentation time has passed, place it in the refrigerator before proceeding to the second kneading. This step will make the dough easier to handle.
 
 6. Make the [[Chocolate glaze|Chocolate glaze]] and place into the fridge overnight.
-7. Soak the dry fruit overnight in minimum amount of cold water. Then, in the morning, dry them thoroughly. DO NOT soak candied peeks, or just a handful, soaking will take some aroma.
+7. Soak the dry fruit overnight in minimum amount of cold water. Then, in the morning, dry them thoroughly. DO NOT soak candied peeks, or just a handful, soaking will take some aroma. It is better to cover them with inverted syrup or oil. Same for the chocolate chips.
 ### Second kneading:
 1. Degas the first dough in the hand mixer on low.
 2. Add the flour all at once, but careful. Aim for strength and structure (4-5 min). This is the most crucial step. All the flour must be incorporated and well-kneaded into the dough without adding any other ingredients at this step. (When the flour is slightly mixed in, increase the speed a bit). In the end, the dough must not stick to the walls (almost at least), be shiny and glossy, pass the window pane test.
