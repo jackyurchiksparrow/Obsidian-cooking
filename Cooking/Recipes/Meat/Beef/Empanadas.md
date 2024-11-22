@@ -39,40 +39,42 @@ window.onerror = function (message, source, lineno, colno, error) {
 > [!Tip] T
 ## Ingredients
 
-###### 4
+###### 1
 ###### Scale
-###### 120* 6 = 720
+###### 490 /(1060+166) = 0.4
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient            | Quantity, g                         | %   | Note                             |
-| --------------------- | ----------------------------------- | --- | -------------------------------- |
-|                       |                                     |     |                                  |
-|                       |                                     |     |                                  |
-|                       |                                     |     |                                  |
-|                       |                                     |     |                                  |
-|                       |                                     |     |                                  |
-|                       |                                     |     |                                  |
-|                       |                                     |     |                                  |
-|                       |                                     |     |                                  |
-|                       |                                     |     |                                  |
-|                       |                                     |     |                                  |
-|                       |                                     |     |                                  |
-|                       |                                     |     |                                  |
-|                       |                                     |     |                                  |
-|                       |                                     |     |                                  |
-|                       |                                     |     |                                  |
-|                       |                                     |     |                                  |
-|                       |                                     |     |                                  |
-|                       |                                     |     |                                  |
-|                       |                                     |     |                                  |
-|                       |                                     |     |                                  |
-|                       |                                     |     |                                  |
-|                       |                                     |     |                                  |
-|                       |                                     |     |                                  |
-|                       |                                     |     |                                  |
-|                       |                                     |     |                                  |
-| **Overall weight**    |                                     |     |                                  |
+| Ingredient                                           | Quantity, g                    | %   | Note   |
+| ---------------------------------------------------- | ------------------------------ | --- | ------ |
+| Onion                                                | 100                            |     |        |
+| Leeks                                                | 200                            |     |        |
+| Chives                                               | 25                             |     |        |
+| Carrots                                              | 400                            |     |        |
+| Celery                                               | 100                            |     |        |
+| Raisins / grilled corn                               | 90                             |     |        |
+| Wine / tomato paste / vinegar / lemon juice          | a splash / a glog              |     |        |
+| Broth / water                                        | 200                            |     |        |
+| Potatoes                                             | 800                            |     |        |
+| Garlic                                               | 6                              |     | cloves |
+| Ground beef                                          | 1500                           |     |        |
+| Salt                                                 | to taste                       |     |        |
+| Pepper                                               | to taste                       |     |        |
+| Olive oil                                            | to sauté                       |     |        |
+| Cumin                                                | to taste                       |     |        |
+| Nutmeg                                               | to taste                       |     |        |
+|                                                      |                                |     |        |
+|                                                      |                                |     |        |
+| [[Sourdough starter types\|Sourdough discard (50%)]] | 200                            |     |        |
+| [[Flours\|Bread flour (Zernari)]]                    | 860                            |     |        |
+| [[Flours\|Whole wheat flour (Caputo)]]               | 200                            |     |        |
+| Butter                                               | 480                            |     |        |
+| Salt                                                 | 1.6                            |     | tsp.   |
+| Eggs                                                 | 100                            |     | 2 pcs. |
+| Egg yolk                                             | 20                             |     | 1 pc   |
+| Ice-cold water / remaining egg white(s)              | until the dough comes together |     |        |
+|                                                      |                                |     |        |
+| **Overall weight**                                   |                                |     |        |
 
 
 

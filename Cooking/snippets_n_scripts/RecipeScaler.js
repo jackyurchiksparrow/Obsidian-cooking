@@ -386,7 +386,7 @@ class RecipeScaler {
 
         table_ths.forEach((th, index) => {
             const lowerText = th.textContent.toLowerCase();
-            console.log(lowerText);
+            //console.log(lowerText);
             if (lowerText.includes(RecipeScaler.ING_TBL_INGREDIENTS_COL)) {
                 ingredients_col_pos_idx = index;
             } else if (lowerText.includes(RecipeScaler.ING_TBL_QUANTITY_COL)) {
@@ -453,42 +453,47 @@ class RecipeScaler {
             const ingredient_qty_el = tr.querySelectorAll('td')[quantity_col_pos_idx]?.querySelector('div');
             const ingredient_scaled_qty_el = tr.querySelectorAll('td')[new_column_idx]?.querySelector('div');
             const ingredient_qty = ingredient_qty_el.textContent;
-
+            
             let ingredient_percent_el = tr.querySelectorAll('td'),
                 ingredient_bakers_percent_el = tr.querySelectorAll('td');
 
             let bakers_percentage = 0, overall_percentage = 0;
 
             if(!isNaN(ingredient_qty) && ingredient_qty != null && !ingredient_title.toLowerCase().contains(RecipeScaler.OVERALL_WEIGHT_ROW)) {
+                
                 // calculate baker's percentages (sourdough)
                 if(sourdough_obj.sourdough_flag) {
+                   
                     let levain_weight = sourdough_obj.levain_weight;
                     let levain_flour_parts = 100 / sourdough_obj.hydration;
                     let levain_water_amount = levain_weight/(levain_flour_parts+1); // x flour parts for 1 part water
                     let levain_flour_amount = levain_weight - levain_water_amount;
-                    // console.log("Flour in levain:", levain_flour_amount);
-                    // console.log("Water in levain:", levain_water_amount);
-                    // console.log("Flour without levain:", overall_flour_weight);
-                    // console.log("Flour with levain:", overall_flour_weight + levain_flour_amount);
+
                     overall_flour_weight = weight_of_flour_ingredients + levain_flour_amount;
                     overall_water_weight = weight_of_water_ingredients + levain_water_amount;
                     bakers_percentage = parseFloat(ingredient_qty) / overall_flour_weight;
 
-                    ingredient_bakers_percent_el = ingredient_bakers_percent_el[bakers_percentage_col_pos_idx].querySelector('div');
+                    // console.log("Flour in levain:", levain_flour_amount);
+                    // console.log("Water in levain:", levain_water_amount);
+                    // console.log("Flour with levain:", overall_flour_weight + levain_flour_amount);
+
+                    if(bakers_percentage_col_pos_idx)
+                        ingredient_bakers_percent_el = ingredient_bakers_percent_el[bakers_percentage_col_pos_idx].querySelector('div');
                 } 
                 
                 // calculate simple percentages (basic)
                 if (percentage_col_pos_idx) {
+                     
                     overall_percentage = parseFloat(ingredient_qty) / overall_weight;
                     ingredient_percent_el = ingredient_percent_el[percentage_col_pos_idx].querySelector('div');
                 }
+                
             }
             
             if(ingredient_title.toLowerCase().contains(RecipeScaler.OVERALL_WEIGHT_ROW)) {
                 ingredient_qty_el.innerHTML = "<strong>" + RecipeScaler.round(overall_weight, RecipeScaler.ING_TBL_DECIMALS) + "</strong>";
                 ingredient_scaled_qty_el.innerHTML = "<strong>" + RecipeScaler.round(overall_weight*scale_value, RecipeScaler.ING_TBL_DECIMALS) + "</strong>";
             } else if(ingredient_title.toLowerCase().contains(RecipeScaler.OVERALL_HYDRATION_ROW)) {
-                console.log(`${overall_water_weight}/${overall_flour_weight}`);
                 let overall_hydration = (overall_water_weight/overall_flour_weight)*100;
                 ingredient_qty_el.innerHTML = "<strong>" + RecipeScaler.round(overall_hydration, 3) + "%</strong>";
                 ingredient_scaled_qty_el.innerHTML = "<strong>" + RecipeScaler.round(overall_hydration, 3) + "%</strong>";
