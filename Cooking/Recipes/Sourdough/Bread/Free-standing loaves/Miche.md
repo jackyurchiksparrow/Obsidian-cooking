@@ -30,10 +30,10 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-| Banneton                                                          | Scoring | Appearance | Crumb |
-| ----------------------------------------------------------------- | ------- | ---------- | ----- |
-|                                                                   |         |            |       |
-| Bulk: <br>Cold: <br>Outcome: <br>Hydration: <br><br>Adjustments:  |         |            |       |
+| Banneton                                                                                                                                       | Scoring | Appearance | Crumb |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ---------- | ----- |
+|                                                                                                                                                |         |            |       |
+| Bulk: 5h 43min<br>Cold: 14h<br>Outcome: slightly overproofed <br>Hydration: 76.5<br><br>Adjustments: reduce bulk fermentation for about 30 min |         |            |       |
 
 
 ## Ingredients
