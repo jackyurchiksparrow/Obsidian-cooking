@@ -89,7 +89,11 @@ ST 16:30: **3rd refreshment ratio: 91 sourdough starter: 38 water: 76 white flou
 1. Put the flour in a mixer together with the butter, sourdough starter torn into pieces, the water at 31-32ºC. Start mixing slowly until the mixture isn't yet gathered, but all ingredients are more or less even. Now add the sugar. Knead for ~15 minutes or until the dough is tenacious (the gluten is developed).
 2. Now the dough must look smooth, glossy, detached from the walls, not too dry, not too wet. Add the egg yolks all at once. The goal now is to return to the initial consistency, but it will be slightly more wet and sticky. It will first start to break down, that's OK. When the yolks are mixed in slightly, we may increase the speed to medium.
 3. Take the dough out from the mixer onto the counter. Fold it a few times to form a strong big boule.
-4. Wait until it quadruples in size (8-13h) at 26C. The more it takes and not accelerated with higher temperatures, the more preservation time we have, the more moisture retainment longevity. 8h - 2 weeks, 12-13h - 3 weeks/up to 1 month. It still must be safe to eat even after 3 weeks, but it won't be perfect.
+4. Wait until:
+- quadruples in size (8-13h) at 26C (if you starter is maintained perfectly, you have ideal conditions, flour etc.)
+- triples + slightly more (8-13h) at 26C (if you're unsure or your starter is not in its best form)
+
+> The more it takes and not accelerated with higher temperatures, the more preservation time we have, the more moisture retainment longevity. 8h - 2 weeks, 12-13h - 3 weeks/up to 1 month. It still must be safe to eat even after 3 weeks, but it won't be perfect.
 
 > Once the fermentation time has passed, place it in the refrigerator before proceeding to the second kneading. This step will make the dough easier to handle.
 
