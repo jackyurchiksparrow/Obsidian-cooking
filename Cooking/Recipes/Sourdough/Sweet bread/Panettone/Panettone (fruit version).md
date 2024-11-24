@@ -4,9 +4,9 @@ tags:
   - sweet
 date: ""
 hydration: 
-bulk fermentation: 
-cold retard: 
-outcome: 
+bulk fermentation: 18 h 40 min
+cold retard: 3 h
+outcome: overproofed
 thumbnail: 
 yield: 6
 nutrition rating: 
@@ -42,7 +42,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ###### 1
 ###### Scale
-###### 140/20 = 7
+###### 283+142 = 425
 ###### Calculate
 ###### Unreleased 3
 
@@ -55,7 +55,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | [[Sourdough starter types\|Sourdough starter (50%)]] | 200                  |           |     | at 26-27C, refreshed 3 times every 4 hours at 26-27C fermenter; only with white high protein flour                                                                                                                                                                              |
 | Sugar                                                | 155                  |           |     | May also use brown                                                                                                                                                                                                                                                              |
 | Egg yolks                                            | 142                  |           |     | ~7 pcs. Cold; from the fridge; ORGANIC (preferably pasteurized, but NO preservatives, anti-mold agents etc.)                                                                                                                                                                    |
-|                                                      |                      |           |     |                                                                                                                                                                                                                                                                                 |
+| **Overall hydration**                                |                      |           |     |                                                                                                                                                                                                                                                                                 |
 | **Overall weight**                                   |                      |           |     |                                                                                                                                                                                                                                                                                 |
 |                                                      |                      |           |     |                                                                                                                                                                                                                                                                                 |
 | **The second dough**                                 |                      |           |     |                                                                                                                                                                                                                                                                                 |
@@ -73,6 +73,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Vanilla seeds                                        | from 1 pod; optional |           |     |                                                                                                                                                                                                                                                                                 |
 | Coarse sugar                                         | for topping          |           |     |                                                                                                                                                                                                                                                                                 |
 |                                                      |                      |           |     |                                                                                                                                                                                                                                                                                 |
+| **Overall hydration**                                |                      |           |     |                                                                                                                                                                                                                                                                                 |
 | **Overall weight**                                   |                      |           |     |                                                                                                                                                                                                                                                                                 |
 
 

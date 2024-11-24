@@ -44,17 +44,17 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                    | Quantity, g | %   | Note                  |
-| ----------------------------- | ----------- | --- | --------------------- |
-| Cocoa powder; Dutch           | 68          |     |                       |
-| Cocoa powder; black           | 23          |     | optional; for color   |
-| Sugar                         | 180         |     |                       |
-| Milk / Water                  | 257         |     |                       |
-| [[Inverted sugar]] (optional) | 1 tbsp.     |     | reduce the sugar then |
-| Salt                          | a big pinch |     |                       |
-| Butter (if using water)       | 2 tbsp.     |     |                       |
-|                               |             |     |                       |
-| **Overall weight**            |             |     |                       |
+| Ingredient                    | Quantity, g | %   | Note                                   |
+| ----------------------------- | ----------- | --- | -------------------------------------- |
+| Cocoa powder; Dutch           | 68          |     |                                        |
+| Cocoa powder; black           | 23          |     | optional; for color                    |
+| Sugar                         | 180         |     |                                        |
+| Milk / Water                  | 257         |     | reduce ~40 g to get a really thick one |
+| [[Inverted sugar]] (optional) | 1 tbsp.     |     | reduce the sugar then                  |
+| Salt                          | a big pinch |     |                                        |
+| Butter (if using water)       | 2 tbsp.     |     |                                        |
+|                               |             |     |                                        |
+| **Overall weight**            |             |     |                                        |
 
 
 
@@ -63,7 +63,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 ## Directions:
 
 1. In a heavy bottom pot, mix cocoa powder(s), salt, sugar. Mix.
-2. Add 1/2 of the milk/water gradually while whisking. Whisk until no lumps.
+2. Add 1/2 of the milk/water gradually while whisking. Whisk until no lumps and thickened.
 3. Bring to a boil, stirring occasionally.  Taste, adjust the sugar.
 4. Boil for 5-10 more minutes to reduce slightly. 
 
