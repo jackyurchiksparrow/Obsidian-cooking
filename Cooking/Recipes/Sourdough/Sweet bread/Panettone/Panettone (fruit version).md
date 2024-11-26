@@ -38,12 +38,13 @@ window.onerror = function (message, source, lineno, colno, error) {
 **Mistakes and advices:** 
 >1. Strictly adhere to all temperatures and timings in the beginning. If it says water 31C, 4h wait at 26C, do so. Do not try to extend the period if possible. We don't need to much yeast. The dough must rise gradually, not for 8 hours and it's done.
 >2. Take a bigger container for the first dough.
->3. Take care of the inverted syrup/honey being liquid in advance. You don't want to mix the tiny specs by hand.
->4. Do not wait to long during the final proof. The dough must be 3-3.5 cm under the rim. I would start preheating the oven, when they are at exactly 3.5 cm.
->5. Do not bake at too high a temperature. No fan, 160 C, 40-45 minutes.
->6. Do not open the oven door in the first 40 minutes.
->7. Take care of the cooling-upside-down set-up in advance in the same house. You don't want to expose them to cold after the oven.
->8. It makes 6 panettones. 1 oven batch can only take 4. I suggest doing an experiment proofing the two in different conditions to compare more and less proofed ones. Like in the oven and in the fermentation bag.
+>3. Do not feed the starter with fruit water during the refreshments. We don't need the additional acidity and yeast there.
+>4. Take care of the inverted syrup/honey being liquid in advance. You don't want to mix the tiny specs by hand.
+>5. Do not wait to long during the final proof. The dough must be 3-3.5 cm under the rim. I would start preheating the oven, when they are at exactly 3.5 cm.
+>6. Do not bake at too high a temperature. No fan, 160 C, 40-45 minutes.
+>7. Do not open the oven door in the first 40 minutes.
+>8. Take care of the cooling-upside-down set-up in advance in the same house. You don't want to expose them to cold after the oven.
+>9. It makes 6 panettones. 1 oven batch can only take 4. I suggest doing an experiment proofing the two in different conditions to compare more and less proofed ones. Like in the oven and in the fermentation bag.
 
 | Refreshments                                                                                                                                                                                                                         | First dough                                                                                                                                                                                                                          | Second dough                                                                                                                                                                                                                         | Proofing and baking                                                                                                                                                                                                                  | Appearance                                                                                                                                                                                                                          | Crumb                                                                                                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -117,10 +118,10 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ### Refreshments:
 0. Take a stiff starter and feed it with warm water (31C). Mix thoroughly until bubbly and cloudy. Add the room temperature flour and knead for 7 minutes, until smooth. The dough temperature must be 26-27C. Shape into a ball, make a crisscross on top for the temperature to penetrate uniformly and place into a plastic bag for 4 hours at 26-27C. Each time 4 hours if the temp is correct:
-FR: 20:00: **Regular refreshment aiming for the peak: 7 sourdough starter: 15 water: 30 white flour** (50% hydration) 1:5 feeding; (discard everything else)
-ST 8:30: **1st refreshment ratio: 12 sourdough starter: 12 fruit water: 24 white flour** (50% hydration) 1:2 feeding; (discard 20 g)
-ST 12:30: **2nd refreshment ratio: 28 sourdough starter: 21 fruit water: 42 white flour** (50% hydration) 1:1.5 feeding; (no discard)
-ST 16:30: **3rd refreshment ratio: 91 sourdough starter: 38 fruit water: 76 white flour** (50% hydration) 1:0.83 feeding; (no discard)
+FR: 20:00: **Regular refreshment aiming for the peak: 7 sourdough starter: 15 fruit water: 30 white flour** (50% hydration) 1:5 feeding; (discard everything else)
+ST 8:30: **1st refreshment ratio: 12 sourdough starter: 12 water: 24 white flour** (50% hydration) 1:2 feeding; (discard 20 g)
+ST 12:30: **2nd refreshment ratio: 28 sourdough starter: 21 water: 42 white flour** (50% hydration) 1:1.5 feeding; (no discard)
+ST 16:30: **3rd refreshment ratio: 91 sourdough starter: 38 water: 76 white flour** (50% hydration) 1:0.83 feeding; (no discard)
 
 ### First kneading (ST 20:30):
 1. Put the flour in a mixer together with the butter, sourdough starter torn into pieces, the water at 31-32ºC. Start mixing slowly until the mixture isn't yet gathered, but all ingredients are more or less even. Now add the sugar. Knead for ~15 minutes or until the dough is tenacious (the gluten is developed).
