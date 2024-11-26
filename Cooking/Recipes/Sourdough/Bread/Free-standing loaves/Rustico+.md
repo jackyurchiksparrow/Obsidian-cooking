@@ -1,7 +1,7 @@
 ---
 tags:
   - "#sourdough"
-  - buckwheat
+  - multi-grain
 date: ""
 hydration: 
 bulk fermentation: 
