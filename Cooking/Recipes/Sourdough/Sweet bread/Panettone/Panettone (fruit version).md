@@ -9,7 +9,7 @@ cold retard: 3 h
 outcome: overproofed
 thumbnail: https://lh3.googleusercontent.com/pw/AP1GczNJOEPf_DD4BbWr-LbHj6afzJL2cmPgxKvQhwFOLdMqa8YSa8azRg7b_xyh7PuPoCH8a9ZebZuweYxzWMN-gHgUNvz2E2QxAu4A0vJ7_eo5Vr4EjPzpeKCB9eS5c0sIzNT2WXu81lWTnGNkqdK8lf55=w659-h879-s-no-gm?authuser=0
 yield: 6
-nutrition rating: 
+nutrition rating: 5.5
 taste rating: 10
 credit: Lluís Costa
 part_of_the_set:

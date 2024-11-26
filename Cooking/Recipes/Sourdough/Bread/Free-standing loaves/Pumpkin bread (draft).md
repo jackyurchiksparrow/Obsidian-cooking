@@ -2,6 +2,7 @@
 tags:
   - "#sourdough"
   - pumpkin
+  - draft
 date: ""
 hydration: 75.6
 bulk fermentation: 
