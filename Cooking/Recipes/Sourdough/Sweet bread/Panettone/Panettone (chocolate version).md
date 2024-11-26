@@ -122,7 +122,7 @@ ST 16:30: **3rd refreshment ratio: 91 sourdough starter: 38 water: 76 white flou
 
 16. Apply the glaze on top, but not the edges, just wait until it's spread there..
 17. Top with coarse sugar.
-18. Bake 35 minutes 170 C NO FAN until it's 96C inside. Fan is fine, but then it's 155C.
+18.  Bake 40-45 minutes 160 C NO FAN until it's 96C inside.
 19. Hang them upside down overnight (the chef said it's fine to just wait until they have cooled to 28C). Do it fast before they collapse.
 
 
