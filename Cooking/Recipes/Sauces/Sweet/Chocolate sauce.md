@@ -3,7 +3,7 @@ tags:
   - sweet
   - chocolate
 date: ""
-thumbnail: 
+thumbnail: https://lh3.googleusercontent.com/pw/AP1GczPRYum8ArFCZSVz3EJWFB2Xt8OwitGB3bSSwK2QPu7GPsux2X0Twq-j22p1V8hlwhenaP88wr0Pqa7XXs96VsXzxh7dIlv0adEnt0EoPynvagfvQ3g_LthzJtP0i8ZroDh0tOplLuR_E0jKAQiD1_75=w659-h879-s-no-gm?authuser=0
 passive time: 0h
 active time: 15min
 yield: 40
@@ -30,10 +30,10 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-|                                                 |     |
-| ----------------------------------------------- | --- |
-|                                                 |     |
-| **Adjustements:** Sugar 140->100; milk 140->180 |     |
+|                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                     |     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczM43Zq4kK9_XLGRmawzf2CxvTU48aUJao0HTAk_gLViMbqv7cdLFEXJTm4GbEfWh1CM9w86f8SCTw1X5p58E5sZVtD9y6MaZ9suDQDVo4JUdMYDhRjQD2lW6lOeHJvube3D7wA1g_C6RxRXvv4CNyAj=w635-h879-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczPRYum8ArFCZSVz3EJWFB2Xt8OwitGB3bSSwK2QPu7GPsux2X0Twq-j22p1V8hlwhenaP88wr0Pqa7XXs96VsXzxh7dIlv0adEnt0EoPynvagfvQ3g_LthzJtP0i8ZroDh0tOplLuR_E0jKAQiD1_75=w659-h879-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczORgOuZB21Q2HqyWOPVua6DdT5CuI0ERX_2-n5IonvYkTgO3vtebzKXlkXoQFXPaQoS16afFtmftiW-TFmRlrO33KO2zV0NOMD-zRGwmS_tKdsXb97tC2xaoWCArDensY4-C6u3tvnhV5r-uHFats9L=w659-h879-s-no-gm?authuser=0) |     |
+| **Adjustements:** Sugar 140->100; milk 140->180                                                                                                                                                                                     |                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                     |     |
 
 
 ## Ingredients

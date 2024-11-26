@@ -1,15 +1,21 @@
 ---
 tags:
-  - staple
-date: ""
+  - sweet
+  - orange
+date: 2024-11-20
 thumbnail: 
 passive time: 
 active time: 
-yield: 6
+yield: 
 nutrition rating: 
 taste rating: 
-credit: 
+credit: me
 part_of_the_set:
+  - "[[Pancakes]]"
+  - "[[Sirniki]]"
+  - "[[Dehydrated candied citrus]]"
+  - "[[Candied peels]]"
+  - "[[Panettone (fruit version)]]"
 ---
 ```dataviewjs
 while (!customJS?.state?._ready) { 
@@ -27,9 +33,10 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-|     |     |
-| --- | --- |
-|     |     |
+|     |     |     |     |
+| --- | --- | --- | --- |
+|     |     |     |     |
+|     |     |     |     |
 
 
 ## Ingredients
@@ -40,15 +47,17 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                       | Quantity, g | %   | Note |
-| ------------------------------------------------ | ----------- | --- | ---- |
-| Sugar                                            | 111         |     |      |
-| Rice flour / cornstarch                          | 12          |     |      |
-| Almond flour                                     | 56          |     |      |
-| [[Cocoa powders\|Cocoa powder; Dutch-processed]] | 14          |     |      |
-| Egg whites                                       | 62          |     |      |
-|                                                  |             |     |      |
-| **Overall weight**                               |             |     |      |
+| Ingredient                    | Quantity, g | %   | Note                                   |
+| ----------------------------- | ----------- | --- | -------------------------------------- |
+|                               |             |     |                                        |
+|                               |             |     |                                        |
+|                               |             |     |                                        |
+|                               |             |     |                                        |
+|                               |             |     |                                        |
+|                               |             |     |                                        |
+|                               |             |     |                                        |
+|                               |             |     |                                        |
+|                               |             |     |                                        |
 
 
 
@@ -56,9 +65,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 ---
 ## Directions:
 
-1. Mix the rice flour / cornstarch, sugar, almond flour and cocoa powder. Mix.
-2. Add the egg whites, mix. Better place it into the fridge covered to hydrate properly for 24 h.
-
+1. It is part of the set. [[Candied peels]]
 
 ---
 ## Nutrition Facts:

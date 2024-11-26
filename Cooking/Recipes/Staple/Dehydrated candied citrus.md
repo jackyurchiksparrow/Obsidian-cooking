@@ -35,6 +35,7 @@ part_of_the_set:
 ---
 ## Directions:
 
+It can be part of the set. [[Candied peels]].
 1. Wash the fruit thoroughly, use a sponge or brush.
 2. Slice the fruit thinly (as thinly as possible).
 3. Remove the seeds left on the slices.

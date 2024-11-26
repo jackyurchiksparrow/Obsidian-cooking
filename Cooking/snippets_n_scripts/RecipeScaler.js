@@ -35,7 +35,7 @@ class RecipeScaler {
     static ING_TBL_FLOUR_KEYS = ["flour", "malt"];
 
     // keywords for ingredients considered as "water"; checked with contains(), lowercased
-    static ING_TBL_WATER_KEYS = ["water", "milk"];
+    static ING_TBL_WATER_KEYS = ["water", "milk", "yolk"];
 
     // LOWERCASE ingredients table row name for the one that needs to contain the overall weight of ingredients; matched by contains()
     static OVERALL_WEIGHT_ROW = "overall weight";
@@ -510,7 +510,10 @@ class RecipeScaler {
             } 
             // Identify water rows and accumulate total water weight.
             else if (RecipeScaler.ING_TBL_WATER_KEYS.some(val => ingredient_title_lower.contains(val))) {
-                water_weight += parseFloat(ingredient_qty) || 0;
+                if(ingredient_title_lower.contains("yolk"))
+                    water_weight += parseFloat(ingredient_qty) / 2 || 0;
+                else
+                    water_weight += parseFloat(ingredient_qty) || 0;
             }
     
             // Track non-overall rows for calculations.

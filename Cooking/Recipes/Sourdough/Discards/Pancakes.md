@@ -37,7 +37,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ## Ingredients
 
-###### 2
+###### 1
 ###### Scale
 ###### 80+160 = 240
 ###### Calculate
@@ -54,6 +54,11 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Eggs                                                 | 100         |           |     | 2 pcs.              |
 | Milk                                                 | 280         |           |     |                     |
 | Butter / olive oil                                   | 42          |           |     |                     |
+|                                                      |             |           |     |                     |
+| **Overall weight**                                   |             |           |     |                     |
+| **Overall hydration**                                |             |           |     |                     |
+|                                                      |             |           |     |                     |
+| Sauce                                                | 300         |           |     |                     |
 |                                                      |             |           |     |                     |
 | **Overall weight**                                   |             |           |     |                     |
 

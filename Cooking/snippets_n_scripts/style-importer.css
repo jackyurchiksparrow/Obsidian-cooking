@@ -104,62 +104,62 @@ tr:not(:has(th)):hover {
 }
 
 /* the main parent container for properties */
-.metadata-properties {
+/* .metadata-properties {
     font-size: 18pt;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     gap: 5px;
     border-bottom: 1px solid;
-}
+} */
 
 /* for all parent containers of key-value */
-.metadata-property {
+/* .metadata-property {
     display: flex;
     flex-direction: column;
-    align-items: center; /* Center-aligns content horizontally */
-    margin: 10px; /* Adds space between pairs */
+    align-items: center;
+    margin: 10px;
     flex: 1 1 200px;
-}
+} */
 
 /* for both of each properties and values */
-.metadata-property-key,
+/* .metadata-property-key,
 .metadata-property-value {
     flex: 1;
     margin: 5px;
     text-align: center;
-}
+} */
 
 /* for all the property keys */
-.metadata-property-key {
+/* .metadata-property-key {
     background-color: rgb(235 123 54 / 30%);
     width: unset;
-}
+} */
 
-.metadata-property-key:hover {
+/* .metadata-property-key:hover {
     background-color: rgba(239, 99, 12, 0.3)
-}
+} */
 
 /* for all the property values */
-.metadata-property-value {
+/* .metadata-property-value {
     background-color: rgba(233, 131, 7, 0.2);
-}
+} */
 
-.metadata-property-value:hover {
+/* .metadata-property-value:hover {
     background-color: rgba(254, 141, 2, 0.322)
-}
+} */
 
 /* bg for the tag and calendar values: tags always first, calendar always second */
-.metadata-property:nth-child(1) .metadata-property-value,
+/* .metadata-property:nth-child(1) .metadata-property-value,
 .metadata-property:nth-child(2) .metadata-property-value {
     background-color: unset !important;
-}
+} */
 
 /* center text in property values */
-.metadata-property-value > div,
+/* .metadata-property-value > div,
 .metadata-property-value > input {
     text-align: center;
-}
+} */
 
 /* Uncomment these styles if you want the metadata (properties) panel move from top to bottom
 .cm-sizer:has(.metadata-container) {
