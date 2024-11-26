@@ -3,7 +3,7 @@ tags:
   - staple
   - sweet
 date: ""
-thumbnail: 
+thumbnail: https://lh3.googleusercontent.com/pw/AP1GczOWbcbttMXXIKxknTJuZVzTjEEXc6-LjtPQo_VyoWi8S8Y-TT0uQOgKydxxJ4EEwoRSz23NAzBfmeo4YHIqw40JukJgYBe8ym5ZrSdUVviJ1uzussqtjL2RP0QaS-hZmoF2xhe8MjXJN4LtfATFlSNY=w659-h879-s-no-gm?authuser=0
 passive time: 
 active time: 
 yield: 
