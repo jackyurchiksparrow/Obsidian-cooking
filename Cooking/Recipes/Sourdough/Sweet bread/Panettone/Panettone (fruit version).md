@@ -118,10 +118,10 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ### Refreshments:
 0. Take a stiff starter and feed it with warm water (31C). Mix thoroughly until bubbly and cloudy. Add the room temperature flour and knead for 7 minutes, until smooth. The dough temperature must be 26-27C. Shape into a ball, make a crisscross on top for the temperature to penetrate uniformly and place into a plastic bag for 4 hours at 26-27C. Each time 4 hours if the temp is correct:
-FR: 20:00: **Regular refreshment aiming for the peak: 7 sourdough starter: 15 fruit water: 30 white flour** (50% hydration) 1:5 feeding; (discard everything else)
-ST 8:30: **1st refreshment ratio: 12 sourdough starter: 12 water: 24 white flour** (50% hydration) 1:2 feeding; (discard 20 g)
-ST 12:30: **2nd refreshment ratio: 28 sourdough starter: 21 water: 42 white flour** (50% hydration) 1:1.5 feeding; (no discard)
-ST 16:30: **3rd refreshment ratio: 91 sourdough starter: 38 water: 76 white flour** (50% hydration) 1:0.83 feeding; (no discard)
+FR: 20:00: **Regular refreshment aiming for the PEAK: 7 sourdough starter: 15 water: 30 white flour** (50% hydration) 1:5 feeding; (discard everything else)
+ST 8:30: **1st refreshment ratio: 12 sourdough starter: 12 water: 24 white flour + teeny-tiny pinch of sugar** (50% hydration) 1:2 feeding; (discard 20 g)
+ST 12:30: **2nd refreshment ratio: 28 sourdough starter: 21 water: 42 white flour + teeny-tiny pinch of sugar**** (50% hydration) 1:1.5 feeding; (no discard)
+ST 16:30: **3rd refreshment ratio: 91 sourdough starter: 38 water: 76 white flour + 2 teeny-tiny pinches of sugar**** (50% hydration) 1:0.83 feeding; (no discard)
 
 ### First kneading (ST 20:30):
 1. Put the flour in a mixer together with the butter, sourdough starter torn into pieces, the water at 31-32ºC. Start mixing slowly until the mixture isn't yet gathered, but all ingredients are more or less even. Now add the sugar. Knead for ~15 minutes or until the dough is tenacious (the gluten is developed).
