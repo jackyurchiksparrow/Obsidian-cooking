@@ -52,7 +52,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 > [!tip] Too long in the fridge. Most likely A LACK OF DOUGH STRENGTH. I didn't perform a single lamination. Used warm windowsill so the temperature was high when going to the fridge. The poke test had already been showing a somewhat slow response. Either reduce the cold retard or put the bread into the fridge when the poke test gives a faster response. Reduced hydration 76->74.3%
 ## Ingredients
 
-###### 3
+###### 1
 ###### Scale
 ###### 24.3 +50 = 74.3
 ###### Calculate
