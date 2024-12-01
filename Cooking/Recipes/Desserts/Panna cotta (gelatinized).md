@@ -37,23 +37,25 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ## Ingredients
 
-###### 1
+###### 0.85
 ###### Scale
 ###### 650 -455 = 195
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                        | Quantity, g | %   | Note                                                                                 |
-| --------------------------------- | ----------- | --- | ------------------------------------------------------------------------------------ |
-| Milk                              | 1040        |     | 5 pcs.                                                                               |
-| Cream (30%)                       | 260         |     | or use 190g milk + 30% fat (70g butter); I was aiming for ~20% cream out of all milk |
-| Sugar                             | 100         |     |                                                                                      |
-| Vanilla                           | to taste    |     |                                                                                      |
-| Salt                              | to taste    |     |                                                                                      |
-| [[Gelatin]]                       | 13          |     |                                                                                      |
-| Water; cold (for gelatin soaking) | 78          |     |                                                                                      |
-|                                   |             |     |                                                                                      |
-| **Overall weight**                |             |     |                                                                                      |
+| Ingredient                        | Quantity, g | %   | Note                                |
+| --------------------------------- | ----------- | --- | ----------------------------------- |
+| Milk                              | 1040        |     |                                     |
+| Cream (30%)                       | 260         |     | aiming for ~20% cream based on milk |
+| Milk 2 (if not using cream)       | 190         |     |                                     |
+| Butter (if not using cream)       | 70          |     |                                     |
+| Sugar                             | 100         |     |                                     |
+| Vanilla                           | to taste    |     |                                     |
+| Salt                              | to taste    |     |                                     |
+| [[Gelatin]]                       | 13          |     |                                     |
+| Water; cold (for gelatin soaking) | 60          |     |                                     |
+|                                   |             |     |                                     |
+| **Overall weight**                |             |     |                                     |
 
 
 
@@ -63,9 +65,11 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 1. Soak the gelatin in cold water.
 2. Heat milk, sugar, cream (or milk and butter), salt until the sugar dissolves.
-3. Adjust the salt to taste and mix in the soaked gelatin.
-4. Pour into the ramekins, allow to cool slightly. 
-5. Put into the fridge until set.
+3. Adjust the sugar and salt to taste and mix in the soaked gelatin.
+4. If using butter and milk instead of cream, blend the mixture together with a few pinches of xanthan gum.
+5. Add vanilla, stir.
+6. Pour into the ramekins, allow to cool slightly. 
+7. Put into the fridge until set.
 
 
 

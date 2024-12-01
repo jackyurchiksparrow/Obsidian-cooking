@@ -2,17 +2,18 @@
 tags:
   - "#sourdough"
   - nextday
-date: ""
-hydration: 
-bulk fermentation: 
-cold retard: 
+date: 2024-12-01
+hydration: 70.7
+bulk fermentation: 8h
+cold retard: 14h
 outcome: 
 thumbnail: 
-yield: 3
-nutrition rating: 
+yield: 4
+nutrition rating: -1
 taste rating: 
 credit: 
 part_of_the_set:
+  - "[[Tomato sauce (custom)]]"
 ---
 ```dataviewjs
 while (!customJS?.state?._ready) { 

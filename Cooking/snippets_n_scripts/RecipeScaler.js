@@ -519,7 +519,10 @@ class RecipeScaler {
             // Track non-overall rows for calculations.
             if (!ingredient_title_lower.contains(RecipeScaler.OVERALL_WEIGHT_ROW) && !ingredient_title_lower.contains(RecipeScaler.OVERALL_HYDRATION_ROW)) {
                 rows_indexes.push(idx);
-                ingr_quanties.push(parseFloat(ingredient_qty) || 0);
+                if(ingredient_title_lower.contains("if not"))
+                    ingr_quanties.push(0.0);
+                else
+                    ingr_quanties.push(parseFloat(ingredient_qty) || 0);
                 ingr_labels_lower.push(ingredient_title_lower);
             }
     

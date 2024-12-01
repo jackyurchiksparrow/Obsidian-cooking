@@ -40,22 +40,23 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                 | Quantity, g          | %   | Note       |
-| -------------------------- | -------------------- | --- | ---------- |
-| Olive oil                  | 26                   |     | 2 tbsp.    |
-| Onion                      | 50                   |     | 1 smallest |
-| Garlic                     | 20                   |     | 6 cloves   |
-| Celery / celery salt       | a handful / to taste |     |            |
-| Tomatoes; skinless; canned | 400                  |     | 1 can      |
-| Basil                      | 1 tsp.               |     |            |
-| Oregano                    | 1/3 tsp.             |     |            |
-| Marjoram                   | a pinch              |     |            |
-| Rosemary                   | a pinch              |     |            |
-| Fennel seeds; ground       | a pinch              |     |            |
-| Salt                       | to taste             |     |            |
-| Pepper                     | to taste             |     |            |
-|                            |                      |     |            |
-| **Overall weight**         |                      |     |            |
+| Ingredient                                            | Quantity, g          | %   | Note       |
+| ----------------------------------------------------- | -------------------- | --- | ---------- |
+| Olive oil                                             | 26                   |     | 2 tbsp.    |
+| Onion                                                 | 50                   |     | 1 smallest |
+| Garlic                                                | 20                   |     | 6 cloves   |
+| Celery / celery salt                                  | a handful / to taste |     |            |
+| Tomatoes; skinless; canned                            | 400                  |     | 1 can      |
+| Basil                                                 | 1/2 tsp.             |     |            |
+| Oregano                                               | a big pinch          |     |            |
+| Marjoram                                              | a pinch              |     |            |
+| Rosemary                                              | a pinch              |     |            |
+| Fennel seeds; ground (or chopped fresh fennel stalks) | a pinch              |     |            |
+| Salt (if no celery salt used)                         | to taste             |     |            |
+| Sugar                                                 | a pinch              |     |            |
+| Pepper                                                | to taste             |     |            |
+|                                                       |                      |     |            |
+| **Overall weight**                                    |                      |     |            |
 
 
 
@@ -67,8 +68,9 @@ window.onerror = function (message, source, lineno, colno, error) {
 2. Heat the pan with oil.
 3. Add onion and sauté until translucent.
 4. Add garlic.
-5. Add tomatoes. Let them cook.
+5. Add tomatoes. Let them cook. Add water if too thick.
 6. Add the spices and season to taste.
+7. Blend the sauce.
 
 ---
 ## Nutrition Facts:
