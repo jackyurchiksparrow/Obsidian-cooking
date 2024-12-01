@@ -3,7 +3,7 @@ tags:
   - "#rye"
   - "#sourdough"
 date: 2024-11-03
-hydration: 74.3
+hydration: 75.2
 bulk fermentation: 4 h 48 min
 cold retard: 22 h
 outcome: overproofed
@@ -52,25 +52,24 @@ window.onerror = function (message, source, lineno, colno, error) {
 > [!tip] Too long in the fridge. Most likely A LACK OF DOUGH STRENGTH. I didn't perform a single lamination. Used warm windowsill so the temperature was high when going to the fridge. The poke test had already been showing a somewhat slow response. Either reduce the cold retard or put the bread into the fridge when the poke test gives a faster response. Reduced hydration 76->74.3%
 ## Ingredients
 
-###### 3
+###### 1
 ###### Scale
 ###### 24.3 +50 = 74.3
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                           | Quantity, g | Baker's % | %   | Note |
-| ---------------------------------------------------- | ----------- | --------- | --- | ---- |
-| [[Fruit water]]                                      | 180         |           |     |      |
-| Water                                                | 340         |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (50%)]] | 90          |           |     |      |
-| Honey                                                | 25          |           |     |      |
-| Sea salt                                             | 15          |           |     |      |
-| [[Flours\|Wheat flour (HH Manitoba)]]                | 442         |           |     |      |
-| [[Flours\|Whole rye flour (Лавка традицій)]]         | 170         |           |     |      |
-| [[Flours\|Whole wheat flour (Caputo)]]               | 68          |           |     |      |
-|                                                      |             |           |     |      |
-| **Overall hydration**                                |             |           |     |      |
-| **Overall weight**                                   |             |           |     |      |
+| Ingredient                                                 | Quantity, g | Baker's % | %   | Note |
+| ---------------------------------------------------------- | ----------- | --------- | --- | ---- |
+| Water                                                      | 520         |           |     |      |
+| [[Sourdough starter types\|Sourdough starter (60%)]]       | 90          |           |     |      |
+| Honey                                                      | 25          |           |     |      |
+| Sea salt                                                   | 15          |           |     |      |
+| [[Flours\|Wheat flour (HH Manitoba)]]                      | 442         |           |     |      |
+| [[Flours\|Whole rye flour (Лавка традицій or Metro Chef)]] | 170         |           |     |      |
+| [[Flours\|Whole wheat flour (Caputo)]]                     | 68          |           |     |      |
+|                                                            |             |           |     |      |
+| **Overall hydration**                                      |             |           |     |      |
+| **Overall weight**                                         |             |           |     |      |
 
 
 

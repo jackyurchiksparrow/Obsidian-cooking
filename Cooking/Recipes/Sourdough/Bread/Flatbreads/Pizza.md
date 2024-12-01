@@ -28,21 +28,6 @@ window.onerror = function (message, source, lineno, colno, error) {
 	}
     };
 ```
-```dataviewjs
-while (!customJS?.state?._ready) { 
-	await new Promise(resolve => setTimeout(resolve, 50)); 
-} 
-
-const {RecipeScaler} = await cJS();
-RecipeScaler.RecipeScaler();
-
-window.onerror = function (message, source, lineno, colno, error) {
-	if (error instanceof TypeError && message.includes("Cannot read properties of undefined")) {
-		RecipeScaler.RecipeScaler();
-		return true;
-	}
-    };
-```
 
 | Banneton | Scoring | Appearance | Crumb |
 | -------- | ------- | ---------- | ----- |
