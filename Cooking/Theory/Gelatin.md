@@ -1,9 +1,13 @@
 
+## Definition
+
 Gelatin is an animal protein derived from collagen. The cheapest way to make it is applying water and heat to pork skins, then dry and grind everything.
+
+## Forms
 
 Gelatin can be found in the form of sheets or powder. They don't have any direct correlation between each other, so **sheets and powders are the same**. They are the same terms of blooming strength.
 
-## Gelatin sheets
+### Gelatin sheets
 
 More commonly found in the professional kitchen. There are four grades of sheets based on their **bloom strength**:
 - bronze - 125 - 155 strength (3.3 g)
@@ -13,7 +17,7 @@ More commonly found in the professional kitchen. There are four grades of sheets
 
 ! But, each of them have weights per sheet, the more the weight, the less blooming strength. It means that **any sheet grade will be exactly the same as any other**, the only difference is weight.
 
-## Gelatin powder
+### Gelatin powder
 
 
 ## How much gelatin to use?
