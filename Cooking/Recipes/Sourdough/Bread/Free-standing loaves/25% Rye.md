@@ -60,12 +60,12 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                                 | Quantity, g | Baker's % | %   | Note |
 | ---------------------------------------------------------- | ----------- | --------- | --- | ---- |
-| Water                                                      | 520         |           |     |      |
+| Water                                                      | 526         |           |     |      |
 | [[Sourdough starter types\|Sourdough starter (60%)]]       | 90          |           |     |      |
 | Honey                                                      | 25          |           |     |      |
 | Sea salt                                                   | 15          |           |     |      |
-| [[Flours\|Wheat flour (HH Manitoba)]]                      | 442         |           |     |      |
-| [[Flours\|Whole rye flour (Лавка традицій or Metro Chef)]] | 170         |           |     |      |
+| [[Flours\|Wheat flour (HH Manitoba)]]                      | 435         |           |     |      |
+| [[Flours\|Whole rye flour (Лавка традицій or Metro Chef)]] | 186         |           |     |      |
 | [[Flours\|Whole wheat flour (Caputo)]]                     | 68          |           |     |      |
 |                                                            |             |           |     |      |
 | **Overall hydration**                                      |             |           |     |      |
