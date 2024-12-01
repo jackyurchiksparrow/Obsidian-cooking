@@ -1,16 +1,16 @@
 ---
 tags:
   - sweet
-  - egg_whites
+  - nextday
   - no-bake
-date: ""
+date: 2024-12-01
 thumbnail: 
-passive time: 
-active time: 
-yield: 
+passive time: 8 h
+active time: 30 min
+yield: 6
 nutrition rating: 
 taste rating: 
-credit: 
+credit: me
 part_of_the_set:
 ---
 ```dataviewjs
@@ -37,25 +37,26 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ## Ingredients
 
-###### 0.85
+###### 1
 ###### Scale
-###### 650 -455 = 195
+###### 884+162 = 1046
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                        | Quantity, g | %   | Note                                |
-| --------------------------------- | ----------- | --- | ----------------------------------- |
-| Milk                              | 1040        |     |                                     |
-| Cream (30%)                       | 260         |     | aiming for ~20% cream based on milk |
-| Milk 2 (if not using cream)       | 190         |     |                                     |
-| Butter (if not using cream)       | 70          |     |                                     |
-| Sugar                             | 100         |     |                                     |
-| Vanilla                           | to taste    |     |                                     |
-| Salt                              | to taste    |     |                                     |
-| [[Gelatin]]                       | 13          |     |                                     |
-| Water; cold (for gelatin soaking) | 60          |     |                                     |
-|                                   |             |     |                                     |
-| **Overall weight**                |             |     |                                     |
+| Ingredient                                   | Quantity, g | %   | Note                                |
+| -------------------------------------------- | ----------- | --- | ----------------------------------- |
+| Milk                                         | 884         |     |                                     |
+| Cream (30%)                                  | 221         |     | aiming for ~20% cream based on milk |
+| Milk 2 (if not using cream)                  | 162         |     |                                     |
+| Butter (if not using cream)                  | 60          |     |                                     |
+| [[Xanthan gum (E 415)]] (if not using cream) |             |     |                                     |
+| Sugar                                        | 85          |     |                                     |
+| Vanilla                                      | to taste    |     |                                     |
+| Salt                                         | to taste    |     |                                     |
+| [[Gelatin]]                                  | 13          |     |                                     |
+| Water; cold (for gelatin soaking)            | 52          |     |                                     |
+|                                              |             |     |                                     |
+| **Overall weight**                           |             |     |                                     |
 
 
 
