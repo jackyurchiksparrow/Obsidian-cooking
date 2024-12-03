@@ -4,7 +4,7 @@ tags:
   - nextday
   - no-bake
 date: 2024-12-01
-thumbnail: 
+thumbnail: https://lh3.googleusercontent.com/pw/AP1GczMPoX_ewxygpstlETb8hU0fRPN8YgsG5trrofvvieOhL4GxU750m8qkXqycJ7FCahk1uu4kzhBrw34Q4YP5J9USq9GJfTcbD_-UPTAWKzJ4szerPtJN62Mu9zgeTaQ-aWjbI8JMdvxitBNGAeAIPers=w1110-h858-s-no-gm?authuser=0
 passive time: 8 h
 active time: 30 min
 yield: 6
@@ -29,34 +29,33 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-**It was overbaked.**
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-|     |     |     |     |
+|                                                                                                                                                                                                                                                                                                         |     |     |     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- | --- |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczMPoX_ewxygpstlETb8hU0fRPN8YgsG5trrofvvieOhL4GxU750m8qkXqycJ7FCahk1uu4kzhBrw34Q4YP5J9USq9GJfTcbD_-UPTAWKzJ4szerPtJN62Mu9zgeTaQ-aWjbI8JMdvxitBNGAeAIPers=w1110-h858-s-no-gm?authuser=0)                                                                    |     |     |     |
+| - Adjusted volume for 6 ramekins (1 contains 290 ml if filled to the top the top). <br>- Lowered the sugar 85 -> 65<br>- Increased the amount of gelatin 13 -> 17.5 (I took [[Gelatin\|1% ratio]] and it was just set and very very jiggly and dessert-like, so I switched to [[Gelatin\|1.35% ratio]]) |     |     |     |
 
 ## Ingredients
 
 ###### 1
 ###### Scale
-###### 884+162 = 1046
+###### 884+162 + 60 = 1106
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                   | Quantity, g | %   | Note                                |
-| -------------------------------------------- | ----------- | --- | ----------------------------------- |
-| Milk                                         | 884         |     |                                     |
-| Cream (30%)                                  | 221         |     | aiming for ~20% cream based on milk |
-| Milk 2 (if not using cream)                  | 162         |     |                                     |
-| Butter (if not using cream)                  | 60          |     |                                     |
-| [[Xanthan gum (E 415)]] (if not using cream) |             |     |                                     |
-| Sugar                                        | 85          |     |                                     |
-| Vanilla                                      | to taste    |     |                                     |
-| Salt                                         | to taste    |     |                                     |
-| [[Gelatin]]                                  | 13          |     |                                     |
-| Water; cold (for gelatin soaking)            | 52          |     |                                     |
-|                                              |             |     |                                     |
-| **Overall weight**                           |             |     |                                     |
+| Ingredient                                   | Quantity, g | %   | Note                                              |
+| -------------------------------------------- | ----------- | --- | ------------------------------------------------- |
+| Milk                                         | 884         |     |                                                   |
+| Cream (30%)                                  | 221         |     | aiming for ~20% cream based on milk               |
+| Milk 2 (if not using cream)                  | 162         |     |                                                   |
+| Butter (if not using cream)                  | 60          |     |                                                   |
+| [[Xanthan gum (E 415)]] (if not using cream) | a pinch     |     | for butter and milk not to separate in the fridge |
+| Sugar                                        | 65          |     |                                                   |
+| Vanilla                                      | to taste    |     |                                                   |
+| Salt                                         | to taste    |     |                                                   |
+| [[Gelatin]]                                  | 17          |     |                                                   |
+| Water; cold (for gelatin soaking)            | 52          |     |                                                   |
+|                                              |             |     |                                                   |
+| **Overall weight**                           |             |     |                                                   |
 
 
 

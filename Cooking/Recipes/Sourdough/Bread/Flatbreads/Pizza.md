@@ -9,7 +9,7 @@ cold retard: 14h
 outcome: 
 thumbnail: 
 yield: 4
-nutrition rating: -1
+nutrition rating: 
 taste rating: 
 credit: 
 part_of_the_set:
@@ -58,7 +58,8 @@ window.onerror = function (message, source, lineno, colno, error) {
 | **Overall weight**                                   |             |           |     |                                              |
 |                                                      |             |           |     |                                              |
 | **Sauce**                                            |             |           |     |                                              |
-| [[Tomato sauce (custom)\|Tomato sauce]]              | 200         |           |     | for 4 pizzas (300 g each)                    |
+| [[Tomato sauce (custom)\|Tomato sauce]]              | 500         |           |     | for 3 pizzas (400 g each)                    |
+| Cheese                                               | 180         |           |     |                                              |
 |                                                      |             |           |     |                                              |
 | **Overall weight**                                   |             |           |     |                                              |
 
