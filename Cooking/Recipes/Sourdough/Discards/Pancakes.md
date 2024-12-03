@@ -13,6 +13,7 @@ taste rating: 9
 credit: https://www.theclevercarrot.com/2020/10/sourdough-discard-101-recipes-faqs-answered-pancakes/
 part_of_the_set:
   - "[[Chocolate sauce]]"
+  - "[[Orange marmalade]]"
 ---
 ```dataviewjs
 while (!customJS?.state?._ready) { 
@@ -50,7 +51,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Sugar                                                | 40          |           |     |                     |
 | Salt; fine                                           |             |           |     | 1/2 tsp.            |
 | Baking powder                                        |             |           |     | 2 tsp.              |
-| Baking soda                                          |             |           |     | 1 tsp.              |
+| Baking soda                                          | 6           |           |     | 1 tsp.              |
 | Eggs                                                 | 100         |           |     | 2 pcs.              |
 | Milk                                                 | 280         |           |     |                     |
 | Butter / olive oil                                   | 42          |           |     |                     |
