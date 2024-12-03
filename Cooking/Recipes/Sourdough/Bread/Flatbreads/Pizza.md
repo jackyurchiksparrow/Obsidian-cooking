@@ -74,6 +74,11 @@ window.onerror = function (message, source, lineno, colno, error) {
 ---
 ## Directions:
 
+1. Make the dough. Chill it (optional). [[Sourdough bread making steps]]
+2. Prepare the sauce.
+3. Divide the dough into 400g pieces and round them tightly. Bring the dough as close to room temperature as possible.
+4. Make sure the dough ball you are working with is as round as possible. Tap with your fingers to flatten eat and start stretching using 3 motions (you take one half of the dough, throw it up onto your hand, then down immediately and rotate dough). Do it quickly so the dough can be stretched by its own weight. Make sure you pressed all the air from the center to the sides.
+5. Apply oil, then the sauce, the cheese and bake for ~10 minutes at the middle level of the oven at the highest temperature you can have; with fan. Enjoy warm.
 
 
 ---
