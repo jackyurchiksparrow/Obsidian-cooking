@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: 
 date: ""
 thumbnail: 
 passive time: 
@@ -9,6 +9,7 @@ nutrition rating:
 taste rating: 
 credit: me (inspired by Jamie Oliver's)
 part_of_the_set:
+  - "[[Burger buns & Hot dog buns & Soft rolls]]"
 ---
 ```dataviewjs
 while (!customJS?.state?._ready) { 
@@ -48,7 +49,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | [[Mayonnaise (classic)\|Mayonnaise (Hellmanns if store bought)]] |             |     |                          |
 | Pickles                                                          |             |     |                          |
 | Ketchup / [[Tomato sauce (custom)]]                              |             |     |                          |
-|                                                                  |             |     |                          |
+| Mustard                                                          |             |     |                          |
 |                                                                  |             |     |                          |
 |                                                                  |             |     |                          |
 |                                                                  |             |     |                          |
