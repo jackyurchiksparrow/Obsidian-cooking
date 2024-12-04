@@ -43,25 +43,25 @@ The recipe is taken from the "Soft dinner rolls" by Maurizio Leo's "Perfect loaf
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                                       | Quantity, g | Baker's % | %   | Note                                                       |
-| ---------------------------------------------------------------- | ----------- | --------- | --- | ---------------------------------------------------------- |
-| Water                                                            | 255         |           |     |                                                            |
-| [[Sourdough starter types\|Sourdough starter (60%)]]             | 90          |           |     | **The levain also contains 7 g of sugar!**                 |
-| Sea salt                                                         | 11          |           |     |                                                            |
-| [[Flours\|Wheat flour (HH Manitoba)]]                            | 478         |           |     |                                                            |
-| [[Flours\|Whole wheat flour (Caputo)]]                           | 72          |           |     |                                                            |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]] ([[tangzhong]]) | 41          |           |     |                                                            |
-| Whole milk ([[tangzhong]])                                       | 166         |           |     |                                                            |
-| Butter; softened                                                 | 95          |           |     |                                                            |
-| Sugar                                                            | 32          |           |     | 9 baker's % for sweet rolls, 5 baker's % - for burger buns |
-|                                                                  |             |           |     |                                                            |
-| **Overall hydration**                                            |             |           |     |                                                            |
-| **Overall weight**                                               |             |           |     |                                                            |
-|                                                                  |             |           |     |                                                            |
-| Egg yolk                                                         | 20          |           |     | 1 pc.; for egg wash                                        |
-| Milk                                                             | 10          |           |     | 1 tbsp.; for egg wash                                      |
-| Sesame seeds                                                     |             |           |     | for sprinkling on top                                      |
-| **Overall weight**                                               |             |           |     |                                                            |
+| Ingredient                                                       | Quantity, g | Baker's % | %   | Note                                                                                      |
+| ---------------------------------------------------------------- | ----------- | --------- | --- | ---------------------------------------------------------------------------------------- |
+| Water                                                            | 255         |           |                                                                                                 |
+| [[Sourdough starter types\|Sourdough starter (60%)]]             | 90          |           |     | **The levain also contains 7 g of sugar                                                   |
+| Sea salt                                                         | 11          |           |                                                                                                 |
+| [[Flours\|Wheat flour (HH Manitoba)]]                            | 478         |           |                                                                                                 |
+| [[Flours\|Whole wheat flour (Caputo)]]                           | 72          |           |                                                                                                 |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]] ([[tangzhong]]) | 41          |           |                                                                                                 |
+| Whole milk ([[tangzhong]])                                       | 166         |                                                                                                             |
+| Butter; softened                                                 | 95          |          it was suggested to have 35 baker's % butter for the burger buns, but I didn't go for it I didn't  |
+| Sugar                                                            | 32          |           |     | 9 baker's % for sweet rolls, 5 baker's % - for b                                          |
+|                                                                  |             |                                                                                                             |
+| **Overall hydration**                                            |             |                                                                                                             |
+| **Overall weight**                                               |             |                                                                                                             |
+|                                                                  |             |                                                                                                             |
+| Egg yolk                                                         | 20          |           |     | 1 pc                                                                                      |
+| Milk                                                             | 10          |           |     | 1 tbs                                                                                     |
+| Sesame seeds                                                     |             |           |     | for                                                                                       |
+| **Overall weight**                                               |             |                                                                                                             |
 
 
 
