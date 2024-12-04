@@ -2,7 +2,7 @@
 tags:
   - "#sourdough"
 date: ""
-hydration: 
+hydration: 70.2
 bulk fermentation: 
 cold retard: 0 h
 outcome: 
@@ -39,29 +39,29 @@ The recipe is taken from the "Soft dinner rolls" by Maurizio Leo's "Perfect loaf
 
 ###### 1
 ###### Scale
-###### 1260/105 = 12
+###### 1240/10 = 124
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                                       | Quantity, g | Baker's % | %   | Note                                       |
-| ---------------------------------------------------------------- | ----------- | --------- | --- | ------------------------------------------ |
-| Water                                                            | 254         |           |     |                                            |
-| [[Sourdough starter types\|Sourdough starter (60%)]]             | 90          |           |     | **The levain also contains 7 g of sugar!** |
-| Sea salt                                                         | 11          |           |     |                                            |
-| [[Flours\|Wheat flour (HH Manitoba)]]                            | 478         |           |     |                                            |
-| [[Flours\|Whole wheat flour (Caputo)]]                           | 72          |           |     |                                            |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]] ([[tangzhong]]) | 41          |           |     |                                            |
-| Whole milk ([[tangzhong]])                                       | 166         |           |     |                                            |
-| Butter; softened                                                 | 95          |           |     |                                            |
-| Sugar                                                            | 53          |           |     |                                            |
-|                                                                  |             |           |     |                                            |
-| **Overall hydration**                                            |             |           |     |                                            |
-| **Overall weight**                                               |             |           |     |                                            |
-|                                                                  |             |           |     |                                            |
-| Egg yolk                                                         | 20          |           |     | 1 pc.; for egg wash                        |
-| Milk                                                             | 10          |           |     | 1 tbsp.; for egg wash                      |
-| Sesame seeds                                                     |             |           |     | for sprinkling on top                      |
-| **Overall weight**                                               |             |           |     |                                            |
+| Ingredient                                                       | Quantity, g | Baker's % | %   | Note                                                       |
+| ---------------------------------------------------------------- | ----------- | --------- | --- | ---------------------------------------------------------- |
+| Water                                                            | 255         |           |     |                                                            |
+| [[Sourdough starter types\|Sourdough starter (60%)]]             | 90          |           |     | **The levain also contains 7 g of sugar!**                 |
+| Sea salt                                                         | 11          |           |     |                                                            |
+| [[Flours\|Wheat flour (HH Manitoba)]]                            | 478         |           |     |                                                            |
+| [[Flours\|Whole wheat flour (Caputo)]]                           | 72          |           |     |                                                            |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]] ([[tangzhong]]) | 41          |           |     |                                                            |
+| Whole milk ([[tangzhong]])                                       | 166         |           |     |                                                            |
+| Butter; softened                                                 | 95          |           |     |                                                            |
+| Sugar                                                            | 32          |           |     | 9 baker's % for sweet rolls, 5 baker's % - for burger buns |
+|                                                                  |             |           |     |                                                            |
+| **Overall hydration**                                            |             |           |     |                                                            |
+| **Overall weight**                                               |             |           |     |                                                            |
+|                                                                  |             |           |     |                                                            |
+| Egg yolk                                                         | 20          |           |     | 1 pc.; for egg wash                                        |
+| Milk                                                             | 10          |           |     | 1 tbsp.; for egg wash                                      |
+| Sesame seeds                                                     |             |           |     | for sprinkling on top                                      |
+| **Overall weight**                                               |             |           |     |                                                            |
 
 
 
@@ -74,7 +74,7 @@ The recipe is taken from the "Soft dinner rolls" by Maurizio Leo's "Perfect loaf
 2. To the bowl of a stand mixer fitted with the dough hook, add the tangzhong, flour, sugar, water, salt, and ripe levain. Mix on low speed for 1 to 2 minutes until combined. Increase the mixer speed to medium and mix for 5 to 6 minutes until the dough begins to cling to the dough hook, but it doesn’t completely clear the sides of the mixing bowl. 
 3. Let the dough rest in the bowl, covered, for 10 minutes.
 4. With the mixer running on low speed, add the butter, one pat at a time, until absorbed into the dough, scraping down the sides of the bowl and the dough hook as needed. Continue until all the butter is added, 5 to 8 minutes. Increase the speed to medium and mix for 1 to 2 minutes more, until the dough smooths out and clings to the dough hook once again. The dough will be silky smooth, elastic, and a little shiny. Transfer to a container for bulk fermentation.
-5. When the dough has risen significantly, divide it into 12 pieces of 105g each.
+5. When the dough has risen significantly, divide it into 10 pieces of 124g each.
 6. Shape each piece of dough into a tight ball.
 7. Line the tray with a parchment paper. Place the balls onto a baking tray for a final proof. Use the [[Poke test]] to assess their readiness.
 8. Remove the parchment with buns from the tray. Place it in the middle position and preheat the oven to 425°F (220°C).
