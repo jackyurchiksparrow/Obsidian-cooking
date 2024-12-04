@@ -46,8 +46,8 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Butter                                                           |             |     |                          |
 | Olive oil                                                        |             |     |                          |
 | [[Mayonnaise (classic)\|Mayonnaise (Hellmanns if store bought)]] |             |     |                          |
-|                                                                  |             |     |                          |
-|                                                                  |             |     |                          |
+| Pickles                                                          |             |     |                          |
+| Ketchup / [[Tomato sauce (custom)]]                              |             |     |                          |
 |                                                                  |             |     |                          |
 |                                                                  |             |     |                          |
 |                                                                  |             |     |                          |
