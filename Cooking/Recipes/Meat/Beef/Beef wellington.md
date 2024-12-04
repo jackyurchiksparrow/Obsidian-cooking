@@ -14,7 +14,7 @@ nutrition rating:
 taste rating: 
 credit: https://www.gordonramsay.com/gr/recipes/beef-wellington/
 part_of_the_set:
-  - "[[Hollandaise]]"
+  - "[[Hollandaise (classic egg yolk-butter sauce)]]"
 ---
 ```dataviewjs
 while (!customJS?.state?._ready) { 
