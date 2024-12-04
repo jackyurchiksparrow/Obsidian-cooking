@@ -71,7 +71,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ### Batter
 
-**For thick and fluffy pancakes:** Combine the wet and dry ingredients EXCEPT for the baking powder and baking soda. Whisk well, cover and chill overnight. The next day, sift the powders directly over the bowl and whisk again to combine. The texture should be thick, bubbly, and pourable. Add extra milk, 1 tbsp. at a time, to thin out the texture if needed. Let the batter sit for at least 5 minutes to aerate; it should be nice and bubbly before using. The batter can be used cold. 
+**For thick and fluffy pancakes:** Combine the wet and dry ingredients EXCEPT for the baking powder and baking soda. Whisk well, cover and chill overnight. The next day, sift the powders directly over the bowl and whisk again to combine. **The consistency should be thick-ish, bubbly, and pourable.** Add extra milk, 1 tbsp. at a time, to thin out the texture if needed. Let the batter sit for at least 5 minutes to aerate; it should be nice and bubbly before using. The batter can be used cold. 
 
 > Heat the milk slightly and soak the stiff starter, then homogenize it.
 
@@ -81,7 +81,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ### Cooking
 
-1. Preheat the pan to max and then reduce heat slightly.
+1. Preheat the pan to max and then reduce heat slightly. Apply a tiny bit of oil with a paper towel.
 2. Pour the batter into the center and distribute all over the pan. Cover with a lid.
 3. When bubble formation starts stopping and some larger bubbles appear, turn them over. Cook with no lid. Done.
 
