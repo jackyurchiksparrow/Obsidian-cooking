@@ -35,7 +35,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ## Ingredients
 
-###### 1
+###### 2
 ###### Scale
 ###### 11.5+37.4 = 100.1
 ###### Calculate
@@ -78,8 +78,8 @@ window.onerror = function (message, source, lineno, colno, error) {
 1. Melt and brown the butter, then let cool until room temperature while stirring occasionally. 
 2. Mix butter, white sugar, vanilla sugar and vanilla extract.  
 3. Sieve and mix the dry ingredients, then add them to the butter-sugar mixture and blend until everything is well combined.  
-4. In pieces of 9 g, put in molds and freeze for 10 minutes.  
-5. Bake from frozen, for 14-16 minutes at 175° C (350° F).  
+4. Cut small balls ~10g and smash them lightly. They will have spread after baking so you don't want to squeeze them to desired size at this stage.  
+5. Bake for 14-16 minutes at 180° C.  
 6. Let cool on a wire rack and turn half of the cookies upside down.
 
 ### Filling
@@ -90,8 +90,6 @@ window.onerror = function (message, source, lineno, colno, error) {
  4. Punch out circles slightly smaller than the cookies.  
  5. Freeze until solid and then put the filling on the upside down cookies.  
  6. When the filling has thawed, gently put the cookies together.
-
-> [!Tip] Adding the dry fruit to the liquid ingredients helps us ensure they start plumping up and won't burn in the oven.
 
 
 ---
