@@ -76,7 +76,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 5. Lay a large sheet of cling film on a work surface and place 4 slices of Parma ham in the middle, overlapping them slightly, to create a square. Spread half the duxelle evenly over the ham.
 6. Season the beef fillets, then place them on top of the mushroom-covered ham. Using the cling film, roll the Parma ham over the beef, then roll and tie the cling film to get a nice, evenly thick log. Repeat this step with the other beef fillet, then chill for at least 30 minutes.
 7. Brush the pastry with the egg wash. Remove the cling film from the beef, then wrap the pastry around each ham-wrapped fillet. Trim the pastry and brush all over with the egg wash. Cover with cling film and chill for at least 30 minutes.
-10. When you are ready to cook the beef wellingtons, score the pastry lightly and brush with the egg wash again, then bake at 200°C/Gas 6 for 15-20 minutes until the pastry is golden brown and cooked. Reduce the temperature to 180C no fan, cover and cook to the [[Beef cooking chart|desired temperature]]. Rest for 10 minutes before carving.
+10. When you are ready to cook the beef wellingtons, score the pastry lightly and brush with the egg wash again, then bake at 200°C/Gas 6 for 15-20 minutes until the pastry is golden brown and cooked. Reduce the temperature to 180C no fan, cover and cook to the [[Beef cooking chart temperatures|desired temperature]]. Rest for 10 minutes before carving.
 11. Meanwhile, reheat the sauce. Serve the beef wellingtons sliced, with the sauce as an accompaniment.
 
 ---

@@ -78,7 +78,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 1. Melt and brown the butter, then let cool until room temperature while stirring occasionally. 
 2. Mix butter, white sugar, vanilla sugar and vanilla extract.  
 3. Sieve and mix the dry ingredients, then add them to the butter-sugar mixture and blend until everything is well combined.  
-4. Cut small balls ~10g and smash them lightly. They will have spread after baking so you don't want to squeeze them to desired size at this stage.  
+4. Cut small balls ~10g and smash them lightly. They will have spread after baking so you don't want to squeeze them to desired size at this stage. It is also best to squeeze them with something that would leave a cool imprint on the surface.
 5. Bake for 14-16 minutes at 180° C.  
 6. Let cool on a wire rack and turn half of the cookies upside down.
 
