@@ -42,7 +42,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient            | Quantity, g | %   | Note                       |
 | --------------------- | ----------- | --- | -------------------------- |
-| Egg yolk              | 40          |     | 1 pc.                      |
+| Egg yolk              | 20          |     | 1 pc.                      |
 | Mustard               | 5           |     | 1 tsp.                     |
 | Oil                   | 50          |     | until thick enough for you |
 | Lemon juice / vinegar | 7           |     | 1/2 tbsp.                  |
