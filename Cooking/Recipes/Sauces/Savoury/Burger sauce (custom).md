@@ -51,7 +51,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Pickles                                                                  | 80          |     | 2 small ones                                                  |
 | Ketchup / [[Tomato sauce (custom)]] / Roasted tomatoes / Roasted peppers | 20          |     | Going with ketchup this time. Grams are specified for ketchup |
 | Mustard / vinegar                                                        | 7           |     | 1 tbsp.                                                       |
-| Roasted garlic (optional)                                                |             |     |                                                               |
+| Roasted garlic (optional)                                                | 10          |     |                                                               |
 | Chives / parsley                                                         | 15          |     |                                                               |
 | Salt (if no celery salt used)                                            | to taste    |     |                                                               |
 | Pepper                                                                   | to taste    |     |                                                               |
