@@ -13,6 +13,7 @@ taste rating:
 credit: Perfect loaf book
 part_of_the_set:
   - "[[Burger sauce (custom)]]"
+  - "[[Beef cheeseburger]]"
 ---
 ```dataviewjs
 while (!customJS?.state?._ready) { 
