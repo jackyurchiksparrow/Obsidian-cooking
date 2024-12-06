@@ -41,22 +41,22 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                                               | Quantity, g | %   | Note                                  |
-| ------------------------------------------------------------------------ | ----------- | --- | ------------------------------------- |
-| Leeks                                                                    | 150         |     | 1 middle-sized / 1/2 large            |
-| Onions                                                                   | 125         |     | 1 big                                 |
-| Sugar                                                                    | a pinch     |     |                                       |
-| Butter + Olive oil                                                       | 20          |     | 50/50                                 |
-| [[Mayonnaise (classic)]] (Hellmanns if store bought)                     | 80          |     |                                       |
-| Pickles                                                                  | 80          |     | 2 small ones                          |
-| Ketchup / [[Tomato sauce (custom)]] / Roasted tomatoes / Roasted peppers | 60          |     | Going with roasted tomatoes this time |
-| Mustard / vinegar                                                        | 14          |     | 1 tbsp.                               |
-| Roasted garlic (optional)                                                |             |     |                                       |
-| Chives / parsley                                                         | 15          |     |                                       |
-| Salt (if no celery salt used)                                            | to taste    |     |                                       |
-| Pepper                                                                   | to taste    |     |                                       |
-|                                                                          |             |     |                                       |
-| **Overall weight**                                                       |             |     |                                       |
+| Ingredient                                                               | Quantity, g | %   | Note                                                          |
+| ------------------------------------------------------------------------ | ----------- | --- | ------------------------------------------------------------- |
+| Leeks                                                                    | 150         |     | 1 middle-sized / 1/2 large                                    |
+| Onions                                                                   | 125         |     | 1 big                                                         |
+| Sugar                                                                    | a pinch     |     |                                                               |
+| Butter + Olive oil                                                       | 20          |     | 50/50                                                         |
+| [[Mayonnaise (classic)]] (Hellmanns if store bought)                     | 80          |     |                                                               |
+| Pickles                                                                  | 80          |     | 2 small ones                                                  |
+| Ketchup / [[Tomato sauce (custom)]] / Roasted tomatoes / Roasted peppers | 20          |     | Going with ketchup this time. Grams are specified for ketchup |
+| Mustard / vinegar                                                        | 7           |     | 1 tbsp.                                                       |
+| Roasted garlic (optional)                                                |             |     |                                                               |
+| Chives / parsley                                                         | 15          |     |                                                               |
+| Salt (if no celery salt used)                                            | to taste    |     |                                                               |
+| Pepper                                                                   | to taste    |     |                                                               |
+|                                                                          |             |     |                                                               |
+| **Overall weight**                                                       |             |     |                                                               |
 
 
 
