@@ -43,15 +43,14 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                                               | Quantity, g | %   | Note                                                          |
 | ------------------------------------------------------------------------ | ----------- | --- | ------------------------------------------------------------- |
-| Leeks                                                                    | 150         |     | 1 middle-sized / 1/2 large                                    |
-| Onions                                                                   | 125         |     | 1 big                                                         |
-| Sugar                                                                    | a pinch     |     |                                                               |
-| Butter + Olive oil                                                       | 20          |     | 50/50                                                         |
+| Onions                                                                   | 300         |     | 1 big                                                         |
+| Sugar                                                                    | 10          |     |                                                               |
+| Butter + Olive oil (50/50)                                               | 20          |     |                                                               |
 | [[Mayonnaise (classic)]] (Hellmanns if store bought)                     | 80          |     |                                                               |
 | Pickles                                                                  | 80          |     | 2 small ones                                                  |
 | Ketchup / [[Tomato sauce (custom)]] / Roasted tomatoes / Roasted peppers | 20          |     | Going with ketchup this time. Grams are specified for ketchup |
-| Mustard / vinegar                                                        | 7           |     | 1 tbsp.                                                       |
-| Roasted garlic (optional)                                                | 10          |     |                                                               |
+| Mustard / vinegar / lemon juice                                          | 7           |     | 1 tbsp.                                                       |
+| Roasted / sautéed garlic (optional)                                      | 10          |     |                                                               |
 | Chives / parsley                                                         | 15          |     |                                                               |
 | Salt (if no celery salt used)                                            | to taste    |     |                                                               |
 | Pepper                                                                   | to taste    |     |                                                               |
@@ -64,9 +63,19 @@ window.onerror = function (message, source, lineno, colno, error) {
 ---
 ## Directions:
 
+### Ketchup version
+
+1. Finely chop onions. Heat the pan with oil and butter.
+3. Add onions, salt (a tiny amount), sugar and caramelize. It takes time and low heat. Add water if you need throughout the process.
+4. Towards the end, finely chop garlic and add to the pan.
+5. Let everything cool and add to the bowl. (You may either want to blend everything or just chop.)
+6. Add chives / parsley. Season to taste. 
+
+### Roasted tomatoes/peppers option
+
 1. Preheat the oven to 180 fan. 
-2. Finely chop onions and leeks. Heat the pan with oil and butter.
-3. Add onions, leeks, salt (a tiny amount), a big pinch of sugar and caramelize. It takes time and low heat. Add water if you need throughout the process.
+2. Finely chop onions. Heat the pan with oil and butter.
+3. Add onions, salt (a tiny amount), a big pinch of sugar and caramelize. It takes time and low heat. Add water if you need throughout the process.
 4. Roast tomatoes / peppers and garlic (whole; oiled).
 5. Add tomatoes / peppers (peeled) and squeezed garlic to the bowl. Let them cool. You may either want to blend everything or just chop.
 6. Add the onions, mustard / vinegar, mayonnaise, chives / parsley. Season to taste. 

@@ -46,6 +46,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                            | Quantity, g | Baker's % | %   | Note                 |
 | ----------------------------------------------------- | ----------- | --------- | --- | -------------------- |
+| **Option 1 (more discard)**                           |             |           |     |                      |
 | [[Sourdough starter types\|Sourdough discard (50%)]]  | 300         |           |     | ~37% is whole wheat  |
 | Kefir / yoghurt / sour cream / buttermilk / ryazhenka | 400         |           |     |                      |
 | [[Flours\|Bread flour (Zernari) / any 00 flour]]      | 200         |           |     |                      |
@@ -56,14 +57,26 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Baking powder                                         | 5           |           |     | 1/2 tsp.             |
 | Olive oil                                             | 40          |           |     |                      |
 | Other inclusions (optional)                           |             |           |     | apples, raisins etc. |
+| Sauce                                                 | 400         |           |     |                      |
 |                                                       |             |           |     |                      |
 | **Overall weight**                                    |             |           |     |                      |
 | **Overall hydration**                                 |             |           |     |                      |
 |                                                       |             |           |     |                      |
-| Sauce                                                 | 400         |           |     |                      |
+| **Option 2 (more oladki)**                            |             |           |     |                      |
+| [[Sourdough starter types\|Sourdough discard (50%)]]  | 200         |           |     | ~37% is whole wheat  |
+| Kefir / yoghurt / sour cream / buttermilk / ryazhenka | 558         |           |     |                      |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]      | 367         |           |     |                      |
+| Sugar                                                 | 114         |           |     |                      |
+| Vanilla                                               | to taste    |           |     |                      |
+| Salt                                                  | 7           |           |     |                      |
+| Baking soda                                           | 13          |           |     | 1 tsp.               |
+| Baking powder                                         | 6           |           |     | 1/2 tsp.             |
+| Olive oil                                             | 50          |           |     |                      |
+| Other inclusions (optional)                           |             |           |     | apples, raisins etc. |
+| Sauce                                                 | 500         |           |     |                      |
 |                                                       |             |           |     |                      |
 | **Overall weight**                                    |             |           |     |                      |
-|                                                       |             |           |     |                      |
+| **Overall hydration**                                 |             |           |     |                      |
 
 
 
