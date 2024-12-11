@@ -3,7 +3,9 @@
 Involves precooking some of the flour in the recipe with a liquid, typically
 milk, until the mixture turns into a thick paste. Adding this paste to the
 dough brings softness and a little extra sweetness, making for
-extraordinarily tender and squishy rolls.
+extraordinarily tender and squishy rolls. 
+
+**It should be just a paste when being added to the dough, not a dry roux!**
 
 ### Tangzhong Timing
 

@@ -3,13 +3,13 @@ tags:
   - "#sourdough"
 date: ""
 hydration: 70.2
-bulk fermentation: 
-cold retard: 0 h
-outcome: 
-thumbnail: 
+bulk fermentation: 10 h
+cold retard: 12 h
+outcome: properly proofed
+thumbnail: https://lh3.googleusercontent.com/pw/AP1GczOkczLyX6yXbir1EBa244qCejeN7lKcKGxH0-Yu608qKbRxN9GRw3e2SwTWT11m06uU_0mdwehWiIFwCTzef_X7jQavfF9j0xRZFeu0aIYsYZIIeYyAu0D9tdkcimBHTqdvvLLKCGg-jaTPsx1fAroA=w1145-h858-s-no-gm?authuser=0
 yield: 10
 nutrition rating: 
-taste rating: 
+taste rating: 8
 credit: Perfect loaf book
 part_of_the_set:
   - "[[Burger sauce (custom)]]"
@@ -31,9 +31,11 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-| Banneton | Scoring | Appearance | Crumb |
-| -------- | ------- | ---------- | ----- |
-|          |         |            |       |
+|                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczPiYtfYdbucaFCy_ETfzAS6B5w-sYUJXAvo4twliiAq-Pkz5AlAojdP373mI8qw5BZoYy8fCQDlzic4JMGny71OBXyM_-2FfPfzfDov_GhDthsxTe1jiuEUVdwqZXIhrBZ-rEyHwnFcz-fXpkn_zEzx=w1145-h858-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczOD5WSioIkuV0HDcdISfcAkWEy99lIEK9Rs0HgzkgXNBlGgKHMx91PTtLWuHerJI8VK_gEawiZjV_LxR3eM_jvOKQJEva4suCuRF_hIdof8PI-yvAs0g8_BLijLBGAKJJlO1h4PfeT7joAEEfJi4dPP=w1088-h858-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczPkgNnnyF1p_HwO7rXTokzYao4UR6GUXkpMDxP9isW1UeMLoyzxs1_qWgxJZe4DpGEMjaiA7YNGykCt-lPXDRYpylesP-kzljlNfPJ4POERQbSK9wm0Tyydsoi1tkZ1N2pghZGFSwQMNr2-ngVe2RZR=w1109-h858-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczOkczLyX6yXbir1EBa244qCejeN7lKcKGxH0-Yu608qKbRxN9GRw3e2SwTWT11m06uU_0mdwehWiIFwCTzef_X7jQavfF9j0xRZFeu0aIYsYZIIeYyAu0D9tdkcimBHTqdvvLLKCGg-jaTPsx1fAroA=w1145-h858-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczOMCgjTn54xlePsXAk8l-2jK5m4BBfIiYtGSJOQUVTE-7B6HikCHzpVjgLkKw4UlvdZ6I3clxm65299wID144xxiF_aJCfS3WIVmGbJpWLAjFHrEirTyYYrA_ouVHcva4ieYCax9bp1o4kNPsmvYhmO=w1280-h797-s-no-gm?authuser=0) |
+| Kneaded in the stand mixer                                                                                                                                                                                                           | After the cold retard                                                                                                                                                                                                                | Before baking                                                                                                                                                                                                                        | Baked                                                                                                                                                                                                                                | Crumb                                                                                                                                                                                                                                |
+| Bulk: 7h + 12 h fridge + 3h bulk<br><br>- do not shape them too tight, only apply rotation movements, no folding<br>- start shaping them earlier, at 6 h<br><br>08.12.2024                                                           |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |
 
 The recipe is taken from the "Soft dinner rolls" by Maurizio Leo's "Perfect loaf" book. This version has less butter and looks softer.
 ## Ingredients
