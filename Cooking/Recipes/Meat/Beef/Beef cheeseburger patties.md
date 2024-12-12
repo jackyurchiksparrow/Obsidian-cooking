@@ -1,18 +1,17 @@
 ---
 tags:
   - beef
-  - sourdough_discard
-date: ""
-thumbnail: 
+date: 2024-12-08
+thumbnail: https://lh3.googleusercontent.com/pw/AP1GczO4uHyEBDHiznEyBKc6s1-0U5_jzz9tf-lzY3UzACcEo5x5nv58rHQi-padueF3q42De22b8M9tKr5zg3a3sVEvR5lXEbIrqP2gS9Vq8HZHJb-l6tfhEaL-N4A_0eooRKw1sVZwEzUsXDvAOZgwkt1I=w1081-h858-s-no-gm?authuser=0
 passive time: 
 active time: 
-yield: 
+yield: 8
 nutrition rating: 
 taste rating: 
 credit: https://www.youtube.com/shorts/mgFPnA7go4g
 part_of_the_set:
   - "[[Burger buns & Hot dog buns & Soft rolls]]"
-  - "[[Burger sauce (custom)]]"
+  - "[[Burger sauce (custom) draft]]"
 ---
 ```dataviewjs
 while (!customJS?.state?._ready) { 
@@ -30,10 +29,10 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
-|     |     |     |
+|                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczMofFdhhxxQCQFlNK6yI32qIfYUTBE7wI00060_bRuapl2reXTDFdr44loCbxOy9IN8Bmt-HAVteMpZ86pALMAV18Vcyy42iJGwfTxRBPFCDyYCAjwBmHeWlc1lBqTyUeZ2nQJ19pf6Gz6POg1IVosk=w1107-h858-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczOAskBIVb6T3kglQ2OJRyFc1Nu_Q_f1ki57w-JSRqow8psSZ8R2h_YoWO5K19xZDS6RVaHqWHsFy7PNNa1yYOPwfjqYL93G5cq14bnbhxKOwVsO7-dhKEoefo5UsrOhJvSpaw6E-KbS0o31sjSmIEjO=w1145-h858-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczO4uHyEBDHiznEyBKc6s1-0U5_jzz9tf-lzY3UzACcEo5x5nv58rHQi-padueF3q42De22b8M9tKr5zg3a3sVEvR5lXEbIrqP2gS9Vq8HZHJb-l6tfhEaL-N4A_0eooRKw1sVZwEzUsXDvAOZgwkt1I=w1081-h858-s-no-gm?authuser=0) |
+| - do not bake them anymore, use a tiny amount of oil, sear and steam them with the lid, making more flat<br>- try to make buns flatter or something<br>- do not add the ketchup to the sauce, it is really awkward. Just use mayo.   |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |
 
 > [!Tip] **DO NOT overmix the meat and DO NOT push the balls together TOO HARD when forming patties! The more proteins are compacted together, the more juices will be pushed out during baking! The less you handle the beef, the more tender they are going to be.** 
 > 

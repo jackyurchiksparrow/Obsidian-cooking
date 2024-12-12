@@ -1,15 +1,15 @@
 ---
 tags:
   - staple
-date: ""
-thumbnail: 
+date: 2024-12-08
+thumbnail: https://lh3.googleusercontent.com/pw/AP1GczOIbVeatN0ffAVJn8PF7JBb2uVoYfyS7aYQVylqT63n460x2BqCePtkCBvHyyyTUKY6eG-NFMfMRVI8YTK9JPRHzqTp5Thctr1tBOBgyXWWqghPKhwGK_ZKm3l-ohlxr5ovwCt0wL7eWsuW_BluO2eu=w1145-h858-s-no-gm?authuser=0
 passive time: 
 active time: 
 yield: 
 nutrition rating: 
 taste rating: 
 credit: 
-part_of_the_set: []
+part_of_the_set:
 ---
 ```dataviewjs
 while (!customJS?.state?._ready) { 
@@ -27,9 +27,9 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-|     |     |
-| --- | --- |
-|     |     |
+|                                                                                                                                                                                                                                      |     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczOIbVeatN0ffAVJn8PF7JBb2uVoYfyS7aYQVylqT63n460x2BqCePtkCBvHyyyTUKY6eG-NFMfMRVI8YTK9JPRHzqTp5Thctr1tBOBgyXWWqghPKhwGK_ZKm3l-ohlxr5ovwCt0wL7eWsuW_BluO2eu=w1145-h858-s-no-gm?authuser=0) |     |
 
 > [!tip] F
 ## Ingredients

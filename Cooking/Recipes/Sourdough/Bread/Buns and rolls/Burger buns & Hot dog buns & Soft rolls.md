@@ -12,7 +12,7 @@ nutrition rating:
 taste rating: 8
 credit: Perfect loaf book
 part_of_the_set:
-  - "[[Burger sauce (custom)]]"
+  - "[[Burger sauce (custom) draft]]"
   - "[[Beef cheeseburger patties]]"
 ---
 ```dataviewjs

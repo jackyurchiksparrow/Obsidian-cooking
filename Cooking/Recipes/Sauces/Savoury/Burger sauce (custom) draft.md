@@ -1,7 +1,8 @@
 ---
-tags: 
-date: ""
-thumbnail: 
+tags:
+  - draft
+date: 2024-12-08
+thumbnail: https://lh3.googleusercontent.com/pw/AP1GczOXnOdyyerzo1SMGHpoSXkRfMOYoHf2LN9hkqFPbXeaIlYir3mP0ephbfa7mR1Au73FYG2sVv8icY1Iw3GKusP-U8AuGH9OrQOaxkmtuTdXcZyZZQIRIz-fzVRdcjVxUpbUUpO3EsECTHbBSKNCNYuw=w1145-h858-s-no-gm?authuser=0
 passive time: 
 active time: 
 yield: 
@@ -27,10 +28,10 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-|     |     |     |     |
-| --- | --- | --- | --- |
-|     |     |     |     |
-|     |     |     |     |
+|                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczMBgMmam8vIluVTcq3gLK_IqwaNM3W-s_QVRxA59ZiOhpSyaFPnmEy5JgRQJMcIJcuyCoAfTgIwrBFnBwuvlqRFEm06R6psdxP8hmNvEtjaydgGWPX5m_elUN_Gd6vQkQQlkYBLxeQCNHItCuhkavgs=w1093-h858-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczOIbVeatN0ffAVJn8PF7JBb2uVoYfyS7aYQVylqT63n460x2BqCePtkCBvHyyyTUKY6eG-NFMfMRVI8YTK9JPRHzqTp5Thctr1tBOBgyXWWqghPKhwGK_ZKm3l-ohlxr5ovwCt0wL7eWsuW_BluO2eu=w1145-h858-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczOXnOdyyerzo1SMGHpoSXkRfMOYoHf2LN9hkqFPbXeaIlYir3mP0ephbfa7mR1Au73FYG2sVv8icY1Iw3GKusP-U8AuGH9OrQOaxkmtuTdXcZyZZQIRIz-fzVRdcjVxUpbUUpO3EsECTHbBSKNCNYuw=w1145-h858-s-no-gm?authuser=0) |     |
+| - double the mayo<br>- the ketchup is so bad here, tastes extra                                                                                                                                                                      |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |     |
 
 > [!tip] F
 ## Ingredients
