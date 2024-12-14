@@ -17,3 +17,11 @@ Ingredients:
 • 3 cup powdered sugar 
 • Food coloring (if desired) 
 • 1 1/2 tsp water (if needed)
+
+- In the bowl of a stand mixer or large mixing bowl, beat egg whites on medium-low speed until frothy, about 1 minute.
+    
+- With the mixer on low speed, slowly add in confectioners’ sugar and vanilla.
+    
+- Once fully incorporated, increase speed to medium-high and beat until stiff peaks shiny peaks form.
+    
+- Divide icing among small bowls, and dye with gel food coloring if desired. (Keep any icing that isn’t being immediately used covered with plastic wrap as it dries out very quickly.) Transfer to piping bags and decorate cookies.
