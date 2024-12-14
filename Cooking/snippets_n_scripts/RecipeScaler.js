@@ -32,7 +32,7 @@ class RecipeScaler {
     static ING_TBL_PERCENTAGE_COL = "%";
 
     // keywords for ingredients considered as "flour"; checked with contains(), lowercased
-    static ING_TBL_FLOUR_KEYS = ["flour", "malt"];
+    static ING_TBL_FLOUR_KEYS = ["flour", "malt", "cocoa powder"];
 
     // keywords for ingredients considered as "water"; checked with contains(), lowercased
     static ING_TBL_WATER_KEYS = ["water", "milk", "yolk"];

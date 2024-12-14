@@ -2,7 +2,7 @@
 tags:
   - "#sourdough"
 date: ""
-hydration: 70.5
+hydration: 70.6
 bulk fermentation: 
 cold retard: 
 outcome: 
@@ -44,7 +44,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                           | Quantity, g | Baker's % | %   | Note                                         |
 | ---------------------------------------------------- | ----------- | --------- | --- | -------------------------------------------- |
-| Water                                                | 288         |           |     |                                              |
+| Water                                                | 317         |           |     |                                              |
 | [[Sourdough starter types\|Sourdough starter (60%)]] | 90          |           |     | Fed overnight at 8 p.m 1:9., ready by 9 a.m. |
 | Sea salt                                             | 14          |           |     |                                              |
 | Sugar                                                | 80          |           |     |                                              |
