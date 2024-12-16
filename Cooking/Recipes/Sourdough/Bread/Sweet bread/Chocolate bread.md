@@ -50,7 +50,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Sugar                                                | 80          |           |     |                                              |
 | [[Cocoa powders\|Cocoa powder; Dutch-processed]]     | 32          |           |     |                                              |
 | [[Cocoa powders\|Cocoa powder; Heavily-alkalized]]   | 8           |           |     |                                              |
-| [[Flours\|Wheat flour (HH Manitoba)]]                | 320         |           |     |                                              |
+| [[Flours\|Wheat flour (HH Manitoba)]]                | 360         |           |     |                                              |
 | [[Flours\|Whole wheat flour (Caputo)]]               | 80          |           |     |                                              |
 | Chocolate; dark (70+%)                               | 150         |           |     |                                              |
 | Cranberries                                          | 80          |           |     |                                              |
