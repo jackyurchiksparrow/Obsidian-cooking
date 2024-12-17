@@ -8,7 +8,7 @@ bulk fermentation:
 cold retard: 
 outcome: 
 thumbnail: 
-yield: 4
+yield: 5
 nutrition rating: 
 taste rating: 
 credit: https://www.instagram.com/p/Clk92ONISbl/?igsh=MXQ2ZTI4cXZoMWhlYQ%3D%3D&img_index=3
