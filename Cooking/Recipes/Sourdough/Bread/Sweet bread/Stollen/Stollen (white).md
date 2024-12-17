@@ -14,6 +14,7 @@ taste rating:
 credit: https://www.daringgourmet.com/stollen-german-christmas-bread/#recipe
 part_of_the_set:
   - "[[Candied peels]]"
+  - "[[Marzipan]]"
 ---
 ```dataviewjs
 while (!customJS?.state?._ready) { 

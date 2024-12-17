@@ -8,12 +8,13 @@ bulk fermentation:
 cold retard: 
 outcome: 
 thumbnail: 
-yield: 
+yield: 4
 nutrition rating: 
 taste rating: 
 credit: https://www.instagram.com/p/Clk92ONISbl/?igsh=MXQ2ZTI4cXZoMWhlYQ%3D%3D&img_index=3
 part_of_the_set:
   - "[[Candied peels]]"
+  - "[[Marzipan]]"
 ---
 ```dataviewjs
 while (!customJS?.state?._ready) { 
@@ -38,7 +39,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 > [!tip] T
 ## Ingredients
 
-###### 1
+###### 0.667
 ###### Scale
 ###### 250+150 = 400
 ###### Calculate
@@ -55,7 +56,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Sea salt                                             | 20          |           |     |                                                               |
 | Butter                                               | 350         |           |     |                                                               |
 | Dried fruit                                          | 700         |           |     | 500-800                                                       |
-| Marzipan / poppy seed feeling                        | 500         |           |     | 400-500                                                       |
+| [[Marzipan]] / poppy seed feeling                    | 500         |           |     | 400-500                                                       |
 | Ground cardamom<br><br>                              | 3           |           |     | 1.5 tsp.                                                      |
 | Ground cinnamon                                      | 3           |           |     | 1 tsp.                                                        |
 | Ground mace (recommended but can substitute nutmeg)  | 3           |           |     | 1.5 tsp.                                                      |
@@ -78,11 +79,11 @@ window.onerror = function (message, source, lineno, colno, error) {
 ---
 ## Directions:
 
-Day 1: make the levain, soak the dried fruit in water + rum (optional) + orange juice (optional)
+Day 1: make the levain, soak the dried fruit in water + rum (optional) + orange juice (optional). Make the marzipan or poppy seed filling.
 Day 2:
 
 1. Mix the peaked levain, flour and water, cover, leave for 30 min.  
-2. Add salt and sugar and inverted sugar / honey and mix on low until absolutely smooth.
+2. Add salt and sugar and [[Inverted sugar|inverted sugar]] / honey and mix on low until absolutely smooth.
 3. Add butter in 2 batches. Regain the consistency.
 4. Let the dough rest for at least 10 minutes. Add the dried fruit on low.
 5. Collect the dough and round it, fermentation for 10-12 hours at 24-26° until ???. 
