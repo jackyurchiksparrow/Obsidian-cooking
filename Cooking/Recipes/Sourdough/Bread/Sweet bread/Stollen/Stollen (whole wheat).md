@@ -79,7 +79,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 ---
 ## Directions:
 
-Day 1: make the levain, soak the dried fruit in water + rum (optional) + orange juice (optional). Make the marzipan or poppy seed filling.
+Day 1: make the levain, soak the dried fruit in water + rum (optional) + orange juice (optional). Make the [[marzipan]] or poppy seed filling.
 Day 2:
 
 1. Mix the peaked levain, flour and water, cover, leave for 30 min.  
