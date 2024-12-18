@@ -42,17 +42,17 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                           | Quantity, g | Baker's % | %   | Note                        |
-| ---------------------------------------------------- | ----------- | --------- | --- | --------------------------- |
-| Water                                                | 506         |           |     |                             |
-| [[Sourdough starter types\|Sourdough starter (60%)]] | 90          |           |     | Fed overnight at 10 p.m 1:5 |
-| Sea salt                                             | 15          |           |     |                             |
-| [[Flours\|Wheat flour (HH Manitoba)]]                | 172         |           |     |                             |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 172         |           |     |                             |
-| [[Flours\|Whole wheat flour (Caputo)]]               | 345         |           |     |                             |
-|                                                      |             |           |     |                             |
-| **Overall hydration**                                |             |           |     |                             |
-| **Overall weight**                                   |             |           |     |                             |
+| Ingredient                                           | Quantity, g | Baker's % | %   | Note                         |
+| ---------------------------------------------------- | ----------- | --------- | --- | ---------------------------- |
+| Water                                                | 506         |           |     |                              |
+| [[Sourdough starter types\|Sourdough starter (60%)]] | 90          |           |     | Fed overnight at 10 p.m. 1:5 |
+| Sea salt                                             | 15          |           |     |                              |
+| [[Flours\|Wheat flour (HH Manitoba)]]                | 172         |           |     |                              |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 172         |           |     |                              |
+| [[Flours\|Whole wheat flour (Caputo)]]               | 345         |           |     |                              |
+|                                                      |             |           |     |                              |
+| **Overall hydration**                                |             |           |     |                              |
+| **Overall weight**                                   |             |           |     |                              |
 
 
 
