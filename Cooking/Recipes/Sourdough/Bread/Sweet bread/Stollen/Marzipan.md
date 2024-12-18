@@ -1,6 +1,8 @@
 ---
 tags:
   - staple
+  - christmas
+  - nuts
 date: ""
 thumbnail: 
 passive time: 
