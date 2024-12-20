@@ -35,7 +35,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 > [!tip] The water will have evaporated by the time the syrup is ready, so to calculate the overall volume, consider only sugar (more or less). Also, it is best to brush the sides of the port from sugar because some crystals may get into the storing jar while pouring the syrup, which may cause crystallization.
 ## Ingredients
 
-###### 1
+###### 3.334
 ###### Scale
 ###### 11.5 = 11.5
 ###### Calculate
