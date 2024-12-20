@@ -80,7 +80,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 ## Directions:
 
 ### Refreshments:
-0. Take a stiff starter and feed it with warm water (31C). Mix thoroughly until bubbly and cloudy. Add the room temperature flour and knead for 7 minutes, until smooth. The dough temperature must be 26-27C. Shape into a ball, make a crisscross on top for the temperature to penetrate uniformly and place into a plastic bag for 4 hours at 26-27C. Each time 4 hours if the temp is correct:
+0. Take a stiff starter and feed it with warm water (31C). Mix thoroughly until bubbly and cloudy. Add the room temperature flour and knead for 7 minutes, until smooth. The dough temperature must be 26-27C. Shape into a ball, make a crisscross on top for the temperature to penetrate uniformly and place into a plastic bag for 4 hours at 26-27C. Each time 4 hours if the temp is correct. The detailed plan of the above instructions:
 FR: 20:00: **Regular refreshment aiming for the PEAK: 7 sourdough starter: 15 water: 30 white flour** (50% hydration) 1:5 feeding; (discard everything else)
 ST 8:30: **1st refreshment ratio: 12 sourdough starter: 12 water: 24 white flour + teeny-tiny pinch of sugar** (50% hydration) 1:2 feeding; (discard 20 g)
 ST 12:30: **2nd refreshment ratio: 28 sourdough starter: 21 water: 42 white flour + teeny-tiny pinch of sugar + a bit more**** (50% hydration) 1:1.5 feeding; (no discard)
