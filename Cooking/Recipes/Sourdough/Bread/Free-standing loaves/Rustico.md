@@ -2,7 +2,7 @@
 tags:
   - "#sourdough"
 date: ""
-hydration: 74
+hydration: 76
 bulk fermentation: 
 cold retard: 
 outcome: 
@@ -45,12 +45,13 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                           | Quantity, g | Baker's % | %   | Note                                                |
 | ---------------------------------------------------- | ----------- | --------- | --- | --------------------------------------------------- |
-| Water                                                | 492         |           |     |                                                     |
+| Water                                                | 495         |           |     |                                                     |
 | [[Sourdough starter types\|Sourdough starter (60%)]] | 90          |           |     |                                                     |
 | Sea salt                                             | 15          |           |     |                                                     |
 | [[Flours\|Wheat flour (HH Manitoba)]]                | 240         |           |     |                                                     |
 | [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 253         |           |     |                                                     |
 | [[Flours\|Whole spelt flour (organic)]]              | 142         |           |     |                                                     |
+| [[Malt]]                                             | 1           |           |     |                                                     |
 | Flax seed                                            | 45          |           |     | covered with water just until it barely covers them |
 | Cranberries                                          | 15          |           |     |                                                     |
 |                                                      |             |           |     |                                                     |
