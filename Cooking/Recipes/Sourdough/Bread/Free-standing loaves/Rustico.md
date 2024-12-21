@@ -43,18 +43,19 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                           | Quantity, g | Baker's % | %   | Note   |
-| ---------------------------------------------------- | ----------- | --------- | --- | ------ |
-| Water                                                | 492         |           |     |        |
-| [[Sourdough starter types\|Sourdough starter (60%)]] | 90          |           |     |        |
-| Sea salt                                             | 15          |           |     |        |
-| [[Flours\|Wheat flour (HH Manitoba)]]                | 240         |           |     |        |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 253         |           |     |        |
-| [[Flours\|Whole spelt flour (organic)]]              | 142         |           |     |        |
-| Flax seed                                            | 68          |           |     | soaked |
-|                                                      |             |           |     |        |
-| **Overall hydration**                                |             |           |     |        |
-| **Overall weight**                                   |             |           |     |        |
+| Ingredient                                           | Quantity, g | Baker's % | %   | Note                                                |
+| ---------------------------------------------------- | ----------- | --------- | --- | --------------------------------------------------- |
+| Water                                                | 492         |           |     |                                                     |
+| [[Sourdough starter types\|Sourdough starter (60%)]] | 90          |           |     |                                                     |
+| Sea salt                                             | 15          |           |     |                                                     |
+| [[Flours\|Wheat flour (HH Manitoba)]]                | 240         |           |     |                                                     |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 253         |           |     |                                                     |
+| [[Flours\|Whole spelt flour (organic)]]              | 142         |           |     |                                                     |
+| Flax seed                                            | 45          |           |     | covered with water just until it barely covers them |
+| Cranberries                                          | 15          |           |     |                                                     |
+|                                                      |             |           |     |                                                     |
+| **Overall hydration**                                |             |           |     |                                                     |
+| **Overall weight**                                   |             |           |     |                                                     |
 
 
 
