@@ -1,12 +1,12 @@
 ---
 tags:
   - "#sourdough"
-date: ""
+date: 2024-12-16
 hydration: 70.6
-bulk fermentation: 
-cold retard: 
-outcome: 
-thumbnail: 
+bulk fermentation: 13h 9 min
+cold retard: 14h
+outcome: properly proofed
+thumbnail: https://lh3.googleusercontent.com/pw/AP1GczNDW9dX8k0Pax6gtH-HAQ_NiSDuF8rnDkOCQHkGlbIk2ypEkJl1Zxrh3ExPAkD2XK-KWs6sZ7EZh_oaF0w_gM5lOWgwd8Dr1kg09uXy1kplhvy1a2FidIPlf2t-xe6QgjizOG2E9mTB4ehuLwIJt7bN=w1145-h858-s-no-gm?authuser=0
 yield: 1
 nutrition rating: 
 taste rating: 
@@ -29,9 +29,10 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-| Banneton | Scoring | Appearance | Crumb |
-| -------- | ------- | ---------- | ----- |
-|          |         |            |       |
+| Banneton                                                                                                                                                                                                                                                       | Scoring                                                                                                                                                                                                                             | Appearance                                                                                                                                                                                                                           | Crumb                                                                                                                                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczPWi_kbS9Fe89MplaJWASvg_lxU23GHF_iHtRD8GVFEo5kV0304FPq5scIi2DkW8OqeA0HQurjNsqnhtq_RbQYxzQjU9bGNBNhmGksjRvF0F0BCX5jFsO2SouSnCIZVkqrLq436whXwjM9_oXqFKDlu=w1089-h858-s-no-gm?authuser=0)                           | ![](https://lh3.googleusercontent.com/pw/AP1GczODK8njmjy7_g2PKf7XyBn2JSQkQV4Z0giMagRIL6QLyCRjGC8GA2B8SFlF2z2touazSmPz0RPxLMOk1pHlOkrlMaUxV-66TrMz-6XhWYXWelb2reeo-tjpQ-cJzU5rW6lL3Og-PctZ5T1REiSvYOtg=w643-h858-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczNDW9dX8k0Pax6gtH-HAQ_NiSDuF8rnDkOCQHkGlbIk2ypEkJl1Zxrh3ExPAkD2XK-KWs6sZ7EZh_oaF0w_gM5lOWgwd8Dr1kg09uXy1kplhvy1a2FidIPlf2t-xe6QgjizOG2E9mTB4ehuLwIJt7bN=w1145-h858-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczPSngxijlJsstywF3uI6CADYI2ye8UQLxNkONWOxdHRor0TMFAmNnjb7sLEETDea5GXcsqdv5JWFmqNaQur8VERhCSLK8lUR5htqZdIBxeO9HT7z1I5MN11uoluWINp2zoALTbaQC2EFvhV5nY2ozIK=w1145-h858-s-no-gm?authuser=0) |
+| Hydration: 70.6<br>Bulk: 13 h 9 min<br>Cold: 14 h<br>Outcome: properly proofed, but too tight, albeit soft<br><br>Messed up the kneading, that is why it lost a lot of air and seems so tight. Also seemed very sticky, be careful, don't knead it explicitly. |                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |
 
 
 ## Ingredients
