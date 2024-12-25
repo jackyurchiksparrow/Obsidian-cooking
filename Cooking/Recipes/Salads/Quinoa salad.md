@@ -70,10 +70,11 @@ window.onerror = function (message, source, lineno, colno, error) {
 ## Directions:
 
 1. Bake the carrots and garlic by placing them in foil. Cut the carrots in quarters.
-2. Wash the quinoa thoroughly with you hands involved. Only measure water by not more that 1.5 of the quinoa weight. Add water to quinoa and  bring to a boil. Cook on very low until it's light and fluffy, cooked through (not until all the water absorbed), drain immediately.
-3. Make the mayo while it's cooling.
-4. Chop the vegetables and greens, mix everything together, season.
-5. Add the quinoa. Add the dressing.
+2. Wash the quinoa thoroughly with you hands involved. Only measure water by not more that 1.5 of the quinoa weight. 
+3. Add water to a HEAVY-BOTTOM pot, along with quinoa and  bring to a boil. Cook on very low until it's light and fluffy, cooked through (not until all the water absorbed), drain immediately.
+4. Make the mayo while it's cooling.
+5. Chop the vegetables and greens, mix everything together, season.
+6. Add the quinoa. Add the dressing.
 
 ---
 ## Nutrition Facts:
