@@ -1,7 +1,7 @@
 ---
 tags:
   - vegetables
-date: ""
+date: 2024-12-25
 thumbnail: 
 passive time: 
 active time: 
@@ -43,17 +43,21 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient               | Quantity, g | Baker's % | %   | Note |
 | ------------------------ | ----------- | --------- | --- | ---- |
-| Quinoa / Amaranth        | 370         |           |     |      |
-| Water                    | 740         |           |     |      |
+| Quinoa / Amaranth        | 200         |           |     |      |
+| Water                    | 300         |           |     |      |
 | Salt                     | to taste    |           |     |      |
-| Cucumber                 | 200         |           |     |      |
-| Bell pepper              | 200         |           |     |      |
-| Parsley                  |             |           |     |      |
-| [[Mayonnaise (classic)]] | 80          |           |     |      |
-| Honey                    | 7           |           |     |      |
-| Oregano                  | 3           |           |     |      |
-| Roasted garlic           |             |           |     |      |
-| Roasted carrots          | 200         |           |     |      |
+| Cucumber                 | 500         |           |     |      |
+| Bell pepper              | 500         |           |     |      |
+| Roasted carrots          | 500         |           |     |      |
+| Parsley                  | 40          |           |     |      |
+|                          |             |           |     |      |
+| **Overall weight**       |             |           |     |      |
+|                          |             |           |     |      |
+| **Dressing**             |             |           |     |      |
+| [[Mayonnaise (classic)]] | 160         |           |     |      |
+| Honey                    | 10          |           |     |      |
+| Oregano                  | to taste    |           |     |      |
+| Roasted garlic           | 10          |           |     |      |
 | Black sesame seeds       |             |           |     |      |
 |                          |             |           |     |      |
 | **Overall weight**       |             |           |     |      |
@@ -65,10 +69,11 @@ window.onerror = function (message, source, lineno, colno, error) {
 ---
 ## Directions:
 
-1. Cook the quinoa / amaranth.
-2. Make the mayo while it's cooling.
-3. Chop the vegetables and greens, mix everything together, season.
-4. Add the quinoa / amaranth.
+1. Bake the carrots and garlic by placing them in foil. Cut the carrots in quarters.
+2. Wash the quinoa thoroughly with you hands involved. Only measure water by not more that 1.5 of the quinoa weight. Add water to quinoa and  bring to a boil. Cook on very low until it's light and fluffy, cooked through (not until all the water absorbed), drain immediately.
+3. Make the mayo while it's cooling.
+4. Chop the vegetables and greens, mix everything together, season.
+5. Add the quinoa. Add the dressing.
 
 ---
 ## Nutrition Facts:
