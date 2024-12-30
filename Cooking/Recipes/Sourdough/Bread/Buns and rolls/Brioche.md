@@ -40,7 +40,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ###### 1
 ###### Scale
-###### 87+70 = 157
+###### 190+70 = 260
 ###### Calculate
 ###### Unreleased 3
 
@@ -49,8 +49,8 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Whole milk                                           | 157         |           |     |           |
 | [[Sourdough starter types\|Sourdough starter (60%)]] | 90          |           |     |           |
 | Sea salt                                             | 11          |           |     |           |
-| [[Flours\|Wheat flour (HH Manitoba)]]                | 286         |           |     |           |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 190         |           |     |           |
+| [[Flours\|Wheat flour (HH Manitoba)]]                | 326         |           |     |           |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 290         |           |     |           |
 | Eggs                                                 | 250         |           |     | ~4-5 eggs |
 | Butter; softened                                     | 229         |           |     |           |
 | Sugar                                                | 96          |           |     |           |
