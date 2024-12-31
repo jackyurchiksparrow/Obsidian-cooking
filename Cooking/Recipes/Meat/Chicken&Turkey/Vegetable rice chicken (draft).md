@@ -1,6 +1,7 @@
 ---
 tags:
   - chicken_thighs
+  - draft
 date: 2024-10-10
 thumbnail: 
 passive time: 
