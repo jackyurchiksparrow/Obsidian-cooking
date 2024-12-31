@@ -35,34 +35,34 @@ window.onerror = function (message, source, lineno, colno, error) {
 > [!Tip] R
 ## Ingredients
 
-###### 4
+###### 1
 ###### Scale
 ###### 120* 6 = 720
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                     | Quantity, g | Baker's % | %   | Note     |
-| ------------------------------ | ----------- | --------- | --- | -------- |
-| Chicken breasts                |             |           |     | 4-6 pcs. |
-|                                |             |           |     |          |
-|                                |             |           |     |          |
-|                                |             |           |     |          |
-|                                |             |           |     |          |
-|                                |             |           |     |          |
-|                                |             |           |     |          |
-|                                |             |           |     |          |
-|                                |             |           |     |          |
-|                                |             |           |     |          |
-|                                |             |           |     |          |
-|                                |             |           |     |          |
-|                                |             |           |     |          |
-|                                |             |           |     |          |
-|                                |             |           |     |          |
-|                                |             |           |     |          |
-|                                |             |           |     |          |
-|                                |             |           |     |          |
-|                                |             |           |     |          |
-| **Overall weight**             |             |           |     |          |
+| Ingredient             | Quantity, g | Baker's % | %   | Note      |
+| ---------------------- | ----------- | --------- | --- | --------- |
+| Chicken breasts        | 1000        |           |     | 4 breasts |
+| Salt                   |             |           |     |           |
+| Pepper                 |             |           |     |           |
+| Garlic                 | 20          |           |     | 3 cloves  |
+| Onions                 | 80          |           |     | 1 small   |
+| Cilantro (pref. fresh) | 50          |           |     |           |
+| Cumin                  | 3           |           |     | 1/2 tsp.  |
+| Oregano                | 5           |           |     | 1 tsp.    |
+| Olive oil              | 25          |           |     |           |
+| Citrus zest            | 1           |           |     | from lime |
+| Lime juice             | 20          |           |     | 1/2 lime  |
+| Orange juice           | 200         |           |     |           |
+|                        |             |           |     |           |
+| **Twist 1**            |             |           |     |           |
+| Anise seeds            |             |           |     |           |
+| Pineapples             |             |           |     |           |
+| Cloves                 |             |           |     |           |
+| Lemon juice            |             |           |     | 1/2 lemon |
+|                        |             |           |     |           |
+| **Overall weight**     |             |           |     |           |
 
 
 
@@ -70,7 +70,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 ---
 ## Directions:
 
-1. Carefully transfer the logs seam side down to a nonstick baking sheet. Brush with milk / egg mixture. (If using nonstick, make sure to use parchment paper.) Bake for 18-22 minutes, until the bottom is lightly browned. Let cool completely and then slice each log into ~5 cookies (about 1.5 inches long each).
+1. C
 
 ---
 ## Nutrition Facts:
