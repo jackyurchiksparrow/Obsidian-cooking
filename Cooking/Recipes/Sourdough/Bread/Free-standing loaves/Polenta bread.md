@@ -45,10 +45,11 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                           | Quantity, g | Baker's % | %   | Note |
 | ---------------------------------------------------- | ----------- | --------- | --- | ---- |
-| Water                                                | 409         |           |     |      |
+| Water                                                | 439         |           |     |      |
 | [[Sourdough starter types\|Sourdough starter (60%)]] | 90          |           |     |      |
 | Sea salt                                             | 15          |           |     |      |
-| [[Flours\|Wheat flour (HH Manitoba)]]                | 455         |           |     |      |
+| [[Flours\|Wheat flour (HH Manitoba)]]                | 225         |           |     |      |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 230         |           |     |      |
 | [[Flours\|Whole wheat flour (Caputo)]]               | 114         |           |     |      |
 | Polenta (cornmeal)                                   | 80          |           |     |      |
 | Liquid (for polenta)                                 | 84          |           |     |      |
