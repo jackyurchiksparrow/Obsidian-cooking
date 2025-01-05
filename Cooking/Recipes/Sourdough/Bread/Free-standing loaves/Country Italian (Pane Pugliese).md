@@ -3,9 +3,9 @@ tags:
   - "#sourdough"
 date: 2024-12-11
 hydration: 78.1
-bulk fermentation: 10 h
+bulk fermentation: 7 h
 cold retard: 12 h
-outcome: underproofed
+outcome: properly proofed
 thumbnail: https://lh3.googleusercontent.com/pw/AP1GczOFP07i1ngi7iLaZwQAAuRrNIK0sYPtuRDOZ2_32kQdpwb1jPLPX_c5DVfa3gkh56Asjqvo8E-Qp_lqBqWRMupQEA4t3n2C1Ea8-9ZINFTLTCumKW8k3ON4S01MlFZlSLn8vqWC2QVuV8Vjlxp7U_44=w643-h858-s-no-gm?authuser=0
 yield: 1
 nutrition rating: 
@@ -29,10 +29,10 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-| Banneton                                                                                                                                    | Scoring                                                                                                                                                                                                                              | Appearance                                                                                                                                                                                                                          | Crumb                                                                                                                                                                                                                               |
-| ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|                                                                                                                                             |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                     |
-| Bulk: <br>Cold: <br>Outcome: <br>Hydration: 78+<br><br>- extend bulk<br><br>manitoba hh / Zernari 50 50 used for white flours<br>13.12.2024 |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                     |
+| Banneton                                                                                                                                                                                                                    | Scoring | Appearance | Crumb |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ---------- | ----- |
+|                                                                                                                                                                                                                             |         |            |       |
+| Bulk: 5h shaped + 1h bulk + 1 20 out of the bag <br>Cold: outside uncovered 12 h<br>Outcome: properly proofed<br>Hydration: 78+<br><br>- extend bulk<br><br>manitoba hh / Zernari 50 50 used for white flours<br>13.12.2024 |         |            |       |
 
 
 ## Ingredients
