@@ -6,7 +6,7 @@ hydration: 78.1
 bulk fermentation: 7 h
 cold retard: 12 h
 outcome: properly proofed
-thumbnail: 
+thumbnail: https://lh3.googleusercontent.com/pw/AP1GczPxvKnjWABOR2RjeisBx4HLHQmuIDKPSxXMQjOrO1WmDbMK0WW5aArBBMwrHQ_7guKV6gNlrk5B1UEnv7uOTEGqV_UyzoAsVTSlm6yCNWzQBmXa6T7_AP2875Ggw3Ovi_lTuGMs___Tk_O4gZAVN0Xj=w1280-h960-s-no-gm?authuser=0
 yield: 1
 nutrition rating: 
 taste rating: 
