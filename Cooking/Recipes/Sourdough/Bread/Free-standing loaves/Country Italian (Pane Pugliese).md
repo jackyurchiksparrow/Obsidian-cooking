@@ -1,12 +1,12 @@
 ---
 tags:
   - "#sourdough"
-date: 2024-12-11
+date: 2025-01-03
 hydration: 78.1
 bulk fermentation: 7 h
 cold retard: 12 h
 outcome: properly proofed
-thumbnail: https://lh3.googleusercontent.com/pw/AP1GczOFP07i1ngi7iLaZwQAAuRrNIK0sYPtuRDOZ2_32kQdpwb1jPLPX_c5DVfa3gkh56Asjqvo8E-Qp_lqBqWRMupQEA4t3n2C1Ea8-9ZINFTLTCumKW8k3ON4S01MlFZlSLn8vqWC2QVuV8Vjlxp7U_44=w643-h858-s-no-gm?authuser=0
+thumbnail: 
 yield: 1
 nutrition rating: 
 taste rating: 
@@ -29,10 +29,10 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-| Banneton                                                                                                                                                                                                                    | Scoring | Appearance | Crumb |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ---------- | ----- |
-|                                                                                                                                                                                                                             |         |            |       |
-| Bulk: 5h shaped + 1h bulk + 1 20 out of the bag <br>Cold: outside uncovered 12 h<br>Outcome: properly proofed<br>Hydration: 78+<br><br>- extend bulk<br><br>manitoba hh / Zernari 50 50 used for white flours<br>13.12.2024 |         |            |       |
+| Banneton                                                                                                                                                                                                                                                | Scoring                                                                                                                                                                                                                              | Appearance                                                                                                                                                                                                                           | Crumb                                                                                                                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczOEOKwTU65sTaR0dj-YjePa5_f6tmKmbcS6eIqahjpm8p4bwBVyI1gxv_tC7oPIhcvjA0xNDkVNsylYdVD0ebsm3mf_Bm6YSl-yDlNREJox_S9dNA6Pp9pqidTuMU45RcDht70K9iYaTmxEBJnqV6Pc=w1280-h960-s-no-gm?authuser=0)                    | ![](https://lh3.googleusercontent.com/pw/AP1GczM4V2me9-qy8jge6FZI4umk-63XhYZjbCNU5RaY0hfT-9-Ipe1Jh0LKJjOmKXUqajFknTs4Rq1nb_EislXXEFnjrZ7-xWNFgQaIqEk618XPHkboQdFHjm5JaieDcOMT5uWgMeKu_3Jo1nNLUWn9YcTG=w779-h1039-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczNFlbFR0f4xW54eQzjr3xgZO4ICUQIDgmfNbkt8qXv1JqP33dbkmkYLXT8cFA7SmeQPEKvIYDUWwn1ZJtw36xyM-0anjEeYTeJKs8NdqDZh31dEQqabezv4b87rBtPtWNONGusH9-KyG5o2r_aqdlJG=w779-h1039-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczPxvKnjWABOR2RjeisBx4HLHQmuIDKPSxXMQjOrO1WmDbMK0WW5aArBBMwrHQ_7guKV6gNlrk5B1UEnv7uOTEGqV_UyzoAsVTSlm6yCNWzQBmXa6T7_AP2875Ggw3Ovi_lTuGMs___Tk_O4gZAVN0Xj=w1280-h960-s-no-gm?authuser=0) |
+| Bulk: 5h shaped + 1h bulk + 1 20 out of the bag <br>Cold: outside uncovered 12 h<br>Outcome: properly proofed<br>Hydration: 78+<br><br>- keep the shaping loose again next time!<br><br>manitoba hh / Zernari 50 50 used for white flours<br>03.01.2025 |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |
 
 
 ## Ingredients
