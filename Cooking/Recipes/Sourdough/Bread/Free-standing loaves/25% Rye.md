@@ -2,16 +2,16 @@
 tags:
   - "#rye"
   - "#sourdough"
-date: 2024-12-06
-hydration: 70.8
-bulk fermentation: 6 h
-cold retard: 15 h
-outcome: underproofed
-thumbnail: https://lh3.googleusercontent.com/pw/AP1GczODWIsrBLZDO3wsP5_OwV_vOBtNgoLno5b-GHOZClO_fCbLR8fvSpRJOBG7HRTakS8u7J56mg2kpXKqH0rk5YD_RbqO_DqNu6yqSjXqcn_yg993uQcpJFftKVzVS0tJs02k030KROF1evS7jctcXq_k=w1280-h960-s-no-gm?authuser=0
+date: 2025-01-22
+hydration: 74.8
+bulk fermentation: 5 h 10 min
+cold retard: 16 h
+outcome: properly proofed
+thumbnail: https://lh3.googleusercontent.com/pw/AP1GczP86O29TKjFYrcK_CMh3SWJCRAvzcIQjVpjr-tpbAzDrfvJVhvUC8GdsX_oE5voJl4DkGg5bL45v5Vdey-wcAavESX_O1jNGhOsvF8l3-EX_Qvk9g-Gq09YBxWTs0MbSOIf_jHRPDQ-8CLCwT7vdchr=w1145-h858-s-no-gm?authuser=0
 yield: 1
 nutrition rating: 8
 taste rating: 10
-credit: https://heartbeetkitchen.com/rye-sourdough-bread-recipe/
+credit: Perfect loaf book
 part_of_the_set:
 ---
 ```dataviewjs
@@ -30,10 +30,10 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-| Banneton | Scoring | Appearance | Crumb |
-| -------- | ------- | ---------- | ----- |
-|          |         |            |       |
-|          |         |            |       |
+| Banneton                                                                                                                                                                                                                                                                                                | Scoring                                                                                                                                                                                                                             | Appearance                                                                                                                                                                                                                           | Crumb                                                                                                                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczNYqvDoSH3t8avHifNZ-5cl2iu7aMYvX84VIb7BWGisUVYktW25Lijzxmvalo-5DxZzXVsDlbbAdgQORuj24PJCT78vIFcbn83zA6cJZGcsz0Jb6U_zwUu5jG-Y4nCisxkoh-NEgbDJpB-DPtTDfOex=w1280-h853-s-no-gm?authuser=0)                                                                    | ![](https://lh3.googleusercontent.com/pw/AP1GczNxrVSbDi0QFgWZmOw4QS0dpzac3YdwI056qOHrTtyKBhjuzmmzs5wWsb-VSJZRashBg-mz5gJ9nFpbIjTdnRJDI7XmSImpTfEY51IuzcRABTbn8pmQ1X8qQ25PbnlaJ_QMobdl1KO5zB_l3GCahd6u=w664-h858-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczP86O29TKjFYrcK_CMh3SWJCRAvzcIQjVpjr-tpbAzDrfvJVhvUC8GdsX_oE5voJl4DkGg5bL45v5Vdey-wcAavESX_O1jNGhOsvF8l3-EX_Qvk9g-Gq09YBxWTs0MbSOIf_jHRPDQ-8CLCwT7vdchr=w1145-h858-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczNLuhaN5cXHPKFbJWmWxac4GNu0j-ZtbViYD08IdDETiYD2ZTDi00VFhcFBLwsITm7yugNX8hCxT5QR3t7aX4fDawsrQjrxDiWoVo_LbZWA38380qVC2CPUqwSi2WtHSN9umyhNzTvyMPNLbmTMYAZ7=w681-h858-s-no-gm?authuser=0) |
+| Bulk: 4h shaped + 1h 10min<br>Cold: 16h covered in the fridge<br>Outcome: properly proofed, but could benefit from a longer rise I think<br>Hydration: 74.8%<br><br>- slightly increase bulk<br>- try to add more water (76.8%)<br><br>Manitoba / Zernari 50/50 used for white flours<br><br>22.01.2025 |                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                     |
 
 
 ## Ingredients
@@ -46,7 +46,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                                 | Quantity, g | Baker's % | %   | Note |
 | ---------------------------------------------------------- | ----------- | --------- | --- | ---- |
-| Water                                                      | 520         |           |     |      |
+| Water                                                      | 535         |           |     |      |
 | [[Sourdough starter types\|Sourdough starter (60%)]]       | 90          |           |     |      |
 | Honey                                                      | 24          |           |     |      |
 | Sea salt                                                   | 15          |           |     |      |
