@@ -53,7 +53,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | [[Flours\|Wheat flour (HH Manitoba)]]                | 298         |           |     |      |
 | [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 253         |           |     |      |
 | [[Flours\|Whole spelt flour (organic)]]              | 70          |           |     |      |
-| Buckwheat flour                                      | 70          |           |     |      |
+| [[Flours\|Whole buckwheat flour]]                    | 70          |           |     |      |
 |                                                      |             |           |     |      |
 | **Overall hydration**                                |             |           |     |      |
 | **Overall weight**                                   |             |           |     |      |
