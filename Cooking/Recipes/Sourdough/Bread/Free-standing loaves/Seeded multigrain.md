@@ -2,7 +2,7 @@
 tags:
   - "#sourdough"
 date: ""
-hydration: 81
+hydration: 80.1
 bulk fermentation: 
 cold retard: 
 outcome: 
