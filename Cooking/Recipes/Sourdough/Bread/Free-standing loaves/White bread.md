@@ -38,16 +38,17 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ###### 1
 ###### Scale
-###### 360+180 = 540
+###### 624/2 = 312
 ###### Calculate
 ###### Unreleased 3
 
 | Ingredient                                           | Quantity, g | Baker's % | %   | Note                                         |
 | ---------------------------------------------------- | ----------- | --------- | --- | -------------------------------------------- |
-| Water                                                | 538         |           |     |                                              |
+| Water                                                | 575         |           |     |                                              |
 | [[Sourdough starter types\|Sourdough starter (60%)]] | 90          |           |     | Fed overnight at 8 p.m 1:9., ready by 9 a.m. |
 | Sea salt                                             | 15          |           |     |                                              |
-| [[Flours\|Wheat flour (HH Manitoba)]]                | 624         |           |     |                                              |
+| [[Flours\|Wheat flour (HH Manitoba)]]                | 270         |           |     |                                              |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 354         |           |     |                                              |
 | [[Flours\|Whole wheat flour (Caputo)]]               | 76          |           |     |                                              |
 |                                                      |             |           |     |                                              |
 | **Overall hydration**                                |             |           |     |                                              |
