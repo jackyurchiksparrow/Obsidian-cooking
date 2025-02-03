@@ -44,12 +44,12 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                           | Quantity, g | Baker's % | %   | Note                                         |
 | ---------------------------------------------------- | ----------- | --------- | --- | -------------------------------------------- |
-| Water                                                | 575         |           |     |                                              |
+| Water                                                | 546         |           |     |                                              |
 | [[Sourdough starter types\|Sourdough starter (60%)]] | 90          |           |     | Fed overnight at 8 p.m 1:9., ready by 9 a.m. |
 | Sea salt                                             | 15          |           |     |                                              |
-| [[Flours\|Wheat flour (HH Manitoba)]]                | 270         |           |     |                                              |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 354         |           |     |                                              |
-| [[Flours\|Whole wheat flour (Caputo)]]               | 76          |           |     |                                              |
+| [[Flours\|Wheat flour (HH Manitoba)]]                | 257         |           |     |                                              |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 336         |           |     |                                              |
+| [[Flours\|Whole wheat flour (Caputo)]]               | 72          |           |     |                                              |
 |                                                      |             |           |     |                                              |
 | **Overall hydration**                                |             |           |     |                                              |
 | **Overall weight**                                   |             |           |     |                                              |
