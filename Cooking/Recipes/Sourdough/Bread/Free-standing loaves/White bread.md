@@ -3,10 +3,10 @@ tags:
   - "#sourdough"
 date: 2024-11-13
 hydration: 75.6
-bulk fermentation: 5h 1min
-cold retard: 17h
+bulk fermentation: 5h
+cold retard: 16h
 outcome: underproofed
-thumbnail: https://lh3.googleusercontent.com/pw/AP1GczNq7wtjlaNNsYkDMK_c6ui43hVCCaGGa8Hlbgn0VDNeLJpnnmLOhIg4gI0xRYFr0COatjc7-TLt2j1uWjYE0bPuhjMvm3vPxG0tu4lBCVqKqgMu9r2vYRQXFXrtTQ4MGLR6aYjShVy_aXJypHVAgdHm=w544-h718-s-no-gm?authuser=0
+thumbnail: https://lh3.googleusercontent.com/pw/AP1GczMGXxxni5WGhX78497kKMZC1c4BCx2rE3ejlN3woMnQeskwXbJUMixWwweUsExFfuWU3KTqSNvTmtQ0_1uQdQsv3Y5pww2nBKdftBZhFhiZfBcXbRsImsqz4_pcKF8RFJiMysVcGd5Hio8bj7OKdLwi=w1280-h960-s-no-gm?authuser=0
 yield: 1
 nutrition rating: 7
 taste rating: 7
@@ -29,9 +29,10 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-| Banneton | Scoring | Appearance | Crumb |
-| -------- | ------- | ---------- | ----- |
-|          |         |            |       |
+| Banneton                                                                                                                                                                                                                             | Scoring                                                                                                                                                                                                                              | Appearance                                                                                                                                                                                                                           | Crumb                                                                                                                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczNbvF89fNqsnewYKIZ1cLf_vIHf7KArTuq0nz2XGr8jgMFkfxK409rKKyzpjtQ1jekFSyguruUAszavzVSwlDrIafZwoVBIlLUXjqY6ucp8Bf25UfubrvHxL9K4nh0u3HNZoR8s7-FWDV4grc-Y8f_G=w1280-h960-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczNMcXu0K-WQvpEte-_qzOaJe-fatb4CVCYkCDqkgfTCavKVN4bbcUJe8AqOP1oF7ptZeOVD85bhQmKuYs8_eAZ2Xn3YmVxpr94ltwzoiy2TUG3VRhGuTHeNV-FFD1U6tR1XYqDGIa0S5El_G3j7NmWT=w779-h1039-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczMGXxxni5WGhX78497kKMZC1c4BCx2rE3ejlN3woMnQeskwXbJUMixWwweUsExFfuWU3KTqSNvTmtQ0_1uQdQsv3Y5pww2nBKdftBZhFhiZfBcXbRsImsqz4_pcKF8RFJiMysVcGd5Hio8bj7OKdLwi=w1280-h960-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczOpidUlogCx-Rl_3D0hOqcXyzb1gdqzQuAjW1js5L9AFMnLvpYhio5u6iZhOpaErBSI1-mlOwHRtXitDgYzB9OH0WI16gpReP64Od_CsqFEOblgDVo8LFD0GVI1hwY4V0ZNqauR-I6a7KPJ6kAyT1u5=w779-h1039-s-no-gm?authuser=0) |
+| Hydration: 80%<br>Bulk: 4h shaped 5 h fridge covered<br>Outcome: underproofed<br><br>Add spelt flour instead of some of the white                                                                                                    |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |
 
 
 ## Ingredients
