@@ -54,6 +54,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 228         |           |     |      |
 | [[Flours\|Whole wheat flour (Caputo)]]               | 63          |           |     |      |
 | [[Flours\|Whole buckwheat flour]]                    | 109         |           |     |      |
+| [[Malt]]                                             | 2           |           |     |      |
 |                                                      |             |           |     |      |
 | **Overall hydration**                                |             |           |     |      |
 | **Overall weight**                                   |             |           |     |      |
