@@ -1,12 +1,12 @@
 ---
 tags:
   - "#sourdough"
-  - buckwheat
-date: ""
+  - spelt
+date: 2025-02-17
 hydration: 80
-bulk fermentation: 
-cold retard: 
-outcome: 
+bulk fermentation: 4h 50 min
+cold retard: 19 h
+outcome: overproofed
 thumbnail: 
 yield: 1
 nutrition rating: 
@@ -30,10 +30,10 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-| Banneton                                                           | Scoring | Appearance | Crumb |
-| ------------------------------------------------------------------ | ------- | ---------- | ----- |
-|                                                                    |         |            |       |
-| Bulk: <br>Cold: <br>Outcome: <br>Hydration: <br><br><br>15.02.2025 |         |            |       |
+| Banneton                                                                                                                                                                                                                                                   | Scoring                                                                                                                                                                                                                             | Appearance                                                                                                                                                                                                                           | Crumb |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----- |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczNnHW8ExkbQXSzvFhNU810j7UMTYTqDbpJBREpUwG-tTfPTpMyn_LhbCuI7SwS4amzNtcxHdXRtLDZCgCnd0VDDGtGmZ-a2Bb-bI650eeYubqn98ijtdF0hBTZVqjGr9vTQLKyPbCQ6eGBAvlHhNetQ=w1145-h858-s-no-gm?authuser=0)                       | ![](https://lh3.googleusercontent.com/pw/AP1GczPp5GPvcq8Tinq6W_JFYPZetpj4rv_LWOAbnOW6D1fptlIklk3wz100oimHXh4IvlCKmUXZgAPgHiyhvk1RLj5nbpzLulGuxELQBjuEEZ16LNbdod84omieaKytbiAbV-3VyZE439PISxelYheqhgNM=w677-h858-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczNL1GLywLEUvv9Af2WExLHru5oDNobGWM-HQA6aF0AzqbuhTDJfyuwUAa_SvMmbdmYUzeb67xEUpcauO4FQrfcnf9xcLXPjngHWtZC5nLsjSc1tIaF1yUk8oGdD2sHRyOigP4Ofb-m0-za9RM6e68kn=w1145-h858-s-no-gm?authuser=0) |       |
+| Bulk: 4h 30min shaped; 4 50 fridge covered<br>Cold: 19h<br>Outcome: overproofed<br>Hydration: 80%<br><br>- 110 g levain used<br>- omitted the seeds<br>- the hydration for Metro chef spelt flour is a bit high for a free standing loaf<br><br>17.02.2025 |                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                      |       |
 
 
 

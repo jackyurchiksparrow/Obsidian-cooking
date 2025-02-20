@@ -1,7 +1,6 @@
 ---
 tags:
   - "#sourdough"
-  - buckwheat
 date: ""
 hydration: 80
 bulk fermentation: 
