@@ -2,7 +2,7 @@
 
 ## Sourdough vs lievito madre
 
-The difference between regular sourdough and lievito madre (further referenced as "the mother") lies not in hydration alone. The mother can range from 30-50% hydration and the bacteria present are prone to dealing with sweet, fatty doughs by having less acetic acid and bacteria, having more delicate, sweet flavor. This is perfect for [[Panettone (fruit version)]]. That is why it is also stored and maintained differently.
+The difference between regular sourdough and lievito madre (further referenced as "the mother") lies not in hydration alone. The mother can range from 30-50% hydration and the bacteria present are prone to dealing with sweet, fatty doughs by having less acetic acid and bacteria, having more delicate, sweet flavor. This is perfect for [[Panettone (fruit version)|Panettone]]. That is why it is also stored and maintained differently.
 
 ## Converting sourdough to lievito madre
 
@@ -25,8 +25,19 @@ Formula: 25g starter + 25g fruit water + 50 g flour
 
 At **26°C**, LAB grow faster than yeasts. If we leave it **too long at 26°C**, it can over-ferment, leading to excess acid and potential gluten breakdown. Refrigerating after **peak** slows this down, preventing the accumulation of too much acidity.
 
+
 ### Step 2. Tying and maintenance (2-3 days)
 
 - Once it consistently triples, shift to **binding**.
 - Shape the dough into a ball, wrap it in a clean linen cloth, and tie it with string.
 - Let ferment at **15-16°C** for 24h, feed regularly
+
+### Bathing (bagnetto); optional
+
+**If your LM smells too sour** (like vinegar or sharp acidity), **or if it rises very slowly**, any other issues with it, then it’s time for a bath. This could happen if there’s too much **acetic acid** building up. It is also a good idea to bathe it before warm feeding right before you make [[Panettone (fruit version)|Panettone]]. The idea is that by submerging LM in **cool, lightly sweetened water**, yeast will be refreshed and excess acidity will be removed into the water. This helps maintain a balanced microbial environment and strengthens LM for optimal fermentation.
+
+**How-to:**
+1. Prepare the bath. 20-22C water (3x times more than LM by weight), 2 g of sugar (per 1L) **if it's done during maintenance, not before the Panettone kneading, use colder water (15C)**
+2. Cut your LM into 1-inch pieces, deflate each piece lightly so it can be submerged.
+3. Leave in the water for 15-30 minutes. The faster it floats, the stronger the LM. The murkier the water is, the more acetic acid is left there.
+4. Squeeze the excess liquid and proceed with the feedings, slightly reducing the water amount
