@@ -37,7 +37,7 @@ At **26°C**, LAB grow faster than yeasts. If we leave it **too long at 26°C**,
 **If your LM smells too sour** (like vinegar or sharp acidity), **or if it rises very slowly**, any other issues with it, then it’s time for a bath. This could happen if there’s too much **acetic acid** building up. It is also a good idea to bathe it before warm feeding right before you make [[Panettone (fruit version)|Panettone]]. The idea is that by submerging LM in **cool, lightly sweetened water**, yeast will be refreshed and excess acidity will be removed into the water. This helps maintain a balanced microbial environment and strengthens LM for optimal fermentation.
 
 **How-to:**
-1. Prepare the bath. 20-22C water (3x times more than LM by weight), 2 g of sugar (per 1L) **if it's done during maintenance, not before the Panettone kneading, use colder water (15C)**
+1. Prepare the bath. 20-22C water (3x times more than LM by weight), 5 g of sugar (per 1L) **if it's done during maintenance, not before the Panettone kneading, use colder water (15C)**
 2. Cut your LM into 1-inch pieces, deflate each piece lightly so it can be submerged.
 3. Leave in the water for 15-30 minutes. The faster it floats, the stronger the LM. The murkier the water is, the more acetic acid is left there.
 4. Squeeze the excess liquid and proceed with the feedings, slightly reducing the water amount
