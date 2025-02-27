@@ -26,7 +26,7 @@ Formula: 25g starter + 25g fruit water + 50 g flour
 At **26°C**, LAB grow faster than yeasts. If we leave it **too long at 26°C**, it can over-ferment, leading to excess acid and potential gluten breakdown. Refrigerating after **peak** slows this down, preventing the accumulation of too much acidity.
 
 Once it consistently triples, shift to one of the maintenance methods.
-### Step 2. Tying and maintenance
+### Step 2. LM maintenance
 Choose the hydration (30-50%). Better use 50% for tying. It dries out a lot. You may use 30-45% hydration of the water method as it will eventually accumulate some water.
 #### Option 1. Tie method (the discards are too big this way, but this one is a traditional one)
 - Shape the dough into a roll, wrap it in a clean linen cloth, and tie it with string.
@@ -34,11 +34,12 @@ Choose the hydration (30-50%). Better use 50% for tying. It dries out a lot. You
 - Feeding formula example: 75g starter : 75g high-protein flour : 37g water 
 
 #### Option 2. Water method (conserva in aqua). (Less traditional, but still right and convenient)
-- Shape the dough into a roll (or better roll it)
+- Shape the dough into a roll / ball (or better roll it)
 - Let ferment at **24°C** for 24h in room-temp water 3 times the volume of the LM, feed regularly
-- Feeding formula example: 20g starter : 20g high-protein flour : 6g water (30C)
+- Feeding formula example: 20g starter : 20g high-protein flour : 6g water (30C) **If** it takes too fast to start collapsing in 24 h, consider switching to 10g starter : 20 g high-protein flour : 6g water (26C)
 
-### Bathing (bagnetto); optional, but highly recommended on the day of kneading
+### The day of kneading
+#### 1. Bathing (bagnetto); optional, but highly recommended on the day of kneading
 
 **If your LM smells too sour** (like vinegar or sharp acidity), **or if it rises very slowly**, any other issues with it, then it’s time for a bath. This could happen if there’s too much **acetic acid** building up. It is also a good idea to bathe it before warm feeding right before you make [[Panettone (fruit version)|Panettone]]. The idea is that by submerging LM in **cool, lightly sweetened water**, yeast will be refreshed and excess acidity will be removed into the water. This helps maintain a balanced microbial environment and strengthens LM for optimal fermentation.
 
@@ -47,3 +48,12 @@ Choose the hydration (30-50%). Better use 50% for tying. It dries out a lot. You
 2. Cut your LM into 1-inch pieces, deflate each piece lightly so it can be submerged.
 3. Leave in the water for 15-30 minutes. The faster it floats, the stronger the LM. The murkier the water is, the more acetic acid is left there.
 4. Squeeze the excess liquid and proceed with the feedings, slightly reducing the water amount
+
+#### 2. Warm feedings
+
+Sticking to the recipe, perform the feedings. Despite of the method you use for the maintenance, you may use a lightly floured plastic bag for the feedings. The acidity won't accumulate due to the frequency of feedings. By the moment the last feeding is done, we can proceed with the Panettone if:
+- LM has consistently tripled within the specified period of time
+- the acidity after tripling at the last feeding likes within the range of **3.9 - 4.1**
+
+> If the acidity is higher (**e.x. 5**), it means the starter is too alkali (not acidic enough), the fermentation is not active enough, too weak.
+> If the acidity is too low (**e.x. 3.7**), it means the starter is too acidic, the balance of bacteria is off and the starter is not ready for Panettone.
