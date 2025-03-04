@@ -5,7 +5,7 @@ tags:
   - chocolate
   - christmas
 date: 2024-11-24
-hydration: 63.3
+hydration: 66.8
 bulk fermentation: 18 h 40 min
 cold retard: 3 h
 outcome: overproofed

@@ -2,7 +2,7 @@
 tags:
   - "#sourdough"
 date: 2024-12-29
-hydration: 28
+hydration: 55
 bulk fermentation: 10h 30 min
 cold retard: 12 h
 outcome: underproofed
