@@ -1,6 +1,5 @@
 ---
-tags:
-  - staple
+tags: 
 date: ""
 thumbnail: 
 passive time: 
@@ -8,8 +7,8 @@ active time:
 yield: 
 nutrition rating: 
 taste rating: 
-credit: 
-part_of_the_set: []
+credit: https://cookieandkate.com/best-vegetable-lasagna-recipe/#tasty-recipes-27109-jump-target
+part_of_the_set:
 ---
 ```dataviewjs
 while (!customJS?.state?._ready) { 
@@ -27,29 +26,34 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-|     |     |
-| --- | --- |
-|     |     |
+|     |     |     |     |
+| --- | --- | --- | --- |
+|     |     |     |     |
 
-> [!tip] Fits for lasagna, casseroles, soufflés, fillings.
 ## Ingredients
 
-###### 0.8345
+###### 1
 ###### Scale
-###### 11.5 = 11.5
+###### 27.6+54.3 = 81.9
 ###### Calculate
 ###### Unreleased 3
+**Overall weight**
 
-| Ingredient                | Quantity, g | %   | Note                           |
-| ------------------------- | ----------- | --- | ------------------------------ |
-| Butter                    | 50          |     | 30 for "runny", 70 for "thick" |
-| White wheat flour; sieved | 50          |     | 30 for "runny", 70 for "thick" |
-| Milk                      | 500         |     |                                |
-| Nutmeg; freshly grated    | to taste    |     |                                |
-| Salt                      | to taste    |     |                                |
-| Pepper (pref. white)      | to taste    |     |                                |
-|                           |             |     |                                |
-| **Overall weight**        |             |     |                                |
+| Ingredient                 | Quantity, g | %   | Note |
+| -------------------------- | ----------- | --- | ---- |
+| Olive oil; extra virgin    |             |     |      |
+| Mushrooms                  | 500         |     |      |
+| Courgettes                 | 400         |     | 2-3  |
+| Red-bell peppers           | 100         |     |      |
+| Carrots                    |             |     |      |
+| Fennel                     |             |     |      |
+| Onions                     |             |     |      |
+| Spinach                    |             |     |      |
+| Tomatoes; canned or pureed |             |     |      |
+| Garlic                     |             |     |      |
+| Basil                      |             |     |      |
+|                            |             |     |      |
+
 
 
 
@@ -57,10 +61,8 @@ window.onerror = function (message, source, lineno, colno, error) {
 ---
 ## Directions:
 
-1. Melt butter over low heat.
-2. Add flour and sauté it, until it's smooth and not browned.
-3. Add milk gradually, whisking constantly (do it either over very low heat or no heat).
-4. After adding all the milk, add the nutmeg, salt and pepper.
+1. 
+
 
 ---
 ## Nutrition Facts:

@@ -45,16 +45,30 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                           | Quantity, g | Baker's % | %   | Note                                         |
 | ---------------------------------------------------- | ----------- | --------- | --- | -------------------------------------------- |
-| Water                                                | 317         |           |     |                                              |
+| **My version**                                       |             |           |     |                                              |
+| Water                                                | 362         |           |     |                                              |
 | [[Sourdough starter types\|Sourdough starter (60%)]] | 90          |           |     | Fed overnight at 8 p.m 1:9., ready by 9 a.m. |
 | Sea salt                                             | 14          |           |     |                                              |
-| Sugar                                                | 80          |           |     |                                              |
-| [[Cocoa powders\|Cocoa powder; Dutch-processed]]     | 32          |           |     |                                              |
+| Sugar                                                | 85          |           |     |                                              |
+| [[Cocoa powders\|Cocoa powder; Dutch-processed]]     | 34          |           |     |                                              |
 | [[Cocoa powders\|Cocoa powder; Heavily-alkalized]]   | 8           |           |     |                                              |
-| [[Flours\|Wheat flour (HH Manitoba)]]                | 360         |           |     |                                              |
-| [[Flours\|Whole wheat flour (Caputo)]]               | 80          |           |     |                                              |
-| Chocolate; dark (70+%)                               | 150         |           |     |                                              |
-| Cranberries                                          | 80          |           |     |                                              |
+| [[Flours\|Whole buckwheat flour]]                    | 50          |           |     |                                              |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 120         |           |     |                                              |
+| [[Flours\|Wheat flour (HH Manitoba)]]                | 210         |           |     |                                              |
+| [[Flours\|Whole wheat flour (Caputo)]]               | 85          |           |     |                                              |
+| Chocolate; dark (70+%)                               | 159         |           |     |                                              |
+| Cranberries                                          | 85          |           |     |                                              |
+|                                                      |             |           |     |                                              |
+| **Overall hydration**                                |             |           |     |                                              |
+| **Overall weight**                                   |             |           |     |                                              |
+|                                                      |             |           |     |                                              |
+| **Bogdana's version**                                |             |           |     |                                              |
+| Water                                                | 220         |           |     |                                              |
+| Sourdough starter (100%)                             | 100         |           |     |                                              |
+| Flour                                                | 250         |           |     |                                              |
+| Cocoa powder                                         | 20          |           |     |                                              |
+| Sugar                                                | 20          |           |     |                                              |
+| Salt                                                 | 5           |           |     |                                              |
 |                                                      |             |           |     |                                              |
 | **Overall hydration**                                |             |           |     |                                              |
 | **Overall weight**                                   |             |           |     |                                              |
