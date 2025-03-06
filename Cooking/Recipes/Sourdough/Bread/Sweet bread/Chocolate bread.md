@@ -48,7 +48,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | **My version**                                       |             |           |     |                                              |
 | Water                                                | 362         |           |     |                                              |
 | [[Sourdough starter types\|Sourdough starter (60%)]] | 90          |           |     | Fed overnight at 8 p.m 1:9., ready by 9 a.m. |
-| Sea salt                                             | 14          |           |     |                                              |
+| Sea salt                                             | 15          |           |     |                                              |
 | Sugar                                                | 85          |           |     |                                              |
 | [[Cocoa powders\|Cocoa powder; Dutch-processed]]     | 34          |           |     |                                              |
 | [[Cocoa powders\|Cocoa powder; Heavily-alkalized]]   | 8           |           |     |                                              |
