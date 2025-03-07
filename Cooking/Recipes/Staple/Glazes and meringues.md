@@ -29,6 +29,7 @@ Ingredients:
 • 255 g sugar
 • 1/4 tsp. salt
 • lemon juice
+• vanilla
 
 Cook whites and sugar to 80C. Whip.
-Add salt and lemon juice while whipping.
+Add salt, lemon juice and vanilla while whipping.
