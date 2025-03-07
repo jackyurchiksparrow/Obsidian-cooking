@@ -12,7 +12,7 @@ nutrition rating:
 taste rating: 8.5
 credit: https://preppykitchen.com/gingerbread-men/#recipe
 part_of_the_set:
-  - "[[Glazes|Royal icing]]"
+  - "[[Glazes and meringues|Royal icing]]"
 ---
 ```dataviewjs
 while (!customJS?.state?._ready) { 
@@ -63,7 +63,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 |                                                      |             |           |     |                      |
 | **Overall weight**                                   |             |           |     |                      |
 |                                                      |             |           |     |                      |
-| [[Glazes\|Royal icing]] (for decoration; optional)   | 250         |           |     |                      |
+| [[Glazes and meringues\|Royal icing]] (for decoration; optional)   | 250         |           |     |                      |
 |                                                      |             |           |     |                      |
 | **Overall weight**                                   |             |           |     |                      |
 

@@ -14,7 +14,7 @@ taste rating:
 credit: Daria Tsvek + Olena Szheleznyak
 part_of_the_set:
   - "[[Candied peels]]"
-  - "[[Glazes]]"
+  - "[[Glazes and meringues]]"
 ---
 ```dataviewjs
 while (!customJS?.state?._ready) { 
@@ -46,57 +46,58 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                           | Quantity, g | Baker's % | %   | Note                   |
-| ---------------------------------------------------- | ----------- | --------- | --- | ---------------------- |
-| **Anastasia Litvynenko ver.**                        |             |           |     |                        |
-|                                                      |             |           |     |                        |
-| [[Sourdough starter types\|Sourdough starter (80%)]] | 330         |           |     |                        |
-| Eggs                                                 | 100         |           |     | 2 pcs.                 |
-| Yolks                                                | 10          |           |     | 1 pc.                  |
-| Sugar                                                | 100         |           |     |                        |
-| Vanilla sugar                                        | 15          |           |     |                        |
-| Salt                                                 |             |           |     | 1/3 tsp.               |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 300         |           |     |                        |
-| Butter; softened                                     | 80          |           |     |                        |
-| Dry fruit (optional)                                 | 65          |           |     |                        |
-|                                                      |             |           |     |                        |
-| **Overall hydration**                                |             |           |     |                        |
-| **Overall weight**                                   |             |           |     |                        |
-|                                                      |             |           |     |                        |
-|                                                      |             |           |     |                        |
-| **Daria Tsvek ver.**                                 |             |           |     |                        |
-|                                                      |             |           |     |                        |
-| [[Sourdough starter types\|Sourdough starter (40%)]] | 219         |           |     |                        |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 854         |           |     |                        |
-| Milk                                                 | 345         |           |     |                        |
-| Egg yolks                                            | 200         |           |     | 10 pcs.                |
-| Sugar                                                | 300         |           |     |                        |
-| Salt                                                 |             |           |     | 1/2 tsp.               |
-| Raisins                                              | 100         |           |     |                        |
-| Butter; melted                                       | 200         |           |     |                        |
-|                                                      |             |           |     |                        |
-| **Overall hydration**                                |             |           |     |                        |
-| **Overall weight**                                   |             |           |     |                        |
-|                                                      |             |           |     |                        |
-|                                                      |             |           |     |                        |
-| **My version (Daria Tsvek tweaked)**                 |             |           |     |                        |
-| [[Sourdough starter types\|Sourdough starter (40%)]] | 220         |           |     | 157 g flour, 63 g milk |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 145         |           |     |                        |
-| [[Flours\|Wheat flour (HH Manitoba)]]                | 200         |           |     |                        |
-| [[Flours\|Whole wheat flour (Caputo)]]               | 500         |           |     |                        |
-| Milk                                                 | 341         |           |     |                        |
-| Egg yolks                                            | 200         |           |     | 10 pcs.                |
-| Sugar                                                | 150         |           |     |                        |
-| [[Inverted sugar]]                                   | 35          |           |     |                        |
-| Butter; softened                                     | 200         |           |     |                        |
-| Salt                                                 | 5           |           |     |                        |
-| Water (if needed)                                    |             |           |     | up to 100 g per kilo   |
-| Raisins                                              | 150         |           |     |                        |
-| Cranberries                                          | 50          |           |     |                        |
-| [[Candied peels]]                                    | 50          |           |     |                        |
-|                                                      |             |           |     |                        |
-| **Overall hydration**                                |             |           |     |                        |
-| **Overall weight**                                   |             |           |     |                        |
+| Ingredient                                           | Quantity, g | Baker's % | %   | Note                                        |
+| ---------------------------------------------------- | ----------- | --------- | --- | ------------------------------------------- |
+| **Anastasia Litvynenko ver.**                        |             |           |     |                                             |
+|                                                      |             |           |     |                                             |
+| [[Sourdough starter types\|Sourdough starter (80%)]] | 330         |           |     |                                             |
+| Eggs                                                 | 100         |           |     | 2 pcs.                                      |
+| Yolks                                                | 10          |           |     | 1 pc.                                       |
+| Sugar                                                | 100         |           |     |                                             |
+| Vanilla sugar                                        | 15          |           |     |                                             |
+| Salt                                                 |             |           |     | 1/3 tsp.                                    |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 300         |           |     |                                             |
+| Butter; softened                                     | 80          |           |     |                                             |
+| Dry fruit (optional)                                 | 65          |           |     |                                             |
+|                                                      |             |           |     |                                             |
+| **Overall hydration**                                |             |           |     |                                             |
+| **Overall weight**                                   |             |           |     |                                             |
+|                                                      |             |           |     |                                             |
+|                                                      |             |           |     |                                             |
+| **Daria Tsvek ver.**                                 |             |           |     |                                             |
+|                                                      |             |           |     |                                             |
+| [[Sourdough starter types\|Sourdough starter (40%)]] | 219         |           |     |                                             |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 854         |           |     |                                             |
+| Milk                                                 | 345         |           |     |                                             |
+| Egg yolks                                            | 200         |           |     | 10 pcs.                                     |
+| Sugar                                                | 300         |           |     |                                             |
+| Salt                                                 |             |           |     | 1/2 tsp.                                    |
+| Raisins                                              | 100         |           |     |                                             |
+| Butter; melted                                       | 200         |           |     |                                             |
+|                                                      |             |           |     |                                             |
+| **Overall hydration**                                |             |           |     |                                             |
+| **Overall weight**                                   |             |           |     |                                             |
+|                                                      |             |           |     |                                             |
+|                                                      |             |           |     |                                             |
+| **My version (Daria Tsvek tweaked)**                 |             |           |     |                                             |
+| [[Sourdough starter types\|Sourdough starter (40%)]] | 220         |           |     | 26 g starter, 131 g flour, 63 g milk (1:6). |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 145         |           |     |                                             |
+| [[Flours\|Wheat flour (HH Manitoba)]]                | 200         |           |     |                                             |
+| [[Flours\|Whole wheat flour (Caputo)]]               | 500         |           |     |                                             |
+| Milk                                                 | 341         |           |     |                                             |
+| Egg yolks                                            | 200         |           |     | 10 pcs.                                     |
+| Sugar                                                | 150         |           |     |                                             |
+| [[Inverted sugar]]                                   | 35          |           |     |                                             |
+| Butter; softened                                     | 200         |           |     |                                             |
+| Salt                                                 | 5           |           |     |                                             |
+| Water (if needed)                                    |             |           |     | up to 100 g per kilo                        |
+| Raisins                                              | 150         |           |     |                                             |
+| Cranberries                                          | 50          |           |     |                                             |
+| [[Candied peels]]                                    | 50          |           |     |                                             |
+| [[Glazes and meringues\| Swiss meringue]]            | 425         |           |     |                                             |
+|                                                      |             |           |     |                                             |
+| **Overall hydration**                                |             |           |     |                                             |
+| **Overall weight**                                   |             |           |     |                                             |
 
 
 

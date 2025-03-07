@@ -12,7 +12,7 @@ nutrition rating: 7
 taste rating: 9
 credit: 
 part_of_the_set:
-  - "[[Glazes]]"
+  - "[[Glazes and meringues]]"
 ---
 ```dataviewjs
 while (!customJS?.state?._ready) { 
@@ -49,7 +49,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Egg yolks                         | 100         |     | 6 pcs.                                                                            |
 | Vanilla                           | to taste    |     |                                                                                   |
 | Salt                              | to taste    |     |                                                                                   |
-| Sugar                             | 150         |     | + for the [[Glazes\|glaze]] (butter + powdered sugar + water (if needed); thick!) |
+| Sugar                             | 150         |     | + for the [[Glazes and meringues\|glaze]] (butter + powdered sugar + water (if needed); thick!) |
 | [[Flours\|Bread flour (Zernari)]] | 80          |     | + for covering                                                                    |
 | Cornstarch                        | 15          |     |                                                                                   |
 |                                   |             |     |                                                                                   |

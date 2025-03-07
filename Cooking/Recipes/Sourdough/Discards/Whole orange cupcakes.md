@@ -75,7 +75,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ### Make the glaze
 
-1. [[Glazes|Make the glaze]]
+1. [[Glazes and meringues|Make the glaze]]
 2. Spoon and brush over the top of the cake and allow to cool completely before cutting.
 
 
