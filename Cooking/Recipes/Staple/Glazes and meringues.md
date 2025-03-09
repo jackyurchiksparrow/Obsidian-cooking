@@ -31,5 +31,5 @@ Ingredients:
 • lemon juice
 • vanilla
 
-Cook whites and sugar to 80C. Whip.
-Add salt, lemon juice and vanilla while whipping.
+Cook whites and sugar to 80C on !baine marie. Whip.
+Add salt, lemon juice/balsamic vinegar and vanilla while whipping.
