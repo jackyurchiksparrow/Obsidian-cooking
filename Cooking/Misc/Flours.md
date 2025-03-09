@@ -38,6 +38,8 @@ Nothing has surprised me so far. Have used a few, nothing fancy.
 
 ## Whole wheat flour (Farina "Integrale" di grano tenero Molino Pordenone)
 
+Very coarsely milled. You can strongly sense the taste and presence of it. The bran is too pronounced. Soaks a lot of moisture, more that Caputo's. If using in sweet doughs, sieve finely.
+
 ![|500](https://lh3.googleusercontent.com/pw/AP1GczOFKZ6bVzUNYrSr5LgTBAnJCsQctmWkjmj_wyfkLKd8biuD7J90X90hq2vDfS0Xf9bAJl-meN-_vbJHx-4GozIa0ZdNLEBP1AHSj2P-YHUKM2A_Xg3ris-QDj-TCeoO7IhYNybTqef105iEqqMf1K0o=w841-h858-s-no-gm?authuser=0)
 ## Durum Flour (Molino Cosma semolina rimacinata) S3 Pasta Bella
 
