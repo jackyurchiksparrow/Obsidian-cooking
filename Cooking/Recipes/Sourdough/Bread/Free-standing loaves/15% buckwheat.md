@@ -6,7 +6,7 @@ date: 2025-03-04
 hydration: 82.4
 bulk fermentation: 5h
 cold retard: 18h
-outcome: properly proofed
+outcome: overproofed
 thumbnail: https://lh3.googleusercontent.com/pw/AP1GczPPzjkewPwmduefVhQgvkFi751BLmHcW3PzoZgWmNtMpLiI0inlwF2ClK2h6aQq4kKQFoGElfyBTjPFuYt2NctylafUCVHm07hFU2Xc_PUwfQ3FDuA1dmqXmqq2AWVg6YaBZ6_07aRQ7PhvzsP0yVIM=w1280-h960-s-no-gm?authuser=0
 yield: 1
 nutrition rating: 
@@ -33,7 +33,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Banneton                                                                                                                                                                                                                             | Scoring | Appearance | Crumb                                                                                                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | ![](https://lh3.googleusercontent.com/pw/AP1GczPrhjcFScnCarISwJHgDWfZFvOHAyPtiqfotvI1JdMX1oFmJh8LBg6LiZnX-4lCSNirEkU6lkD1aWEPjDXXPCMGay75aCQDTMBFPJEZ_9zvEu51V-ZRbSQsLp0CRqiWgey7YiXJMZV9Jamu70qpZnuI=w1280-h960-s-no-gm?authuser=0) |         |            | ![](https://lh3.googleusercontent.com/pw/AP1GczPPzjkewPwmduefVhQgvkFi751BLmHcW3PzoZgWmNtMpLiI0inlwF2ClK2h6aQq4kKQFoGElfyBTjPFuYt2NctylafUCVHm07hFU2Xc_PUwfQ3FDuA1dmqXmqq2AWVg6YaBZ6_07aRQ7PhvzsP0yVIM=w1280-h960-s-no-gm?authuser=0) |
-| Bulk: 4h 30min shaped; 5h fridge<br>Cold: 18h<br>Outcome: properly proofed<br>Hydration: 82.4%<br><br>- increase bulk slightly next time (5-10 min)<br><br>04.03.2025                                                                |         |            |                                                                                                                                                                                                                                      |
+| Bulk: 4h 30min shaped; 5h fridge<br>Cold: 18h<br>Outcome: slightly overproofed<br>Hydration: 82.4%<br><br>- increase bulk slightly next time (5-10 min)<br><br>04.03.2025                                                            |         |            |                                                                                                                                                                                                                                      |
 
 ## Ingredients
 
