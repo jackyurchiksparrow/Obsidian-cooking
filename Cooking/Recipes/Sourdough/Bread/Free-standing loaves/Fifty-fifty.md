@@ -6,7 +6,7 @@ hydration: 80.3
 bulk fermentation: 7h
 cold retard: 18h
 outcome: underproofed
-thumbnail: 
+thumbnail: https://lh3.googleusercontent.com/pw/AP1GczMI7Q96dISSBTwEFsGJFK2SedTvllnxQuKFBgq6uVh8VfhwhFER57yWBHsijdl2On46nKUUSDpIV9nxM9AWYymsjVqu3mg1kkbaGsklTuq2mxLAm_96rL5RCjv8Fb7IgwmAxvJmdedGRobyy7aR5bki=w1145-h858-s-no-gm?authuser=0
 yield: 1
 nutrition rating: 
 taste rating: 
@@ -29,10 +29,10 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-| Banneton                                                                                                                                                                             | Scoring | Appearance | Crumb |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | ---------- | ----- |
-|                                                                                                                                                                                      |         |            |       |
-| Bulk: 6h shaped; 7h fridge<br>Cold: 18h<br>Outcome: underproofed<br>Hydration: 80.3%<br><br>- increase bulk next time or use warm water (35C), I skipped this step<br><br>10.03.2025 |         |            |       |
+| Banneton                                                                                                                                                                                                                             | Scoring                                                                                                                                                                                                                             | Appearance                                                                                                                                                                                                                           | Crumb |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----- |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczMpzTee6PnMw-p7myecS_FLaQYZMX4UboEIIgp4KQe9BPVR4xRmenM36ZMqP2IMyE-vo2_IWjaOp8no6UmlLwMizq6CNubsmtWk3V8DB_CZcLg6eiGy8sN52HW1EayOzl7eS8f57htC9Od5hQ8lkrvi=w1145-h858-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczMYUqQLRzFzxTeb9Noz3P9BgMSHv-BnHAJZZ9iv9zRAEcO1PbzHk-GeU4HCoLQf1JrD7oT-I5ygBJXG3H0T_WhxplU-hhicuWDZ922Hn5FcQWL5boI0yhK5vwOZ1X7Fws49UkSyET-Ux6_JEt6G1mMM=w643-h858-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczMI7Q96dISSBTwEFsGJFK2SedTvllnxQuKFBgq6uVh8VfhwhFER57yWBHsijdl2On46nKUUSDpIV9nxM9AWYymsjVqu3mg1kkbaGsklTuq2mxLAm_96rL5RCjv8Fb7IgwmAxvJmdedGRobyy7aR5bki=w1145-h858-s-no-gm?authuser=0) |       |
+| Bulk: 6h shaped; 7h fridge<br>Cold: 18h<br>Outcome: underproofed<br>Hydration: 80.3%<br><br>- increase bulk next time or use warm water (35C), I skipped this step<br><br>10.03.2025                                                 |                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                      |       |
 
 
 
