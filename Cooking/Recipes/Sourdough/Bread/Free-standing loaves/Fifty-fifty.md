@@ -1,12 +1,12 @@
 ---
 tags:
   - "#sourdough"
-date: 2024-12-17
+date: 2025-03-10
 hydration: 80.3
-bulk fermentation: 4 h
-cold retard: 20 h
-outcome: overproofed
-thumbnail: https://lh3.googleusercontent.com/pw/AP1GczNs4J8HDp-LHFmnU60c8zAEqg620LFnsSDzwyswR-GKPdLKYhT3D1LDsKdOW-pdz2ucK3SbNrEvrOlE42OIyx-1qdLtA8JitAeKLoHfAUol8DTR_akRzpYm1t8UFxbN0DNED8qzbckBZmgadOZdXhxj=w1280-h960-s-no-gm?authuser=0
+bulk fermentation: 7h
+cold retard: 18h
+outcome: underproofed
+thumbnail: 
 yield: 1
 nutrition rating: 
 taste rating: 
@@ -29,8 +29,10 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-| Banneton                                                                                                                                                                                                                            | Scoring                                                                                                                                                                                                                              | Appearance                                                                                                                                                                                                                           | Crumb                                                                                                                                                                                                                               |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Banneton                                                                                                                                                                             | Scoring | Appearance | Crumb |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | ---------- | ----- |
+|                                                                                                                                                                                      |         |            |       |
+| Bulk: 6h shaped; 7h fridge<br>Cold: 18h<br>Outcome: underproofed<br>Hydration: 80.3%<br><br>- increase bulk next time or use warm water (35C), I skipped this step<br><br>10.03.2025 |         |            |       |
 
 
 
@@ -42,17 +44,17 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                           | Quantity, g | Baker's % | %   | Note                         |
-| ---------------------------------------------------- | ----------- | --------- | --- | ---------------------------- |
-| Water                                                | 565         |           |     |                              |
-| [[Sourdough starter types\|Sourdough starter (60%)]] | 90          |           |     | Fed overnight at 10 p.m. 1:5 |
-| Sea salt                                             | 15          |           |     |                              |
-| [[Flours\|Wheat flour (HH Manitoba)]]                | 172         |           |     |                              |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 172         |           |     |                              |
-| [[Flours\|Whole wheat flour (Caputo)]]               | 345         |           |     |                              |
-|                                                      |             |           |     |                              |
-| **Overall hydration**                                |             |           |     |                              |
-| **Overall weight**                                   |             |           |     |                              |
+| Ingredient                                           | Quantity, g | Baker's % | %   | Note |
+| ---------------------------------------------------- | ----------- | --------- | --- | ---- |
+| Water                                                | 541         |           |     |      |
+| [[Sourdough starter types\|Sourdough starter (60%)]] | 90          |           |     |      |
+| Sea salt                                             | 15          |           |     |      |
+| [[Flours\|Wheat flour (HH Manitoba)]]                | 162         |           |     |      |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 162         |           |     |      |
+| [[Flours\|Whole wheat flour (Molino Pordenone)]]     | 335         |           |     |      |
+|                                                      |             |           |     |      |
+| **Overall hydration**                                |             |           |     |      |
+| **Overall weight**                                   |             |           |     |      |
 
 
 
