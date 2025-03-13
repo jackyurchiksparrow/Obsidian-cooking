@@ -5,7 +5,7 @@ tags:
   - chocolate
   - christmas
 date: 2024-11-24
-hydration: 66.8
+hydration: 79.8
 bulk fermentation: 18 h 40 min
 cold retard: 3 h
 outcome: overproofed
@@ -83,7 +83,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | [[Flours\|Wheat flour (HH Manitoba)]]                | 611                  |           |     | high-protein, at room temperature                                                                                                                                                                                                                                               |
 | Butter                                               | 167                  |           |     | 82%, room temperature                                                                                                                                                                                                                                                           |
 | Water                                                | 306                  |           |     | 31-32C, this sums all ingredients' temperature + friction in the mixer = our perfect 26-28 C                                                                                                                                                                                    |
-| [[Sourdough starter types\|Sourdough starter (50%)]] | 216                  |           |     | at 26-27C, refreshed 3 times every 4 hours at 26-27C fermenter; only with white high protein flour                                                                                                                                                                              |
+| [[Sourdough starter types\|Sourdough starter (40%)]] | 216                  |           |     | at 26-27C, refreshed 3 times every 4 hours at 26-27C fermenter; only with white high protein flour                                                                                                                                                                              |
 | Sugar                                                | 167                  |           |     | May also use brown                                                                                                                                                                                                                                                              |
 | Egg yolks                                            | 153                  |           |     | ~7 pcs. Cold; from the fridge; ORGANIC (preferably pasteurized, but NO preservatives, anti-mold agents etc.)                                                                                                                                                                    |
 | **Overall hydration**                                |                      |           |     |                                                                                                                                                                                                                                                                                 |
@@ -97,7 +97,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Salt                                                 | 13                   |           |     | Only fine; coarse one may damage the gluten network (if accidentally not mixed in, will just tear it during stretches).                                                                                                                                                         |
 | Butter                                               | 352                  |           |     | 82%, room temperature (19-22C)                                                                                                                                                                                                                                                  |
 | Water                                                | 92                   |           |     | 25-26C                                                                                                                                                                                                                                                                          |
-| Chocolate (chips)                                    | 90                   |           |     | It is important to use milk chocolate or any other with low cocoa butter content. Otherwise it may melt during baking and won't be noticeable in the overall texture.<br><br>Also, the older the chocolate (6 months old) the better the texture is and the distribution of it. |
+| Chocolate (chips)                                    | 42                   |           |     | It is important to use milk chocolate or any other with low cocoa butter content. Otherwise it may melt during baking and won't be noticeable in the overall texture.<br><br>Also, the older the chocolate (6 months old) the better the texture is and the distribution of it. |
 | Raisins                                              | 224                  |           |     |                                                                                                                                                                                                                                                                                 |
 | Cranberries                                          | 100                  |           |     |                                                                                                                                                                                                                                                                                 |
 | [[Candied peels]]                                    | 123                  |           |     | if they are dry, moisturize them with syrup or water.                                                                                                                                                                                                                           |
@@ -119,24 +119,26 @@ window.onerror = function (message, source, lineno, colno, error) {
 ---
 ## Directions:
 
+It is assumed that the LM is maintained using the water method ([[Lievito madre|conserva in aqua]]) at 30-40% hydration. I feed at 1:2 ratio every day at 08:30-09:00 a.m. (Zernari).
 ### Refreshments:
 0. Take a stiff starter and feed it with warm water (31C). Mix thoroughly until bubbly and cloudy. Add the room temperature flour and knead for 7 minutes, until smooth. The dough temperature must be 26-27C. Shape into a ball, make a crisscross on top for the temperature to penetrate uniformly and place into a plastic bag for 4 hours at 26-27C. Each time 4 hours if the temp is correct. The detailed plan of the above instructions:
-FR: 20:00: **Regular refreshment aiming for the PEAK: 7 sourdough starter: 15 water: 30 white flour** (50% hydration) 1:5 feeding;
-ST 8:30: **1st refreshment ratio: 13 sourdough starter: 13 water: 26 white flour + teeny-tiny pinch of sugar** (50% hydration) 1:2 feeding; (discard the extra)
-ST 12:30: **2nd refreshment ratio: 30 sourdough starter: 24 water: 45 white flour + teeny-tiny pinch of sugar + a bit more** (50% hydration) 1:1.5 feeding; (no discard)
-ST 16:30: **3rd refreshment ratio: 99 sourdough starter: 43 water: 84 white flour + 2 teeny-tiny pinches of sugar*** (50% hydration) 1:0.83 feeding; 
+FR: 08:30: **Preparation for a water bath: 30g sourdough starter: 24g water: 60g white flour** (40% hydration) 1:2 feeding;
+ST 08:00-08:20: **Prepare the [[Lievito madre|Bagnetto]]: 300ml of 22-25C water, 1g of sugar, stir with a wooden spoon. Remove excessively hydrated parts of the dough from LM with your finger and tear big pieces into Bagnetto, wait for 20 minutes.**
+ST 08:20-8:35: **1st refreshment ratio: 13g sourdough starter after Bagnetto: 10g water: 26g white flour -> into a cup, covered at 25-26C** (38% hydration) 1:2 feeding; (discard or refrigerate the extra)
+ST 12:35-12:50: **2nd refreshment ratio: 40g sourdough starter: 24g water: 60g white flour -> into a cup, covered at 25-26C** (40% hydration) 1:1.5 feeding; (discard or refrigerate the extra)
+ST 16:50-17:05: **3rd refreshment ratio: 100g sourdough starter: 34g water: 83g white flour** (40% hydration) 1:0.83 feeding; 
 
-### First kneading (ST 20:30):
-1. Put the flour in a mixer together with the butter, sourdough starter torn into pieces, the water at 31-32ºC. Start mixing slowly until the mixture isn't yet gathered, but all ingredients are more or less even. Now add the sugar. Knead for ~15 minutes or until the dough is tenacious (the gluten is developed).
+### First kneading (ST 21:05):
+#### Read each step carefully. When you are done with the previous step, STOP the stand mixer and read the next step. Then proceed.
+
+1. Put the flour in a mixer together with the butter, sourdough starter torn into pieces, the water at 31-32ºC (use cold water if the ambient is warm/hot). Start mixing slowly until the mixture isn't yet gathered, but all ingredients are more or less even. Now add the sugar. Knead for ~15 minutes or until the dough is tenacious (the gluten is developed).
 2. Now the dough must look smooth, glossy, detached from the walls, not too dry, not too wet. Add the egg yolks all at once. The goal now is to return to the initial consistency, but it will be slightly more wet and sticky. It will first start to break down, that's OK. When the yolks are mixed in slightly, we may increase the speed to medium.
 3. Take the dough out from the mixer onto the counter. Fold it a few times to form a strong big boule.
-4. Wait until it:
-- quadruples in size (8-13h) at 26C (if you starter is maintained perfectly, you have ideal conditions, flour etc.)
-- triples + slightly more (8-13h) at 26C (if you're unsure or your starter is not in its best form)
+4. Wait until it triples in size + slightly more (8-13h) at 26C (or quadruples if you use a young starter (1.5 time volume),for example if you follow Bazzoli maintenance in water and use it young))
 
-> The more it takes and not accelerated with higher temperatures, the more preservation time we have, the more moisture retainment longevity. 8h - 2 weeks, 12-13h - 3 weeks/up to 1 month. It still must be safe to eat even after 3 weeks, but it won't be perfect.
+> The more it takes and not accelerated with even higher temperatures (25-26C is crucial for the structure), the more preservation time we have, the more moisture retainment longevity. 8h - 2 weeks, 12-13h - 3 weeks/up to 1 month. It still must be safe to eat even after 3 weeks, but it won't be perfect.
 
-> Once the fermentation time has passed, place it in the refrigerator before proceeding to the second kneading. This step will make the dough easier to handle.
+> Once the fermentation time has passed, place it in the refrigerator before proceeding to the second kneading. This step will make the dough easier to handle and less prone to overheating.
 
 6. Make the [[Chocolate glaze|Chocolate glaze]] and place into the fridge overnight.
 7. Soak the dry fruit overnight in minimum amount of cold water. Then, in the morning, dry them thoroughly. DO NOT soak candied peeks, or just a handful, soaking will take some aroma. It is better to cover them with inverted syrup or oil. Same for the chocolate chips.
