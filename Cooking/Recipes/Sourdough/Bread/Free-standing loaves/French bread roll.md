@@ -1,11 +1,11 @@
 ---
 tags:
   - "#sourdough"
-date: ""
-hydration: 
-bulk fermentation: 
-cold retard: 
-outcome: 
+date: 2025-03-16
+hydration: 62
+bulk fermentation: 6 h 45 min
+cold retard: 17h
+outcome: underproofed
 thumbnail: 
 yield: 1
 nutrition rating: 
@@ -29,10 +29,10 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-| Banneton                                                             | Scoring | Appearance | Crumb |
-| -------------------------------------------------------------------- | ------- | ---------- | ----- |
-|                                                                      |         |            |       |
-| Bulk: <br>Cold: <br>Outcome: <br>Hydration: <br><br><br><br>.03.2025 |         |            |       |
+| Banneton                                                                                                                                                       | Scoring | Appearance | Crumb |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ---------- | ----- |
+|                                                                                                                                                                |         |            |       |
+| Bulk: 6h 10min shaped, 6h 45min fridge<br>Cold: 17h<br>Outcome: underproofed<br>Hydration: 64.1<br><br>- increase hydration<br>- extend bulk<br><br>16.03.2025 |         |            |       |
 
 ## Ingredients
 
@@ -44,10 +44,10 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                           | Quantity, g | Baker's % | %   | Note |
 | ---------------------------------------------------- | ----------- | --------- | --- | ---- |
-| Water                                                | 449         |           |     |      |
+| Water                                                | 480         |           |     |      |
 | [[Sourdough starter types\|Sourdough starter (60%)]] | 90          |           |     |      |
 | Sea salt                                             | 15          |           |     |      |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 704         |           |     |      |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 675         |           |     |      |
 | Sugar                                                | 13          |           |     |      |
 | Butter                                               | 32          |           |     |      |
 |                                                      |             |           |     |      |
