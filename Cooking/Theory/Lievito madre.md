@@ -53,7 +53,7 @@ Choose the hydration (30-50%). Better use 50% for tying. It dries out a lot. You
 
 Sticking to the recipe, perform the feedings. Despite of the method you use for the maintenance, you may use a lightly floured plastic bag for the feedings. The acidity won't accumulate due to the frequency of feedings. By the moment the last feeding is done, we can proceed with the Panettone if:
 - LM has consistently tripled within the specified period of time
-- the acidity after tripling at the last feeding likes within the range of **3.9 - 4.1**
+- the acidity after tripling at the last feeding likes within the range of **4.0 - 4.5 (4.0-4.2 ideal)**
 
 > If the acidity is higher (**e.x. 5**), it means the starter is too alkali (not acidic enough), the fermentation is not active enough, too weak.
 > If the acidity is too low (**e.x. 3.7**), it means the starter is too acidic, the balance of bacteria is off and the starter is not ready for Panettone.
