@@ -126,6 +126,10 @@ Soak the raisins and cranberries in water with a splash of rum overnight.
 
 Day 2 
 1. Take butter from the fridge in advance (2 pckgs).
+2. Separate the eggs into 3 cups. Egg yolks (8), egg whites (8), eggs (2). Whisk egg yolks and eggs to properly measure them for the doughs.
+
+---
+### Stage 1
 
 When LM has peaked:
 
@@ -148,6 +152,9 @@ When LM has peaked:
 3. When the dough looks gathered, add yolks, eggs and salt. Wait for smoothness (more or less).
 4. Give a break to this one. Let it rest covered (in the fridge if it's hot).
 
+---
+### Stage 2
+
 **Classic version**:
 5. After the break, add inverted sugar/honey, sugar, vanilla sugar.
 6. When the dough looks smooth and incorporated, add cubed butter in 5-6 additions.
@@ -156,11 +163,34 @@ When LM has peaked:
 9. Give this one a break.
 
 **Red velvet version**:
-6. 
+6. After the break, add inverted sugar/honey, sugar, vanilla sugar.
+7. When the dough looks smooth and incorporated, add cubed butter in 5-6 additions.
+8. When the dough looks smooth again
+9. If the dough isn't soft enough, add a bit of cold water.
+10. Give this one a break.
 
-7. Let it ferment until it doubles in size (presumably 5-8 hours). 
-8. [[How much dough goes into the mold||Divide]] into pieces based on your molds, COVER and wait until there's about 3 cm left to the top (about 6 hours) and start preheating the oven to 180C fan. Assess with the [[Poke test]] as usual, the dough should be soft and leave a small indent (not restoring completely or doing so very slowly). 
-9. Bake at 180C for about 30 min until the top is golden brown. If the oven is overcrowded, reduce the heat or bake without fan.
+**Chocolate version**
+5. After the break, add inverted sugar/honey, sugar, vanilla sugar.
+6. When the dough looks smooth and incorporated, add cubed butter in 5-6 additions.
+7. When the dough looks smooth again
+8. If the dough isn't soft enough, add a bit of cold water.
+9. Give this one a break.
+
+---
+
+### Stage 3
+
+**Classic version**, **Red velvet version**, **Chocolate version**
+	Add the inclusions by laminating the dough. Place into a sealable container for 5-8 hours at 25-26C until doubled.
+
+---
+
+### Stage 4
+
+**Classic version**, **Red velvet version**, **Chocolate version**
+12. [[How much dough goes into the mold||Divide]] and preshape. Rest for 30 minutes.
+13. Shape. Put into the molds. COVER! Proof for 5-8 hours at 25-26C or until passes the [[poke test]] and almost risen to the edges. The dough should be soft and leave a small indent (not restoring completely or doing so very slowly). 
+14. Bake at 180C fan for about 30 min until the top is golden brown. If the oven is overcrowded, reduce the heat or bake without fan.
 
 
 ---
