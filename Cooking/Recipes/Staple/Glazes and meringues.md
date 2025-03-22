@@ -28,7 +28,7 @@ Ingredients:
 • 170 g egg whites
 • 255 g sugar
 • 1/4 tsp. salt
-• lemon juice/balsamic vinegar
+• lemon juice
 • vanilla
 
 Cook whites and sugar to 80C on !baine marie. Whip.

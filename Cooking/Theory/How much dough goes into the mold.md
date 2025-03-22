@@ -15,7 +15,7 @@ $\Huge V = L \times W  \times H$
 (volume, latency, width, height)
 
 ## Examples
-#### **Example 1: Kulich in a 11 cm diameter, 8.5 cm tall mold**
+#### **Example: Kulich in a 11 cm diameter, 8.5 cm tall mold**
 
 $\Huge 1) \space V = \pi \times (5.5 cm)^2 \times 8.5 cm ≈ 807.78 cm^3$
 
@@ -23,7 +23,31 @@ $\Huge 2) \space Density \approx 0.372 g/cm^3$
 
 $\Huge 3) \space DoughWeight = 807.78 \times 0.372 \approx 300 g$ 
 
-#### **Example 1: Kulich in a 13 cm diameter, 8.5 cm tall mold**
+#### **Example: Kulich in a 11 cm diameter, 9 cm tall mold**
+
+$\Huge 1) \space V = \pi \times (5.5 cm)^2 \times 9 cm ≈ 855.29 cm^3$
+
+$\Huge 2) \space Density \approx 0.372 g/cm^3$
+
+$\Huge 3) \space DoughWeight = 855.29 \times 0.372 \approx 318 g$ 
+
+#### **Example: Kulich in a 11 cm diameter, 9.5 cm tall mold**
+
+$\Huge 1) \space V = \pi \times (5.5 cm)^2 \times 9.5 cm ≈ 902.81 cm^3$
+
+$\Huge 2) \space Density \approx 0.372 g/cm^3$
+
+$\Huge 3) \space DoughWeight = 902.81 \times 0.372 \approx 335 g$ 
+
+#### **Example: Kulich in a 9 cm diameter, 8 cm tall mold**
+
+$\Huge 1) \space V = \pi \times (5.5 cm)^2 \times 9.5 cm ≈ 508.93 cm^3$
+
+$\Huge 2) \space Density \approx 0.372 g/cm^3$
+
+$\Huge 3) \space DoughWeight = 508.93 \times 0.372 \approx 190 g$ 
+
+#### **Example: Kulich in a 13 cm diameter, 8.5 cm tall mold**
 
 $\Huge 1) \space V = \pi \times (6.5 cm)^2 \times 8.5 cm ≈ 1128.22 cm^3$
 
