@@ -97,17 +97,6 @@ window.onerror = function (message, source, lineno, colno, error) {
 | [[Glazes and meringues\|Swiss meringue]]                                                                                                               | 400         |           |     |                                 |
 | • 170 g egg whites<br>• 255 g sugar<br>• 1/4 tsp. salt<br>• lemon juice<br>• vanilla                                                                   |             |           |     |                                 |
 | **Overall weight**                                                                                                                                     |             |           |     |                                 |
-|                                                                                                                                                        |             |           |     |                                 |
-|                                                                                                                                                        |             |           |     |                                 |
-|                                                                                                                                                        |             |           |     |                                 |
-|                                                                                                                                                        |             |           |     |                                 |
-|                                                                                                                                                        |             |           |     |                                 |
-|                                                                                                                                                        |             |           |     |                                 |
-|                                                                                                                                                        |             |           |     |                                 |
-|                                                                                                                                                        |             |           |     |                                 |
-|                                                                                                                                                        |             |           |     |                                 |
-|                                                                                                                                                        |             |           |     |                                 |
-
 
 
 
