@@ -25,78 +25,76 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ###### 1
 ###### Scale
-###### 395+250 = 645
+###### 1252-1185 = 67
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                                                                                                                             | Quantity, g | Baker's % | %   | Note                            |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- | --------- | --- | ------------------------------- |
-| <h3 style="color:#00ff13;">My white version (Daria Tsvek tweaked); chocolate</h3><br><br>Yield:<br>110x90 (x3) -> 318g each<br>90x80 (x1) -> 190g each |             |           |     |                                 |
-| [[Sourdough starter types\|Sourdough starter (50%)]]                                                                                                   | 138         |           |     | 30 starter + 36 milk + 72 flour |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]                                                                                                       | 247         |           |     |                                 |
-| [[Flours\|Wheat flour (HH Manitoba)]]                                                                                                                  | 76          |           |     |                                 |
-| [[Cocoa powders\|Cocoa powder (Dutch)]]                                                                                                                | 45          |           |     |                                 |
-| Milk                                                                                                                                                   | 215         |           |     |                                 |
-| Egg yolks                                                                                                                                              | 55          |           |     | 3 pcs.                          |
-| Eggs                                                                                                                                                   | 38          |           |     | 1 pc.                           |
-| Sugar                                                                                                                                                  | 115         |           |     |                                 |
-| Vanilla sugar                                                                                                                                          | 11          |           |     |                                 |
-| [[Inverted sugar]] / honey                                                                                                                             | 13          |           |     |                                 |
-| Butter; softened                                                                                                                                       | 87          |           |     |                                 |
-| Salt                                                                                                                                                   | 3           |           |     |                                 |
-| Water (if needed)                                                                                                                                      |             |           |     | up to 100 g per kilo            |
-| Dark chocolate                                                                                                                                         | 56          |           |     |                                 |
-| Walnuts                                                                                                                                                | 50          |           |     |                                 |
-|                                                                                                                                                        |             |           |     |                                 |
-| **Overall hydration**                                                                                                                                  |             |           |     |                                 |
-| **Overall weight**                                                                                                                                     |             |           |     |                                 |
-|                                                                                                                                                        |             |           |     |                                 |
-|                                                                                                                                                        |             |           |     |                                 |
-| <h3 style="color:#00ff13;">My white version (Daria Tsvek tweaked); classic</h3><br><br>Yield:<br>110x90 (x3) -> 318g each<br>90x80 (x1) -> 190g each   |             |           |     |                                 |
-| [[Sourdough starter types\|Sourdough starter (50%)]]                                                                                                   | 138         |           |     | 30 starter + 36 milk + 72 flour |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]                                                                                                       | 295         |           |     |                                 |
-| [[Flours\|Wheat flour (HH Manitoba)]]                                                                                                                  | 92          |           |     |                                 |
-| Milk                                                                                                                                                   | 185         |           |     |                                 |
-| Egg yolks                                                                                                                                              | 66          |           |     | 4 pcs.                          |
-| Eggs                                                                                                                                                   | 46          |           |     | 1 pc.                           |
-| Sugar                                                                                                                                                  | 69          |           |     |                                 |
-| Vanilla sugar                                                                                                                                          | 14          |           |     |                                 |
-| [[Inverted sugar]] / honey                                                                                                                             | 16          |           |     |                                 |
-| Butter; softened                                                                                                                                       | 92          |           |     |                                 |
-| Salt                                                                                                                                                   | 3           |           |     |                                 |
-| Water (if needed)                                                                                                                                      |             |           |     | up to 100 g per kilo            |
-| Raisins                                                                                                                                                | 69          |           |     |                                 |
-| Cranberries                                                                                                                                            | 40          |           |     |                                 |
-| [[Candied peels]]                                                                                                                                      | 23          |           |     |                                 |
-|                                                                                                                                                        |             |           |     |                                 |
-| **Overall hydration**                                                                                                                                  |             |           |     |                                 |
-| **Overall weight**                                                                                                                                     |             |           |     |                                 |
-|                                                                                                                                                        |             |           |     |                                 |
-|                                                                                                                                                        |             |           |     |                                 |
-| <h3 style="color:#00ff13;">My white version (Daria Tsvek tweaked); red velvet</h3><br><br>Yield:<br>110x95 (x3) -> 335g each                           |             |           |     |                                 |
-| [[Sourdough starter types\|Sourdough starter (50%)]]                                                                                                   | 127         |           |     | 30 starter + 32 milk + 64 flour |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]                                                                                                       | 247         |           |     |                                 |
-| [[Flours\|Wheat flour (HH Manitoba)]]                                                                                                                  | 76          |           |     |                                 |
-| [[Cocoa powders\|Cocoa powder (Dutch)]]                                                                                                                | 14          |           |     |                                 |
-| Milk                                                                                                                                                   | 140         |           |     |                                 |
-| Sour cream (20-25%)                                                                                                                                    | 50          |           |     |                                 |
-| Egg yolks                                                                                                                                              | 55          |           |     | 3 pcs.                          |
-| Eggs                                                                                                                                                   | 38          |           |     | 2 pcs.                          |
-| Sugar                                                                                                                                                  | 77          |           |     |                                 |
-| Vanilla sugar                                                                                                                                          | 11          |           |     |                                 |
-| [[Inverted sugar]] / honey                                                                                                                             | 13          |           |     |                                 |
-| Butter; softened                                                                                                                                       | 87          |           |     |                                 |
-| Salt                                                                                                                                                   | 3           |           |     |                                 |
-| Water (if needed)                                                                                                                                      |             |           |     | up to 100 g per kilo            |
-| Nuts / dry fruit                                                                                                                                       | 85          |           |     |                                 |
-| Red food coloring (optional)                                                                                                                           | 1 tsp.      |           |     |                                 |
-|                                                                                                                                                        |             |           |     |                                 |
-| **Overall hydration**                                                                                                                                  |             |           |     |                                 |
-| **Overall weight**                                                                                                                                     |             |           |     |                                 |
-|                                                                                                                                                        |             |           |     |                                 |
-| [[Glazes and meringues\|Swiss meringue]]                                                                                                               | 400         |           |     |                                 |
-| • 170 g egg whites<br>• 255 g sugar<br>• 1/4 tsp. salt<br>• lemon juice<br>• vanilla                                                                   |             |           |     |                                 |
-| **Overall weight**                                                                                                                                     |             |           |     |                                 |
+| Ingredient                                                                           | Quantity, g | Baker's % | %   | Note                            |
+| ------------------------------------------------------------------------------------ | ----------- | --------- | --- | ------------------------------- |
+| <h3 style="color:#00ff13;">My white version (Daria Tsvek tweaked); chocolate</h3>    |             |           |     |                                 |
+| [[Sourdough starter types\|Sourdough starter (50%)]]                                 | 138         |           |     | 30 starter + 36 milk + 72 flour |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]                                     | 247         |           |     |                                 |
+| [[Flours\|Wheat flour (HH Manitoba)]]                                                | 76          |           |     |                                 |
+| [[Cocoa powders\|Cocoa powder (Dutch)]]                                              | 45          |           |     |                                 |
+| Milk                                                                                 | 170         |           |     |                                 |
+| Egg yolks                                                                            | 55          |           |     | 3 pcs.                          |
+| Eggs                                                                                 | 38          |           |     | 1 pc.                           |
+| Sugar                                                                                | 115         |           |     |                                 |
+| Vanilla sugar                                                                        | 11          |           |     |                                 |
+| [[Inverted sugar]] / honey                                                           | 35          |           |     |                                 |
+| Butter; softened                                                                     | 87          |           |     |                                 |
+| Salt                                                                                 | 3           |           |     |                                 |
+| Water (if needed)                                                                    |             |           |     |                                 |
+| Dark chocolate                                                                       | 56          |           |     |                                 |
+| Walnuts                                                                              | 50          |           |     |                                 |
+|                                                                                      |             |           |     |                                 |
+| **Overall hydration**                                                                |             |           |     |                                 |
+| **Overall weight**                                                                   |             |           |     |                                 |
+|                                                                                      |             |           |     |                                 |
+|                                                                                      |             |           |     |                                 |
+| <h3 style="color:#00ff13;">My white version (Daria Tsvek tweaked); classic</h3>      |             |           |     |                                 |
+| [[Sourdough starter types\|Sourdough starter (50%)]]                                 | 138         |           |     | 30 starter + 36 milk + 72 flour |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]                                     | 295         |           |     |                                 |
+| [[Flours\|Wheat flour (HH Manitoba)]]                                                | 92          |           |     |                                 |
+| Milk                                                                                 | 145         |           |     |                                 |
+| Egg yolks                                                                            | 66          |           |     | 4 pcs.                          |
+| Eggs                                                                                 | 46          |           |     | 1 pc.                           |
+| Sugar                                                                                | 69          |           |     |                                 |
+| Vanilla sugar                                                                        | 14          |           |     |                                 |
+| [[Inverted sugar]] / honey                                                           | 35          |           |     |                                 |
+| Butter; softened                                                                     | 92          |           |     |                                 |
+| Salt                                                                                 | 3           |           |     |                                 |
+| Water (if needed)                                                                    |             |           |     |                                 |
+| Raisins/any dry fruit; soaked                                                        | 150         |           |     |                                 |
+|                                                                                      |             |           |     |                                 |
+| **Overall hydration**                                                                |             |           |     |                                 |
+| **Overall weight**                                                                   |             |           |     |                                 |
+|                                                                                      |             |           |     |                                 |
+|                                                                                      |             |           |     |                                 |
+| <h3 style="color:#00ff13;">My white version (Daria Tsvek tweaked); red velvet</h3>   |             |           |     |                                 |
+| [[Sourdough starter types\|Sourdough starter (50%)]]                                 | 127         |           |     | 30 starter + 32 milk + 64 flour |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]                                     | 247         |           |     |                                 |
+| [[Flours\|Wheat flour (HH Manitoba)]]                                                | 76          |           |     |                                 |
+| [[Cocoa powders\|Cocoa powder (Dutch)]]                                              | 14          |           |     |                                 |
+| Milk                                                                                 | 95          |           |     |                                 |
+| Sour cream (20-25%)                                                                  | 50          |           |     |                                 |
+| Egg yolks                                                                            | 55          |           |     | 3 pcs.                          |
+| Eggs                                                                                 | 38          |           |     | 2 pcs.                          |
+| Sugar                                                                                | 95          |           |     |                                 |
+| Vanilla sugar                                                                        | 11          |           |     |                                 |
+| [[Inverted sugar]] / honey                                                           | 35          |           |     |                                 |
+| Butter; softened                                                                     | 87          |           |     |                                 |
+| Salt                                                                                 | 3           |           |     |                                 |
+| Water (if needed)                                                                    |             |           |     |                                 |
+| Apples / anything sour                                                               | 180         |           |     | 2 small apples                  |
+| Red food coloring (optional)                                                         | 1/3 tsp.    |           |     |                                 |
+|                                                                                      |             |           |     |                                 |
+| **Overall hydration**                                                                |             |           |     |                                 |
+| **Overall weight**                                                                   |             |           |     |                                 |
+|                                                                                      |             |           |     |                                 |
+| [[Glazes and meringues\|Swiss meringue]]                                             | 400         |           |     |                                 |
+| • 170 g egg whites<br>• 255 g sugar<br>• 1/4 tsp. salt<br>• lemon juice<br>• vanilla |             |           |     |                                 |
+| **Overall weight**                                                                   |             |           |     |                                 |
 
 
 
