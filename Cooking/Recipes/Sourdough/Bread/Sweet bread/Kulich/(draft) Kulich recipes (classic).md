@@ -2,6 +2,7 @@
 tags:
   - "#sourdough"
   - easter
+  - draft
 date: 2025-03-09
 hydration: 48
 bulk fermentation: 18h
