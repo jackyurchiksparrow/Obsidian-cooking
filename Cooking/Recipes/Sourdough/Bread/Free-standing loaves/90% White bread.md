@@ -2,7 +2,7 @@
 tags:
   - "#sourdough"
 date: 2024-11-13
-hydration: 75.6
+hydration: 80.4
 bulk fermentation: 5h
 cold retard: 16h
 outcome: underproofed
@@ -45,12 +45,12 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                           | Quantity, g | Baker's % | %   | Note                                         |
 | ---------------------------------------------------- | ----------- | --------- | --- | -------------------------------------------- |
-| Water                                                | 546         |           |     |                                              |
+| Water                                                | 541         |           |     |                                              |
 | [[Sourdough starter types\|Sourdough starter (60%)]] | 90          |           |     | Fed overnight at 8 p.m 1:9., ready by 9 a.m. |
-| Sea salt                                             | 15          |           |     |                                              |
-| [[Flours\|Wheat flour (HH Manitoba)]]                | 257         |           |     |                                              |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 336         |           |     |                                              |
-| [[Flours\|Whole wheat flour (Caputo)]]               | 72          |           |     |                                              |
+| Sea salt                                             | 16          |           |     |                                              |
+| [[Flours\|Wheat flour (HH Manitoba)]]                | 143         |           |     |                                              |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 444         |           |     |                                              |
+| [[Flours\|Whole wheat flour (Caputo)]]               | 71          |           |     |                                              |
 |                                                      |             |           |     |                                              |
 | **Overall hydration**                                |             |           |     |                                              |
 | **Overall weight**                                   |             |           |     |                                              |
