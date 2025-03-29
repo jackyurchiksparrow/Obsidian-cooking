@@ -11,7 +11,9 @@ yield:
 nutrition rating: 
 taste rating: 
 credit: https://www.instagram.com/reel/DFBBni1M-mF/?igsh=bHEydWt2aTBkOHpk
-part_of_the_set:
+part_of_the_set: 
+cuisine:
+  - Chinese
 ---
 ```dataviewjs
 while (!customJS?.state?._ready) { 
@@ -44,26 +46,25 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                                                               | Quantity, g | Baker's % | %   | Note                                                                                                         |
-| ---------------------------------------------------------------------------------------- | ----------- | --------- | --- | ------------------------------------------------------------------------------------------------------------ |
-| **The dough**                                                                            |             |           |     |                                                                                                              |
-| Milk                                                                                     | 520         |           |     |                                                                                                              |
-| Egg                                                                                      | 50          |           |     | 1 pc.                                                                                                        |
-| [[Sourdough starter types\|Sourdough starter (60%)]]                                     | 110         |           |     |                                                                                                              |
-| Honey                                                                                    | 18          |           |     |                                                                                                              |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]                                         | 498         |           |     |                                                                                                              |
-| [[Flours\|Whole wheat flour (Molino Pordenone)]]                                         | 232         |           |     |                                                                                                              |
-| Cornstarch                                                                               | 42          |           |     | use 4.7 baker's % cornstarch additionally or add 11 baker's % cake flour (subtract it from bread flour then) |
-| Olive oil                                                                                | 30          |           |     |                                                                                                              |
-| Sea salt                                                                                 | 17          |           |     |                                                                                                              |
-|                                                                                          |             |           |     |                                                                                                              |
-| **Overall hydration**                                                                    |             |           |     |                                                                                                              |
-| **Overall weight**                                                                       |             |           |     |                                                                                                              |
-|                                                                                          |             |           |     |                                                                                                              |
-| <h3 style="color:#00ff13;">Filling (1:1 with the dough or more, distribute evenly!)</h3> |             |           |     |                                                                                                              |
-| Anything                                                                                 | 2000        |           |     |                                                                                                              |
-|                                                                                          |             |           |     |                                                                                                              |
-| **Overall weight**                                                                       |             |           |     |                                                                                                              |
+| Ingredient                                                                               | Quantity, g | Baker's % | %   | Note  |
+| ---------------------------------------------------------------------------------------- | ----------- | --------- | --- | ----- |
+| **The dough**                                                                            |             |           |     |       |
+| Milk                                                                                     | 559         |           |     |       |
+| Egg                                                                                      | 50          |           |     | 1 pc. |
+| [[Sourdough starter types\|Sourdough starter (60%)]]                                     | 110         |           |     |       |
+| Honey                                                                                    | 20          |           |     |       |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]                                         | 553         |           |     |       |
+| [[Flours\|Whole wheat flour (Molino Pordenone)]]                                         | 258         |           |     |       |
+| Olive oil                                                                                | 33          |           |     |       |
+| Sea salt                                                                                 | 17          |           |     |       |
+|                                                                                          |             |           |     |       |
+| **Overall hydration**                                                                    |             |           |     |       |
+| **Overall weight**                                                                       |             |           |     |       |
+|                                                                                          |             |           |     |       |
+| <h3 style="color:#00ff13;">Filling (1:1 with the dough or more, distribute evenly!)</h3> |             |           |     |       |
+| Anything (300g meat, 200g onions, 200g carrots, 100g celery, 100g fennel, )              | 2000        |           |     |       |
+|                                                                                          |             |           |     |       |
+| **Overall weight**                                                                       |             |           |     |       |
 
 
 
