@@ -68,12 +68,13 @@ window.onerror = function (message, source, lineno, colno, error) {
 ---
 ## Directions:
 
-1. Mix the oats, flour, sourdough discard, sugar, salt, baking soda, cinnamon.
-2. Great butter, mix, put into the fridge. 
-3. In a separate bowl, mix the berries, lemon juice and cornstarch. Add to the dry mixture and mix.
-4. In the same separate bowl, mix the sour cream, honey, egg yolks, starter (if it's 100%).
-5. Mix the mixtures and while it's still soft, somewhat wet, add the dry fruit. Make a thin disk, mb a few. Make a thickness that you want in the ready-made cookies not to break all the berries by squeezing them into the dough after fridge. Chill at least 4 hours.
-8. Bake 180C 20-30 min.
+1. Pulse half of the oats a few times or use whole oatmeal flour.
+2. Mix the oats, flour, sourdough discard (if it's stiff), sugar, salt, baking soda, cinnamon.
+3. Great butter, mix, put into the fridge. 
+4. In a separate bowl, mix the berries, lemon juice and cornstarch. Add to the dry mixture and mix.
+5. In the same separate bowl, mix the sour cream, honey, egg yolks, starter (if it's liquid).
+6. Mix the mixtures and while it's still soft, somewhat wet, add the dry fruit. Make a thin disk, mb a few. Make a thickness that you want in the ready-made cookies not to break all the berries by squeezing them into the dough after fridge. Chill at least 4 hours.
+7. Bake 180C 20-30 min.
 
 
 ---

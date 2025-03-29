@@ -31,5 +31,7 @@ Ingredients:
 • lemon juice
 • vanilla
 
-Cook whites and sugar to 80C on !baine marie. Whip.
-Add salt, lemon juice/balsamic vinegar and vanilla while whipping.
+1. Cook whites, sugar and salt to !80C on !Baine Marie. 
+	**Very important!  The foam created by heat on the surface won't let you use remote thermometer so opt for using regular**
+2. Add lemon juice, whip on high immediately. 
+3. Add vanilla, mix.

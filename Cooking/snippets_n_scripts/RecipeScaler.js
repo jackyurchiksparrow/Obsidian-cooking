@@ -32,10 +32,10 @@ class RecipeScaler {
     static ING_TBL_PERCENTAGE_COL = "%";
 
     // keywords for ingredients considered as "flour"; checked with contains(), lowercased
-    static ING_TBL_FLOUR_KEYS = ["flour", "malt", "cocoa powder"];
+    static ING_TBL_FLOUR_KEYS = ["flour", "malt", "cocoa powder", "cornstarch"];
 
     // keywords for ingredients considered as "water" at the respective percentage for each; checked with contains(), lowercased
-    static ING_TBL_WATER_KEYS = {"water": 100, "milk": 97.5, "yolk": 50, "egg": 75, "butter": 16, "sour cream": 80};
+    static ING_TBL_WATER_KEYS = {"water": 100, "milk": 97.5, "yolk": 50, "egg": 75, "butter": 16, "sour cream": 75, "heavy cream": 67};
 
     // LOWERCASE ingredients table row name for the one that needs to contain the overall weight of ingredients; matched by contains()
     static OVERALL_WEIGHT_ROW = "overall weight";
