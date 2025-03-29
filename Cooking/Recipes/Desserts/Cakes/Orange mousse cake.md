@@ -55,8 +55,8 @@ window.onerror = function (message, source, lineno, colno, error) {
 | **--- Orange base for the mousse ---** |             |     |      |
 | Orange juice                           | 550         |     |      |
 | Sugar                                  | 55          |     |      |
-| Gelatin                                | 25          |     |      |
-| Water                                  | 125         |     |      |
+| Gelatin                                | 30          |     |      |
+| Water                                  | 150         |     |      |
 | Salt                                   | a pinch     |     |      |
 | **Overall weight**                     |             |     |      |
 |                                        |             |     |      |
@@ -81,7 +81,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 5. Zest the oranges into a separate cup. 
 
 ### --- Orange base for the mousse ---
-1. Juice the oranges into a pot. Add the sugar, salt, cinnamon stick and half of the zest. Bring to a boil and cook to reduce, about 10 min.
+1. Juice the oranges into a pot. Add the sugar, salt, cinnamon stick and half of the zest. Bring to a boil and cook to reduce, about 15 min.
 2. Cool slightly and add the soaked gelatin.
 
 ### --- Orange mousse---
