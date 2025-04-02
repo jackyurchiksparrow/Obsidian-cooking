@@ -34,75 +34,75 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                                                                      | Quantity, g | Baker's % | %   | Note                                        |
-| ----------------------------------------------------------------------------------------------- | ----------- | --------- | --- | ------------------------------------------- |
-| <h3 style="color:#00ff13;">My white version (Daria Tsvek tweaked); classic 25% whole wheat</h3> |             |           |     |                                             |
-| [[Sourdough starter types\|Sourdough starter (50%)]]                                            | 110         |           |     | 28g starter, 128g flour, 64g water (1:4.5). |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]                                                | 198         |           |     |                                             |
-| [[Flours\|Wheat flour (HH Manitoba)]]                                                           | 100         |           |     |                                             |
-| [[Flours\|Whole wheat flour (Molino Pordenone)]]; sieved from large bran or rub them through    | 125         |           |     |                                             |
-| Milk                                                                                            | 177         |           |     |                                             |
-| Egg yolks                                                                                       | 66          |           |     | 4 pcs.                                      |
-| Eggs                                                                                            | 50          |           |     | 1 pc.                                       |
-| Sugar                                                                                           | 70          |           |     |                                             |
-| Vanilla sugar                                                                                   | 15          |           |     |                                             |
-| [[Inverted sugar]] / honey                                                                      | 35          |           |     |                                             |
-| Butter; softened                                                                                | 100         |           |     |                                             |
-| Salt                                                                                            | 8           |           |     |                                             |
-| Milk (if needed)                                                                                |             |           |     |                                             |
-| Raisins                                                                                         | 75          |           |     |                                             |
-| Cranberries                                                                                     | 50          |           |     |                                             |
-| [[Candied peels]]                                                                               | 25          |           |     |                                             |
-|                                                                                                 |             |           |     |                                             |
-| **Overall hydration**                                                                           |             |           |     |                                             |
-| **Overall weight**                                                                              |             |           |     |                                             |
-|                                                                                                 |             |           |     |                                             |
-|                                                                                                 |             |           |     |                                             |
-| **My coconut version**                                                                          |             |           |     |                                             |
-| [[Sourdough starter types\|Sourdough starter (50%)]]                                            | 123         |           |     |                                             |
-| Flour Manitoba                                                                                  | 133         |           |     |                                             |
-| Flour Zernari                                                                                   | 133         |           |     |                                             |
-| Coconut cream (fat part)                                                                        | 240         |           |     |                                             |
-| Sugar                                                                                           | 108         |           |     |                                             |
-| Vanilla                                                                                         |             |           |     |                                             |
-| Honey                                                                                           | 30          |           |     |                                             |
-| Butter                                                                                          | 60          |           |     |                                             |
-| Eggs                                                                                            | 90          |           |     | 1.5 pcs.                                    |
-| Salt                                                                                            | 8           |           |     |                                             |
-| Coconut milk (if needed)                                                                        |             |           |     |                                             |
-| Coconut flakes                                                                                  | 133         |           |     |                                             |
-| Cashews or almonds; toasted                                                                     | 142         |           |     |                                             |
-|                                                                                                 |             |           |     |                                             |
-| **Overall hydration**                                                                           |             |           |     |                                             |
-| **Overall weight**                                                                              |             |           |     |                                             |
-|                                                                                                 |             |           |     |                                             |
-| **My orange version**                                                                           |             |           |     |                                             |
-| [[Sourdough starter types\|Sourdough starter (50%)]]                                            | 128         |           |     |                                             |
-| Flour Manitoba                                                                                  | 189         |           |     |                                             |
-| Flour Zernari                                                                                   | 189         |           |     |                                             |
-| Milk                                                                                            | 42          |           |     |                                             |
-| Eggs                                                                                            | 71          |           |     | 6 pcs.                                      |
-| Egg yolks                                                                                       | 94          |           |     |                                             |
-| Salt                                                                                            | 8           |           |     |                                             |
-| Butter                                                                                          | 107         |           |     |                                             |
-| Sugar                                                                                           | 99          |           |     |                                             |
-| Honey                                                                                           | 42          |           |     |                                             |
-| Vanilla                                                                                         |             |           |     |                                             |
-| Orange juice                                                                                    | 60          |           |     |                                             |
-| Orange zest                                                                                     |             |           |     |                                             |
-| Milk (if needed)                                                                                |             |           |     |                                             |
-| Raisins                                                                                         | 67          |           |     |                                             |
-| Candied orange                                                                                  | 103         |           |     |                                             |
-| Turmeric / orange powder                                                                        | 2           |           |     |                                             |
-|                                                                                                 |             |           |     |                                             |
-| **Overall hydration**                                                                           |             |           |     |                                             |
-| **Overall weight**                                                                              |             |           |     |                                             |
-|                                                                                                 |             |           |     |                                             |
-|                                                                                                 |             |           |     |                                             |
-| [[Glazes and meringues\|Swiss meringue]]                                                        | 400         |           |     |                                             |
-| • 170 g egg whites<br>• 255 g sugar<br>• 1/4 tsp. salt<br>• lemon juice<br>• vanilla            |             |           |     |                                             |
-|                                                                                                 |             |           |     |                                             |
-| **Overall weight**                                                                              |             |           |     |                                             |
+| Ingredient                                                                                   | Quantity, g | Baker's % | %   | Note                                        |
+| -------------------------------------------------------------------------------------------- | ----------- | --------- | --- | ------------------------------------------- |
+| <h3 style="color:#00ff13;">My white version ; classic 25% whole wheat</h3>                   |             |           |     |                                             |
+| [[Sourdough starter types\|Sourdough starter (50%)]]                                         | 110         |           |     | 28g starter, 128g flour, 64g water (1:4.5). |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]                                             | 198         |           |     |                                             |
+| [[Flours\|Wheat flour (HH Manitoba)]]                                                        | 100         |           |     |                                             |
+| [[Flours\|Whole wheat flour (Molino Pordenone)]]; sieved from large bran or rub them through | 125         |           |     |                                             |
+| Milk                                                                                         | 177         |           |     |                                             |
+| Egg yolks                                                                                    | 66          |           |     | 4 pcs.                                      |
+| Eggs                                                                                         | 50          |           |     | 1 pc.                                       |
+| Sugar                                                                                        | 70          |           |     |                                             |
+| Vanilla sugar                                                                                | 15          |           |     |                                             |
+| [[Inverted sugar]] / honey                                                                   | 35          |           |     |                                             |
+| Butter; softened                                                                             | 100         |           |     |                                             |
+| Salt                                                                                         | 8           |           |     |                                             |
+| Milk (if needed)                                                                             |             |           |     |                                             |
+| Raisins                                                                                      | 75          |           |     |                                             |
+| Cranberries                                                                                  | 50          |           |     |                                             |
+| [[Candied peels]]                                                                            | 25          |           |     |                                             |
+|                                                                                              |             |           |     |                                             |
+| **Overall hydration**                                                                        |             |           |     |                                             |
+| **Overall weight**                                                                           |             |           |     |                                             |
+|                                                                                              |             |           |     |                                             |
+|                                                                                              |             |           |     |                                             |
+| **My coconut version**                                                                       |             |           |     |                                             |
+| [[Sourdough starter types\|Sourdough starter (50%)]]                                         | 123         |           |     |                                             |
+| Flour Manitoba                                                                               | 133         |           |     |                                             |
+| Flour Zernari                                                                                | 133         |           |     |                                             |
+| Coconut cream (fat part)                                                                     | 240         |           |     |                                             |
+| Sugar                                                                                        | 108         |           |     |                                             |
+| Vanilla                                                                                      |             |           |     |                                             |
+| Honey                                                                                        | 30          |           |     |                                             |
+| Butter                                                                                       | 60          |           |     |                                             |
+| Eggs                                                                                         | 90          |           |     | 1.5 pcs.                                    |
+| Salt                                                                                         | 8           |           |     |                                             |
+| Coconut milk (if needed)                                                                     |             |           |     |                                             |
+| Coconut flakes                                                                               | 133         |           |     |                                             |
+| Cashews or almonds; toasted                                                                  | 142         |           |     |                                             |
+|                                                                                              |             |           |     |                                             |
+| **Overall hydration**                                                                        |             |           |     |                                             |
+| **Overall weight**                                                                           |             |           |     |                                             |
+|                                                                                              |             |           |     |                                             |
+| **My orange version**                                                                        |             |           |     |                                             |
+| [[Sourdough starter types\|Sourdough starter (50%)]]                                         | 128         |           |     |                                             |
+| Flour Manitoba                                                                               | 189         |           |     |                                             |
+| Flour Zernari                                                                                | 189         |           |     |                                             |
+| Milk                                                                                         | 42          |           |     |                                             |
+| Eggs                                                                                         | 71          |           |     | 6 pcs.                                      |
+| Egg yolks                                                                                    | 94          |           |     |                                             |
+| Salt                                                                                         | 8           |           |     |                                             |
+| Butter                                                                                       | 107         |           |     |                                             |
+| Sugar                                                                                        | 99          |           |     |                                             |
+| Honey                                                                                        | 42          |           |     |                                             |
+| Vanilla                                                                                      |             |           |     |                                             |
+| Orange juice                                                                                 | 60          |           |     |                                             |
+| Orange zest                                                                                  |             |           |     |                                             |
+| Milk (if needed)                                                                             |             |           |     |                                             |
+| Raisins                                                                                      | 67          |           |     |                                             |
+| Candied orange                                                                               | 103         |           |     |                                             |
+| Turmeric / orange powder                                                                     | 2           |           |     |                                             |
+|                                                                                              |             |           |     |                                             |
+| **Overall hydration**                                                                        |             |           |     |                                             |
+| **Overall weight**                                                                           |             |           |     |                                             |
+|                                                                                              |             |           |     |                                             |
+|                                                                                              |             |           |     |                                             |
+| [[Glazes and meringues\|Swiss meringue]]                                                     | 400         |           |     |                                             |
+| • 170 g egg whites<br>• 255 g sugar<br>• 1/4 tsp. salt<br>• lemon juice<br>• vanilla         |             |           |     |                                             |
+|                                                                                              |             |           |     |                                             |
+| **Overall weight**                                                                           |             |           |     |                                             |
 
 
 
@@ -140,7 +140,7 @@ Day 2
 
 When LM has peaked:
 
-**Classic version**:
+**Classic 25% whole wheat version**:
 1. Tear your levain into the bowl of stand mixer, add milk, start mixing.
 2. When it starts to show bubbles, add all the flours.
 3. When the dough looks gathered, add yolks, eggs and salt. Wait for smoothness (more or less).
