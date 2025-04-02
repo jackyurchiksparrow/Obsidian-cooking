@@ -112,7 +112,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 Day 1:
 **8:30 a.m.** Feed LM: 20g LM : 20g **water** : 40g white flour **at room temp**
-**9-12:00 p.m.** Feed LM: 80g LM: 108g **water** : 216g white flour **at 25-26C**
+**9:00 p.m.-12:00 p.m.** Feed LM: 80g LM: 108g **milk** : 216g white flour **at 25-26C** for at least 12 hours, when it's fully expanded, not growing anymore and bubbly all over
 
 Soak the raisins and cranberries in water with a splash of rum overnight.
 
