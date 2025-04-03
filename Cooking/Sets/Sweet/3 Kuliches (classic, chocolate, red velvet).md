@@ -118,7 +118,7 @@ Soak the raisins and cranberries in water with a splash of rum overnight.
 
 Day 2 
 1. Take butter from the fridge in advance (2 pckgs).
-2. Separate the eggs into 3 cups. Egg yolks (8), egg whites (8), eggs (2). Whisk egg yolks and eggs to properly measure them for the doughs.
+2. Separate the eggs (10 pcs.) into 3 cups. Egg yolks (8), egg whites (8), eggs (2). Whisk egg yolks and eggs to properly measure them for the doughs.
 
 ---
 ### Stage 1
@@ -126,10 +126,10 @@ Day 2
 When LM has peaked:
 
 **Classic version**:
-1. Tear your levain into the bowl of stand mixer, add milk, start mixing.
+1. Tear your levain into the bowl of stand mixer, add milk (hold 50g!) and the eggs, start mixing.
 2. When it starts to show bubbles, add all the flours.
-3. When the dough looks gathered, add yolks, eggs and salt. Wait for smoothness (more or less).
-4. Give a break to this one. Let it rest covered (in the fridge if it's hot).
+3. When the dough looks gathered, add yolks and salt. Wait for smoothness.
+4. Give a break to this one. Let it rest covered (in the fridge if it's hot outside).
 
 **Red velvet version**:
 1. Measure small amount of milk out, incorporate the red dye there until there are no lumps.
@@ -179,7 +179,7 @@ When LM has peaked:
 **Classic version**, **Red velvet version**, **Chocolate version**
 12. [[How much dough goes into the mold||Divide]] and preshape. If the easily shape into balls,  place in the molds. Otherwise, let them rest for 30 minutes, shape again and place into the molds. COVER! If some already seem dry, apply a thin layer of milk on top.
 13. Proof for 5-8 hours at 25-26C or until passes the [[poke test]] and almost risen to the edges. The dough should be soft and leave a SMALL indent (not restoring completely or doing so very slowly), still MUST retain certain pressure to a finger!
-14. Brush with milk. Bake at 180C fan for 10 min, then 20-30 minutes 160 no fan until the internal temperature is 93-98%. Do not overcrowd the oven or they will burn on the sides due to the fan.
+14. Brush with milk. Bake at 180C fan for 10 min, then 20-30 minutes 160 no fan until the internal temperature is 93-98C. Do not overcrowd the oven or they will burn on the sides due to the fan.
 
 
 ---
