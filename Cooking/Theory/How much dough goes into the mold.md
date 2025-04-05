@@ -55,7 +55,23 @@ $\Huge 2) \space Density \approx 0.372 g/cm^3$
 
 $\Huge 3) \space DoughWeight = 1128.22 \times 0.372 \approx 420 g$ 
 
-#### Example 3: Round mold for panettone (13.4 diameter, 9.5 height) 
+#### **Example for silicon molds (the red and yellow ones): Kulich in a 10 cm diameter, 12 cm tall mold**
+
+$\Huge 1) \space V = \pi \times (5 cm)^2 \times 12 cm ≈ 942.47 cm^3$
+
+$\Huge 2) \space Density \approx 0.372 g/cm^3$
+
+$\Huge 3) \space DoughWeight = 942.47 \times 0.372 \approx 350 g$ 
+
+#### **Example for a silicon mold (the big one): Kulich in a 12 cm diameter, 9 cm tall mold**
+
+$\Huge 1) \space V = \pi \times (\frac{12}{2})^2 \times 9 = 1017.87 \space cm^3$
+
+$\Huge 2) \space Density \approx 0.372 \space g/cm^3$
+
+$\Huge 3) \space DoughWeight = 1017.87 \times 0.372 \approx 380 \space g$ 
+
+#### Example: Round mold for panettone (13.4 diameter, 9.5 height) 
 ##### This is the one I used [[Panettone (fruit version)||here]]
 
 $\Huge 1) \space V = \pi \times (\frac{13.4}{2})^2 \times 9.5 = 1339.75 \space cm^3$
@@ -64,7 +80,7 @@ $\Huge 2) \space Density \approx 0.387 \space g/cm^3$
 
 $\Huge 3) \space DoughWeight = 1339.75 \times 0.387 \approx 518 \space g$ 
 
-#### Example 4: Round mold for panettone (17.8 diameter 11 height)
+#### Example: Round mold for panettone (17.8 diameter 11 height)
 
 $\Huge 1) \space V = \pi \times (\frac{17.8}{2})^2 \times 11 = 2737.3 \space cm^3$
 
