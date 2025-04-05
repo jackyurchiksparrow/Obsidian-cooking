@@ -25,13 +25,13 @@ Ingredients:
 
 ## Swiss meringue (takes long; doesn't harden, soft, safe)
 
-• 170 g egg whites
-• 255 g sugar
+• 120 g egg whites (~4 egg whites)
+• 200 g sugar (ratio sugar : egg whites = 1.66)
 • 1/4 tsp. salt
 • lemon juice
 • vanilla
 
-1. Cook whites, sugar and salt to !80C on !Baine Marie. 
+1. Cook whites, sugar and salt to 70C on !Baine Marie. 
 	**Very important!  The foam created by heat on the surface won't let you use remote thermometer so opt for using regular**
-2. Add lemon juice, whip on high immediately. 
+2. Add lemon juice, whip on high immediately. !Use stand mixer
 3. Add vanilla, mix.
