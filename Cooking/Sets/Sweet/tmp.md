@@ -15,15 +15,15 @@ window.onerror = function (message, source, lineno, colno, error) {
 ```
 
 
-| 1                                                                                                                                                                                                                                                                                                                                                                                         | 2   | 3   | 4   |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- | --- |
-|                                                                                                                                                                                                                                                                                                                                                                                           |     |     |     |
-|                                                                                                                                                                                                                                                                                                                                                                                           |     |     |     |
-|                                                                                                                                                                                                                                                                                                                                                                                           |     |     |     |
-|                                                                                                                                                                                                                                                                                                                                                                                           |     |     |     |
-|                                                                                                                                                                                                                                                                                                                                                                                           |     |     |     |
-|                                                                                                                                                                                                                                                                                                                                                                                           |     |     |     |
-| Classic:<br>Levain 22.2% -> 28%<br>Milk 35.7% -> 44.2%<br>Honey 7.1% -> 4%<br>Sugar 17.1% -> 20%<br>Raisins 15.1% -> 25%<br>Cranberries 10.1% -> 19.2%<br><br>Orange:<br>Milk 9.1% -> 0%<br>Honey 9.1% -> 4.1%<br>Sugar 21.4% -> 25%<br>Coconut flakes 38.2% -> 30.7%<br>Almonds 41% -> 30.7%<br><br>Coconut:<br>coconut cream 40.4% -> 27.9%<br>Honey 6.3% -> 5%<br>Sugar 22.6% -> 27.9% |     |     |     |
+| 1                                                                                                                                                                                                                                                 | 2   | 3   | 4   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- | --- |
+|                                                                                                                                                                                                                                                   |     |     |     |
+|                                                                                                                                                                                                                                                   |     |     |     |
+|                                                                                                                                                                                                                                                   |     |     |     |
+|                                                                                                                                                                                                                                                   |     |     |     |
+|                                                                                                                                                                                                                                                   |     |     |     |
+|                                                                                                                                                                                                                                                   |     |     |     |
+| Classic:<br>Milk 35.7% -> 25.6%<br>Honey 7.1% -> 4%<br>Sugar 17.1% -> 20%<br><br>Orange:<br>Milk 9.1% -> 0%<br>Honey 9.1% -> 4.1%<br>Sugar 21.4% -> 25%<br><br>Coconut:<br>coconut cream 40.4% -> 20.2%<br>Honey 6.3% -> 4%<br>Sugar 22.6% -> 23% |     |     |     |
 
 
 ## Ingredients
@@ -36,41 +36,13 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                                                                                                             | Quantity, g | Baker's % | %   | Note   |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ----------- | --------- | --- | ------ |
-| **My classic 25% whole wheat**                                                                                                         |             |           |     |        |
-| [[Sourdough starter types\|Sourdough starter (50%)]]                                                                                   | 146         |           |     |        |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]                                                                                       | 198         |           |     |        |
-| [[Flours\|Wheat flour (HH Manitoba)]]                                                                                                  | 100         |           |     |        |
-| [[Flours\|Whole wheat flour (Molino Pordenone)]]; sieved from large bran or rub them through                                           | 125         |           |     |        |
-| Milk                                                                                                                                   | 230         |           |     |        |
-| Egg yolks                                                                                                                              | 66          |           |     | 4 pcs. |
-| Eggs                                                                                                                                   | 50          |           |     | 1 pc.  |
-| Sugar                                                                                                                                  | 99          |           |     |        |
-| Vanilla extract                                                                                                                        |             |           |     |        |
-| [[Inverted sugar]] / honey                                                                                                             | 20          |           |     |        |
-| Butter; softened                                                                                                                       | 100         |           |     |        |
-| Salt                                                                                                                                   | 8           |           |     |        |
-| Milk 2 (if needed)                                                                                                                     |             |           |     |        |
-| Raisins                                                                                                                                | 130         |           |     |        |
-| Cranberries                                                                                                                            | 100         |           |     |        |
-|                                                                                                                                        |             |           |     |        |
-| **Overall hydration**                                                                                                                  |             |           |     |        |
-| **Overall weight**                                                                                                                     |             |           |     |        |
-|                                                                                                                                        |             |           |     |        |
-|                                                                                                                                        |             |           |     |        |
 | **My coconut version**                                                                                                                 |             |           |     |        |
 | [[Sourdough starter types\|Sourdough starter (50%)]]                                                                                   | 127         |           |     |        |
 | Flour Manitoba                                                                                                                         | 137         |           |     |        |
 | Flour Zernari                                                                                                                          | 137         |           |     |        |
 | Coconut cream (fat part)                                                                                                               | 100         |           |     |        |
 | Eggs                                                                                                                                   | 100         |           |     | 2 pcs. |
-| Sugar                                                                                                                                  | 100         |           |     |        |
-| Vanilla                                                                                                                                |             |           |     |        |
-| [[Inverted sugar]] / honey                                                                                                             | 18          |           |     |        |
-| Butter                                                                                                                                 | 62          |           |     |        |
-| Salt                                                                                                                                   | 8           |           |     |        |
 | Coconut cream/milk (if needed)                                                                                                         |             |           |     |        |
-| Coconut flakes                                                                                                                         | 110         |           |     |        |
-| Cashews or almonds; toasted                                                                                                            | 110         |           |     |        |
 |                                                                                                                                        |             |           |     |        |
 | **Overall hydration**                                                                                                                  |             |           |     |        |
 | **Overall weight**                                                                                                                     |             |           |     |        |
@@ -129,11 +101,11 @@ Day 2
 When LM has peaked:
 
 **Classic 25% whole wheat version**:
-1. Tear your levain into the bowl of stand mixer, add milk and the eggs, start mixing.
-2. When it starts to show bubbles, add all the flours. The dough will be stiff, gather it. Knead until it's fully kneaded and passes a window pane test.
+1. Tear your levain into the bowl of stand mixer, add milk and the eggs, start mixing. 
+2. When it starts to show bubbles, add all the flours. The dough will be very stiff, gather it.
 3. Add all sugar with 1/3 of egg yolks. Wait for a strong dough again. Gather it.
-4. Add inverted sugar/honey, another 1/3 of the egg yolks and vanilla extract all at once. Gather again.
-5. Add salt and the remaining 1/3 of the egg yolks. Incorporate and gather again.
+4. Add salt, resume mixing and slowly drizzle 1/3 more of egg yolks. Incorporate and gather again.
+5. Add inverted sugar/honey, the remaining egg yolks and vanilla extract. Gather again.
 6. Give a break to this one. Let it rest covered (in the fridge if it's hot outside).
 
 **Orange version**:
@@ -145,10 +117,12 @@ When LM has peaked:
 6. Give a break to this one. Let it rest covered (in the fridge if it's hot outside).
 
 **Coconut version**:
-1. Add the coconut cream, eggs and the levain. Mix thoroughly.
-2. Add all the flours. The dough will be stiff, gather it. Knead until it's fully kneaded and passes a window pane test.
-3. Add all sugar, honey, salt and vanilla extract. Wait for a strong dough again. Gather it.
-4. Give a break to this one. Let it rest covered (in the fridge if it's hot outside).
+1. Add the coconut cream and the levain. Mix thoroughly.
+2. Add all the flours. The dough will be very stiff, gather it.
+3. Add all sugar with 1/3 of the eggs. Wait for a strong dough again. Gather it.
+4. Add salt, resume mixing and slowly drizzle 1/3 more of the remaining eggs. Incorporate and gather again.
+5.  Add inverted sugar/honey, the remaining eggs and vanilla extract. Gather again.
+6. Give a break to this one. Let it rest covered (in the fridge if it's hot outside).
 
 ---
 ### Stage 2
@@ -156,19 +130,19 @@ When LM has peaked:
 **Classic 25% whole wheat version**:
 5. When the dough looks smooth and incorporated, add cubed butter in 5-6 additions. Gather a few times while adding.
 6. Assess the dough before adding inclusions, if it's still stiff, add some milk, but extremely slowly while kneading.
-7. Add the inclusions on low and knead for a few minutes. If the dough isn't soft and pleasant, add more milk.
+7. Add the inclusions on low and knead for a few minutes. If the dough isn't soft and pleasant, add a bit more milk.
 8. Place into a sealable container for 8-10 hours at 25-26C until doubled.
 
 **Orange version**:
 6. When the dough looks smooth and incorporated, add cubed butter in 5-6 additions. Gather a few times while adding.
 7. Assess the dough before adding inclusions, if it's still stiff, add some milk, but extremely slowly while kneading.
-8. Add the inclusions on low and knead for a few minutes. If the dough isn't soft and pleasant, add more milk.
+8. Add the inclusions on low and knead for a few minutes. If the dough isn't soft and pleasant, add a bit more milk.
 9. Place into a sealable container for 8-10 hours at 25-26C until doubled.
 
 **Coconut version**:
 5. When the dough looks smooth and incorporated, add cubed butter in 5-6 additions. Gather a few times while adding.
 6. Assess the dough before adding inclusions, if it's still stiff, add some **cream (milk)**, but extremely slowly while kneading.
-7. Add the inclusions on low **gradually** and knead for a few minutes. If the dough isn't soft and pleasant, add more liquid.
+7. Add the inclusions on low **gradually** and knead for a few minutes. If the dough isn't soft and pleasant, add a bit more liquid.
 8. Place into a sealable container for 8-10 hours at 25-26C until doubled.
 
 
