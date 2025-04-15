@@ -56,16 +56,27 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Sea salt                                             | 20          |           |     |                                              |
 | [[Flours\|Wheat flour (HH Manitoba)]]                | 300         |           |     |                                              |
 | [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 243         |           |     |                                              |
-| [[Flours\|Whole wheat flour (Caputo)]]               | 66          |           |     |                                              |
+| [[Flours\|Whole wheat flour (Molino Pordenone)]]     | 66          |           |     |                                              |
 | Olive oil                                            | 30          |           |     |                                              |
 | Honey                                                | 14          |           |     |                                              |
 |                                                      |             |           |     |                                              |
 | **Overall hydration**                                |             |           |     |                                              |
 | **Overall weight**                                   |             |           |     |                                              |
 |                                                      |             |           |     |                                              |
-| **Sauce**                                            |             |           |     |                                              |
+| **Sauce ver. 1**                                     |             |           |     |                                              |
 | [[Tomato sauce (custom)\|Tomato sauce]]              | 500         |           |     | for 3 pizzas (400 g each)                    |
 | Cheese                                               | 180         |           |     |                                              |
+|                                                      |             |           |     |                                              |
+| **Sauce ver. 2**                                     |             |           |     |                                              |
+| Mushrooms                                            | 1000        |           |     |                                              |
+| Garlic                                               |             |           |     |                                              |
+| Olive oil                                            |             |           |     |                                              |
+| Stock                                                | 100         |           |     |                                              |
+| Milk                                                 | 200         |           |     |                                              |
+| Boiled meat                                          |             |           |     |                                              |
+| Onions                                               | 1           |           |     |                                              |
+| Leeks                                                | 1/2         |           |     |                                              |
+| Fennel                                               | 1/3         |           |     |                                              |
 |                                                      |             |           |     |                                              |
 | **Overall weight**                                   |             |           |     |                                              |
 
