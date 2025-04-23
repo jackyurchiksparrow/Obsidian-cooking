@@ -46,7 +46,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                                                | Quantity, g | Baker's % | %   | Note |
 | ------------------------------------------------------------------------- | ----------- | --------- | --- | ---- |
-| Water                                                                     | 530         |           |     |      |
+| Water                                                                     | 510         |           |     |      |
 | [[Sourdough starter types\|Sourdough starter (60%)]]                      | 90          |           |     |      |
 | Sea salt                                                                  | 16          |           |     |      |
 | [[Flours\|Durum Flour (Molino Cosma semolina rimacinata) S3 Pasta Bella]] | 264         |           |     |      |
