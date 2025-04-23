@@ -10,6 +10,7 @@ nutrition rating:
 taste rating: 0
 credit: 
 part_of_the_set:
+  - "[[Vanilla sugar]]"
 ---
 ```dataviewjs
 while (!customJS?.state?._ready) { 

@@ -42,54 +42,56 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                    | Quantity, g | %   | Note                                 |
-| --------------------------------------------- | ----------- | --- | ------------------------------------ |
-| **--- Crust --B-**                            |             |     |                                      |
-| Cookies                                       | 500         |     |                                      |
-| Butter; softened                              | 100         |     |                                      |
-| **Overall weight**                            |             |     |                                      |
-|                                               |             |     |                                      |
-| **--- Orange mousse ---**                     |             |     |                                      |
-| Mascarpone / weighed sour cream + salt        | 300         |     | from 2 pcks (700g) of 15% sour cream |
-| Powdered sugar                                | 70          |     |                                      |
-| Heavy cream                                   | 300         |     |                                      |
-| **Overall weight**                            |             |     |                                      |
-|                                               |             |     |                                      |
-| **--- Orange base for the orange mousse ---** |             |     |                                      |
-| Orange juice                                  | 550         |     |                                      |
-| Sugar                                         | 55          |     |                                      |
-| Gelatin                                       | 30          |     |                                      |
-| Water                                         | 160         |     |                                      |
-| **Overall weight**                            |             |     |                                      |
-|                                               |             |     |                                      |
-| **--- Orange filling ---**                    |             |     |                                      |
-| Water                                         | 90          |     |                                      |
-| Sugar                                         | 90          |     |                                      |
-| Orange pulp pieces                            | 400         |     |                                      |
-| **Overall weight**                            |             |     |                                      |
-|                                               |             |     |                                      |
-| **--- Cottage cheese layer ---**              |             |     |                                      |
-| Cottage cheese                                | 374         |     |                                      |
-| Milk                                          | 340         |     |                                      |
-| Lime zest                                     |             |     |                                      |
-| Gelatin                                       | 13          |     |                                      |
-| Water                                         | 65          |     |                                      |
-| **Overall weight**                            |             |     |                                      |
-|                                               |             |     |                                      |
-| **--- Lime base for the Lime mousse ---**     |             |     |                                      |
-| Lime juice                                    | 120         |     | 2.5 small limes                      |
-| Sugar                                         | 160         |     |                                      |
-| Salt                                          |             |     |                                      |
-| **Overall weight**                            |             |     |                                      |
-|                                               |             |     |                                      |
-| **--- Transparent layer ---**                 |             |     |                                      |
-| Water                                         | 550         |     |                                      |
-| Sugar                                         | 90          |     |                                      |
-| Squeeze of lime juice                         |             |     | 1/2 small lime                       |
-| Gelatin                                       | 18          |     |                                      |
-| Water                                         | 90          |     |                                      |
-| Fruit slices                                  |             |     | 2 pears, 2 oranges                   |
-| **Overall weight**                            |             |     |                                      |
+| Ingredient                                        | Quantity, g | %   | Note                                                                                                 |
+| ------------------------------------------------- | ----------- | --- | ---------------------------------------------------------------------------------------------------- |
+| **--- Simple chocolate sponge ---**               |             |     |                                                                                                      |
+| Flour                                             | 84          |     |                                                                                                      |
+| Cocoa powder                                      | 15          |     |                                                                                                      |
+| Baking powder                                     | 2/3 tsp.    |     |                                                                                                      |
+| Eggs                                              | 100         |     |                                                                                                      |
+| Sugar                                             | 72          |     |                                                                                                      |
+| Salt                                              |             |     |                                                                                                      |
+| Milk                                              | 48          |     |                                                                                                      |
+| Oil                                               | 29          |     |                                                                                                      |
+| **Overall weight**                                |             |     |                                                                                                      |
+|                                                   |             |     |                                                                                                      |
+| **--- Salted-peanut caramel layer (26cm) ---**    |             |     |                                                                                                      |
+| Sugar                                             | 139         |     |                                                                                                      |
+| [[Inverted sugar]] (better use corn syrup)        | 118         |     |                                                                                                      |
+| Water                                             |             |     | to get the sugar wet (~30g)                                                                          |
+| Butter                                            | 70          |     |                                                                                                      |
+| Heavy cream                                       | 139         |     |                                                                                                      |
+| Milk                                              | 70          |     |                                                                                                      |
+| Gelatin                                           | 5           |     |                                                                                                      |
+| Water                                             | 25          |     |                                                                                                      |
+| Vanilla                                           |             |     |                                                                                                      |
+| Salt                                              |             |     |                                                                                                      |
+| Salted peanuts                                    | 120         |     |                                                                                                      |
+| **Overall weight**                                |             |     |                                                                                                      |
+|                                                   |             |     |                                                                                                      |
+| **--- Honey French-style nougat ---**             |             |     |                                                                                                      |
+| Egg whites                                        | 75          |     | + 5g sugar and salt                                                                                  |
+| Honey                                             | 162         |     |                                                                                                      |
+| Sugar                                             | 199         |     |                                                                                                      |
+| Water                                             |             |     | to get the sugar wet (~30g)                                                                          |
+| [[Inverted sugar]] (better use corn syrup)        | 33          |     |                                                                                                      |
+| Vanilla                                           |             |     |                                                                                                      |
+| **Overall weight**                                |             |     |                                                                                                      |
+|                                                   |             |     |                                                                                                      |
+| **--- Cottage cheese chocolate mousse layer ---** |             |     |                                                                                                      |
+| Sugar                                             | 200         |     |                                                                                                      |
+| Cottage cheese                                    | 600         |     |                                                                                                      |
+| Milk                                              | 200         |     |                                                                                                      |
+| Heavy cream                                       | 400         |     |                                                                                                      |
+| Dark chocolate                                    | 200         |     | reduce the chocolate to 150g if you want to reserve 400g of the white part of the mousse for topping |
+| Gelatin                                           | 24          |     |                                                                                                      |
+| Water                                             | 120         |     |                                                                                                      |
+| **Overall weight**                                |             |     |                                                                                                      |
+|                                                   |             |     |                                                                                                      |
+| **--- Toppings ---**                              |             |     |                                                                                                      |
+|                                                   |             |     |                                                                                                      |
+
+
 
 
 
@@ -105,18 +107,49 @@ window.onerror = function (message, source, lineno, colno, error) {
 4. Combine butter and cookies, pad it down into the pan. Chill.
 5. Zest the oranges into a separate cup. 
 
-### --- Orange base for the mousse ---
-1. Juice the oranges into a pot. Add the sugar, salt, cinnamon stick and half of the zest. Bring to a boil and cook to reduce, about 15 min.
-2. Cool slightly and add the soaked gelatin.
+### --- Simple chocolate sponge (26cm) ---
+1. Add eggs, sugar and salt. Whisk until pale and light. Use hand mixer.
+2. In a separate bowl, combine flour, cocoa powder and baking powder
+3. Add 1/2 of the dry mixture into the eggs', carefully.
+4. Add milk and oil together with the remaining dry ingredients.
+5. Mix carefully until no lumps and uniform.
+6. Bake 180C for ~20C until a skewer comes out clean.
 
-### --- Orange mousse---
-1. Add weighed sour cream/mascarpone, sugar and heavy cream into the chilled bowl and whip until thick. Add 2/3 of warm orange base and add the second half of the zest.
-2. Put 2/3 of the mousse into the pan, chill 30 min.
-3. Peel the oranges with a knife, similar to an apple. Only cut out the slices without the white pith.
-4. Bring sugar and water for the **orange filling** to a boil. Place the orange pulp of the desired sizes and cook until syrupy.
-5. Stir it into the orange base, but do not add too much liquid. **Reserve some pulp for the decoration with mint and cinnamon**
-6. Add the remaining 1/3 orange base with the pieces as a next layer. Chill for 30 min.
-7. Add the remaining 1/3 of the white mouse as the last layer. Chill overnight.
+### --- Salted-peanut caramel layer (26cm) ---
+1. Add sugar, water and syrup to a pot and cook until it's a dark amber color caramel (175-180C).
+2. Take it off the heat. Add the butter all at once and stir.
+3. Add the heavy cream, stir.
+4. Back on heat. Bring back to a slow simmer for 1-2 minutes (until 118-120C = soft chewy stage).
+5. Spread into 26cm round mold (covered with parchment), freeze.
+
+### --- Honey French-style nougat (26cm) ---
+- **Start both syrups at the same time:**
+    - In **saucepan 1**, cook the **honey** to **121°C**.
+    - In **saucepan 2**, cook the **sugar + water + corn syrup** to **140°C**.
+    - **Tip**: Stir sugar syrup _only until dissolved_, then stop stirring to avoid crystallization.
+    
+- **While syrups are heating**, start whipping:
+    - Begin whipping egg whites, salt, and 5 g sugar on low-medium speed until **soft to firm peaks** form.
+        
+- **When the honey hits ~121°C:**
+    - **Slowly drizzle** the honey into the whipped egg whites **while the mixer is running** at medium speed.
+    - This will gently cook and stabilize the meringue.
+    
+- **As the sugar syrup hits ~140°C:**
+    - **Immediately drizzle it** into the meringue-honey mix **in a thin stream**, again while whipping.
+    
+- Continue whipping the nougat mixture on medium-high speed until:
+    - The **bowl cools down to ~60°C (this takes 5–7 minutes). NOT lower, it will harden.
+    - The texture should become **thick, sticky, glossy, and stretchy**.
+        
+- **Add the peanut butter** at this stage:
+    - Stir it in **by hand or on low speed** until fully incorporated.
+    - This gives flavor and slight chewiness without deflating the nougat.
+
+- Pour over the frozen caramel layer and distribute with an offset spatula.
+
+### Assembly
+
 
 
 ---
