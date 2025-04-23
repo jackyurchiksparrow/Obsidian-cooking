@@ -49,8 +49,8 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Water                                                | 520         |           |     |                                              |
 | [[Sourdough starter types\|Sourdough starter (60%)]] | 90          |           |     | Fed overnight at 8 p.m 1:9., ready by 9 a.m. |
 | Sea salt                                             | 16          |           |     |                                              |
-| [[Flours\|Wheat flour (HH Manitoba)]]                | 148         |           |     |                                              |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 460         |           |     |                                              |
+| [[Flours\|Wheat flour (HH Manitoba)]]                | 248         |           |     |                                              |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 360         |           |     |                                              |
 | [[Flours\|Whole wheat flour (Caputo)]]               | 74          |           |     |                                              |
 |                                                      |             |           |     |                                              |
 | **Overall hydration**                                |             |           |     |                                              |

@@ -39,6 +39,9 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### 11.5 = 11.5
 ###### Calculate
 ###### Unreleased 3
++45 almond?
++12 whites?
+salt?
 
 | Ingredient                                       | Quantity, g | %   | Note |
 | ------------------------------------------------ | ----------- | --- | ---- |
