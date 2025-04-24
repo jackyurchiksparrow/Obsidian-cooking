@@ -36,7 +36,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ## Ingredients
 
-###### 1
+###### 0.88
 ###### Scale
 ###### 400/3 = 133.33
 ###### Calculate
@@ -70,11 +70,12 @@ window.onerror = function (message, source, lineno, colno, error) {
 | **Overall weight**                                |             |     |                                                                                                      |
 |                                                   |             |     |                                                                                                      |
 | **--- Honey French-style nougat ---**             |             |     |                                                                                                      |
-| Egg whites                                        | 75          |     | + 5g sugar and salt                                                                                  |
-| Honey                                             | 162         |     |                                                                                                      |
-| Sugar                                             | 199         |     |                                                                                                      |
+| Egg whites                                        | 66          |     | (2 pcs.) + 5g sugar and salt                                                                         |
+| Honey                                             | 143         |     |                                                                                                      |
+| Sugar                                             | 175         |     |                                                                                                      |
 | Water                                             |             |     | to get the sugar wet (~30g)                                                                          |
-| [[Inverted sugar]] (better use corn syrup)        | 33          |     |                                                                                                      |
+| [[Inverted sugar]] (better use corn syrup)        | 29          |     |                                                                                                      |
+| Peanut butter                                     | 62          |     |                                                                                                      |
 | Vanilla                                           |             |     |                                                                                                      |
 | **Overall weight**                                |             |     |                                                                                                      |
 |                                                   |             |     |                                                                                                      |
