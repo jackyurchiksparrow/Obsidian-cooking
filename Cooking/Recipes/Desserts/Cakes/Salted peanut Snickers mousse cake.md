@@ -84,13 +84,13 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Cottage cheese                                                             | 750         |     |                                                                                                      |
 | Milk                                                                       | 250         |     |                                                                                                      |
 | Heavy cream                                                                | 500         |     |                                                                                                      |
-| Dark chocolate                                                             | 250         |     | reduce the chocolate to 150g if you want to reserve 400g of the white part of the mousse for topping |
+| Dark chocolate                                                             | 250         |     | reduce the chocolate to 170g if you want to reserve 400g of the white part of the mousse for topping |
 | Gelatin                                                                    | 30          |     |                                                                                                      |
 | Water                                                                      | 150         |     |                                                                                                      |
 | **Overall weight**                                                         |             |     |                                                                                                      |
 |                                                                            |             |     |                                                                                                      |
 | **--- Cottage cheese mousse layer (reserved before adding chocolate) ---** |             |     |                                                                                                      |
-| The cottage cheese mousse (before adding chocolate and whipped cream)      | 500         |     |                                                                                                      |
+| The cottage cheese mousse (before adding chocolate and whipped cream)      | 615         |     |                                                                                                      |
 | Whipped cream                                                              | 150         |     |                                                                                                      |
 |                                                                            |             |     |                                                                                                      |
 | **--- Toppings ---**                                                       |             |     |                                                                                                      |
@@ -156,7 +156,8 @@ window.onerror = function (message, source, lineno, colno, error) {
 2. Heat milk and sugar until the sugar is dissolved.
 3. When the mixture is at 60C, add the bloomed gelatin.
 4. Blend cottage cheese while gradually adding heated sweet milk to help it blend.
-5. 
+5. Set aside. Whip the cream to soft peaks.
+6. Incorporate the respective parts according to the recipe: for the white layer and for the remaining, but dont forget to add the chocolate before
 
 ### Assembly
 
