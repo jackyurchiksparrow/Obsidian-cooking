@@ -36,61 +36,65 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ## Ingredients
 
-###### 0.88
+###### 1
 ###### Scale
 ###### 400/3 = 133.33
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                        | Quantity, g | %   | Note                                                                                                 |
-| ------------------------------------------------- | ----------- | --- | ---------------------------------------------------------------------------------------------------- |
-| **--- Simple chocolate sponge ---**               |             |     |                                                                                                      |
-| Flour                                             | 84          |     |                                                                                                      |
-| Cocoa powder                                      | 15          |     |                                                                                                      |
-| Baking powder                                     | 2/3 tsp.    |     |                                                                                                      |
-| Eggs                                              | 100         |     |                                                                                                      |
-| Sugar                                             | 72          |     |                                                                                                      |
-| Salt                                              |             |     |                                                                                                      |
-| Milk                                              | 48          |     |                                                                                                      |
-| Oil                                               | 29          |     |                                                                                                      |
-| **Overall weight**                                |             |     |                                                                                                      |
-|                                                   |             |     |                                                                                                      |
-| **--- Salted-peanut caramel layer (26cm) ---**    |             |     |                                                                                                      |
-| Sugar                                             | 139         |     |                                                                                                      |
-| [[Inverted sugar]] (better use corn syrup)        | 118         |     |                                                                                                      |
-| Water                                             |             |     | to get the sugar wet (~30g)                                                                          |
-| Butter                                            | 70          |     |                                                                                                      |
-| Heavy cream                                       | 139         |     |                                                                                                      |
-| Milk                                              | 70          |     |                                                                                                      |
-| Gelatin                                           | 5           |     |                                                                                                      |
-| Water                                             | 25          |     |                                                                                                      |
-| Vanilla                                           |             |     |                                                                                                      |
-| Salt                                              |             |     |                                                                                                      |
-| Salted peanuts                                    | 120         |     |                                                                                                      |
-| **Overall weight**                                |             |     |                                                                                                      |
-|                                                   |             |     |                                                                                                      |
-| **--- Honey French-style nougat ---**             |             |     |                                                                                                      |
-| Egg whites                                        | 66          |     | (2 pcs.) + 5g sugar and salt                                                                         |
-| Honey                                             | 143         |     |                                                                                                      |
-| Sugar                                             | 175         |     |                                                                                                      |
-| Water                                             |             |     | to get the sugar wet (~30g)                                                                          |
-| [[Inverted sugar]] (better use corn syrup)        | 29          |     |                                                                                                      |
-| Peanut butter                                     | 62          |     |                                                                                                      |
-| Vanilla                                           |             |     |                                                                                                      |
-| **Overall weight**                                |             |     |                                                                                                      |
-|                                                   |             |     |                                                                                                      |
-| **--- Cottage cheese chocolate mousse layer ---** |             |     |                                                                                                      |
-| Sugar                                             | 200         |     |                                                                                                      |
-| Cottage cheese                                    | 600         |     |                                                                                                      |
-| Milk                                              | 200         |     |                                                                                                      |
-| Heavy cream                                       | 400         |     |                                                                                                      |
-| Dark chocolate                                    | 200         |     | reduce the chocolate to 150g if you want to reserve 400g of the white part of the mousse for topping |
-| Gelatin                                           | 24          |     |                                                                                                      |
-| Water                                             | 120         |     |                                                                                                      |
-| **Overall weight**                                |             |     |                                                                                                      |
-|                                                   |             |     |                                                                                                      |
-| **--- Toppings ---**                              |             |     |                                                                                                      |
-|                                                   |             |     |                                                                                                      |
+| Ingredient                                                                 | Quantity, g | %   | Note                                                                                                 |
+| -------------------------------------------------------------------------- | ----------- | --- | ---------------------------------------------------------------------------------------------------- |
+| **--- Simple chocolate sponge ---**                                        |             |     |                                                                                                      |
+| Flour                                                                      | 84          |     |                                                                                                      |
+| Cocoa powder                                                               | 15          |     |                                                                                                      |
+| Baking powder                                                              | 2/3 tsp.    |     |                                                                                                      |
+| Eggs                                                                       | 100         |     |                                                                                                      |
+| Sugar                                                                      | 72          |     |                                                                                                      |
+| Salt                                                                       |             |     |                                                                                                      |
+| Milk                                                                       | 48          |     |                                                                                                      |
+| Oil                                                                        | 29          |     |                                                                                                      |
+| **Overall weight**                                                         |             |     |                                                                                                      |
+|                                                                            |             |     |                                                                                                      |
+| **--- Salted-peanut caramel layer (26cm) ---**                             |             |     |                                                                                                      |
+| Sugar                                                                      | 139         |     |                                                                                                      |
+| [[Inverted sugar]] (better use corn syrup)                                 | 118         |     |                                                                                                      |
+| Water                                                                      |             |     | to get the sugar wet (~30g)                                                                          |
+| Butter                                                                     | 70          |     |                                                                                                      |
+| Heavy cream                                                                | 139         |     |                                                                                                      |
+| Milk                                                                       | 70          |     |                                                                                                      |
+| Gelatin                                                                    | 5           |     |                                                                                                      |
+| Water                                                                      | 25          |     |                                                                                                      |
+| Vanilla                                                                    |             |     |                                                                                                      |
+| Salt                                                                       |             |     |                                                                                                      |
+| Salted peanuts                                                             | 120         |     |                                                                                                      |
+| **Overall weight**                                                         |             |     |                                                                                                      |
+|                                                                            |             |     |                                                                                                      |
+| **--- Honey French-style nougat ---**                                      |             |     |                                                                                                      |
+| Egg whites                                                                 | 66          |     | (2 pcs.) + 5g sugar and salt                                                                         |
+| Honey                                                                      | 143         |     |                                                                                                      |
+| Sugar                                                                      | 175         |     |                                                                                                      |
+| Water                                                                      |             |     | to get the sugar wet (~30g)                                                                          |
+| [[Inverted sugar]] (better use corn syrup)                                 | 29          |     |                                                                                                      |
+| Peanut butter                                                              | 62          |     |                                                                                                      |
+| Vanilla                                                                    |             |     |                                                                                                      |
+| **Overall weight**                                                         |             |     |                                                                                                      |
+|                                                                            |             |     |                                                                                                      |
+| **--- Cottage cheese chocolate mousse layer ---**                          |             |     |                                                                                                      |
+| Sugar                                                                      | 188         |     |                                                                                                      |
+| Cottage cheese                                                             | 750         |     |                                                                                                      |
+| Milk                                                                       | 250         |     |                                                                                                      |
+| Heavy cream                                                                | 500         |     |                                                                                                      |
+| Dark chocolate                                                             | 250         |     | reduce the chocolate to 150g if you want to reserve 400g of the white part of the mousse for topping |
+| Gelatin                                                                    | 30          |     |                                                                                                      |
+| Water                                                                      | 150         |     |                                                                                                      |
+| **Overall weight**                                                         |             |     |                                                                                                      |
+|                                                                            |             |     |                                                                                                      |
+| **--- Cottage cheese mousse layer (reserved before adding chocolate) ---** |             |     |                                                                                                      |
+| The cottage cheese mousse (before adding chocolate and whipped cream)      | 500         |     |                                                                                                      |
+| Whipped cream                                                              | 150         |     |                                                                                                      |
+|                                                                            |             |     |                                                                                                      |
+| **--- Toppings ---**                                                       |             |     |                                                                                                      |
+|                                                                            |             |     |                                                                                                      |
 
 
 
@@ -102,11 +106,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 ---
 ## Directions:
 
-1. Weigh the sour cream and press it overnight. Put the bowl for the mousse into the fridge overnight (with the mixer whisks).
-2. Soak the gelatin in cold water.
-3. Put the **baking pan 28cm** on a plain plate for serving. Line it out with the strip.
-4. Combine butter and cookies, pad it down into the pan. Chill.
-5. Zest the oranges into a separate cup. 
+1. 
 
 ### --- Simple chocolate sponge (26cm) ---
 1. Add eggs, sugar and salt. Whisk until pale and light. Use hand mixer.
@@ -117,11 +117,12 @@ window.onerror = function (message, source, lineno, colno, error) {
 6. Bake 180C for ~20C until a skewer comes out clean.
 
 ### --- Salted-peanut caramel layer (26cm) ---
-1. Add sugar, water and syrup to a pot and cook until it's a dark amber color caramel (175-180C).
-2. Take it off the heat. Add the butter all at once and stir.
-3. Add the heavy cream, stir.
-4. Back on heat. Bring back to a slow simmer for 1-2 minutes (until 118-120C = soft chewy stage).
-5. Spread into 26cm round mold (covered with parchment), freeze.
+1. Soak the gelatin in cold water.
+2. Add sugar, water and syrup to a pot and cook until it's a dark amber color caramel (175-180C).
+3. Take it off the heat. Add the butter all at once and stir.
+4. Add the heavy cream, stir.
+5. Back on heat. Bring back to a slow simmer for 1-2 minutes (until 118-120C = soft chewy stage).
+6. Spread into 26cm round mold (covered with parchment), freeze.
 
 ### --- Honey French-style nougat (26cm) ---
 - **Start both syrups at the same time:**
@@ -148,6 +149,14 @@ window.onerror = function (message, source, lineno, colno, error) {
     - This gives flavor and slight chewiness without deflating the nougat.
 
 - Pour over the frozen caramel layer and distribute with an offset spatula.
+
+
+### Cottage cheese chocolate mousse layer
+1. Soak the gelatin in cold water.
+2. Heat milk and sugar until the sugar is dissolved.
+3. When the mixture is at 60C, add the bloomed gelatin.
+4. Blend cottage cheese while gradually adding heated sweet milk to help it blend.
+5. 
 
 ### Assembly
 
