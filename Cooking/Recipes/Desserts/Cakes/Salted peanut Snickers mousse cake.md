@@ -36,7 +36,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ## Ingredients
 
-###### 1
+###### 1.4
 ###### Scale
 ###### 400/3 = 133.33
 ###### Calculate
@@ -91,7 +91,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 |                                                                            |             |     |                                                                                                                                          |
 | **--- Cottage cheese mousse layer (reserved before adding chocolate) ---** |             |     |                                                                                                                                          |
 | The cottage cheese mousse (before adding chocolate and whipped cream)      | 500         |     |                                                                                                                                          |
-| Whipped cream                                                              | 150         |     |                                                                                                                                          |
+| Whipped cream (from the overall quantity)                                  | 150         |     |                                                                                                                                          |
 | **Overall weight**                                                         |             |     |                                                                                                                                          |
 |                                                                            |             |     |                                                                                                                                          |
 | **--- Toppings ---**                                                       |             |     |                                                                                                                                          |
@@ -108,7 +108,8 @@ window.onerror = function (message, source, lineno, colno, error) {
 ## Directions:
 1. First, prepare the spring form. Use it closed, not open (28cm).
 2. Use a **flat plate or cake board** with **acetate film** lining the inner ring.
-3. 
+3. Line the bottom of the ring with plastic wrap tightly as well!
+4. Line the 26cm spring form with a film on the bottom to prepare for the cooled caramel freezing.
 
 ### --- Simple chocolate sponge (26cm) ---
 1. Add eggs, sugar and salt. Whisk until pale and light. Use hand mixer.
@@ -123,8 +124,10 @@ window.onerror = function (message, source, lineno, colno, error) {
 2. Add sugar, water and syrup to a pot and cook until it's a dark amber color caramel (175-180C).
 3. Take it off the heat. Add the butter all at once and stir.
 4. Add the heavy cream, stir.
-5. Back on heat. Bring back to a slow simmer for 1-2 minutes (until 118-120C = soft chewy stage).
-6. Spread into 26cm round mold (covered with parchment), freeze.
+5. Back on heat. Bring back to a slow simmer for 1-2 minutes (until 118-120C = soft chewy stage). 
+6. Add salt.
+7. Stir until 60C, add the gelatin and vanilla.
+8.  When it reaches at least 45C, pour and spread into 26cm round mold (covered with parchment), freeze.
 
 ### --- Honey French-style nougat (26cm) ---
 - **Start both syrups at the same time:**
