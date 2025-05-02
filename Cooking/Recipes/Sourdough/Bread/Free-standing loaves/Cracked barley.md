@@ -40,19 +40,19 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ###### 1
 ###### Scale
-###### 576-290 = 286
+###### 187+50 = 237
 ###### Calculate
 ###### Unreleased 3
 
 | Ingredient                                           | Quantity, g | Baker's % | %   | Note                           |
 | ---------------------------------------------------- | ----------- | --------- | --- | ------------------------------ |
-| Water                                                | 480         |           |     |                                |
-| [[Sourdough starter types\|Sourdough starter (60%)]] | 90          |           |     |                                |
+| Water                                                | 460         |           |     |                                |
+| [[Sourdough starter types\|Sourdough starter (60%)]] | 110         |           |     |                                |
 | Sea salt                                             | 15          |           |     |                                |
-| [[Flours\|Bread flour (Zernari) / any bread flour]]  | 187         |           |     |                                |
-| [[Flours\|Wheat flour (HH Manitoba)]]                | 214         |           |     |                                |
-| [[Flours\|Whole spelt flour (organic)]]              | 203         |           |     |                                |
-| Whole spelt berries, for cracking (soaker)           | 116         |           |     | soak in water 1:1 + a bit more |
+| [[Flours\|Bread flour (Zernari) / any bread flour]]  | 237         |           |     |                                |
+| [[Flours\|Wheat flour (HH Manitoba)]]                | 264         |           |     |                                |
+| [[Flours\|Whole wheat flour (Molino Pordenone)]]     | 100         |           |     |                                |
+| Whole barley berries, for cracking (soaker)          | 116         |           |     | soak in water 1:1 + a bit more |
 |                                                      |             |           |     |                                |
 | **Overall hydration**                                |             |           |     |                                |
 | **Overall weight**                                   |             |           |     |                                |

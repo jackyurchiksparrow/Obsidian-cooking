@@ -30,26 +30,26 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ###### 1
 ###### Scale
-###### 1252-1185 = 67
+###### 520 * 6 = 3120
 ###### Calculate
 ###### Unreleased 3
 
 | Ingredient                                                                                                                            | Quantity, g | Baker's % | %   | Note   |
 | ------------------------------------------------------------------------------------------------------------------------------------- | ----------- | --------- | --- | ------ |
-| **My white version; classic**                                                                                                         |             |           |     |        |
-| [[Sourdough starter types\|Sourdough starter (50%)]]                                                                                  | 115         |           |     |        |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]                                                                                      | 245         |           |     |        |
-| [[Flours\|Wheat flour (HH Manitoba)]]                                                                                                 | 76          |           |     |        |
-| Milk                                                                                                                                  | 100         |           |     |        |
-| Egg yolks                                                                                                                             | 55          |           |     | 4 pcs. |
-| Eggs                                                                                                                                  | 50          |           |     | 1 pc.  |
-| Sugar                                                                                                                                 | 75          |           |     |        |
+| **My white version; classic** (yield 6 molds x 520g)                                                                                  |             |           |     |        |
+| [[Sourdough starter types\|Sourdough starter (50%)]]                                                                                  | 368         |           |     |        |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]                                                                                      | 784         |           |     |        |
+| [[Flours\|Wheat flour (HH Manitoba)]]                                                                                                 | 243         |           |     |        |
+| Milk                                                                                                                                  | 320         |           |     |        |
+| Egg yolks                                                                                                                             | 176         |           |     | 9 pcs. |
+| Eggs                                                                                                                                  | 150         |           |     | 3 pc.  |
+| Sugar                                                                                                                                 | 240         |           |     |        |
 | Vanilla extract                                                                                                                       |             |           |     |        |
-| [[Inverted sugar]] / honey                                                                                                            | 29          |           |     |        |
-| Butter; softened                                                                                                                      | 76          |           |     |        |
-| Sea salt                                                                                                                              | 6           |           |     |        |
-| Milk 2 (if needed)                                                                                                                    | 27          |           |     |        |
-| Raisins/any dry fruit; soaked                                                                                                         | 125         |           |     |        |
+| [[Inverted sugar]] / honey                                                                                                            | 93          |           |     |        |
+| Butter; softened                                                                                                                      | 243         |           |     |        |
+| Sea salt                                                                                                                              | 19          |           |     |        |
+| Milk 2 (if needed)                                                                                                                    | 86          |           |     |        |
+| Raisins/any dry fruit; soaked                                                                                                         | 400         |           |     |        |
 |                                                                                                                                       |             |           |     |        |
 | **Overall hydration**                                                                                                                 |             |           |     |        |
 | **Overall weight**                                                                                                                    |             |           |     |        |
@@ -74,73 +74,47 @@ window.onerror = function (message, source, lineno, colno, error) {
 ## Directions:
 
 Day 1:
-**10:00 a.m.** Feed LM: 20g LM : 20g **water** : 40g white flour **at room temp**
-**10:00 p.m.-12:00 p.m.** Feed LM: 80g LM (50%): 95g **milk** : 190g white flour **at 25-26C** for at least 12 hours, when it's fully expanded, not growing anymore and bubbly all over
+**10:00 a.m.** Feed LM: 12g LM : 20g **water** : 40g white flour **at room temp**
+**10:00 p.m.-12:00 p.m.** Feed LM: 72g LM (50%): 100g **water** : 200g white flour **at 25-26C** for 12 hours, when it's fully expanded, not growing anymore and bubbly all over
 
 Soak the raisins and cranberries in water with a splash of rum overnight.
 Roast almonds.
 
 Day 2 
 1. Take butter from the fridge in advance (2 pckgs).
-2. Separate the eggs (10 pcs.) into 3 cups. Egg yolks (6), egg whites (6), eggs (4). Whisk egg yolks and eggs to properly measure them for the doughs.
+2. Separate the eggs (12 pcs.) into 3 cups. Egg yolks (9), egg whites (9), eggs (3). Whisk egg yolks and eggs to properly measure them for the doughs.
 
 ---
-### Stage 1
+### **Recommended Mixing Method (Stand Mixer, Dough Hook)**
 
-When LM has peaked:
-
-**Classic white / 25% whole wheat version**:
-1. Tear your levain into the bowl of stand mixer, add milk and the eggs, start mixing.
-2. When it starts to show bubbles, add all the flours. The dough will be stiff, gather it. Knead until it's fully kneaded and passes a window pane test.
-3. Add all sugar with 1/3 of egg yolks. Wait for a strong dough again. Gather it.
-4. Add inverted sugar/honey, another 1/3 of the egg yolks and vanilla extract all at once. Gather again.
-5. Add salt and the remaining 1/3 of the egg yolks. Incorporate and gather again.
-6. Give a break to this one. Let it rest covered (in the fridge if it's hot outside).
-
-**Chocolate version**:
-1. Tear your levain into the bowl of stand mixer, add milk and eggs, start mixing.
-2. When it starts to show bubbles, add all the flours and cocoa powder. The dough will be stiff, gather it. Knead until it's fully kneaded and passes a window pane test.
-3. Add all sugar with 1/3 of egg yolks. Wait for a strong dough again. Gather it.
-4. Add inverted sugar/honey, another 1/3 of the egg yolks and vanilla extract all at once. Gather again.
-5. Add salt and the remaining 1/3 of the egg yolks. Incorporate and gather again.
-6. Give a break to this one. Let it rest covered (in the fridge if it's hot outside).
-
-**Coconut version**:
-1. Add the coconut cream, eggs and the levain. Mix thoroughly.
-2. Add all the flours. The dough will be stiff, gather it. Knead until it's fully kneaded and passes a window pane test.
-3. Add all sugar, honey, salt and vanilla extract. Wait for a strong dough again. Gather it.
-4. Give a break to this one. Let it rest covered (in the fridge if it's hot outside).
-
----
-### Stage 2
-
-**Classic 25% whole wheat version**:
-5. When the dough looks smooth and incorporated, add cubed butter in 5-6 additions. Gather a few times while adding.
-6. Assess the dough before adding inclusions, if it's still stiff, add some milk, but extremely slowly while kneading.
-7. Add the inclusions on low and knead for a few minutes. If the dough isn't soft and pleasant, add more milk.
-8. Place into a sealable container for 8-10 hours at 25-26C until doubled.
-
-**Chocolate version**:
-7. When the dough looks smooth and incorporated, add cubed butter in 5-6 additions. Gather a few times while adding.
-8. Assess the dough before adding inclusions, if it's still stiff, add some milk, but extremely slowly while kneading.
-9. Add the inclusions (walnuts and dark chocolate) on low and knead for a few minutes. If the dough isn't soft and pleasant, add more milk.
-10. Place into a sealable container for 8-10 hours at 25-26C until doubled.
-
-**Coconut version**:
-5. When the dough looks smooth and incorporated, add cubed butter in 5-6 additions. Gather a few times while adding.
-6. Assess the dough before adding inclusions, if it's still stiff, add some **cream (milk)**, but extremely slowly while kneading.
-7. Add the inclusions on low **gradually** and knead for a few minutes. If the dough isn't soft and pleasant, add more liquid.
-8. Place into a sealable container for 8-10 hours at 25-26C until doubled.
-
-
----
-
-### Stage 3
-
-**Classic 25% whole wheat version**, **Orange version**, **Coconut version**:
-12. [[How much dough goes into the mold||Divide]] and preshape. If the easily shape into balls,  place in the molds. Otherwise, let them rest for 30 minutes, shape again and place into the molds. COVER! If some already seem dry, apply a thin layer of milk on top.
-13. Proof for 5-8 hours at 25-26C or until passes the [[poke test]] and almost risen to the edges. The dough should be soft and leave a SMALL indent (not restoring completely or doing so very slowly), still MUST retain certain pressure to a finger!
-14. Brush with milk. Bake at 180C fan for 10 min, then 20-30 minutes 160 no fan until the internal temperature is 93-98C. Do not overcrowd the oven or they will burn on the sides due to the fan.
+1. **Preliminary Prep:**
+    - Soak your dried fruit in warm water or rum well in advance, then drain.
+    - Bring **butter** to ~15–18°C (cool and pliable).
+    - Keep all ingredients at room temp (except butter).
+    - Have your **levain** at its peak, nicely domed and active.
+2. **Autolyze Base Dough (optional but recommended):**
+    - Mix **all flours** + **milk** + **eggs + yolks** (all) + **half the sugar**.
+    - Mix until just combined. Let rest for **20–30 minutes**.
+    - This hydrates the flour, kick-starts gluten, and makes later mixing smoother.
+3. **Add Levain:**
+    - Add the ripe **sourdough starter**.
+    - Mix on low speed for **3–5 minutes**, then medium for another **3–5 minutes**.
+    - You want visible gluten structure beginning to form.
+4. **Add Salt:**
+    - Add **salt**.
+    - Mix until incorporated.
+5. **Add Remaining Sugar and the flavorings (second half):**
+    - Add in **remaining sugar**, **honey/inverted sugar**, and **vanilla**.
+    - Mix.
+6. **Add Butter in Chunks:**
+    - Add softened, cool butter in **4–5 additions**, waiting for full incorporation each time.
+    - Scrape down sides as needed. Dough will slacken at first, then tighten again.
+    - Mix until glossy, elastic, and passes the **windowpane test** (this may take 12–20 min total).
+7. **Add Fruit Last:**
+    - Add soaked/dried fruit, drained and patted dry.
+    - Mix briefly on low until evenly distributed.
+8. **Check Dough Temp:**
+    - Ideally ends around **24–26°C**. If higher, refrigerate 15 min before bulk.
 
 
 ---
