@@ -2,11 +2,11 @@
 tags:
   - "#sourdough"
   - spelt
-date: ""
-hydration: 
-bulk fermentation: 
-cold retard: 
-outcome: 
+date: 2025-05-01
+hydration: 78
+bulk fermentation: 5 h 10 min
+cold retard: 20 h
+outcome: overproofed
 thumbnail: 
 yield: 
 nutrition rating: 
@@ -30,32 +30,33 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-| Banneton                                                                        | Scoring | Appearance | Crumb |
-| ------------------------------------------------------------------------------- | ------- | ---------- | ----- |
-|                                                                                 |         |            |       |
-| Bulk:<br>Cold: <br>Outcome: <br>Hydration: <br><br>- <br><br><br><br>01.05.2025 |         |            |       |
+| Banneton                                                                                                                                                                                                                                                                | Scoring | Appearance | Crumb |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ---------- | ----- |
+|                                                                                                                                                                                                                                                                         |         |            |       |
+| Bulk: 3h bag + 2h 16min (5h shaped)<br>Cold: 20h<br>Outcome: overfermented<br>Hydration: 78+%<br><br>- decrease the hydration slightly<br>- mill the grains less coarsely<br>- DEFINITELY add autolyze (1h)<br>- do not use water that is too hot<br><br><br>01.05.2025 |         |            |       |
 
 
 ## Ingredients
 
 ###### 1
 ###### Scale
-###### 576-290 = 286
+###### 480-125 = 355
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                           | Quantity, g | Baker's % | %   | Note                           |
-| ---------------------------------------------------- | ----------- | --------- | --- | ------------------------------ |
-| Water                                                | 480         |           |     |                                |
-| [[Sourdough starter types\|Sourdough starter (60%)]] | 90          |           |     |                                |
-| Sea salt                                             | 15          |           |     |                                |
-| [[Flours\|Bread flour (Zernari) / any bread flour]]  | 187         |           |     |                                |
-| [[Flours\|Wheat flour (HH Manitoba)]]                | 214         |           |     |                                |
-| [[Flours\|Whole spelt flour (organic)]]              | 203         |           |     |                                |
-| Whole spelt berries, for cracking (soaker)           | 116         |           |     | soak in water 1:1 + a bit more |
-|                                                      |             |           |     |                                |
-| **Overall hydration**                                |             |           |     |                                |
-| **Overall weight**                                   |             |           |     |                                |
+| Ingredient                                           | Quantity, g | Baker's % | %   | Note                            |
+| ---------------------------------------------------- | ----------- | --------- | --- | ------------------------------- |
+| Water                                                | 350         |           |     |                                 |
+| [[Sourdough starter types\|Sourdough starter (60%)]] | 90          |           |     |                                 |
+| Sea salt                                             | 15          |           |     |                                 |
+| [[Flours\|Bread flour (Zernari) / any bread flour]]  | 187         |           |     |                                 |
+| [[Flours\|Wheat flour (HH Manitoba)]]                | 214         |           |     |                                 |
+| [[Flours\|Whole spelt flour (organic)]]              | 203         |           |     |                                 |
+| Whole spelt berries, for cracking (soaker)           | 116         |           |     | soak in water 1:1 + a bit more  |
+| Water (soaker)                                       | 125         |           |     |                                 |
+|                                                      |             |           |     |                                 |
+| **Overall hydration**                                |             |           |     |                                 |
+| **Overall weight**                                   |             |           |     |                                 |
 
 
 

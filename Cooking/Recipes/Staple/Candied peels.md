@@ -9,7 +9,7 @@ active time:
 yield: 
 nutrition rating: 
 taste rating: 
-credit: https://www.youtube.com/watch?v=tZRy6QoQdFM
+credit: https://youtu.be/RD3UVBPDYd8?t=705
 part_of_the_set:
   - "[[Dehydrated candied citrus]]"
   - "[[Panettone (fruit version)]]"
@@ -63,6 +63,8 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ---
 ## Directions:
+
+# Hey, there, make it according to the credit video above + add orange juice!
 
 ### Preparation
 

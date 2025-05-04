@@ -35,3 +35,21 @@ Ingredients:
 	**Very important!  The foam created by heat on the surface won't let you use remote thermometer so opt for using regular**
 2. Add lemon juice, whip on high immediately. !Use stand mixer!
 3. Add vanilla, mix.
+
+
+## Agar "Bird's milk" glaze (not too long to cook, soft, stabilizes quickly, top dries quickly, possible to break during a tough transportation)
+
+• 60g egg white (~ 2 medium-sized pcs.)
+• 100g sugar + 10g vanilla sugar
+• 55g water for syrup 
+• 4g agar-agar 
+• 16g (to hydrate agar)
+• Pinch of salt 
+• ~½ tsp acid (e.g. lemon juice or 1g citric acid)
+
+### Only make it before using, it hardens quickly! Make sure everything is set up to be glazed.
+1. Combine water, sugar and vanilla sugar for syrup, begin heating gently.
+2. Meanwhile, soak agar in the water. Let sit 10 min to bloom.
+3. Start whipping egg whites with salt and acid until medium-stiff stiff peaks. Start this while syrup is still <100°C.
+4. Once the sugar syrup starts boiling (~100°C), add the bloomed agar-agar to it.  Stir constantly to avoid burning or sticking. Bring the mixture to **106–110°C** — agar must fully activate here. Bubbles will be large and slower at this point.Add the agar to the syrup, mix and cook all the time. Prevent it from sticking to the bottom.
+5. Immediately begin **pouring the hot agar syrup in a thin stream** into the whipping egg whites (keep the mixer on medium-high).  Aim at the side of the bowl to avoid splattering. As soon as it cools down, it thickens. Whip until it's slightly thickens (**about 45–50°C**), then glaze. If you have a lot to glaze, put the bowl ON the pot of boiling water (bain-marie style) to prevent it from hardening too fast. Apply decorations immediately.
