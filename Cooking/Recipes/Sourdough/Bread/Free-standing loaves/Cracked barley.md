@@ -1,17 +1,18 @@
 ---
 tags:
   - "#sourdough"
-  - spelt
-date: ""
-hydration: 
-bulk fermentation: 
-cold retard: 
-outcome: 
-thumbnail: 
-yield: 
+  - barley
+date: 2025-05-04
+hydration: 73
+bulk fermentation: 5h
+cold retard: 18h
+outcome: properly proofed
+thumbnail: https://lh3.googleusercontent.com/pw/AP1GczNQrRAwWNB1CHDlf9EOmjj4NJoeuAsRG3UJX0qt2ch7AhLQoOM2RlrSkT__ctTi9GGw8ZxKmZzAppkPD0YR2x6pZodGPuR7E2zBUmy1YfTtUETkWLqWIiEgtuywi5-ARNpVibJZ7s1hvu9oZ8FQuHHo=w1204-h903-s-no-gm?authuser=0
+yield: 1
 nutrition rating: 
 taste rating: 
-credit: Perfect loaf book
+credit:
+  - Perfect loaf book
 part_of_the_set:
 ---
 ```dataviewjs
@@ -30,10 +31,10 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-| Banneton                                                                        | Scoring | Appearance | Crumb |
-| ------------------------------------------------------------------------------- | ------- | ---------- | ----- |
-|                                                                                 |         |            |       |
-| Bulk:<br>Cold: <br>Outcome: <br>Hydration: <br><br>- <br><br><br><br>01.05.2025 |         |            |       |
+| Banneton                                                                                                                                                                                                                             | Scoring                                                                                                                                                                                                                             | Appearance                                                                                                                                                                                                                           | Crumb                                                                                                                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczNNRMpFw74UU3_MvhMDHx5f5vAtcK6AxeiTAElKqfJtJw1L97qOUtEy3KSsNJpxslTFOGBI6Czylep2suRMHl-QR6xWql3129sQg6yMVbIg4JlfGcxVb6a8qxOYIkaSiETlu0qfCilKuqO6keeb8tEb=w1204-h903-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczMXjqYHfDOsdjugiTlWZq9mWSD17zM60Me3Qn7PMU95upLikml-YG18ShzOBtPRpLT1b-LyWsCBLD91qT1GPTgvIDxNT8FZ5sj_BsfiH11ZZf2moRenvYkHSy0zOsmsby2tdFd2TiSswSDvPcHBcX5R=w677-h903-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczNQrRAwWNB1CHDlf9EOmjj4NJoeuAsRG3UJX0qt2ch7AhLQoOM2RlrSkT__ctTi9GGw8ZxKmZzAppkPD0YR2x6pZodGPuR7E2zBUmy1YfTtUETkWLqWIiEgtuywi5-ARNpVibJZ7s1hvu9oZ8FQuHHo=w1204-h903-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczMUJuMLXEuH_CoN4qXsHS2OQdbvxZufnphYBOUkOevkbQkUaHRQkU_BPo0z3EyJJsaGhJ9tDxfONu_vwFhm2rT-eLWXlrCc4AU_kU8FLTkJ1ha3AVMuSuO2aDOMMT1YhrESsfC3cHRaJ1NGp7NN80xK=w797-h903-s-no-gm?authuser=0) |
+| Bulk: 4h 45min shaped, 5h fridge<br>Cold: 18h<br>Outcome: properly proofed<br>Hydration: 65%<br><br>- increase hydration<br>- use autolyze again all the time<br>- salt 15g -> 16g<br><br><br>04.05.2025                             |                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                     |
 
 
 ## Ingredients
@@ -44,18 +45,19 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                           | Quantity, g | Baker's % | %   | Note                           |
-| ---------------------------------------------------- | ----------- | --------- | --- | ------------------------------ |
-| Water                                                | 460         |           |     |                                |
-| [[Sourdough starter types\|Sourdough starter (60%)]] | 110         |           |     |                                |
-| Sea salt                                             | 15          |           |     |                                |
-| [[Flours\|Bread flour (Zernari) / any bread flour]]  | 237         |           |     |                                |
-| [[Flours\|Wheat flour (HH Manitoba)]]                | 264         |           |     |                                |
-| [[Flours\|Whole wheat flour (Molino Pordenone)]]     | 100         |           |     |                                |
-| Whole barley berries, for cracking (soaker)          | 116         |           |     | soak in water 1:1 + a bit more |
-|                                                      |             |           |     |                                |
-| **Overall hydration**                                |             |           |     |                                |
-| **Overall weight**                                   |             |           |     |                                |
+| Ingredient                                              | Quantity, g | Baker's % | %   | Note                           |
+| ------------------------------------------------------- | ----------- | --------- | --- | ------------------------------ |
+| Water                                                   | 385         |           |     |                                |
+| [[Sourdough starter types\|Sourdough starter (60%)]]    | 110         |           |     |                                |
+| Sea salt                                                | 16          |           |     |                                |
+| [[Flours\|Bread flour (Zernari) / any bread flour]]     | 223         |           |     |                                |
+| [[Flours\|Wheat flour (HH Manitoba)]]                   | 248         |           |     |                                |
+| [[Flours\|Whole wheat flour (Molino Pordenone)]]        | 94          |           |     |                                |
+| Whole barley berries, milled into coarse flour (soaker) | 109         |           |     | soak in water 1:1 + a bit more |
+| Water (soaker)                                          | 118         |           |     |                                |
+|                                                         |             |           |     |                                |
+| **Overall hydration**                                   |             |           |     |                                |
+| **Overall weight**                                      |             |           |     |                                |
 
 
 

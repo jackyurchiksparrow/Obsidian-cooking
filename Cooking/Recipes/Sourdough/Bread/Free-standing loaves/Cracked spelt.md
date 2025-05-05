@@ -7,11 +7,12 @@ hydration: 78
 bulk fermentation: 5 h 10 min
 cold retard: 20 h
 outcome: overproofed
-thumbnail: 
-yield: 
+thumbnail: https://lh3.googleusercontent.com/pw/AP1GczP19CWOLNBvjPp4b0nmZSN5wRJ693DxpXZkg8b1FtPTJeXqj1KV1d9Hzxoa_7GS2XG7a4OWlpGB8cRv5nmFvH1LySEteV5bWiovKrB0918yj9SSQhQ0ske4BytNc2cPUMXYx4EKUcyfj3cTo4ouMNfx=w1204-h903-s-no-gm?authuser=0
+yield: 1
 nutrition rating: 
 taste rating: 
-credit: Perfect loaf book
+credit:
+  - Perfect loaf book
 part_of_the_set:
 ---
 ```dataviewjs
@@ -30,10 +31,11 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-| Banneton                                                                                                                                                                                                                                                                | Scoring | Appearance | Crumb |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ---------- | ----- |
-|                                                                                                                                                                                                                                                                         |         |            |       |
-| Bulk: 3h bag + 2h 16min (5h shaped)<br>Cold: 20h<br>Outcome: overfermented<br>Hydration: 78+%<br><br>- decrease the hydration slightly<br>- mill the grains less coarsely<br>- DEFINITELY add autolyze (1h)<br>- do not use water that is too hot<br><br><br>01.05.2025 |         |            |       |
+| Banneton                                                                                                                                                                                                                                                                                                                                                                     | Scoring                                                                                                                                                                                                                             | Appearance                                                                                                                                                                                                                           | Crumb                                                                                                                                                                                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczPXSoDlLFkTzzkg-pZMfMespTeRYZvK51P3E2WSykcHrN7LU1tJmzVTk3eOAuVwT8HZQ-Rk3fjbIAB08eWzUshQF7WVcfv9YBPkSU34qBQKtAc-VrXnJ-wfgv-2zbvWdFKol7r3PreQAqpBg0cc4PF6=w1204-h903-s-no-gm?authuser=0)                                                                                                                                         | ![](https://lh3.googleusercontent.com/pw/AP1GczNmysuNLd6T4IQIGe7qDrTidPYHjKH2zoq-hEAnOdeLiPJpmSu3WDpisJj7ndhbNfNsPVrxMrkUYNOtdDi_KZjr0Q35h1PyDNP7SeqLWQL-9BxcLJupsvW3TX96bs4qf1F8qHLtd9WPbwuKw4PnfeK2=w677-h903-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczP19CWOLNBvjPp4b0nmZSN5wRJ693DxpXZkg8b1FtPTJeXqj1KV1d9Hzxoa_7GS2XG7a4OWlpGB8cRv5nmFvH1LySEteV5bWiovKrB0918yj9SSQhQ0ske4BytNc2cPUMXYx4EKUcyfj3cTo4ouMNfx=w1204-h903-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczNeIb978NlgHADEcv4bbtBUx12owzbChIaH7WWtRQSt20AhqK-bdAorq9TWs2inXRktONpcg3iisPsv6tZf0q6RQC7Xxev0XxI8DiyQddW_iJj498C1WDBrMnb0bPVFf2vgNGxNv9M8y4E7sHfDlTYm=w1204-h903-s-no-gm?authuser=0) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczM7U2bEQ048BnSfZx5_7Up5TTXpKYfHvXU_rXGVSo2-wZWljIlmr0ceDAUAhEQQbY8RVygz13GOr5sfhfM7aM0nrPjcq0dPUsrtHU_cN1W6RVuhyiu_-Q5DicdYOxlvf20AAjGJlEHFExI3Vqwf6gnU=w1204-h903-s-no-gm?authuser=0)                                                                                                                                         |                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |
+| Bulk: 3h bag + 2h 16min (5h shaped)<br>Cold: 20h<br>Outcome: overfermented<br>Hydration: 78+%<br><br>- do not mess up with water (I added a lot of extra by mistake)<br>- provide stable temperature<br>- decrease bulk<br>- decrease the hydration<br>- mill the grains finer<br>- DEFINITELY add autolyze (1h)<br>- do not use water that is too hot<br><br><br>01.05.2025 |                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |
 
 
 ## Ingredients
@@ -44,19 +46,19 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                           | Quantity, g | Baker's % | %   | Note                            |
-| ---------------------------------------------------- | ----------- | --------- | --- | ------------------------------- |
-| Water                                                | 350         |           |     |                                 |
-| [[Sourdough starter types\|Sourdough starter (60%)]] | 90          |           |     |                                 |
-| Sea salt                                             | 15          |           |     |                                 |
-| [[Flours\|Bread flour (Zernari) / any bread flour]]  | 187         |           |     |                                 |
-| [[Flours\|Wheat flour (HH Manitoba)]]                | 214         |           |     |                                 |
-| [[Flours\|Whole spelt flour (organic)]]              | 203         |           |     |                                 |
-| Whole spelt berries, for cracking (soaker)           | 116         |           |     | soak in water 1:1 + a bit more  |
-| Water (soaker)                                       | 125         |           |     |                                 |
-|                                                      |             |           |     |                                 |
-| **Overall hydration**                                |             |           |     |                                 |
-| **Overall weight**                                   |             |           |     |                                 |
+| Ingredient                                             | Quantity, g | Baker's % | %   | Note                           |
+| ------------------------------------------------------ | ----------- | --------- | --- | ------------------------------ |
+| Water                                                  | 385         |           |     |                                |
+| [[Sourdough starter types\|Sourdough starter (60%)]]   | 110         |           |     |                                |
+| Sea salt                                               | 16          |           |     |                                |
+| [[Flours\|Bread flour (Zernari) / any bread flour]]    | 176         |           |     |                                |
+| [[Flours\|Wheat flour (HH Manitoba)]]                  | 200         |           |     |                                |
+| [[Flours\|Whole spelt flour (organic)]]                | 190         |           |     |                                |
+| Whole spelt berries, milled into coarse flour (soaker) | 109         |           |     | soak in water 1:1 + a bit more |
+| Water (soaker)                                         | 118         |           |     |                                |
+|                                                        |             |           |     |                                |
+| **Overall hydration**                                  |             |           |     |                                |
+| **Overall weight**                                     |             |           |     |                                |
 
 
 

@@ -8,7 +8,9 @@ active time:
 yield: 
 nutrition rating: 
 taste rating: 
-credit: 
+credit:
+  - https://www.youtube.com/watch?v=Tix0CYH9Qpw
+  - https://verkitschen.com/2020/10/12/montelimar-nougat-2/
 part_of_the_set:
 ---
 ```dataviewjs
@@ -38,7 +40,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ###### 1
 ###### Scale
-###### 400/3 = 133.33
+###### 630 + 1 = 133.33
 ###### Calculate
 ###### Unreleased 3
 
@@ -58,14 +60,16 @@ window.onerror = function (message, source, lineno, colno, error) {
 | [[Inverted sugar]] (better use corn syrup / glucose syrup) | 120         |     |                             |
 | Sugar                                                      | 380         |     |                             |
 |                                                            |             |     |                             |
+| **Overall weight**                                         |             |     |                             |
+|                                                            |             |     |                             |
 | **Inclusions**                                             |             |     |                             |
 | Vanilla extract                                            |             |     |                             |
-| Blanched slivered almonds, toasted                         | 200         |     |                             |
-| Whole raw or roasted almonds, toasted                      | 70          |     |                             |
-| Hazelnuts, toasted                                         | 70          |     |                             |
-| Raw or roasted pistachios, toasted                         | 100         |     |                             |
-| Dried apricots, ¼” dice                                    | 100         |     |                             |
-| Dried cranberries, rough chop                              | 90          |     |                             |
+| Whole raw or roasted almonds, toasted                      | 150         |     |                             |
+| Hazelnuts, toasted                                         | 90          |     |                             |
+| Raw or roasted pistachios, toasted                         | 150         |     |                             |
+| [[Candied peels]]                                          | 100         |     |                             |
+| Dried apricots; sugar free, rough chop                     | 50          |     |                             |
+| Dried cranberries; sugar free, rough chop                  | 90          |     |                             |
 |                                                            |             |     |                             |
 | **Overall weight**                                         |             |     |                             |
 
@@ -77,7 +81,12 @@ window.onerror = function (message, source, lineno, colno, error) {
 ---
 ## Directions:
 ### --- Honey French-style nougat ---
-- **Prepare a 50/50 mix of powdered sugar-cornstarch** and a sieve.
+- **Prepare a 50/50 mix of powdered sugar-cornstarch OR wafer papers** and a sieve. 
+- Also, get a mold. Recommended pan size:  
+    👉 **20×25 cm** (8×10”) rectangular pan → yields ~3.2 cm height  
+    👉 Alternative: **22×30 cm** (larger, yields thinner pieces)
+    **Tip:**✳️ Don’t go taller than 4 cm. The center may not set evenly, and the weight will compact the bottom before setting.
+- EITHER dust the whatever mold you're using (better not be tall) with the powdered sugar-cornstarch mix **very generously** OR place a piece of wafer paper on the bottom.
 - **Start whipping**:
     - Begin whipping egg whites, salt, and 5 g sugar on low-medium speed until **soft to firm peaks** form.
 - **Start both syrups at the same time:**
@@ -96,8 +105,9 @@ window.onerror = function (message, source, lineno, colno, error) {
 - **Add the inclusions** at this stage:
     - Stir it in **by hand or on low speed** until fully incorporated.
     - This gives flavor and slight chewiness without deflating the nougat.
-- Dust the whatever mold you're using (better not be tall) with the powdered sugar-cornstarch mix **very generously**.
-- Spread the nougat evenly and leave to cool, having spread it with a layer of powdered sugar-cornstarch mix again.
+- Spread the nougat evenly and leave to cool.
+- EITHER spread it with a layer of powdered sugar-cornstarch mix again OR top with the second wafer paper glossy side up, even out with a rolling pin. 
+- Leave for ~3h to cool down.
 - Run an offset-spatula around the nougat to unmold. Cut and enjoy.
 
 ---
