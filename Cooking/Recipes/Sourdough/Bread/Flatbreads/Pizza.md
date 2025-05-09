@@ -43,7 +43,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ## Ingredients
 
-###### 1
+###### 0.84
 ###### Scale
 ###### 360+180 = 540
 ###### Calculate
@@ -51,7 +51,9 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                           | Quantity, g | Baker's % | %   | Note                                         |
 | ---------------------------------------------------- | ----------- | --------- | --- | -------------------------------------------- |
-| Water                                                | 437         |           |     |                                              |
+| Water 1                                              | 400         |           |     |                                              |
+| Water 2                                              | 37          |           |     |                                              |
+| Water 3                                              | 20          |           |     |                                              |
 | [[Sourdough starter types\|Sourdough starter (60%)]] | 90          |           |     | Fed overnight at 8 p.m 1:9., ready by 9 a.m. |
 | Sea salt                                             | 20          |           |     |                                              |
 | [[Flours\|Wheat flour (HH Manitoba)]]                | 300         |           |     |                                              |

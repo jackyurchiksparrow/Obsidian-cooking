@@ -40,21 +40,21 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ###### 1
 ###### Scale
-###### 11.5 = 11.5
+###### 68+23 = 91
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                    | Quantity, g | %   | Note                                   |
-| ----------------------------- | ----------- | --- | -------------------------------------- |
-| Cocoa powder; Dutch           | 68          |     |                                        |
-| Cocoa powder; black           | 23          |     | optional; for color                    |
-| Sugar                         | 180         |     |                                        |
-| Milk / Water                  | 257         |     | reduce ~40 g to get a really thick one |
-| [[Inverted sugar]] (optional) | 1 tbsp.     |     | reduce the sugar then                  |
-| Salt                          | a big pinch |     |                                        |
-| Butter (if using water)       | 2 tbsp.     |     |                                        |
-|                               |             |     |                                        |
-| **Overall weight**            |             |     |                                        |
+| Ingredient                              | Quantity, g | %   | Note                                                                 |
+| --------------------------------------- | ----------- | --- | -------------------------------------------------------------------- |
+| Cocoa powder; Dutch                     | 81          |     |                                                                      |
+| Cocoa powder; black / dark kerob powder | 10          |     | optional; for color and taste. If using kerob, decrease sugar by 4%. |
+| Sugar                                   | 180         |     |                                                                      |
+| Milk / Water                            | 257         |     | reduce ~40 g to get a really thick one                               |
+| [[Inverted sugar]] (optional)           | 1 tbsp.     |     | reduce the sugar then                                                |
+| Salt                                    | a big pinch |     |                                                                      |
+| Butter (if using water)                 | 2 tbsp.     |     |                                                                      |
+|                                         |             |     |                                                                      |
+| **Overall weight**                      |             |     |                                                                      |
 
 
 
