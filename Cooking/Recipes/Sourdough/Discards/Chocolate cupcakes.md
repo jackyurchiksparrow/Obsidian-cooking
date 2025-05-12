@@ -30,10 +30,10 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-| 1                                                                                                                                                                                                                                    | 2   | 3   | 4   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- | --- | --- |
-| ![](https://lh3.googleusercontent.com/pw/AP1GczNgK7nLY6FO6MZSAKKr8NR9lX15bP49ehIFwHDyvKPomMsFTiqzITPS27bomgUG4Eo-bUaVETHSYzsBmovx7fI_E0fxAwOEQDf9p4a9kn2OIzsNxqkAyx8n5PvP06_TOZfA2tMvg2QtASIWFDiFGBo2=w1280-h960-s-no-gm?authuser=0) |     |     |     |
-| <br>- DO NOT bake with fan <br>- fill only 1/3 of the mold<br>- oil 64g -> 20g<br>- whole wheat flour 80g -> 60g<br><br>10.05.2025                                                                                                   |     |     |     |
+| 1                                                                                                                                                                                                                                                                                                                                                                                                                                | 2   | 3   | 4   |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- | --- |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczNgK7nLY6FO6MZSAKKr8NR9lX15bP49ehIFwHDyvKPomMsFTiqzITPS27bomgUG4Eo-bUaVETHSYzsBmovx7fI_E0fxAwOEQDf9p4a9kn2OIzsNxqkAyx8n5PvP06_TOZfA2tMvg2QtASIWFDiFGBo2=w1280-h960-s-no-gm?authuser=0)                                                                                                                                                                                             |     |     |     |
+| <br>- DO NOT bake with fan <br>- DO NOT refrigerate the batter<br>- baking soda 10g -> 5g<br>- fill only 40% of the mold<br>- oil 64g -> 20g<br>- whole wheat flour 80g -> 60g<br>- sugar 240g -> 180g (only because of healthy reasons)<br>- bake for a bit longer, until a toothpick comes out SUPER CLEAN AND DRY<br>- discard 240g -> 150g (acidity)<br>- cocoa powder 32g -> 20g cocoa powder + 10g kerob<br><br>10.05.2025 |     |     |     |
 
 ## Ingredients
 
@@ -46,13 +46,14 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Ingredient                                           | Quantity, g | Baker's % | %   | Note                              |
 | ---------------------------------------------------- | ----------- | --------- | --- | --------------------------------- |
 | Milk                                                 | 272         |           |     |                                   |
-| [[Sourdough starter types\|Sourdough discard (50%)]] | 240         |           |     | ~37% is whole wheat               |
+| [[Sourdough starter types\|Sourdough discard (50%)]] | 150         |           |     | ~37% is whole wheat               |
 | [[Flours\|Whole wheat flour (Molino Pordenone)]]     | 60          |           |     |                                   |
-| Cocoa powder; Dutch                                  | 32          |           |     |                                   |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 128         |           |     | add some if you have less discard |
-| Sugar                                                | 240         |           |     |                                   |
+| Cocoa powder; Dutch                                  | 20          |           |     |                                   |
+| Kerob; dark                                          | 12          |           |     |                                   |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 160         |           |     | add some if you have less discard |
+| Sugar                                                | 180         |           |     |                                   |
 | Salt; fine                                           | 6           |           |     |                                   |
-| Baking soda                                          | 10          |           |     |                                   |
+| Baking soda                                          | 5           |           |     |                                   |
 | Sour cream / yoghurt                                 | 80          |           |     |                                   |
 | Eggs                                                 | 50          |           |     | 1 pc.                             |
 | Vanilla                                              |             |           |     |                                   |
