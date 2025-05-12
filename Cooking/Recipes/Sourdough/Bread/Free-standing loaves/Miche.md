@@ -2,12 +2,12 @@
 tags:
   - "#rye"
   - "#sourdough"
-date: 2025-04-08
-hydration: 80
-bulk fermentation: 4h 16min
-cold retard: 16 h
-outcome: overproofed
-thumbnail: https://lh3.googleusercontent.com/pw/AP1GczMRestlTLtoF9po-_ScUJwdHe6xcuBaGlJ2aIqu6d52eRnoP2LwAtX01zIJ2l-NvTPbAp5Tasfarl5VZoBUgQQVy3tT2dDC74ShKLbjtDL47PensnfaK8dcZt6bTHTuiMnb1vPUIifCdrGveFMxFWfh=w1135-h903-s-no-gm?authuser=0
+date: 2025-05-12
+hydration: 82
+bulk fermentation: 4h 30min
+cold retard: 42h
+outcome: 
+thumbnail: https://lh3.googleusercontent.com/pw/AP1GczNwEUjTY2meWsVA9n1FbVdyvAyQHwLqUyv2HG6xVukX_0BZC3Zcjwi92hpsAlZLjKdZ7D9g5F0fP5dteC_nmV7hZFSUELzHPqOFZBUi1MPJkj-uSK_pZhwkmI6du4nZ7hqRzE6DT365aDV9RsINZb8n=w779-h1039-s-no-gm?authuser=0
 yield: 1
 nutrition rating: 7
 taste rating: 10
@@ -30,10 +30,10 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-| Banneton                                                                                                                                                                                                                             | Scoring                                                                                                                                                                                                                              | Appearance                                                                                                                                                                                                                           | Crumb                                                                                                                                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |
-|                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |
+| Banneton                                                                                                                                                                                                                             | Scoring                                                                                                                                                                                                                              | Appearance                                                                                                                                                                                                                           | Crumb |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----- |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczMHOzVL8FeDw--HNOT02l6qOGLaCcBq_aeG3N_ZYrZqGBKVykmnMG6MYCWsVY5n_FYff-_uXWhoZlL5N_dixo8iwgRrc_DPpWHb67y_0jPj_ReBGgidMdtRQccUo-EPpRrqe3thY6ghi4EW3VbmpNQP=w1280-h960-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczNc1AuUducfhCpMk-q0MOdBq1uOG3w6a3FIYRrCz_7S_10NJzBdbHE91K219aWzFITnigT_zb3ylQz0_kDwyisEWu8mYR3Cf_FV3ZoSyYH9er7h7DvYZXBmb5Al0pQxDdtIce_FUjrgTvu9KuisIGa7=w779-h1039-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczNwEUjTY2meWsVA9n1FbVdyvAyQHwLqUyv2HG6xVukX_0BZC3Zcjwi92hpsAlZLjKdZ7D9g5F0fP5dteC_nmV7hZFSUELzHPqOFZBUi1MPJkj-uSK_pZhwkmI6du4nZ7hqRzE6DT365aDV9RsINZb8n=w779-h1039-s-no-gm?authuser=0) |       |
+| Bulk: 4h 33min<br>Cold retard: 42h<br>Hydration: 82%<br>Outcome: <br><br>- increase bulk<br>- hydration 82 -> 78%<br><br>12.05.2025                                                                                                  |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |       |
 
 
 ## Ingredients
@@ -46,10 +46,9 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                           | Quantity, g | Baker's % | %   | Note                                        |
 | ---------------------------------------------------- | ----------- | --------- | --- | ------------------------------------------- |
-| Water 1                                              | 500         |           |     |                                             |
-| Water 2                                              | 30          |           |     |                                             |
-| Water 3                                              | 20          |           |     |                                             |
-| [[Sourdough starter types\|Sourdough starter (60%)]] | 90          |           |     | fed overnight at 9:30 p.m 1:12, ready by 10 |
+| Water 1                                              | 490         |           |     |                                             |
+| Water 2                                              | 35          |           |     |                                             |
+| [[Sourdough starter types\|Sourdough starter (60%)]] | 110         |           |     | fed overnight at 9:30 p.m 1:12, ready by 10 |
 | Sea salt                                             | 15          |           |     |                                             |
 | [[Flours\|Wheat flour (HH Manitoba)]]                | 192         |           |     |                                             |
 | [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 202         |           |     |                                             |
