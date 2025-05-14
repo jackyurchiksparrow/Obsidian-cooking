@@ -1,18 +1,17 @@
 ---
 tags:
   - "#sourdough"
-  - spelt
-date: 2025-05-05
-hydration: 75
-bulk fermentation: 5 h 10 min
-cold retard: 17h
-outcome: underproofed
-thumbnail: https://lh3.googleusercontent.com/pw/AP1GczN9BI_0iXnuu_DnSPGbd9dy-vTlikeU3SdS6qrR5IIojgoaRWpzWmn8XHn6KLKsWIQ6CgRzpP1mXqH4UBygxtT1gf2xTVykV4hnLJ09DXzwBo0l_SkOumFbJqm0k2YK-bWBHOCAL9REJ7OiCZAChPV5=w1280-h960-s-no-gm?authuser=0
+  - rye
+date: 2025-05-16
+hydration: 76
+bulk fermentation: 
+cold retard: 
+outcome: 
+thumbnail: 
 yield: 1
 nutrition rating: 
 taste rating: 
-credit:
-  - Perfect loaf book
+credit: 
 part_of_the_set:
 ---
 ```dataviewjs
@@ -31,10 +30,10 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-| Banneton                                                                                                                                                                                                                             | Scoring                                                                                                                                                                                                                              | Appearance                                                                                                                                                                                                                           | Crumb                                                                                                                                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![](https://lh3.googleusercontent.com/pw/AP1GczOgcCqwFHtsSJzyRPL4EqjJ-7XKqxPtFwXXyGzV3pHYVrZRXYC6kSUYIRykxqLjk5HxXDVdBeN6TMDLQ0djYWtGTzULczmBwUMnbK3xFSJzpcwSSgfXZCR_5FWxmhrBsmgLjcl-HmhBxbroF5u8oXfj=w1280-h960-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczN7AcS9zqE8zfgwCQoAjE29fXuJAMtVDSLIpKi9ZZ5N_CDp4-Bs4hKsuzdcCnbIP0194wpMeTbzvQ7BqCFTtE4_VACrx_hmtKf53BFnMi4nbvX_EBGBpmiugBlZ4zha_io84hRScRgQj7mTQWUpRb-1=w779-h1039-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczN9BI_0iXnuu_DnSPGbd9dy-vTlikeU3SdS6qrR5IIojgoaRWpzWmn8XHn6KLKsWIQ6CgRzpP1mXqH4UBygxtT1gf2xTVykV4hnLJ09DXzwBo0l_SkOumFbJqm0k2YK-bWBHOCAL9REJ7OiCZAChPV5=w1280-h960-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczNRhk7xekuGK1uY1ZCVP3J-4guDiLunQHmdESEAQqgWI41_zQvhbV3WTQ82vpcyh4ZlJsfY1iHUsw_Fc8sF6yHNgsJg2sEFNeEgJRDEQAumRQL3lZnzPltlMgNsxnZ6_st0jPXq8AB33dv9CIIsH2zf=w779-h1039-s-no-gm?authuser=0) |
-| Bulk: 5h 17min<br>Cold retard: 17h<br>Hydration: ~73%<br>Outcome: slightly underproofed<br><br>- increase bulk slightly<br>- hydration 73 -> 75%<br><br>05.05.2025                                                                   |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |
+| Banneton                                                                    | Scoring | Appearance | Crumb |
+| --------------------------------------------------------------------------- | ------- | ---------- | ----- |
+|                                                                             |         |            |       |
+| Bulk: <br>Cold retard:<br>Hydration: 76%<br>Outcome: <br><br><br>16.05.2025 |         |            |       |
 
 
 
@@ -42,24 +41,24 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ###### 1
 ###### Scale
-###### 480-125 = 355
+###### 150 / 2 = 75
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                             | Quantity, g | Baker's % | %   | Note                           |
-| ------------------------------------------------------ | ----------- | --------- | --- | ------------------------------ |
-| Water 1                                                | 370         |           |     |                                |
-| Water 2                                                | 35          |           |     |                                |
-| [[Sourdough starter types\|Sourdough starter (60%)]]   | 110         |           |     |                                |
-| Sea salt                                               | 16          |           |     |                                |
-| [[Flours\|Bread flour (Zernari) / any bread flour]]    | 176         |           |     |                                |
-| [[Flours\|Wheat flour (HH Manitoba)]]                  | 200         |           |     |                                |
-| [[Flours\|Whole spelt flour (organic)]]                | 190         |           |     |                                |
-| Whole spelt berries, milled into coarse flour (soaker) | 109         |           |     | soak in water 1:1 + a bit more |
-| Water (soaker)                                         | 118         |           |     |                                |
-|                                                        |             |           |     |                                |
-| **Overall hydration**                                  |             |           |     |                                |
-| **Overall weight**                                     |             |           |     |                                |
+| Ingredient                                           | Quantity, g | Baker's % | %   | Note                           |
+| ---------------------------------------------------- | ----------- | --------- | --- | ------------------------------ |
+| Water 1                                              | 370         |           |     |                                |
+| Water 2                                              | 35          |           |     |                                |
+| [[Sourdough starter types\|Sourdough starter (60%)]] | 110         |           |     |                                |
+| Sea salt                                             | 16          |           |     |                                |
+| [[Flours\|Bread flour (Zernari) / any bread flour]]  | 276         |           |     |                                |
+| [[Flours\|Wheat flour (HH Manitoba)]]                | 250         |           |     |                                |
+| [[Flours\|Whole wheat flour (Molino Pordenone)]]     | 40          |           |     |                                |
+| Whole rye berries, milled into coarse flour (soaker) | 109         |           |     | soak in water 1:1 + a bit more |
+| Water (soaker)                                       | 125         |           |     |                                |
+|                                                      |             |           |     |                                |
+| **Overall hydration**                                |             |           |     |                                |
+| **Overall weight**                                   |             |           |     |                                |
 
 
 
