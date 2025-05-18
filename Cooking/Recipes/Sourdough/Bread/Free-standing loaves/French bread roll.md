@@ -39,21 +39,24 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ###### 1
 ###### Scale
-###### 322+89 = 411
+###### 631 - 125 = 506
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                           | Quantity, g | Baker's % | %   | Note |
-| ---------------------------------------------------- | ----------- | --------- | --- | ---- |
-| Water                                                | 487         |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (60%)]] | 105         |           |     |      |
-| Sea salt                                             | 18          |           |     |      |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 631         |           |     |      |
-| Sugar                                                | 13          |           |     |      |
-| Butter                                               | 50          |           |     |      |
-|                                                      |             |           |     |      |
-| **Overall hydration**                                |             |           |     |      |
-| **Overall weight**                                   |             |           |     |      |
+| Ingredient                                                                          | Quantity, g | Baker's % | %   | Note |
+| ----------------------------------------------------------------------------------- | ----------- | --------- | --- | ---- |
+| Water                                                                               | 450         |           |     |      |
+| Water 2                                                                             | 35          |           |     |      |
+| [[Sourdough starter types\|Sourdough starter (60%)]]                                | 105         |           |     |      |
+| Sea salt                                                                            | 16          |           |     |      |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]                                    | 500         |           |     |      |
+| [[Flours\|Wheat flour (HH Manitoba)]]                                               | 125         |           |     |      |
+| Sugar                                                                               | 16          |           |     |      |
+| Butter                                                                              | 35          |           |     |      |
+| Seeds; soaked 1:1 (optional: 11g linseed, 9g chia seeds, 10g sunflower, 50g quinoa) | 80          |           |     |      |
+|                                                                                     |             |           |     |      |
+| **Overall hydration**                                                               |             |           |     |      |
+| **Overall weight**                                                                  |             |           |     |      |
 
 
 
@@ -63,7 +66,13 @@ window.onerror = function (message, source, lineno, colno, error) {
 ---
 ## Directions:
 
-[[Sourdough bread making steps]]
+1. Soak the seeds overnight if using.
+2. Autolyze at least an hour with the soaked seeds.
+3. Add the sugar, salt and the starter, water 2, knead until incorporated and dissolved.
+4. Add the butter, knead until smooth.
+5. Stretch and fold the dough when it's rested, until fully developed.
+6. Leave until bulk is almost done, shape it and put in the fridge overnight.
+7. Bake 35 minutes with steam, 10 more without and a few minutes with fan if desired.
 
 
 ---
