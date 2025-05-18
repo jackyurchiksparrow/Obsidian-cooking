@@ -66,7 +66,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 ---
 ## Directions:
 
-0. Remember [[Cupcakes]] theory.
+0. Remember [[Cupcakes (theory)]] theory.
 ### Topping
 
 1. Wash the oranges. Reserve all the zest in the dough-making bowl.

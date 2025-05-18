@@ -55,7 +55,9 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Vanilla                                               | to taste    |           |     |                                 |
 | Lemon/orange juice                                    | for a glaze |           |     |                                 |
 | Powdered sugar                                        | for a glaze |           |     |                                 |
+|                                                       |             |           |     |                                 |
 | **Overall weight**                                    |             |           |     |                                 |
+| **Overall hydration**                                 |             |           |     |                                 |
 
 
 
@@ -63,7 +65,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 ---
 ## Directions:
 
-0. Remember [[Cupcakes]] theory.
+0. Remember [[Cupcakes (theory)]] theory.
 ### Dough
 
 1. While you're making the dough, wash the orange and boil it for 30 minutes.
