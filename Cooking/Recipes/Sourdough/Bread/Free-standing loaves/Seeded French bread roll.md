@@ -2,15 +2,16 @@
 tags:
   - "#sourdough"
 date: 2025-03-19
-hydration: 71.4
-bulk fermentation: 7h 11min
-cold retard: 16h
-outcome: underproofed
-thumbnail: https://lh3.googleusercontent.com/pw/AP1GczO79nE9ou69DSUQtcGg326B3jQw5GfbboK8vvq1CxBIEM3dizTq3ygIQryzJLwcXr5edb86rwilnEf0bPlwcGCiX8zZVutz7k4sDefpBG1Zu_G27itCoqwRqaXq29recEQP2ljmEVFi9zy7oBPVsuvJ=w1204-h903-s-no-gm?authuser=0
+hydration: 65
+bulk fermentation: 6h 30min
+cold retard: 
+outcome: 
+thumbnail: 
 yield: 1
 nutrition rating: 
 taste rating: 
-credit: me
+credit:
+  - me
 part_of_the_set:
 ---
 ```dataviewjs
@@ -29,10 +30,10 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-| Banneton                                                                                                                                                                                                   | Scoring | Appearance | Crumb |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ---------- | ----- |
-|                                                                                                                                                                                                            |         |            |       |
-| Bulk: <br>Cold:<br>Outcome: <br>Hydration: 67%<br><br>- changed the order of adding ingredients<br>- final hydration regulated on this dough 76% -> 67%<br>- adjusted weight of the loaf<br><br>19.03.2025 |         |            |       |
+| Banneton                                                                                                                                                                                                                              | Scoring | Appearance | Crumb |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ---------- | ----- |
+|                                                                                                                                                                                                                                       |         |            |       |
+| Bulk: <br>Cold:<br>Outcome: <br>Hydration: 67%<br><br>- changed the order of adding ingredients<br>- final hydration regulated on this dough 76% -> 67% (next time, adjust to 65%)<br>- adjusted weight of the loaf<br><br>19.03.2025 |         |            |       |
 
 
 ## Ingredients
@@ -45,8 +46,8 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                                                      | Quantity, g | Baker's % | %   | Note |
 | ------------------------------------------------------------------------------- | ----------- | --------- | --- | ---- |
-| Water                                                                           | 305         |           |     |      |
-| Water 2                                                                         | 35          |           |     |      |
+| Water                                                                           | 300         |           |     |      |
+| Water 2                                                                         | 25          |           |     |      |
 | [[Sourdough starter types\|Sourdough starter (60%)]]                            | 100         |           |     |      |
 | Sea salt                                                                        | 16          |           |     |      |
 | [[Flours\|Bread flour (Zernari) / any 00 flour]]                                | 500         |           |     |      |

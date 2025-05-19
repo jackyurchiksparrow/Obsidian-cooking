@@ -3,11 +3,11 @@ tags:
   - "#sourdough"
   - rye
 date: 2025-05-16
-hydration: 76
-bulk fermentation: 
-cold retard: 
-outcome: 
-thumbnail: 
+hydration: 76.8
+bulk fermentation: 6h 30min
+cold retard: 14h
+outcome: underproofed
+thumbnail: https://lh3.googleusercontent.com/pw/AP1GczOTz0D3Ec_IRaV2HCFcsVQF3paT41-c5P0jo1bG7J-dXSAMJemH7adRg0aRmqgOGd34W_DVC1iOcHZO-3XCqTf_eiAwpBYqwvbrDBjP-zCH4ty05JPrvQw6H-BJbxKT7ArCOd16rJhVvh36-7kJPmkZ=w1239-h960-s-no-gm?authuser=0
 yield: 1
 nutrition rating: 
 taste rating: 
@@ -30,10 +30,10 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-| Banneton                                                                    | Scoring | Appearance | Crumb |
-| --------------------------------------------------------------------------- | ------- | ---------- | ----- |
-|                                                                             |         |            |       |
-| Bulk: <br>Cold retard:<br>Hydration: 76%<br>Outcome: <br><br><br>16.05.2025 |         |            |       |
+| Banneton                                                                                                                                                                                                                             | Scoring                                                                                                                                                                                                                              | Appearance                                                                                                                                                                                                                           | Crumb                                                                                                                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczO-7BZhA-EkmUzT_JVihDyhS_x1Q0nOy9UuSXkWn4mde9xVtpq-vbfRULb3Iaehf61-nDrUvoRdtTaM7_ikRHIH6gPJUrRRrpLp8n38dhWi2Z3Og83CbWSpGiDykgPRGcLMKIiC-Futz56gqT43cSzh=w1280-h960-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczNMBTvl7c3Cpx5hqQaX52rNCBvyINJN0ROSe11IcBgW_CBlbu6Ki6rO0WO8SZYg6Uk2GckjeX6CJ2PCHBvlKM70HebPSMBGN8DkAPPBGNwnby65xDtSbqD6hMmpGq8Iz4bJrNQ1AHOHimAwN0OAcQfc=w779-h1039-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczOTz0D3Ec_IRaV2HCFcsVQF3paT41-c5P0jo1bG7J-dXSAMJemH7adRg0aRmqgOGd34W_DVC1iOcHZO-3XCqTf_eiAwpBYqwvbrDBjP-zCH4ty05JPrvQw6H-BJbxKT7ArCOd16rJhVvh36-7kJPmkZ=w1239-h960-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczMqKTPPVEkxQJ101p35eSdcfmPgMUdx2DhJlkMiaFW2OEaH5BGszX4lb3MIdZ6UPr_EuCrGB78F0LGvGbplcwKaiK6NWwNq-JYW9Bgnw80RKA2J7Yxb-fQRaozZSjILzt-RFnv7xXA5GSmT6y9UiWeX=w841-h1039-s-no-gm?authuser=0) |
+| Bulk: 5h 40min shaped; 6 32 fridge<br>Cold retard: 14h<br>Hydration: 76.8%<br>Outcome: underproofed<br><br><br>16.05.2025                                                                                                            |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |
 
 
 
