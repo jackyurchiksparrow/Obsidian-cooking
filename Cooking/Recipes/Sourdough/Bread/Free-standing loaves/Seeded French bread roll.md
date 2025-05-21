@@ -44,21 +44,29 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                                                      | Quantity, g | Baker's % | %   | Note |
-| ------------------------------------------------------------------------------- | ----------- | --------- | --- | ---- |
-| Water                                                                           | 300         |           |     |      |
-| Water 2                                                                         | 25          |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (60%)]]                            | 100         |           |     |      |
-| Sea salt                                                                        | 16          |           |     |      |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]                                | 500         |           |     |      |
-| [[Flours\|Wheat flour (HH Manitoba)]]                                           | 125         |           |     |      |
-| Sugar                                                                           | 16          |           |     |      |
-| Butter                                                                          | 35          |           |     |      |
-| Seeds; soaked (optional: 11g linseed, 9g chia seeds, 10g sunflower, 50g quinoa) | 80          |           |     |      |
-| Water; soaker                                                                   | 80          |           |     |      |
-|                                                                                 |             |           |     |      |
-| **Overall hydration**                                                           |             |           |     |      |
-| **Overall weight**                                                              |             |           |     |      |
+| Ingredient                                           | Quantity, g | Baker's % | %   | Note |
+| ---------------------------------------------------- | ----------- | --------- | --- | ---- |
+| Water                                                | 310         |           |     |      |
+| Water 2                                              | 25          |           |     |      |
+| [[Sourdough starter types\|Sourdough starter (60%)]] | 90          |           |     |      |
+| Sea salt                                             | 16          |           |     |      |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 500         |           |     |      |
+| [[Flours\|Wheat flour (HH Manitoba)]]                | 140         |           |     |      |
+| Sugar                                                | 16          |           |     |      |
+| Butter                                               | 35          |           |     |      |
+| Linseed                                              | 11          |           |     |      |
+| Chia seeds                                           | 9           |           |     |      |
+| Sunflower seeds                                      | 10          |           |     |      |
+| Quinoa                                               | 50          |           |     |      |
+| Water; soaker                                        | 80          |           |     |      |
+|                                                      |             |           |     |      |
+| **Overall hydration**                                |             |           |     |      |
+| **Overall weight**                                   |             |           |     |      |
+|                                                      |             |           |     |      |
+| **Other seed combinations**                          |             |           |     |      |
+| Linseed                                              | 10          |           |     |      |
+| Sunflower seeds                                      | 40          |           |     |      |
+|                                                      |             |           |     |      |
 
 
 
