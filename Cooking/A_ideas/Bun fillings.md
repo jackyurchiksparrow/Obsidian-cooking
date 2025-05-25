@@ -1,0 +1,20 @@
+- Classic chocolate
+- Ground nuts + sugar + spices
+- Raspberry + almonds
+- Poppy seed
+- Poppy seed + chocolate
+- Banana
+	- I take half a stick of just softened butter and start slowly mashing pieces of a ripe banana in with a fork. I add banana until it is barely starting to break. Then I add sugar to make a paste (about 1/2 cup) and an egg yolk. Along with cinnamon and a pinch of salt. If it seems too runny I sprinkle in some flour, but the egg yolk helps it set up when baked.
+- Dates
+- Sweet potato
+- Orange / walnut
+	- I make a normal cinnamon sugar butter paste with tons of orange rind and finely ground walnuts, so small it's like a very coarse meal.
+- Prunes and apricots
+- Peanut butter based
+- Tahini based
+- Chocolate + desiccated coconut
+- Chery + chocolate
+- Orange + chocolate
+- Classic cinnamon butter
+- Pumpkin
+- 

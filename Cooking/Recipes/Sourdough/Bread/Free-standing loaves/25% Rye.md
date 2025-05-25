@@ -46,6 +46,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                                 | Quantity, g | Baker's % | %   | Note |
 | ---------------------------------------------------------- | ----------- | --------- | --- | ---- |
+<<<<<<< HEAD
 | Water                                                      | 535         |           |     |      |
 | [[Sourdough starter types\|Sourdough starter (50%)]]       | 100         |           |     |      |
 | Honey                                                      | 24          |           |     |      |
@@ -54,6 +55,17 @@ window.onerror = function (message, source, lineno, colno, error) {
 | [[Flours\|Bread flour (Zernari) / any 00 flour]]           | 200         |           |     |      |
 | [[Flours\|Whole rye flour (Лавка традицій or Metro Chef)]] | 184         |           |     |      |
 | [[Flours\|Whole wheat flour (Caputo)]]                     | 70          |           |     |      |
+=======
+| Water                                                      | 480         |           |     |      |
+| Water 2                                                    | 34          |           |     |      |
+| [[Sourdough starter types\|Sourdough starter (60%)]]       | 90          |           |     |      |
+| Honey                                                      | 23          |           |     |      |
+| Sea salt                                                   | 16          |           |     |      |
+| [[Flours\|Wheat flour (HH Manitoba)]]                      | 221         |           |     |      |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]           | 192         |           |     |      |
+| [[Flours\|Whole rye flour (Лавка традицій or Metro Chef)]] | 177         |           |     |      |
+| [[Flours\|Whole wheat flour (Caputo)]]                     | 67          |           |     |      |
+>>>>>>> origin/main
 |                                                            |             |           |     |      |
 | **Overall hydration**                                      |             |           |     |      |
 | **Overall weight**                                         |             |           |     |      |
