@@ -10,7 +10,12 @@ thumbnail: https://lh3.googleusercontent.com/pw/AP1GczOXgDaPqmFJ3NZ56xz1FBPRS1G2
 yield: 
 nutrition rating: 
 taste rating: 
-credit: Perfect loaf book
+credit:
+  - Perfect loaf book
+  - https://www.acozykitchen.com/chocolate-caraway-babka-buns
+  - https://www.abakingjourney.com/chocolate-brioche-bread/#recipe-video
+  - https://www.lionsbread.com/dark-chocolate-babka-ring/
+  - https://betweencarpools.com/8-ways-to-roll-your-babka-for-a-different-look/
 part_of_the_set:
 ---
 ```dataviewjs
@@ -40,7 +45,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ###### 1
 ###### Scale
-###### 190+70 = 260
+###### 229 / 546 = 0.42
 ###### Calculate
 ###### Unreleased 3
 

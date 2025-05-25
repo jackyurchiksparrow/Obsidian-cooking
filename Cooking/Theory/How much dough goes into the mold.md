@@ -1,7 +1,7 @@
-## Constant variables (dough density)
-- **Light and airy doughs (like Panettone)** $\Huge \approx 0.387 g/cm^3$
-- **Medium-density doughs (like Kulich)**  $\Huge \approx 0.372 g/cm^3$ 
-- **Dense doughs (like Brioche or Babka)** $\Huge \approx 0.5 g/cm^3 \space or \space more$ ???
+## Constant variables (dough density => less hydration - tighter crumb - bigger density)
+- **Light and airy doughs (like Panettone)** $\Huge \approx 0.387 g/cm^3$ (not really tested; supposed to be less than for Kulich I guess)
+- **Medium-density doughs (like Kulich)**  $\Huge \approx 0.372 g/cm^3$ (tested; confirmed)
+- **Denser doughs (like Brioche)** $\Huge \approx 0.41 g/cm^3$ (not really tested)
 
 ## The formula
 - Round mold (cylinder):
