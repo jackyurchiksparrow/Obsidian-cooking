@@ -11,7 +11,7 @@ taste rating:
 credit: 
 part_of_the_set:
   - "[[Torrone (Nougat de Montélimar (honey based))]]"
-  - "[[Chocolate sauce]]"
+  - "[[Chocolate sauce; chocolate paste]]"
 ---
 ```dataviewjs
 while (!customJS?.state?._ready) { 

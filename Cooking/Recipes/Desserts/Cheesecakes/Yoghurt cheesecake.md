@@ -12,7 +12,7 @@ nutrition rating:
 taste rating: 9
 credit: 
 part_of_the_set:
-  - "[[Chocolate sauce]]"
+  - "[[Chocolate sauce; chocolate paste]]"
 ---
 ```dataviewjs
 while (!customJS?.state?._ready) { 

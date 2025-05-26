@@ -44,17 +44,21 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                              | Quantity, g | %   | Note                                                                                          |
-| --------------------------------------- | ----------- | --- | --------------------------------------------------------------------------------------------- |
-| Cocoa powder; Dutch                     | 81          |     |                                                                                               |
-| Cocoa powder; black / dark kerob powder | 10          |     | optional; for color and taste. If using kerob, decrease sugar by 4%.                          |
-| Sugar                                   | 180         |     |                                                                                               |
-| Milk / Water                            | 257         |     | reduce ~40 g to get a thicker one<br>reduce by 120g to get a really thick filling, add butter |
-| [[Inverted sugar]] (optional)           | 1 tbsp.     |     | reduce the sugar then                                                                         |
-| Salt                                    | a big pinch |     |                                                                                               |
-| Butter (if using water)                 | 2 tbsp.     |     |                                                                                               |
-|                                         |             |     |                                                                                               |
-| **Overall weight**                      |             |     |                                                                                               |
+| Ingredient                                                   | Quantity, g | %   | Note                                                                                          |
+| ------------------------------------------------------------ | ----------- | --- | --------------------------------------------------------------------------------------------- |
+| **Chocolate sauce (thinner - for pancakes etc.)**            |             |     |                                                                                               |
+| Cocoa powder; Dutch                                          | 81          |     |                                                                                               |
+| Cocoa powder; black / dark kerob powder                      | 10          |     |                                                                                               |
+| Sugar                                                        | 160         |     |                                                                                               |
+| Milk / Water                                                 | 257         |     | reduce ~40 g to get a thicker one<br>reduce by 120g to get a really thick filling, add butter |
+| [[Inverted sugar]] (optional)                                | 1 tbsp.     |     | reduce the sugar then                                                                         |
+| Salt                                                         | a big pinch |     |                                                                                               |
+| Butter (if using water)                                      | 2 tbsp.     |     |                                                                                               |
+|                                                              |             |     |                                                                                               |
+| **Overall weight**                                           |             |     |                                                                                               |
+|                                                              |             |     |                                                                                               |
+| **Chocolate sauce (thicker - for glazing, decorating etc.)** |             |     |                                                                                               |
+|                                                              |             |     |                                                                                               |
 
 
 

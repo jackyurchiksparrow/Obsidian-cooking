@@ -13,7 +13,7 @@ nutrition rating: 7
 taste rating: 
 credit: https://www.youtube.com/@nikamuza
 part_of_the_set:
-  - "[[Chocolate sauce]]"
+  - "[[Chocolate sauce; chocolate paste]]"
   - "[[Orange marmalade]]"
 ---
 ```dataviewjs

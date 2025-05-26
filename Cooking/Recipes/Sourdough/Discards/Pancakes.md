@@ -12,7 +12,7 @@ nutrition rating: 7
 taste rating: 9
 credit: https://www.theclevercarrot.com/2020/10/sourdough-discard-101-recipes-faqs-answered-pancakes/
 part_of_the_set:
-  - "[[Chocolate sauce]]"
+  - "[[Chocolate sauce; chocolate paste]]"
   - "[[Orange marmalade]]"
 ---
 ```dataviewjs

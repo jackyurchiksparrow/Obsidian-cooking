@@ -11,7 +11,7 @@ nutrition rating:
 taste rating: 
 credit: https://thebigmansworld.com/healthy-cupcakes/#wprm-recipe-container-40977
 part_of_the_set:
-  - "[[Chocolate sauce]]"
+  - "[[Chocolate sauce; chocolate paste]]"
   - "[[Orange marmalade]]"
 ---
 ```dataviewjs
