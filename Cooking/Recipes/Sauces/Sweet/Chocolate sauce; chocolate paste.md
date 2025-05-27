@@ -44,21 +44,39 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                                   | Quantity, g | %   | Note                                                                                          |
-| ------------------------------------------------------------ | ----------- | --- | --------------------------------------------------------------------------------------------- |
-| **Chocolate sauce (thinner - for pancakes etc.)**            |             |     |                                                                                               |
-| Cocoa powder; Dutch                                          | 81          |     |                                                                                               |
-| Cocoa powder; black / dark kerob powder                      | 10          |     |                                                                                               |
-| Sugar                                                        | 160         |     |                                                                                               |
-| Milk / Water                                                 | 257         |     | reduce ~40 g to get a thicker one<br>reduce by 120g to get a really thick filling, add butter |
-| [[Inverted sugar]] (optional)                                | 1 tbsp.     |     | reduce the sugar then                                                                         |
-| Salt                                                         | a big pinch |     |                                                                                               |
-| Butter (if using water)                                      | 2 tbsp.     |     |                                                                                               |
-|                                                              |             |     |                                                                                               |
-| **Overall weight**                                           |             |     |                                                                                               |
-|                                                              |             |     |                                                                                               |
-| **Chocolate sauce (thicker - for glazing, decorating etc.)** |             |     |                                                                                               |
-|                                                              |             |     |                                                                                               |
+| Ingredient                                                           | Quantity, g | %   | Note |
+| -------------------------------------------------------------------- | ----------- | --- | ---- |
+| **Chocolate sauce (thinner - for pancakes etc.)**                    |             |     |      |
+| Cocoa powder; Dutch                                                  | 81          |     |      |
+| Cocoa powder; black / dark kerob powder                              | 10          |     |      |
+| Sugar                                                                | 160         |     |      |
+| Milk / Water                                                         | 257         |     |      |
+| [[Inverted sugar]] (optional)                                        | 1 tbsp.     |     |      |
+| Salt                                                                 | a big pinch |     |      |
+|                                                                      |             |     |      |
+| **Overall weight**                                                   |             |     |      |
+|                                                                      |             |     |      |
+| **Chocolate sauce (thicker - for glazing, decorating etc.)**         |             |     |      |
+| Cocoa powder; Dutch                                                  | 81          |     |      |
+| Cocoa powder; black / dark kerob powder                              | 10          |     |      |
+| Sugar                                                                | 160         |     |      |
+| Milk / Water                                                         | 207         |     |      |
+| [[Inverted sugar]] (optional)                                        | 1 tbsp.     |     |      |
+| Salt                                                                 | a big pinch |     |      |
+| Butter (optional)                                                    | 2 tbsp.     |     |      |
+|                                                                      |             |     |      |
+| **Overall weight**                                                   |             |     |      |
+|                                                                      |             |     |      |
+| **Chocolate paste (thick; for fillings like Babka, bun rolls etc.)** |             |     |      |
+| Cocoa powder; Dutch                                                  | 81          |     |      |
+| Cocoa powder; black / dark kerob powder                              | 10          |     |      |
+| Sugar                                                                | 160         |     |      |
+| Milk / Water                                                         | 120         |     |      |
+| [[Inverted sugar]] (optional)                                        | 1 tbsp.     |     |      |
+| Salt                                                                 | a big pinch |     |      |
+| Butter                                                               | 2 tbsp.     |     |      |
+|                                                                      |             |     |      |
+| **Overall weight**                                                   |             |     |      |
 
 
 
@@ -66,10 +84,11 @@ window.onerror = function (message, source, lineno, colno, error) {
 ---
 ## Directions:
 
-1. In a heavy bottom pot, mix cocoa powder(s), salt, sugar. Mix.
+1. In a heavy bottom pot, mix cocoa powder, salt, sugar. Mix.
 2. Add 1/2 of the milk/water gradually while whisking. Whisk until no lumps and thickened.
 3. Bring to a boil, stirring occasionally.  Taste, adjust the sugar.
-4. Boil for 5-10 more minutes to reduce slightly. 
+4. Add the Kerob (it burns easily, always stir and check the bottom at this point).
+5. Boil for 5-10 more minutes to reduce slightly. 
 
 ---
 ## Nutrition Facts:

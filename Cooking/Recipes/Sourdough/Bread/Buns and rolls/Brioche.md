@@ -48,6 +48,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 
 - DO NOT ADD MILK UNTIL THE DOUGH IS VERY SOFT IF YOU PLAN TO ADD FILLINGS OR SHAPE IT INTO BABKA
+- THIS DOUGH HAS SWEET, BUT MORE NEUTRAL SWEETNESS. INCREASE THE SUGAR CONTENT (THEN LOWER THE LIQUID) IF YOU WANT IT SWEETER. OR KEEP IT AS IT IS AND JUST ADD FILLINGS TO THE DOUGH.
 
 ## Ingredients
 
@@ -106,14 +107,15 @@ Day 1:
 
 Day 2:
 1. Get the butter from the fridge.
-2. Get the stand mixer bowl from the fridge, add half the sugar and ripe levain. If the dough is very dry, add more milk, a small splash at a time, until it comes together and no dry bits remain. However, the dough should be a little on the firm side at this stage. Increase the mixer to medium speed and mix for 10 to 12 minutes until the dough begins to cling and pull from the sides. Let the dough rest for 10 minutes.
-3. Add the remaining sugar and a small splash of milk, mix on low speed for 1 to 2 minutes until it is absorbed and the dough comes back together. Increase the mixer to medium speed and mix for 5 to 6 minutes until the dough is smooth and strong; it should cling to the hook, but not completely remove from the sides of the bowl. Use the Windowpane Test to see if the dough is ready. If the dough tears irregularly and feels weak, mix on medium speed for 2 to 4 minutes more and test again.
-4. Add the salt, vanilla / zest and honey. Regain the consistency.
-5. With the mixer on low speed, add the butter, one pat at a time, until absorbed into the dough, scraping down the sides of the bowl and the paddle as needed. Continue until all the butter is added, 10 to 15 minutes. Increase the mixer to medium speed and mix for 2 minutes more until the dough smooths out and clings to the dough hook. The dough will be silky smooth, elastic, and shiny. 
-6. Add the soaked raisins. If the dough is stiff prior or after adding them, add a bit more milk to make it softer. **DO NOT ADD MILK UNTIL THE DOUGH IS VERY SOFT IF YOU PLAN TO ADD FILLINGS OR SHAPE IT INTO BABKA**
-7. Transfer to a container for bulk fermentation.
-8. Let the dough double in size (~8-12h), shape it into desired shapes and wait 6-10 hours more, until light, puffy, increased and passes the poke test.
-9. Brush with egg yolk + milk mixture, bake
+2. Get the raisins into a colander and place them into the fridge.
+3. Get the stand mixer bowl from the fridge, add half the sugar and ripe levain. If the dough is very dry, add more milk, a small splash at a time, until it comes together and no dry bits remain. However, the dough should be a little on the firm side at this stage. Increase the mixer to medium speed and mix for 10 to 12 minutes until the dough begins to cling and pull from the sides. Let the dough rest for 10 minutes.
+4. Add the remaining sugar and a small splash of milk, mix on low speed for 1 to 2 minutes until it is absorbed and the dough comes back together. Increase the mixer to medium speed and mix for 5 to 6 minutes until the dough is smooth and strong; it should cling to the hook, but not completely remove from the sides of the bowl. Use the Windowpane Test to see if the dough is ready. If the dough tears irregularly and feels weak, mix on medium speed for 2 to 4 minutes more and test again.
+5. Add the salt, vanilla / zest and honey. Regain the consistency.
+6. With the mixer on low speed, add the butter, one pat at a time, until absorbed into the dough, scraping down the sides of the bowl and the paddle as needed. Continue until all the butter is added, 10 to 15 minutes. Increase the mixer to medium speed and mix for 2 minutes more until the dough smooths out and clings to the dough hook. The dough will be silky smooth, elastic, and shiny. 
+7. Add the soaked raisins. If the dough is stiff prior or after adding them, add a bit more milk to make it softer. **DO NOT ADD MILK UNTIL THE DOUGH IS VERY SOFT IF YOU PLAN TO ADD FILLINGS OR SHAPE IT INTO BABKA**
+8. Transfer to a container for bulk fermentation.
+9. Let the dough double in size (~8-12h), shape it into desired shapes and wait 6-10 hours more, until light, puffy, increased and passes the poke test.
+10. Brush with egg yolk + milk mixture, bake
 
 
 

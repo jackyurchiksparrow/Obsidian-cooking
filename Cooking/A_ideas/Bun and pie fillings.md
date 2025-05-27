@@ -19,19 +19,22 @@
 - Pumpkin
 - Toffee apple-pear filling
 
-| Apples                                     | 500          |     |     |                       |
-| ------------------------------------------ | ------------ | --- | --- | --------------------- |
-| Pears                                      | 750          |     |     |                       |
-| Apples                                     | 750          |     |     |                       |
-| Sugar                                      | 100          |     |     |                       |
-| Corn syrup / inverted syrup                | 100          |     |     | or replace with sugar |
-| Cream (10%)                                | 350          |     |     |                       |
-| Butter                                     | 50           |     |     |                       |
-| Lemon juice                                | half a lemon |     |     |                       |
-| Ginger pieces; preferably fresh (optional) | 1            |     |     |                       |
-| Cinnamon sticks (optional)                 | 1            |     |     |                       |
-| Sea salt                                   | 2            |     |     |                       |
-| Vanilla                                    |              |     |     |                       |
+
+
+|                                                                                                                                                                                                                                      |              |     |     |                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ | --- | --- | --------------------- |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczN0gu3XLVVGqqNsH5Ud3u1qs1xXENQNa7gO6XUKYnqRKhwnXaiXwitpIZMCL8XWWn-N5qLdSApY0hcseZQC7ipq-kXVySohwbH0GSCH-yw5nWP7BH-aHByCSEfR-QUWsCZjVXyLMuRRVpMsoIVZJ5qP=w584-h1039-s-no-gm?authuser=0) |              |     |     |                       |
+| Pears                                                                                                                                                                                                                                | 750          |     |     |                       |
+| Apples                                                                                                                                                                                                                               | 750          |     |     |                       |
+| Sugar                                                                                                                                                                                                                                | 100          |     |     |                       |
+| Corn syrup / inverted syrup                                                                                                                                                                                                          | 100          |     |     | or replace with sugar |
+| Cream (10%)                                                                                                                                                                                                                          | 350          |     |     |                       |
+| Butter                                                                                                                                                                                                                               | 50           |     |     |                       |
+| Lemon juice                                                                                                                                                                                                                          | half a lemon |     |     |                       |
+| Ginger pieces; preferably fresh (optional)                                                                                                                                                                                           | 1            |     |     |                       |
+| Cinnamon sticks (optional)                                                                                                                                                                                                           | 1            |     |     |                       |
+| Sea salt                                                                                                                                                                                                                             | 2            |     |     |                       |
+| Vanilla                                                                                                                                                                                                                              |              |     |     |                       |
 
 Pre-cooking the fruit:
 1. Prepare, peel and slice apples and pears. Squeeze half a lemon on them.
