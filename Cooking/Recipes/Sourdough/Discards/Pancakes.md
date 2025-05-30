@@ -38,7 +38,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ## Ingredients
 
-###### 1
+###### 2.1
 ###### Scale
 ###### 80+160 = 240
 ###### Calculate
@@ -49,8 +49,8 @@ window.onerror = function (message, source, lineno, colno, error) {
 | [[Sourdough starter types\|Sourdough discard (50%)]] | 240         |           |     | ~37% is whole wheat |
 | [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 150         |           |     |                     |
 | Sugar                                                | 40          |           |     |                     |
-| Salt; fine                                           |             |           |     | 1/2 tsp.            |
-| Baking powder                                        |             |           |     | 2 tsp.              |
+| Salt; fine                                           | 3           |           |     | 1/2 tsp.            |
+| Baking powder                                        | 8           |           |     | 2 tsp.              |
 | Baking soda                                          | 6           |           |     | 1 tsp.              |
 | Eggs                                                 | 100         |           |     | 2 pcs.              |
 | Milk                                                 | 280         |           |     |                     |
