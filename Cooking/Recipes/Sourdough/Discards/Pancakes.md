@@ -31,37 +31,37 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-| 1                                                                                                                                                                                                                                   | 2                                                                                                                                                                                                                                   | 3                                                                                                                                                                                                                                   | 4                                                                                                                                                                                                                                   |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](https://lh3.googleusercontent.com/pw/AP1GczMVTyG8mindspeXhUo-IyvC9dE6DlZXHn81xpdZgcxKOD58Jss1BNSFLbhedBNUMVwNofl9TstRs7p9PEqwGiQWfoCtQWVqzJSPKDeXeDstfCc0Ag-4QbkjIYk8qGHXh5fHl4S3S7K2iRphCEgr3VJd=w659-h879-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczM-60qtu0vJWVecwP1Oe2JASn83aFaE65WwplVytxZ6DrXIQf6lHPzIeveTtS3odYqoI3V_RBk0tgXltJgk-MBsHqCbSmNNQQEk2lTGzAhJ2jE6C-Y4-wjGQbfebmVuAze0KcT060KwuLkCRxiGrhPh=w659-h879-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczPS02YyzimQleVdRn5o3iR-ESQLj80Xr2V87GghVmkUfu2k7s6vMcUvT3ku7OdiyttmFimR-qMmTeC11UTXRQWCIK1iMHWUYLgw9RYw1h0WFseNwGQQmQOmrZtjTTj87IqttaS8Q5v829p5hhpZCivW=w659-h879-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczORgOuZB21Q2HqyWOPVua6DdT5CuI0ERX_2-n5IonvYkTgO3vtebzKXlkXoQFXPaQoS16afFtmftiW-TFmRlrO33KO2zV0NOMD-zRGwmS_tKdsXb97tC2xaoWCArDensY4-C6u3tvnhV5r-uHFats9L=w659-h879-s-no-gm?authuser=0) |
-| **Adjustments**: sugar 24->40; put the lid when cooking (the top must set before flipping)                                                                                                                                          |                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                     |
+| 1                                                                                                                                                                                                                                    | 2                                                                                                                                                                                                                                    | 3                                                                                                                                                                                                                                   | 4   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczOnn3c6Wl6ESj0fk2PFeEHE-ytuZNJlMdHkLpH9m5X_DUIsWUro5_DvoZT0lUHe_9U9bkkDdCaA3c8dPQO9GULXYoFv2VSXgak075njVtrcg0IIczz4FZEI_WCgP6k--pvklXnT_YRADXmSYHi84Dsc=w1280-h720-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczPhgf2J3mrMBYypfkLECoCwMvpA2YGoLUbBn2kzpfgYL4N1J0Zj4v99wA-n9rgeMLxGh8uGGO0UWgDk8-yHzld-PZI32Q7CyrKF135iVdVgJqzn9YcKUktv-nFfCHn3kggej5lfXG5hCxnzu3e23TBl=w1280-h720-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczOY06AvIN74oasOdghCr1-aoakEQDrtjGX-SWX4RCPBXgiA2J1koRGWAqKV2vWNMF-uQBaOaKsuDwqB_aH2FwR5rJ0AmY4Iis6Wpzo4whAZOzVvVyaVGorSukjlVuyr9pYvlKNYHVc2mkeiu-n9k3hE=w959-h720-s-no-gm?authuser=0) |     |
+| **Adjustments**: <br>sugar 80->120<br><br>- used 600g yoghurt and add about 75g milk, still was too thick and bread-like. Wait more to ferment and add more liquid!<br>- better make smaller ones (mental thing)<br><br>31.05.2025   |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                     |     |
 
 ## Ingredients
 
-###### 2.1
+###### 1
 ###### Scale
 ###### 80+160 = 240
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                           | Quantity, g | Baker's % | %   | Note                |
-| ---------------------------------------------------- | ----------- | --------- | --- | ------------------- |
-| [[Sourdough starter types\|Sourdough discard (50%)]] | 240         |           |     | ~37% is whole wheat |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 150         |           |     |                     |
-| Sugar                                                | 40          |           |     |                     |
-| Salt; fine                                           | 3           |           |     | 1/2 tsp.            |
-| Baking powder                                        | 8           |           |     | 2 tsp.              |
-| Baking soda                                          | 6           |           |     | 1 tsp.              |
-| Eggs                                                 | 100         |           |     | 2 pcs.              |
-| Milk                                                 | 280         |           |     |                     |
-| Butter / olive oil                                   | 42          |           |     |                     |
-|                                                      |             |           |     |                     |
-| **Overall weight**                                   |             |           |     |                     |
-| **Overall hydration**                                |             |           |     |                     |
-|                                                      |             |           |     |                     |
-| Sauce                                                | 300         |           |     |                     |
-|                                                      |             |           |     |                     |
-| **Overall weight**                                   |             |           |     |                     |
+| Ingredient                                           | Quantity, g | Baker's % | %   | Note                                                    |
+| ---------------------------------------------------- | ----------- | --------- | --- | ------------------------------------------------------- |
+| [[Sourdough starter types\|Sourdough discard (50%)]] | 500         |           |     | ~37% is whole wheat                                     |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 315         |           |     |                                                         |
+| Sugar                                                | 120         |           |     |                                                         |
+| Salt; fine                                           | 6           |           |     | 1/2 tsp.                                                |
+| Baking powder                                        | 17          |           |     | 2 tsp.                                                  |
+| Baking soda                                          | 13          |           |     | 1 tsp.                                                  |
+| Eggs                                                 | 200         |           |     | 2 pcs.                                                  |
+| Milk / yoghurt (you'll need more yoghurt then)       | 600         |           |     |                                                         |
+| Butter / olive oil                                   | 90          |           |     | add it right away to prevent gluten bonds from forming! |
+|                                                      |             |           |     |                                                         |
+| **Overall weight**                                   |             |           |     |                                                         |
+| **Overall hydration**                                |             |           |     |                                                         |
+|                                                      |             |           |     |                                                         |
+| Sauce                                                | 600         |           |     |                                                         |
+|                                                      |             |           |     |                                                         |
+| **Overall weight**                                   |             |           |     |                                                         |
 
 
 
@@ -81,9 +81,9 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ### Cooking
 
-1. Preheat the pan to max and then reduce heat slightly. Apply a tiny bit of oil with a paper towel.
-2. Pour the batter into the center and distribute all over the pan. Cover with a lid.
-3. When bubble formation starts stopping and some larger bubbles appear, turn them over. Cook with no lid. Done.
+1. Preheat the pan to max and then reduce heat slightly.
+2. Pour the batter into the center. Pour a teaspoon of water on the side. Cover with a lid.
+3. When bubble formation starts stopping and some larger bubbles appear, turn them over. Cook with a lid one more time. Optionally flip back again if seems too soft. Done.
 
 ---
 ## Nutrition Facts:
@@ -109,9 +109,10 @@ window.onerror = function (message, source, lineno, colno, error) {
 ---
 ## History:
 
-|     |                   |                   |                   |
-| --- | ----------------- | ----------------- | ----------------- |
-|     |                   |                   |                   |
+|                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczMVTyG8mindspeXhUo-IyvC9dE6DlZXHn81xpdZgcxKOD58Jss1BNSFLbhedBNUMVwNofl9TstRs7p9PEqwGiQWfoCtQWVqzJSPKDeXeDstfCc0Ag-4QbkjIYk8qGHXh5fHl4S3S7K2iRphCEgr3VJd=w659-h879-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczM-60qtu0vJWVecwP1Oe2JASn83aFaE65WwplVytxZ6DrXIQf6lHPzIeveTtS3odYqoI3V_RBk0tgXltJgk-MBsHqCbSmNNQQEk2lTGzAhJ2jE6C-Y4-wjGQbfebmVuAze0KcT060KwuLkCRxiGrhPh=w659-h879-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczPS02YyzimQleVdRn5o3iR-ESQLj80Xr2V87GghVmkUfu2k7s6vMcUvT3ku7OdiyttmFimR-qMmTeC11UTXRQWCIK1iMHWUYLgw9RYw1h0WFseNwGQQmQOmrZtjTTj87IqttaS8Q5v829p5hhpZCivW=w659-h879-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczORgOuZB21Q2HqyWOPVua6DdT5CuI0ERX_2-n5IonvYkTgO3vtebzKXlkXoQFXPaQoS16afFtmftiW-TFmRlrO33KO2zV0NOMD-zRGwmS_tKdsXb97tC2xaoWCArDensY4-C6u3tvnhV5r-uHFats9L=w659-h879-s-no-gm?authuser=0) |
+| **Adjustments**: sugar 24->40; put the lid when cooking (the top must set before flipping)<br><br>24.11.2024                                                                                                                        |                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                     |
 
 
 ---

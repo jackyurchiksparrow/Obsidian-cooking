@@ -10,7 +10,7 @@ nutrition rating:
 taste rating: 
 credit: 
 part_of_the_set:
-  - "[[Torrone (Nougat de Montélimar (honey based))]]"
+  - "[[Torrone (Nougat de Montélimar)]]"
   - "[[Chocolate sauce; chocolate paste]]"
 ---
 ```dataviewjs
@@ -72,7 +72,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | **Overall weight**                                                         |             |     |                                                                                                                               |
 |                                                                            |             |     |                                                                                                                               |
 | **--- Honey French-style nougat ---**                                      |             |     |                                                                                                                               |
-| [[Torrone (Nougat de Montélimar (honey based))]]; with no inclusions       | 350         |     |                                                                                                                               |
+| [[Torrone (Nougat de Montélimar)]]; with no inclusions       | 350         |     |                                                                                                                               |
 | Peanut butter; sugar free                                                  | 100         |     |                                                                                                                               |
 | Vanilla                                                                    |             |     |                                                                                                                               |
 | **Overall weight**                                                         |             |     |                                                                                                                               |
@@ -128,7 +128,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 8.  When it reaches at least 45C, pour and spread into 26cm round mold (covered with parchment), freeze.
 
 ### --- Honey French-style nougat (20cm) ---
-- [[Torrone (Nougat de Montélimar (honey based))|Torrone method]]
+- [[Torrone (Nougat de Montélimar)|Torrone method]]
 - Pour over the frozen caramel layer and distribute with an offset spatula.
 
 ### Cottage cheese chocolate mousse layer

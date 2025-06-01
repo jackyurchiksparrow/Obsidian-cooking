@@ -3,6 +3,7 @@ tags:
   - sweet
   - nextday
   - fast
+  - yoghurt
 date: 2025-03-16
 thumbnail: https://lh3.googleusercontent.com/pw/AP1GczNQ1Elto2ay2xTgVQAwz5sTYxbGjwcxlSu4VDLwu7273FVb8rxmRrKYCMgpq8TWxwztSzRSVCFXJuLKCDgtq7tOACFe4ezcCElrEHxfEaPbQcJHMyVvMcu7g23zT-oApOC2dL1l6yc0lzhlnz-eIj6g=w1204-h903-s-no-gm?authuser=0
 passive time: 35min
