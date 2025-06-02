@@ -46,14 +46,15 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                           | Quantity, g | Baker's % | %   | Note |
 | ---------------------------------------------------- | ----------- | --------- | --- | ---- |
-| Water                                                | 520         |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (60%)]] | 90          |           |     |      |
-| Sea salt                                             | 15          |           |     |      |
-| [[Flours\|Wheat flour (HH Manitoba)]]                | 161         |           |     |      |
-| [[Flours\|Bread flour (Zernari) / any bread flour]]  | 170         |           |     |      |
-| [[Flours\|Whole spelt flour]]                        | 163         |           |     |      |
-| [[Flours\|Whole wheat flour (Molino Pordenone)]]     | 146         |           |     |      |
-| [[Flours\|Whole rye flour]]                          | 36          |           |     |      |
+| Water                                                | 504         |           |     |      |
+| Water 2                                              | 30          |           |     |      |
+| [[Sourdough starter types\|Sourdough starter (50%)]] | 100         |           |     |      |
+| Sea salt                                             | 16          |           |     |      |
+| [[Flours\|Wheat flour (HH Manitoba)]]                | 155         |           |     |      |
+| [[Flours\|Bread flour (Zernari) / any bread flour]]  | 163         |           |     |      |
+| [[Flours\|Whole spelt flour]]                        | 157         |           |     |      |
+| [[Flours\|Whole wheat flour (Molino Pordenone)]]     | 140         |           |     |      |
+| [[Flours\|Whole rye flour]]                          | 35          |           |     |      |
 |                                                      |             |           |     |      |
 | **Overall hydration**                                |             |           |     |      |
 | **Overall weight**                                   |             |           |     |      |
