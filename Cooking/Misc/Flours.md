@@ -28,6 +28,11 @@ The most perfect white strong and long-fermentation flour so far. Takes about 8+
 The best durum flour so far. Soaks a lot of liquid, possible for 80%+ hydration if used with strong flours. Takes a long time to ferment.
 
 ![|500](https://lh3.googleusercontent.com/pw/AP1GczPUItfYOlKWUtN3CHAAh0UEZF2bqKFbvoL1n_NW5c5T2zTp0GxwfpQoDtWqM981p_1VB4tVYpfvp03eWOkr3_gNajFupnLjvsyW9LZ43xJWej9z5EmUOW7UzhzaIgcK4ag-BmuTxSATZXnNIuVzM6Kt=w858-h858-s-no-gm?authuser=0)
+
+## Le Farine del Molino Cosma Integrale (the best whole wheat so far)
+
+![](https://lh3.googleusercontent.com/pw/AP1GczPgvNXa9dwrOLDE7qbuIib_Y20zEAtDPecEsv9qkx6nEVKZ71-09TLoSAVVDdOpimUREc3k7xRD8y8RTMoMn5-xiZgmNe3SVbK0aLeI53KD04talgGgagVjSaFe2jXqev7YuKlbg7PqgO-wU8oNRv5t=w792-h903-s-no-gm?authuser=0)
+
 ## Wheat buckwheat flour
 
 Nothing has surprised me so far. Have used only one, it's ok.
