@@ -134,7 +134,7 @@ ST 08:15-8:35: **1st refreshment ratio: 8g sourdough starter (after Bagnetto if 
 ST 12:35-12:50: **2nd refreshment ratio: 30g sourdough starter: 23g water: 46g white flour -> into a cup, covered at 25-26C** (50% hydration) 1:1.5 feeding;
 ST 16:50-17:05: **3rd refreshment ratio: 100g sourdough starter: 42g water: 84g white flour** (50% hydration) 1:0.83 feeding; 
 
-After the last refreshment, manually combine the flour and room temperature water (25-26C) in the bowl of a stand mixer. Cover and put in the fridge.
+After the last refreshment, manually combine the flour and room temperature water (25-26C) in the bowl of a stand mixer. Cover and put in the fridge. Place the hook in the freezer. You may optionally proceed to the glaze and dry fruit soaking if bored.
 ### First kneading (ST 21:05):
 #### Read each step carefully. When you are done with the previous step, STOP the stand mixer and read the next step. Then proceed.
 
