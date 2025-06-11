@@ -67,8 +67,8 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Honey                                                | 10          |           |     |                              |
 | Sea salt                                             | 7           |           |     |                              |
 | [[Flours\|Wheat flour (HH Manitoba)]]                | 63          |           |     |                              |
-| [[Flours\|Bread flour (Zernari) / any bread flour]]  | 86          |           |     |                              |
-| [[Flours\|Whole wheat flour (Molino Pordenone)]]     | 71          |           |     |                              |
+| [[Flours\|Bread flour (Zernari) / any bread flour]]  | 93          |           |     |                              |
+| [[Flours\|Whole wheat flour (Molino Pordenone)]]     | 64          |           |     |                              |
 |                                                      |             |           |     |                              |
 | **Overall hydration**                                |             |           |     |                              |
 | **Overall weight**                                   |             |           |     |                              |
