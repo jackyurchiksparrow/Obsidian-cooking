@@ -40,7 +40,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ###### 1
 ###### Scale
-###### 326+170 = 496
+###### 192+202+213+44+2 = 653
 ###### Calculate
 ###### Unreleased 3
 
