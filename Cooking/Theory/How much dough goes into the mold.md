@@ -2,6 +2,7 @@
 - **Light and airy doughs (like Panettone)** $\Huge \approx 0.387 g/cm^3$ (not really tested; supposed to be less than for Kulich I guess)
 - **Medium-density doughs (like Kulich)**  $\Huge \approx 0.372 g/cm^3$ (tested; confirmed)
 - **Denser doughs (like Brioche)** $\Huge \approx 0.42 g/cm^3$ (not really tested)
+- **Pan loaves** $\Huge \approx 0.3815 g/cm^3$ (untested)
 
 ## The formula
 - Round mold (cylinder):

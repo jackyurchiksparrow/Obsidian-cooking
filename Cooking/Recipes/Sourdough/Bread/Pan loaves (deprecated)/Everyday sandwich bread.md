@@ -52,25 +52,26 @@ window.onerror = function (message, source, lineno, colno, error) {
 > [!tip] T
 ## Ingredients
 
-###### 2
+###### 1
 ###### Scale
 ###### 26.8+50.2 = 77
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                           | Quantity, g | Baker's % | %   | Note |
-| ---------------------------------------------------- | ----------- | --------- | --- | ---- |
-| [[Fruit water]]                                      | 182         |           |     |      |
-| Water                                                | 300         |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (50%)]] | 90          |           |     |      |
-| Olive oil                                            | 40          |           |     |      |
-| Honey                                                | 35          |           |     |      |
-| Sea salt                                             | 15          |           |     |      |
-| [[Flours\|Wheat flour (HH Manitoba)]]                | 475         |           |     |      |
-| [[Flours\|Whole wheat flour (Caputo)]]               | 138         |           |     |      |
-|                                                      |             |           |     |      |
-| **Overall hydration**                                |             |           |     |      |
-| **Overall weight**                                   |             |           |     |      |
+| Ingredient                                           | Quantity, g | Baker's % | %   | Note                         |
+| ---------------------------------------------------- | ----------- | --------- | --- | ---------------------------- |
+| Water                                                | 145         |           |     |                              |
+| Water 2                                              | 10          |           |     |                              |
+| [[Sourdough starter types\|Sourdough starter (50%)]] | 50          |           |     | 30 flour 15 water 5g starter |
+| Olive oil                                            | 11          |           |     |                              |
+| Honey                                                | 10          |           |     |                              |
+| Sea salt                                             | 7           |           |     |                              |
+| [[Flours\|Wheat flour (HH Manitoba)]]                | 63          |           |     |                              |
+| [[Flours\|Bread flour (Zernari) / any bread flour]]  | 86          |           |     |                              |
+| [[Flours\|Whole wheat flour (Molino Pordenone)]]     | 71          |           |     |                              |
+|                                                      |             |           |     |                              |
+| **Overall hydration**                                |             |           |     |                              |
+| **Overall weight**                                   |             |           |     |                              |
 
 
 
