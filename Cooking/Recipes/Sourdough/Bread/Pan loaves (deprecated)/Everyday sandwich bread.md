@@ -49,7 +49,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | ---------------------- | ----------------- | ---------- | ----- |
 | ![]()                  | ![]()             | ![]()      | ![]() |
 
-> [!tip] 500g - for the smallest loaf pan; ~1000g - for the bigger loaf pan
+> [!tip] 500g - for the smallest loaf pan (50g levain; 7g salt); ~1000g (80g levain; 13g salt) - for the bigger loaf pan
 ## Ingredients
 
 ###### 1
@@ -60,15 +60,15 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                           | Quantity, g | Baker's % | %   | Note                         |
 | ---------------------------------------------------- | ----------- | --------- | --- | ---------------------------- |
-| Water                                                | 145         |           |     |                              |
-| Water 2                                              | 10          |           |     |                              |
-| [[Sourdough starter types\|Sourdough starter (50%)]] | 50          |           |     | 30 flour 15 water 5g starter |
-| Olive oil                                            | 11          |           |     |                              |
-| Honey                                                | 10          |           |     |                              |
-| Sea salt                                             | 7           |           |     |                              |
-| [[Flours\|Wheat flour (HH Manitoba)]]                | 63          |           |     |                              |
-| [[Flours\|Bread flour (Zernari) / any bread flour]]  | 93          |           |     |                              |
-| [[Flours\|Whole wheat flour (Molino Pordenone)]]     | 64          |           |     |                              |
+| Water                                                | 334         |           |     |                              |
+| Water 2                                              | 24          |           |     |                              |
+| [[Sourdough starter types\|Sourdough starter (50%)]] | 80          |           |     | 30 flour 15 water 5g starter |
+| Olive oil                                            | 26          |           |     |                              |
+| Honey                                                | 24          |           |     |                              |
+| Sea salt                                             | 13          |           |     |                              |
+| [[Flours\|Wheat flour (HH Manitoba)]]                | 146         |           |     |                              |
+| [[Flours\|Bread flour (Zernari) / any bread flour]]  | 214         |           |     |                              |
+| [[Flours\|Whole wheat flour (Molino Pordenone)]]     | 148         |           |     |                              |
 |                                                      |             |           |     |                              |
 | **Overall hydration**                                |             |           |     |                              |
 | **Overall weight**                                   |             |           |     |                              |
