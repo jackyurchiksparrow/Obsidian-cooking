@@ -45,11 +45,11 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-| Pan   | Scoring / Brushing | Appearance | Crumb |
-| ----- | ------------------ | ---------- | ----- |
-| ![]() | ![]()              | ![]()      | ![]() |
+| Pan before cold retard | Pan before baking | Appearance | Crumb |
+| ---------------------- | ----------------- | ---------- | ----- |
+| ![]()                  | ![]()             | ![]()      | ![]() |
 
-> [!tip] T
+> [!tip] 500g - for the smallest loaf pan; ~1000g - for the bigger loaf pan
 ## Ingredients
 
 ###### 1
