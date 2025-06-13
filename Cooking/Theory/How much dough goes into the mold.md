@@ -2,9 +2,9 @@
 - **Light and airy doughs (like Panettone)** $\Huge \approx 0.387 g/cm^3$ (not really tested; supposed to be less than for Kulich I guess)
 - **Medium-density doughs (like Kulich)**  $\Huge \approx 0.372 g/cm^3$ (tested; confirmed)
 - **Denser doughs (like Brioche)** $\Huge \approx 0.42 g/cm^3$ (not really tested)
-- **Pan loaves** $\Huge \approx 0.3815 g/cm^3$ (untested)
+- **Pan loaves (NOT highly enriched doughs like bread)** $\Huge \approx 0.678 g/cm^3$ (not tested)
 
-## The formula
+## Regular shape pans: The formulas
 - Round mold (cylinder):
 
 $\Huge V = \pi \times (\frac{d}{2})^2 \times h$
@@ -14,6 +14,35 @@ $\Huge V = \pi \times (\frac{d}{2})^2 \times h$
 
 $\Huge V = L \times W  \times H$
 (volume, latency, width, height)
+
+## Irregular shape pans: The formulas
+
+- Inclined loaf pans (like Borodinsky style)
+
+This makes it a **trapezoidal prism**, so we calculate the volume like this:
+
+#### Example 1 (the bigger pan loaf):
+
+- **Top size:** 21 × 11.5 cm  
+- **Bottom size:** 16.5 × 6.5 cm
+- **Height:** 11 cm
+
+$\Huge AverageVolume= \frac{(L1 \times W1) + (L2 \times W2)}{2} \times H = \frac{(21 \times 11.5) + (16.5 \times 6.5)}{2} \times 11 = 1918 cm^3$ 
+
+$\Huge DoughWeight = 1918 \times 0.678 = 1300g$
+
+#### Example 2 (the smallest pan loaf):
+
+**Розмір верх:** 14 x 9,5 см  
+**Розмір низ:** 10,5 x 6 см  
+**Висота:** 10 см
+		
+$\Huge AverageVolume= \frac{(L1 \times W1) + (L2 \times W2)}{2} \times H = \frac{(14 \times 9.5) + (10.5 \times 6)}{2} \times 10 = 980 cm^3$ 
+
+$\Huge DoughWeight = 980 \times 0.678 = 670g$
+
+### What does it mean that I know the volume for the mold?
+It means that it is easier to understand the state in which the dough appear at the given moment. It means for baking, you should expect it to be right under or slightly over the rim of the pan to presume it's ready to bake. It is also important to assess it with other factors (poke test for example).
 
 ## Examples
 #### **Example: Kulich in a 11 cm diameter, 8.5 cm tall mold**

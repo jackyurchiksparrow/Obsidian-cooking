@@ -2,7 +2,7 @@
 tags:
   - "#sourdough"
 date: ""
-hydration: 76
+hydration: 
 bulk fermentation: 
 cold retard: 
 outcome: 
@@ -10,7 +10,8 @@ thumbnail:
 yield: 1
 nutrition rating: 
 taste rating: 
-credit: Perfect loaf book
+credit:
+  - Perfect loaf book
 part_of_the_set:
 ---
 ```dataviewjs

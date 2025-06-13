@@ -1,16 +1,17 @@
 ---
 tags:
   - "#sourdough"
-date: ""
+date: 2025-06-13
 hydration: 76
-bulk fermentation: 
-cold retard: 
-outcome: 
-thumbnail: 
+bulk fermentation: 6h 30min
+cold retard: 16 h
+outcome: overproofed
+thumbnail: https://lh3.googleusercontent.com/pw/AP1GczMtLm81aFhMEU622gmspIh5CsNUW9UOCEfVTouBGgyFXjwsPQ2Hf7wuBaabJiPukuNizaD1WzCLRo3nZMuJOhWLXEbLjYUfFG3w-8XQaTRWj6YW8J-1rv4iqVDkqZCc2YHAFESR6kagB6ggF__xnrxU=w1280-h960-s-no-gm?authuser=0
 yield: 1
 nutrition rating: 
 taste rating: 
-credit: Perfect loaf book
+credit:
+  - Perfect loaf book
 part_of_the_set:
 ---
 ```dataviewjs
@@ -45,11 +46,12 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-| Pan before cold retard | Pan before baking | Appearance | Crumb |
-| ---------------------- | ----------------- | ---------- | ----- |
-| ![]()                  | ![]()             | ![]()      | ![]() |
+| Pan before cold retard                                                                                                                                                                                                                                                                                                                                                                                      | Pan before baking                                                                                                                                                                                                                    | Appearance                                                                                                                                                                                                                           | Crumb                                                                                                                                                                                                                                |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczPO14Rdq5jlDz2qcSxrxSm95Rrbs4q1pNA8icmqjLQV_5bJy-zpkvIdKPVis2Pi9FjtqgKahEsIxTwWOrc3FSJTVKT5zUYbskFMZbuQwQTBZVfJd_HuEkwKkkSwAyUeqZfJndxDPkcuDpf3DZ1cgA_l=w1280-h960-s-no-gm?authuser=0)                                                                                                                                                                        | ![](https://lh3.googleusercontent.com/pw/AP1GczOGo72ep0MDa_zr_wbMARE_8FWKnAlrGStBKna7gwbsOHiy5PJUI6aDOI5jF9RiD1HHiTenAWvM-ZDx3MPeYHOJ-57xQBt1xbNGwZLbmoLTs1ehM6CwvJh24ruzX8tzZxpJ1ICbL25m3KZeXjIGHKsW=w1280-h960-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczMtLm81aFhMEU622gmspIh5CsNUW9UOCEfVTouBGgyFXjwsPQ2Hf7wuBaabJiPukuNizaD1WzCLRo3nZMuJOhWLXEbLjYUfFG3w-8XQaTRWj6YW8J-1rv4iqVDkqZCc2YHAFESR6kagB6ggF__xnrxU=w1280-h960-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczOsF7JhTmGjcNl3ibOcW-GGfpjr2uorGLXR2GAc9YLeWrNx6O_gsdzTLaE1Y947Y6NoQ2oDC3-98tvNbtUkMQaI8Mr1y5P6BWf-UdJqA24HLZ1k4xc4AowlfS7xrgW8zL9IWh_EsakVmXVxDr1_XMUS=w779-h1039-s-no-gm?authuser=0) |
+| Bulk: 5h shaped, 6h 20min fridge<br>Retard: 16h<br>Hydration: 68%<br>Outcome: gummy and probably overproofed (I took the starter way after the peak)<br><br>- decrease hydration 67.7% -> 62% (the pan loaves are accumulating moisture in the pan while baking, they lose less of it, that's why)<br>- calculate the dough quantity properly. It shouldn't have been 500g, but ~670g<br><br><br>13.06.2025 |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |
 
-> [!tip] 500g - for the smallest loaf pan (50g levain; 7g salt); ~1000g (80g levain; 13g salt) - for the bigger loaf pan
+> [!tip] 670g - for the smallest loaf pan; ~1300g - for the bigger loaf pan
 ## Ingredients
 
 ###### 1
@@ -58,20 +60,20 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                           | Quantity, g | Baker's % | %   | Note                         |
-| ---------------------------------------------------- | ----------- | --------- | --- | ---------------------------- |
-| Water                                                | 334         |           |     |                              |
-| Water 2                                              | 24          |           |     |                              |
-| [[Sourdough starter types\|Sourdough starter (50%)]] | 80          |           |     | 30 flour 15 water 5g starter |
-| Olive oil                                            | 26          |           |     |                              |
-| Honey                                                | 24          |           |     |                              |
-| Sea salt                                             | 13          |           |     |                              |
-| [[Flours\|Wheat flour (HH Manitoba)]]                | 146         |           |     |                              |
-| [[Flours\|Bread flour (Zernari) / any bread flour]]  | 214         |           |     |                              |
-| [[Flours\|Whole wheat flour (Molino Pordenone)]]     | 148         |           |     |                              |
-|                                                      |             |           |     |                              |
-| **Overall hydration**                                |             |           |     |                              |
-| **Overall weight**                                   |             |           |     |                              |
+| Ingredient                                           | Quantity, g | Baker's % | %   | Note |
+| ---------------------------------------------------- | ----------- | --------- | --- | ---- |
+| Water                                                | 410         |           |     |      |
+| Water 2                                              | 25          |           |     |      |
+| [[Sourdough starter types\|Sourdough starter (50%)]] | 100         |           |     |      |
+| Olive oil                                            | 34          |           |     |      |
+| Honey                                                | 32          |           |     |      |
+| Sea salt                                             | 16          |           |     |      |
+| [[Flours\|Wheat flour (HH Manitoba)]]                | 197         |           |     |      |
+| [[Flours\|Bread flour (Zernari) / any bread flour]]  | 289         |           |     |      |
+| [[Flours\|Whole wheat flour (Molino Pordenone)]]     | 199         |           |     |      |
+|                                                      |             |           |     |      |
+| **Overall hydration**                                |             |           |     |      |
+| **Overall weight**                                   |             |           |     |      |
 
 
 
