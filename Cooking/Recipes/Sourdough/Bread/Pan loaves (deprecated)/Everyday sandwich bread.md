@@ -2,7 +2,7 @@
 tags:
   - "#sourdough"
 date: 2025-06-13
-hydration: 76
+hydration: 68
 bulk fermentation: 6h 30min
 cold retard: 16 h
 outcome: overproofed

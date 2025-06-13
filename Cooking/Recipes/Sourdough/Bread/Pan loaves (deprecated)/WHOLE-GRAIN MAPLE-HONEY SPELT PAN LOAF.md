@@ -50,7 +50,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | ---------------------- | ----------------- | ---------- | ----- |
 | ![]()                  | ![]()             | ![]()      | ![]() |
 
-> [!tip] 500g - for the smallest loaf pan (50g levain; 7g salt); ~1000g (80g levain; 13g salt) - for the bigger loaf pan
+> [!tip] 670g - for the smallest loaf pan; ~1300g - for the bigger loaf pan
 ## Ingredients
 
 ###### 1
