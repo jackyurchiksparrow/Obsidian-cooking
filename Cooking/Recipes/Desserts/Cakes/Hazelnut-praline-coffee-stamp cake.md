@@ -113,6 +113,18 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 
 ---
+
+## Plan:
+Day 1:
+- Preparations
+- Sponge cake
+- (Optionally) hazelnut praline
+Day 2:
+- Cream and assembling
+- Being decorating
+Day 3 (the serving day):
+- finish decorating
+
 ## Directions:
 
 ### Preparations:

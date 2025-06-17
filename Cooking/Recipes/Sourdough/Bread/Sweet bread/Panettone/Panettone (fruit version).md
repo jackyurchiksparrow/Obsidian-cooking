@@ -131,7 +131,7 @@ ST 20:00: Combine the flour and room temperature water (25-26C) in the bowl of a
 7. Make the [[Chocolate glaze|Chocolate glaze]] and place into the fridge overnight.
 8. Soak the dry fruit overnight in minimum amount of cold water. Then, in the morning, drain them in the colander and put in the fridge! DO NOT soak candied peeks, or just a handful, soaking will take some aroma. It is better to cover them with inverted syrup or oil. Same for the chocolate chips.
 ### Second kneading (SU ~10 a.m.):
-1. Degas the first dough in the hand mixer on low.
+1. At this stage, the perfect pH must be 5.1 (claim those who wait until it quadruples). Degas the first dough in the hand mixer on low.
 2. Add the flour all at once, but careful. Aim for strength and structure (4-5 min). This is the most crucial step. All the flour must be incorporated and well-kneaded into the dough without adding any other ingredients at this step. (When the flour is slightly mixed in, increase the speed a bit). In the end, the dough must not stick to the walls (almost at least), be shiny and glossy, pass the window pane test.
 3. Add all the sugar with 1/3 of egg yolks. The yolks will moisturize the sugar, making it softer and more easily accessible for the dough.
 4. When the dough has regained its consistency again, add the inverted sugar / honey with another 1/3 of the egg yolks all at once. This will again help to dissolve the inverted sugar. Work the dough until homogeneous again.
