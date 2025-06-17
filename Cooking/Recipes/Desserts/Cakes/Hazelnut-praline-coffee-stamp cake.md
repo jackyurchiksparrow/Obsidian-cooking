@@ -67,20 +67,20 @@ window.onerror = function (message, source, lineno, colno, error) {
 | **Overall weight**                                                                                                  |             |     |                                      |
 |                                                                                                                     |             |     |                                      |
 | **--- Hazelnut praline (plus some extra for decoration) ---**                                                       |             |     |                                      |
-| Sugar                                                                                                               | 30          |     |                                      |
-| Hazelnuts                                                                                                           | 90          |     |                                      |
+| Sugar                                                                                                               | 33          |     |                                      |
+| Hazelnuts                                                                                                           | 100         |     |                                      |
 | Salt                                                                                                                |             |     |                                      |
 |                                                                                                                     |             |     |                                      |
 | **Overall weight**                                                                                                  |             |     |                                      |
 |                                                                                                                     |             |     |                                      |
 | **--- Hazelnut-praline-coffee-cottage-cheese cream (Coffee mousseline cream) ---**                                  |             |     |                                      |
-| Egg yolks                                                                                                           | 100         |     | 6 pcs.                               |
-| Sugar                                                                                                               | 60          |     |                                      |
+| Egg yolks                                                                                                           | 115         |     | 7 pcs.                               |
+| Sugar                                                                                                               | 69          |     |                                      |
 | Salt                                                                                                                |             |     |                                      |
-| Cornstarch                                                                                                          | 12          |     |                                      |
-| Strong espresso                                                                                                     | 160         |     |                                      |
-| Milk                                                                                                                | 200         |     |                                      |
-| Cottage cheese                                                                                                      | 120         |     |                                      |
+| Cornstarch                                                                                                          | 14          |     |                                      |
+| Espresso                                                                                                            | 184         |     |                                      |
+| Milk                                                                                                                | 230         |     |                                      |
+| Cottage cheese                                                                                                      | 150         |     |                                      |
 | Softened butter                                                                                                     | 180         |     |                                      |
 | Praline                                                                                                             | 80          |     |                                      |
 | Vanilla                                                                                                             |             |     |                                      |
@@ -124,6 +124,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 6. (Optionally) make the chocolate fish in advance, use a lot of whole nuts there! Apply some grey glitter or Candurin on top.
 7. (Optionally) prepare the wafer paper.
 8. Prepare the brushes for coloring and the easel.
+9. Prepare the jam in advance.
 
 ### --- Chiffon sponge cake ---
 1. In a smaller bowl, combine the egg whites, sugar 2 and salt, whip until stiff peaks form.
