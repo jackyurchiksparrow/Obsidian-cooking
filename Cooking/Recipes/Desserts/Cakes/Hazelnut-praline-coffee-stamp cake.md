@@ -172,9 +172,9 @@ Day 3 (the serving day):
 2. Brush the coffee syrup on top.
 3. Add the jam (a thin layer). Level out.
 4. Add the pastry cream (a thin layer). Level out. (You must have 1/3 of the cream mixture still for the outer layer)
-5. Using a pizza cutter, slice into thin strips and roll. Gather one after another, roll around the previous one. Until everything is used or is too thick to go on.
+5. Using a pizza cutter, slice into 4 thin strips each cake and roll. Gather one after another, roll around the previous one. Until everything is used or is too thick to go on.
 6. Precisely measure the diameter of the future cake and roll the marzipan (reserving some for the onion and mushrooms optionally).
-7. Place the cake into the fridge. Meanwhile, eyeball and melt some chocolate and add it to the the remaining cream (just enough to make it brown), then mix and pour it into a pastry bag, clean. Chill the cream (do not chill for too long, it will harden, if it's not too hot, don't chill it at all).
+7. Place the cake into the fridge. Meanwhile, eyeball and melt some chocolate (~50-60g) and add it to the the remaining cream (just enough to make it brown), then mix and pour it into a pastry bag, clean. Chill the cream (do not chill for too long, it will harden, if it's not too hot, don't chill it at all).
 8.  Take the cake out, roll the marzipan into the diameter into about 0.3-0.4 cm thickness. Put it on top of the cake, level out. Make the cuts based on references. Begin to brush the initial layers. While they are drying.. go on.
 9.  Apply a layer of cream to the sides, level out.
 10. Get the chocolate out of the freezer, unroll and use it as bark in pieces. The reference: https://www.youtube.com/watch?v=izDZLDav-co
