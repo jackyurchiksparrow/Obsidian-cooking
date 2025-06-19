@@ -41,20 +41,20 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ###### 1
 ###### Scale
-###### 400/3 = 133.33
+###### 288 + 55 = 343
 ###### Calculate
 ###### Unreleased 3
 
 | Ingredient                                                                                                          | Quantity, g | %   | Note                                 |
 | ------------------------------------------------------------------------------------------------------------------- | ----------- | --- | ------------------------------------ |
 | **--- Chiffon sponge cake ---**                                                                                     |             |     |                                      |
-| Eggs                                                                                                                | 200         |     | 4 pcs.                               |
-| Egg yolks                                                                                                           | 70          |     | 4 pcs.                               |
-| Egg whites                                                                                                          | 120         |     | 4 pcs.                               |
-| Sugar 1                                                                                                             | 80          |     |                                      |
-| Sugar 2                                                                                                             | 120         |     |                                      |
-| Cake flour                                                                                                          | 100         |     |                                      |
-| Salt                                                                                                                |             |     |                                      |
+| Eggs                                                                                                                | 250         |     | 5 pcs.                               |
+| Egg yolks                                                                                                           | 85          |     | 5 pcs.                               |
+| Egg whites                                                                                                          | 150         |     | 5 pcs.                               |
+| Sugar 1                                                                                                             | 100         |     |                                      |
+| Sugar 2                                                                                                             | 150         |     |                                      |
+| Cake flour                                                                                                          | 125         |     |                                      |
+| Salt                                                                                                                | 5           |     |                                      |
 |                                                                                                                     |             |     |                                      |
 | **Overall weight**                                                                                                  |             |     |                                      |
 |                                                                                                                     |             |     |                                      |
@@ -74,15 +74,15 @@ window.onerror = function (message, source, lineno, colno, error) {
 | **Overall weight**                                                                                                  |             |     |                                      |
 |                                                                                                                     |             |     |                                      |
 | **--- Hazelnut-praline-coffee-cottage-cheese cream (Coffee mousseline cream) ---**                                  |             |     |                                      |
-| Egg yolks                                                                                                           | 115         |     | 7 pcs.                               |
-| Sugar                                                                                                               | 69          |     |                                      |
-| Salt                                                                                                                |             |     |                                      |
-| Cornstarch                                                                                                          | 14          |     |                                      |
-| Espresso                                                                                                            | 184         |     |                                      |
-| Milk                                                                                                                | 230         |     |                                      |
-| Cottage cheese                                                                                                      | 150         |     |                                      |
-| Softened butter                                                                                                     | 180         |     |                                      |
-| Praline                                                                                                             | 80          |     |                                      |
+| Egg yolks                                                                                                           | 85          |     | 5 pcs.                               |
+| Sugar                                                                                                               | 86          |     |                                      |
+| Salt                                                                                                                | 5           |     |                                      |
+| Cornstarch                                                                                                          | 18          |     |                                      |
+| Espresso                                                                                                            | 230         |     |                                      |
+| Milk                                                                                                                | 343         |     |                                      |
+| Cottage cheese                                                                                                      | 188         |     |                                      |
+| Softened butter                                                                                                     | 225         |     |                                      |
+| Praline                                                                                                             | 100         |     |                                      |
 | Vanilla                                                                                                             |             |     |                                      |
 |                                                                                                                     |             |     |                                      |
 | **Overall weight**                                                                                                  |             |     |                                      |
@@ -174,8 +174,8 @@ Day 3 (the serving day):
 4. Add the pastry cream (a thin layer). Level out. (You must have 1/3 of the cream mixture still for the outer layer)
 5. Using a pizza cutter, slice into thin strips and roll. Gather one after another, roll around the previous one. Until everything is used or is too thick to go on.
 6. Precisely measure the diameter of the future cake and roll the marzipan (reserving some for the onion and mushrooms optionally).
-7. Place the cake into the fridge. Meanwhile, reserve the remaining cream into a pastry bag, clean. Chill the cream.
-8.  Take the cake out, roll the marzipan into the diameter into about 0.3-0.4 cm thickness. Make the cuts based on references. Begin to brush the initial layers. While they are drying.. go on.
+7. Place the cake into the fridge. Meanwhile, eyeball and melt some chocolate and add it to the the remaining cream (just enough to make it brown), then mix and pour it into a pastry bag, clean. Chill the cream (do not chill for too long, it will harden, if it's not too hot, don't chill it at all).
+8.  Take the cake out, roll the marzipan into the diameter into about 0.3-0.4 cm thickness. Put it on top of the cake, level out. Make the cuts based on references. Begin to brush the initial layers. While they are drying.. go on.
 9.  Apply a layer of cream to the sides, level out.
 10. Get the chocolate out of the freezer, unroll and use it as bark in pieces. The reference: https://www.youtube.com/watch?v=izDZLDav-co
 11. For all the chocolate that is left, melt it again (no need to temper) and brush on the sides. Add some kerob to brush at certain areas optionally).
