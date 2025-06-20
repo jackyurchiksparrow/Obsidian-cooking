@@ -10,6 +10,13 @@ Staple whole wheat. Been making all sweets, breads and discard with it. Ferments
 
 ![|500](https://lh3.googleusercontent.com/pw/AP1GczPRxIbj7pAoSsIPBmd0OQX7GRyD5mMmN9GFaPAuN7fxKhOEUVmpRfOSxyF8dl2BLSp3fJd6DSHqdVIisDVbm2U4DrE-rB9Z1jppNMhp5pxlKRLCHpZTi7puN60phxySeli4PxLsxVSsX-vvudF4F5yM=w600-h400-s-no-gm?authuser=0)
 
+кількість білка - 12,5 г
+сила борошна - W170/190/
+Fats 2.50g з них насичені 0,2 г/g,
+Fiber 8g
+Carbohydrates 60.00g з них цукри 1,1 г/g
+Calories  1389 кДж/kJ (329 ккал/kcal)
+ELASTICITY P/L 0,80/0,90
 ## White 00 flour (Caputo Cuoco)
 
 It is very finely milled and it ferments quickly. Suitable for sweets and light pastries, for starter feedings, but I'd rather not buy it, eaten too quickly by the starter.
@@ -23,6 +30,20 @@ The most perfect white strong and long-fermentation flour so far. Takes about 8+
 ![|500](https://lh3.googleusercontent.com/pw/AP1GczNE5NtS9fpnbHok0YImCtWLOqManAixKMuDQvxgh0hookix_vLHcNJAbURpf7RtQ5qa6awllFIllKj_3WSBEY3yGRPQu9dX0DmO02GQqVI6lOAlqNQl1qr2SVVygWznYeHg17BawDI2KZmGO39A5UZL=w858-h858-s-no-gm?authuser=0)
 
 ![|500](https://lh3.googleusercontent.com/pw/AP1GczP5FQYmJ3jVEr2cb9eGSeccfTLH5w2ss3iKFZyD7s3FV_hmyMdj1beRy1Ub7ZNs7Yo42SlM_0IE7vGaDhgaHhfOxkyPHnMHm3xCoxYE3bvbaZPF8YULeEQbKHzheXAjElfK6QpdAvT-FKAYx966wfZS=w858-h858-s-no-gm?authuser=0)
+
+ 
+|Grain|Wheat|
+|Type|00|
+|Protein|14.00|
+|Energy:|342/|
+|Fats|1.00|
+|Carbohydrates|68.00|
+|Fiber|2.50|
+|Max. hydration|80%|
+|W|400-420|
+|P/L|0.5-0.6|
+|Ferm. Time|~8+ h|
+
 ## Durum Flour (Molino Cosma semolina rimacinata)
 
 The best durum flour so far. Soaks a lot of liquid, possible for 80%+ hydration if used with strong flours. Takes a long time to ferment.
@@ -33,6 +54,7 @@ The best durum flour so far. Soaks a lot of liquid, possible for 80%+ hydration 
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczPgvNXa9dwrOLDE7qbuIib_Y20zEAtDPecEsv9qkx6nEVKZ71-09TLoSAVVDdOpimUREc3k7xRD8y8RTMoMn5-xiZgmNe3SVbK0aLeI53KD04talgGgagVjSaFe2jXqev7YuKlbg7PqgO-wU8oNRv5t=w792-h903-s-no-gm?authuser=0)
 
+1436 kj 339 ккал білки - 12 г; жири - 1,5 г (з них насичені 0,3 г); вуглеводи - 65 г (з них цукру - 1,5 г); сіль - 0 г; клітковина - 9 г.
 ## Wheat buckwheat flour
 
 Nothing has surprised me so far. Have used only one, it's ok.
@@ -46,6 +68,12 @@ Nothing has surprised me so far. Have used a few, nothing fancy.
 Very coarsely milled. You can strongly sense the taste and presence of it. The bran is too pronounced. Soaks a lot of moisture, more that Caputo's. If using in sweet doughs, sieve finely.
 
 ![|500](https://lh3.googleusercontent.com/pw/AP1GczOFKZ6bVzUNYrSr5LgTBAnJCsQctmWkjmj_wyfkLKd8biuD7J90X90hq2vDfS0Xf9bAJl-meN-_vbJHx-4GozIa0ZdNLEBP1AHSj2P-YHUKM2A_Xg3ris-QDj-TCeoO7IhYNybTqef105iEqqMf1K0o=w841-h858-s-no-gm?authuser=0)
+
+- **Показник еластичності і тягучість (P / L): 1.5**
+- **Показник здатності вбирати воду (А): від 63% і більше**
+- **Вологість - 15.1%**
+- **Харчова цінність: білки 15%**
+- **Упаковка - Паперовий пакет**
 ## Durum Flour (Molino Cosma semolina rimacinata) S3 Pasta Bella
 
 ![|500](https://lh3.googleusercontent.com/pw/AP1GczMNMFLjWC5J_-r7rsITse0JxtF8cpvgiXxd9MfycNCCRaKWDMUPd6uTkJwlUNZ5Y1bHBwFn1bsJ8WLFgtlSyDqy4JPMW5jZ2leWlPXDNGzGK_m0hWXymTjG1tPGWMAAg-ZJzccwtRcGz5zaBiqE9Rom=w841-h858-s-no-gm?authuser=0)
