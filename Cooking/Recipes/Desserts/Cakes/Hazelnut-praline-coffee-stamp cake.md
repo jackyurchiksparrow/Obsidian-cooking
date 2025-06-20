@@ -135,7 +135,7 @@ Day 3 (the serving day):
 5. Melt and temper the chocolate for the side decoration in advance, spread it thinly onto a parchment paper, roll and freeze.
 6. (Optionally) make the chocolate fish in advance, use a lot of whole nuts there! Apply some grey glitter or Candurin on top.
 7. (Optionally) prepare the wafer paper.
-8. Prepare the brushes for coloring and the easel.
+8. Prepare the brushes for coloring and the palette.
 9. Prepare the jam in advance.
 
 ### --- Chiffon sponge cake ---
@@ -158,14 +158,15 @@ Day 3 (the serving day):
 5. Measure the necessary amount, blend until smooth, then add the cottage cheese from cream and blend again until smooth.
 
 ### --- Hazelnut-praline-coffee-cottage-cheese cream (Coffee mousseline cream) ---
-1. Make sure the butter is softened.
-2. Mix the yolks, sugar, salt and cornstarch in a bowl.
-3. Bring espresso and milk to steaming in a thick-bottom pan.
-4. Temper the egg mixture.
-5. Back to the pan and cook until glossy and thick.
-6. Add the vanilla and cottage praline.
-7. Cover with a plastic wrap in contact. Cool down.
-8. Add the softened butter and whip until glossy.
+1. **IMPORTANT** (if you are making this a day ahead, do not add the butter and cottage praline, add them the day you're going to use the cream).
+2. Make sure the butter is softened.
+3. Mix the yolks, sugar, salt and cornstarch in a bowl.
+4. Bring espresso and milk to steaming in a thick-bottom pan.
+5. Temper the egg mixture.
+6. Back to the pan and cook until glossy and thick.
+7. Add the vanilla and cottage praline.
+8. Cover with a plastic wrap in contact. Cool down.
+9. Add the softened butter and whip until glossy.
 
 ### --- Assembling ---
 1. Trim the ends of the sponge.
