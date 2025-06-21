@@ -159,7 +159,7 @@ Day 3 (the serving day):
 
 ### --- Hazelnut-praline-coffee-cottage-cheese cream (Coffee mousseline cream) ---
 1. **IMPORTANT** (if you are making this a day ahead, do not add the butter and cottage praline, add them the day you're going to use the cream).
-2. Make sure the butter is softened.
+2. Make sure the butter is softened the saae day you're going to add it.
 3. Mix the yolks, sugar, salt and cornstarch in a bowl.
 4. Bring espresso and milk to steaming in a thick-bottom pan.
 5. Temper the egg mixture.
