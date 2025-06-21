@@ -88,7 +88,10 @@ window.onerror = function (message, source, lineno, colno, error) {
 | **Overall weight**                                                                                                  |             |     |                                      |
 |                                                                                                                     |             |     |                                      |
 | **--- Any jam, acidic ---**                                                                                         |             |     |                                      |
-| Jam (for example cherries, strawberries, raspberries etc.)                                                          | 70          |     |                                      |
+| Fruit for jam; pitted (for example cherries, strawberries, raspberries etc.)                                        | 500         |     |                                      |
+| Sugar                                                                                                               | 125         |     |                                      |
+| Salt                                                                                                                | 1           |     |                                      |
+| Anise seeds; ground                                                                                                 | 3-4 pinches |     |                                      |
 |                                                                                                                     |             |     |                                      |
 | **Overall weight**                                                                                                  |             |     |                                      |
 |                                                                                                                     |             |     |                                      |
@@ -129,9 +132,9 @@ Day 3 (the serving day):
 
 ### Preparations:
 1. Line two 30x40cm baking sheets with parchment paper.
-2. Ground a few cardamom pods, wash and dry a rosemary sprig.
+2. Ground a few cardamom pods, wash and dry a rosemary sprig, ground some anise seeds.
 3. Prepare a silicon mat.
-4. Sum up all the espresso in the recipe and brew this much.
+4. Sum up all the espresso in the recipe and brew this much. (230g is exactly two big espressos)
 5. Melt and temper the chocolate for the side decoration in advance, spread it thinly onto a parchment paper, roll and freeze.
 6. (Optionally) make the chocolate fish in advance, use a lot of whole nuts there! Apply some grey glitter or Candurin on top.
 7. (Optionally) prepare the wafer paper.
