@@ -3,7 +3,7 @@ tags:
   - sourdough_discard
   - sweet
 date: 2025-06-21
-thumbnail: 
+thumbnail: https://lh3.googleusercontent.com/pw/AP1GczMCXYPI501Y04aGzGhRyEUooZUnttIhkDUrXWqeZ1SQw9Xnv0XxqEbWjnctgqj139y6Bouru_aCtAEDHcloCaOsh2FPR9ZcTvET9n9fPwl3N0g3xYI8BhpS_fZ7gEVfFONT5ot01vS7R2ufdpD3TU5i=w1280-h892-s-no-gm?authuser=0
 passive time: 
 active time: 
 yield: 
@@ -28,10 +28,10 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-| 1              | 2   | 3   | 4   |
-| -------------- | --- | --- | --- |
-|                |     |     |     |
-| <br>22.06.2025 |     |     |     |
+| 1                                                                                                                                                                                                                                    | 2                                                                                                                                                                                                                                   | 3   | 4   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczMCXYPI501Y04aGzGhRyEUooZUnttIhkDUrXWqeZ1SQw9Xnv0XxqEbWjnctgqj139y6Bouru_aCtAEDHcloCaOsh2FPR9ZcTvET9n9fPwl3N0g3xYI8BhpS_fZ7gEVfFONT5ot01vS7R2ufdpD3TU5i=w1280-h892-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczPwRJ-cmc2fYRelSkrEyFanyeoUbfqsLNyuDshlxEBJxe768o7KqjoMlxVXitjQgEG84axFFY2t4l1-PhwIp2cfcrPFhCRvcPZdy-VjBGXEln_Y_BgMQgqJHDNdkFJCKZZxgyS03Zuz_oaY54KrF0T7=w677-h903-s-no-gm?authuser=0) |     |     |
+| It was very good.<br>Oil/butter: 10g -> 25g<br>Try to reduce milk: 600g -> 550g and check if the cut changes to less "foggy"<br><br>22.06.2025                                                                                       |                                                                                                                                                                                                                                     |     |     |
 
 ## Ingredients
 
