@@ -45,13 +45,14 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                           | Quantity, g | Baker's % | %   | Note |
 | ---------------------------------------------------- | ----------- | --------- | --- | ---- |
-| Water                                                | 554         |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (60%)]] | 90          |           |     |      |
+| Water                                                | 513         |           |     |      |
+| Water 2                                              | 25          |           |     |      |
+| [[Sourdough starter types\|Sourdough starter (50%)]] | 100         |           |     |      |
 | Sea salt                                             | 15          |           |     |      |
-| [[Flours\|Wheat flour (HH Manitoba)]]                | 263         |           |     |      |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 223         |           |     |      |
-| [[Flours\|Whole wheat flour (Caputo)]]               | 62          |           |     |      |
-| [[Flours\|Whole buckwheat flour]]                    | 107         |           |     |      |
+| [[Flours\|Wheat flour (HH Manitoba)]]                | 260         |           |     |      |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 219         |           |     |      |
+| [[Flours\|Whole wheat flour (Caputo)]]               | 61          |           |     |      |
+| [[Flours\|Whole buckwheat flour]]                    | 105         |           |     |      |
 | [[Malt]]                                             | 2           |           |     |      |
 |                                                      |             |           |     |      |
 | **Overall hydration**                                |             |           |     |      |
