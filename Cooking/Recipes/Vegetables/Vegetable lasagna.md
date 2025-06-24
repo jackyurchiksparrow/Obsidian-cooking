@@ -101,13 +101,12 @@ window.onerror = function (message, source, lineno, colno, error) {
 2. Into a food processor: peeled tomatoes, basil, salt and pepper. Blend until an easily spreadable consistency. Set aside.
 3. Finely cut leeks / onions, bell peppers, carrots, celery, fennel, courgettes. Set aside.
 4. Preheat some olive oil, add garlic and cook. 
-5. Add the processed tomatoes. Cook.
-6. Add some baking soda to reduce the acidity and cook it out. Reserve into a small bowl.
-7. Heat the olive oil. Add the chopped vegetables. Cook, stirring every couple of minutes, until the veggies are golden on the edges, about 8 to 12 minutes. Add salt.
-8. Add a few large handfuls of spinach. Cook, stirring frequently, until the spinach has wilted.
-9. Transfer the cooked veggies and spinach mixture to the bowl of the food processor. Pulse until they are more finely chopped (but not puréed!). Transfer the mixture to large mixing bowl.
-10. Put half of the cottage cheese into the processor and blend it until smooth, about 1 minute (may add some milk to help).
-11. Now, into the bowl with the processed vegetables add the blended cottage cheese and unprocessed cottage cheese. Mix.
+5. Add the processed tomatoes. Cook. Reserve into a small bowl. **Do not add any baking soda at this point. It will destroy the taste and acidity, it basically eliminates "the body"**
+6. Heat the olive oil. Add the chopped vegetables. Cook, stirring every couple of minutes, until the veggies are golden on the edges, about 8 to 12 minutes. Add salt.
+7. Add a few large handfuls of spinach. Cook, stirring frequently, until the spinach has wilted.
+8. Transfer the cooked veggies and spinach mixture to the bowl of the food processor. Pulse until they are more finely chopped (but not puréed!). Transfer the mixture to large mixing bowl.
+9. Put half of the cottage cheese into the processor and blend it until smooth, about 1 minute (may add some milk to help).
+10. Now, into the bowl with the processed vegetables add the blended cottage cheese and unprocessed cottage cheese. Mix.
 
 ### Assembling
 1. Spread tomato sauce evenly over the bottom.
