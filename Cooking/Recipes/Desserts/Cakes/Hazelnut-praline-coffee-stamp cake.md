@@ -67,8 +67,8 @@ window.onerror = function (message, source, lineno, colno, error) {
 | **Overall weight**                                                                                                  |             |     |                                      |
 |                                                                                                                     |             |     |                                      |
 | **--- Hazelnut praline (plus some extra for decoration) ---**                                                       |             |     |                                      |
-| Sugar                                                                                                               | 33          |     |                                      |
-| Hazelnuts                                                                                                           | 100         |     |                                      |
+| Sugar                                                                                                               | 50          |     |                                      |
+| Hazelnuts                                                                                                           | 150         |     |                                      |
 | Salt                                                                                                                |             |     |                                      |
 |                                                                                                                     |             |     |                                      |
 | **Overall weight**                                                                                                  |             |     |                                      |
@@ -77,18 +77,23 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Egg yolks                                                                                                           | 85          |     | 5 pcs.                               |
 | Sugar                                                                                                               | 86          |     |                                      |
 | Salt                                                                                                                | 5           |     |                                      |
-| Cornstarch                                                                                                          | 18          |     |                                      |
+| Cornstarch                                                                                                          | 40          |     |                                      |
 | Espresso                                                                                                            | 230         |     |                                      |
 | Milk                                                                                                                | 343         |     |                                      |
-| Cottage cheese                                                                                                      | 188         |     |                                      |
+| Cottage cheese                                                                                                      | 200         |     |                                      |
 | Softened butter                                                                                                     | 225         |     |                                      |
-| Praline                                                                                                             | 100         |     |                                      |
+| Praline                                                                                                             | 180         |     |                                      |
+| Gelatin                                                                                                             | 5           |     |                                      |
+| Water                                                                                                               | 25          |     |                                      |
 | Vanilla                                                                                                             |             |     |                                      |
 |                                                                                                                     |             |     |                                      |
 | **Overall weight**                                                                                                  |             |     |                                      |
 |                                                                                                                     |             |     |                                      |
 | **--- Any jam, acidic ---**                                                                                         |             |     |                                      |
-| Jam (for example cherries, strawberries, raspberries etc.)                                                          | 70          |     |                                      |
+| Fruit for jam; pitted (for example cherries, strawberries, raspberries etc.)                                        | 500         |     |                                      |
+| Sugar                                                                                                               | 125         |     |                                      |
+| Salt                                                                                                                | 1           |     |                                      |
+| Anise seeds; ground                                                                                                 | 3-4 pinches |     |                                      |
 |                                                                                                                     |             |     |                                      |
 | **Overall weight**                                                                                                  |             |     |                                      |
 |                                                                                                                     |             |     |                                      |
@@ -129,9 +134,9 @@ Day 3 (the serving day):
 
 ### Preparations:
 1. Line two 30x40cm baking sheets with parchment paper.
-2. Ground a few cardamom pods, wash and dry a rosemary sprig.
+2. Ground a few cardamom pods, wash and dry a rosemary sprig, ground some anise seeds.
 3. Prepare a silicon mat.
-4. Sum up all the espresso in the recipe and brew this much.
+4. Sum up all the espresso in the recipe and brew this much. (230g is exactly two big espressos)
 5. Melt and temper the chocolate for the side decoration in advance, spread it thinly onto a parchment paper, roll and freeze.
 6. (Optionally) make the chocolate fish in advance, use a lot of whole nuts there! Apply some grey glitter or Candurin on top.
 7. (Optionally) prepare the wafer paper.
@@ -155,18 +160,24 @@ Day 3 (the serving day):
 2. Turn off the heat and add in the hazelnuts. Stir well until the sugar crystallizes completely.
 3. Turn the heat back on and stir until the sugar turns into caramel (dark brown color).
 4. Transfer it to a silicon mat and let it cool completely.
-5. Measure the necessary amount, blend until smooth, then add the cottage cheese from cream and blend again until smooth.
+5. Measure the necessary amount, blend until smooth, reserve until the day you're going to use it or add it to the cream base.
+6. Then add the cottage cheese into the food processor and blend again until smooth. Set aside until the say you're going to use it.
 
 ### --- Hazelnut-praline-coffee-cottage-cheese cream (Coffee mousseline cream) ---
-1. **IMPORTANT** (if you are making this a day ahead, do not add the butter and cottage praline, add them the day you're going to use the cream).
-2. Make sure the butter is softened.
-3. Mix the yolks, sugar, salt and cornstarch in a bowl.
-4. Bring espresso and milk to steaming in a thick-bottom pan.
-5. Temper the egg mixture.
-6. Back to the pan and cook until glossy and thick.
-7. Add the vanilla and cottage praline.
-8. Cover with a plastic wrap in contact. Cool down.
-9. Add the softened butter and whip until glossy.
+1. **IMPORTANT** (if you are making this a day ahead, do not add the butter and cottage cheese with praline, add them the day you're going to use the cream).
+2. Soak the gelatin. It helps with the texture and preservation, no specific purpose.
+3. Make sure the butter is softened the same day you're going to use it.
+4. Mix the yolks, sugar, salt and cornstarch in a bowl.
+5. Bring espresso and milk to steaming in a thick-bottom pan.
+6. Temper the egg mixture.
+7. Back to the pan and cook until glossy and thick.
+8. Add the vanilla.
+9. Cover with a plastic wrap in contact. Bring to room temperature!
+10. Add the softened butter to a bowl (still cold, but pliable) and whip.
+11. Add the cottage cheese to the butter and whip again.
+12. Add the praline to the cream base.
+13. Add the pastry cream 1 tablespoon at a time, whipping on medium speed for 20 seconds in between each addition.
+14. Once all the pastry cream is incorporated, turn the mixer on high again and whip for a further minute.
 
 ### --- Assembling ---
 1. Trim the ends of the sponge.
