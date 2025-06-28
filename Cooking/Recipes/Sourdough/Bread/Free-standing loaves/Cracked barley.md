@@ -48,7 +48,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Ingredient                                              | Quantity, g | Baker's % | %   | Note                           |
 | ------------------------------------------------------- | ----------- | --------- | --- | ------------------------------ |
 | Water                                                   | 385         |           |     |                                |
-| [[Sourdough starter types\|Sourdough starter (60%)]]    | 110         |           |     |                                |
+| [[Sourdough starter types\|Sourdough starter (50%)]]    | 110         |           |     |                                |
 | Sea salt                                                | 16          |           |     |                                |
 | [[Flours\|Bread flour (Zernari) / any bread flour]]     | 223         |           |     |                                |
 | [[Flours\|Wheat flour (HH Manitoba)]]                   | 248         |           |     |                                |
