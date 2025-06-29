@@ -47,14 +47,15 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                              | Quantity, g | Baker's % | %   | Note                           |
 | ------------------------------------------------------- | ----------- | --------- | --- | ------------------------------ |
-| Water                                                   | 385         |           |     |                                |
+| Water                                                   | 366         |           |     |                                |
+| Water 2                                                 | 20          |           |     |                                |
 | [[Sourdough starter types\|Sourdough starter (50%)]]    | 110         |           |     |                                |
-| Sea salt                                                | 16          |           |     |                                |
-| [[Flours\|Bread flour (Zernari) / any bread flour]]     | 223         |           |     |                                |
-| [[Flours\|Wheat flour (HH Manitoba)]]                   | 248         |           |     |                                |
-| [[Flours\|Whole wheat flour (Molino Pordenone)]]        | 94          |           |     |                                |
-| Whole barley berries, milled into coarse flour (soaker) | 109         |           |     | soak in water 1:1 + a bit more |
-| Water (soaker)                                          | 118         |           |     |                                |
+| Sea salt                                                | 15          |           |     |                                |
+| [[Flours\|Bread flour (Zernari) / any bread flour]]     | 218         |           |     |                                |
+| [[Flours\|Wheat flour (HH Manitoba)]]                   | 236         |           |     |                                |
+| [[Flours\|Whole wheat flour (Molino Pordenone)]]        | 89          |           |     |                                |
+| Whole barley berries, milled into coarse flour (soaker) | 104         |           |     | soak in water 1:1 + a bit more |
+| Water (soaker)                                          | 142         |           |     |                                |
 |                                                         |             |           |     |                                |
 | **Overall hydration**                                   |             |           |     |                                |
 | **Overall weight**                                      |             |           |     |                                |
