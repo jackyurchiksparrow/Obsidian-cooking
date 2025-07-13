@@ -2,7 +2,7 @@
 tags:
   - beef
 date: 2025-06-28
-thumbnail: 
+thumbnail: https://lh3.googleusercontent.com/pw/AP1GczOaQXY4WGr8J8Bm-QOAOLBU_eu7rUoaR2nkeSYjdhnHx5az31heiB3IeWXNaVV00XMShA5HNY275nX2nHrd4pKlEJm3C3DszMkXthblBnj8I84PR4CrPdcRHaLXAB5w-OZJzwRnL8cftNz1x-z-VExU=w1280-h960-s-no-gm?authuser=0
 passive time: 4 h
 active time: 2 h
 yield: 1
@@ -28,10 +28,10 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-| 1                                                                                                                     | 2   | 3   | 4   | 5   |
-| --------------------------------------------------------------------------------------------------------------------- | --- | --- | --- | --- |
-|                                                                                                                       |     |     |     |     |
-| Adjustments:<br>- don't use green parts of leeks, they make it green<br>- cook the meat for longer before adding rice |     |     |     |     |
+| 1                                                                                                                                                                                                                                                                                                               | 2   | 3   | 4   | 5   |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- | --- | --- |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczOaQXY4WGr8J8Bm-QOAOLBU_eu7rUoaR2nkeSYjdhnHx5az31heiB3IeWXNaVV00XMShA5HNY275nX2nHrd4pKlEJm3C3DszMkXthblBnj8I84PR4CrPdcRHaLXAB5w-OZJzwRnL8cftNz1x-z-VExU=w1280-h960-s-no-gm?authuser=0)                                                                            |     |     |     |     |
+| Adjustments:<br>- don't use green parts of leeks, they make it green<br>- cook the meat for longer before adding rice<br>- change the pan, I had to stir too frequently and the rice was sort of lumpy<br>- rice was also dry-ish because water couldn't properly cover it and frequent stirring got on the way |     |     |     |     |
 
 > [!Tip] The pan is ridiculous, the rice burns quickly before it's cooked through.
 ## Ingredients
