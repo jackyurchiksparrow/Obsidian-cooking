@@ -2,9 +2,9 @@ class RecipeScaler {
     // ---------------- CONSTANTS SECTION START ----------------
     // Bugs:
     // 1. if you switch from the tab looking at other tables rather than at those at the top of the page, next tab scale functionality might not work until you close the first tab
-    // 2. If you had many tabs opened at the moment of opening the editor and you didn't open the tabs sequantially, the DOM won't include those elements and the constant indices won't work and won't we able to tell where you are currently. You need to close others first.
+    // 2. If you had many tabs opened at the moment of opening the editor and you didn't open the tabs sequentially, the DOM won't include those elements and the constant indices won't work and won't we able to tell where you are currently. You need to close others first.
 
-    // array that holds all declated intervals
+    // array that holds all declared intervals
     static intervals = [];
     // the amount of buttons per page (in the top of the page where all functionality is)
     static AMOUNT_OF_BUTTONS_PER_PAGE = 5;
@@ -499,7 +499,7 @@ class RecipeScaler {
                 let hydration_match = ingredient_title_lower.match(/(\d+(?:\.\d+)?)\s*%/);
                 sourdough = {
                     hydration: hydration_match ? parseFloat(hydration_match[1]) : 0,
-                    weight: parseFloat(ingredient_qty) || 0
+                    weight: ingredient_title_lower.contains("dried") ? 0 : (parseFloat(ingredient_qty) || 0)
                 };
             } 
             // Identify flour rows and accumulate total flour weight.

@@ -46,8 +46,9 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                           | Quantity, g | Baker's % | %   | Note                                         |
 | ---------------------------------------------------- | ----------- | --------- | --- | -------------------------------------------- |
-| Water                                                | 520         |           |     |                                              |
-| [[Sourdough starter types\|Sourdough starter (60%)]] | 90          |           |     | Fed overnight at 8 p.m 1:9., ready by 9 a.m. |
+| Water                                                | 492         |           |     |                                              |
+| Water 2                                              | 20          |           |     |                                              |
+| [[Sourdough starter types\|Sourdough starter (50%)]] | 90          |           |     | Fed overnight at 8 p.m 1:9., ready by 9 a.m. |
 | Sea salt                                             | 16          |           |     |                                              |
 | [[Flours\|Wheat flour (HH Manitoba)]]                | 248         |           |     |                                              |
 | [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 360         |           |     |                                              |
