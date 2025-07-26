@@ -40,27 +40,38 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                          | Quantity, g | Baker's % | %   | Note |
-| ----------------------------------- | ----------- | --------- | --- | ---- |
-| **Ice-cream base**                  |             |           |     |      |
-| Coconut cream                       | 600         |           |     |      |
-| White sugar                         | 72          |           |     |      |
-| Glucose syrup                       | 36          |           |     |      |
-| Inverted syrup (or honey)           | 36          |           |     |      |
-| Vanilla extract                     |             |           |     |      |
-| Salt                                | 2           |           |     |      |
-|                                     |             |           |     |      |
-| **Chocolate flavor**                |             |           |     |      |
-| Cocoa powder                        | 24          |           |     |      |
-| Chocolate chips / chopped chocolate | 40          |           |     |      |
-|                                     |             |           |     |      |
-| **Matcha ice-cream**                |             |           |     |      |
-| Matcha                              | 9           |           |     |      |
-|                                     |             |           |     |      |
-| **Berry ripple**                    |             |           |     |      |
-| Sweetened fruit puree               | 50          |           |     |      |
-|                                     |             |           |     |      |
-| **Overall weight**                  |             |           |     |      |
+| Ingredient                                                | Quantity, g | Baker's % | %   | Note |
+| --------------------------------------------------------- | ----------- | --------- | --- | ---- |
+| **Ice-cream base**                                        |             |           |     |      |
+| Coconut cream                                             | 1200        |           |     |      |
+| White sugar                                               | 144         |           |     |      |
+| Glucose syrup                                             | 72          |           |     |      |
+| Inverted syrup (or honey)                                 | 72          |           |     |      |
+| Vanilla extract (alcohol based; to prevent freezing)      |             |           |     |      |
+| Salt                                                      | 4           |           |     |      |
+|                                                           |             |           |     |      |
+| **Overall weight**                                        |             |           |     |      |
+|                                                           |             |           |     |      |
+| **Vanilla** (for 1400)                                    |             |           |     |      |
+| Vanilla bean seeds                                        | 1 pc.       |           |     |      |
+|                                                           |             |           |     |      |
+| **Chocolate-tonka flavor** (for 1400)                     |             |           |     |      |
+| Cocoa powder                                              | 48          |           |     |      |
+| Chocolate chips / chopped chocolate                       | 80          |           |     |      |
+| Tonka beans, grated                                       | 5           |           |     |      |
+|                                                           |             |           |     |      |
+| **Banana** (for 1400)                                     |             |           |     |      |
+| Mashed bananas                                            | 2 pcs.      |           |     |      |
+|                                                           |             |           |     |      |
+| **Matcha ice-cream** (for 1400)                           |             |           |     |      |
+| Matcha                                                    | 18          |           |     |      |
+|                                                           |             |           |     |      |
+| **Berry ripple** (for 1400)                               |             |           |     |      |
+| Sweetened fruit puree (just raw fruit blended with sugar) | 100         |           |     |      |
+|                                                           |             |           |     |      |
+| **Pistachio** (for 500)                                   |             |           |     |      |
+| Pistachios (small and big chunks)                         | 75          |           |     |      |
+
 
 
 
@@ -73,20 +84,19 @@ window.onerror = function (message, source, lineno, colno, error) {
     - **300g (half) coconut cream**
     - **72g (all) white sugar**
 2. Stir well and bring to a gentle simmer over medium-low heat.
-3. Cook uncovered, **stirring often**, for 25–30 minutes.
-4. Reduce until you have **~220–230 g thickened syrup** (lose ~130–140 g water).
-5. Let cool completely in the fridge.
+3. Cook uncovered, **stirring often**, (until it's 112-116C).
+4. Let cool completely in the fridge.
 
 ### 🌀 STEP 2: MAKE ICE CREAM BASE
 
-1. In a blender, combine:
+1. In a blender/stand mixer, combine:
     - **Your cooled coconut condensed milk**
     - **remaining coconut milk**
     - **glucose syrup**
     - **inverted syrup**
     - **vanilla extract (optional)**
     - **fine sea salt**
-2. Blend for 30–60 seconds until smooth and emulsified.
+2. Blend/whip for 30–60 seconds until smooth and emulsified.
 3. Pour the cold base into a **freezer-safe container** (tall is okay).
 - Optional: after 4–5 hours, stir once with a fork or stick blender to break crystals.
 
