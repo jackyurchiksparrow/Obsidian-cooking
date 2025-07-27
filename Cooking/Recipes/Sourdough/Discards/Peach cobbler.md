@@ -2,14 +2,15 @@
 tags:
   - sourdough_discard
   - sweet
-date: 2025-06-21
+date: 2025-07-27
 thumbnail: https://lh3.googleusercontent.com/pw/AP1GczMCXYPI501Y04aGzGhRyEUooZUnttIhkDUrXWqeZ1SQw9Xnv0XxqEbWjnctgqj139y6Bouru_aCtAEDHcloCaOsh2FPR9ZcTvET9n9fPwl3N0g3xYI8BhpS_fZ7gEVfFONT5ot01vS7R2ufdpD3TU5i=w1280-h892-s-no-gm?authuser=0
 passive time: 
 active time: 
 yield: 
 nutrition rating: 
 taste rating: 
-credit: 
+credit:
+  - https://tastesbetterfromscratch.com/peach-cobbler/
 part_of_the_set:
 ---
 ```dataviewjs
@@ -30,8 +31,8 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | 1                                                                                                                                                                                                                                    | 2                                                                                                                                                                                                                                   | 3   | 4   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- |
-| ![](https://lh3.googleusercontent.com/pw/AP1GczMCXYPI501Y04aGzGhRyEUooZUnttIhkDUrXWqeZ1SQw9Xnv0XxqEbWjnctgqj139y6Bouru_aCtAEDHcloCaOsh2FPR9ZcTvET9n9fPwl3N0g3xYI8BhpS_fZ7gEVfFONT5ot01vS7R2ufdpD3TU5i=w1280-h892-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczPwRJ-cmc2fYRelSkrEyFanyeoUbfqsLNyuDshlxEBJxe768o7KqjoMlxVXitjQgEG84axFFY2t4l1-PhwIp2cfcrPFhCRvcPZdy-VjBGXEln_Y_BgMQgqJHDNdkFJCKZZxgyS03Zuz_oaY54KrF0T7=w677-h903-s-no-gm?authuser=0) |     |     |
-| It was very good.<br>Oil/butter: 10g -> 25g<br>Try to reduce milk: 600g -> 550g and check if the cut changes to less "foggy"<br><br>22.06.2025                                                                                       |                                                                                                                                                                                                                                     |     |     |
+|                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                     |     |     |
+|                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                     |     |     |
 
 ## Ingredients
 
@@ -41,27 +42,28 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                            | Quantity, g             | Baker's % | %   | Note   |
-| ----------------------------------------------------- | ----------------------- | --------- | --- | ------ |
-| **Batter**                                            |                         |           |     |        |
-| [[Sourdough starter types\|Sourdough discard (50%)]]  | 300                     |           |     |        |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]      | 150                     |           |     |        |
-| Almond flour                                          | 50                      |           |     |        |
-| Sugar                                                 | 170                     |           |     |        |
-| Salt; fine                                            | 5                       |           |     |        |
-| Baking soda                                           | 5                       |           |     |        |
-| Eggs                                                  | 300                     |           |     | 6 pcs. |
-| Milk                                                  | 600                     |           |     |        |
-| Butter / olive oil                                    | 25                      |           |     |        |
-| Vanilla                                               |                         |           |     |        |
-|                                                       |                         |           |     |        |
-| **Overall weight**                                    |                         |           |     |        |
-| **Overall hydration**                                 |                         |           |     |        |
-|                                                       |                         |           |     |        |
-| Fruit (cherries; until there's no more room for them) | 1200                    |           |     |        |
-| Sugar                                                 | until the fruit covered |           |     |        |
-|                                                       |                         |           |     |        |
-| **Overall weight**                                    |                         |           |     |        |
+| Ingredient                                            | Quantity, g             | Baker's % | %   | Note      |
+| ----------------------------------------------------- | ----------------------- | --------- | --- | --------- |
+| **Fruit**                                             |                         |           |     |           |
+| Peaches                                               | 850                     |           |     | 9-10 pcs. |
+| Sugar                                                 | 200                     |           |     |           |
+|                                                       |                         |           |     |           |
+| **Batter**                                            |                         |           |     |           |
+| [[Sourdough starter types\|Sourdough discard (50%)]]  | 57                      |           |     |           |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]      | 91                      |           |     |           |
+| [[Flours\|Whole wheat flour]]                         | 30                      |           |     |           |
+| Oatmeal (optional)                                    | eyeball                 |           |     |           |
+| Sugar                                                 | 230                     |           |     |           |
+| Ground cinnamon / ginger                              |                         |           |     |           |
+| Salt; fine                                            | 3                       |           |     |           |
+| Baking powder                                         | 14                      |           |     |           |
+| Milk                                                  | 256                     |           |     |           |
+| Butter                                                | 120                     |           |     |           |
+| Vanilla                                               |                         |           |     |           |
+|                                                       |                         |           |     |           |
+| **Overall weight**                                    |                         |           |     |           |
+| **Overall hydration**                                 |                         |           |     |           |
+
 
 
 
@@ -69,13 +71,12 @@ window.onerror = function (message, source, lineno, colno, error) {
 ---
 ## Directions:
 
-1. Mix the eggs, salt, sugar and vanilla in a bowl.
-2. Blend the discard with milk if necessary, add to the egg mixture.
-3. Add olive oil.
-4. Add flour, almond flour and baking soda.
-5. Cover the tray with parchment paper.
-6. Arrange the fruit and cover them with sugar. (Macerate fruit in sugar + lemon zest for 15 minutes for sharper fruit definition.)
-7. Pour the batter over and bake 180C about 30 minutes.
+1. Add the sliced peaches, sugar and salt to a saucepan and stir to combine.
+2. Cook on medium heat for just a few minutes, until the sugar is dissolved and helps to bring out juices from the peaches. Remove from heat and set aside.
+3. Preheat oven to 350 degrees F. Slice butter into pieces and add to a 9x13 inch baking dish. Place the pan in the oven while it preheats, to allow the butter to melt. Once melted, remove the pan from the oven.
+4. In a large bowl mix together the flour, sugar, baking powder, and salt. Stir in the milk, just until combined. Pour the mixture into the pan, over the melted butter and smooth it into an even layer. 
+5. Spoon the peaches and juice (or canned peaches, if using) over the batter. Sprinkle cinnamon/ginger/oatmeal/nuts generously over the top.
+6. Bake at 350 degrees for about 38-40 minutes. Serve warm, with a scoop of ice cream, if desired.
 
 
 ---

@@ -1,14 +1,14 @@
 ---
 tags:
   - sweet
-date: ""
-thumbnail: 
+date: 2025-07-27
+thumbnail: https://lh3.googleusercontent.com/pw/AP1GczNpwjsTHcr4t37M7VbpxlP8OPpfpgVomDbhImTofmxt0xhmgXrGyY5D2VOhrTcCYqF72wRlwyYPLxU5jx7VZTyotHKDiPojQnqUQ3zzbEhHTwysLJ7YVEYShJkWfv2lywECApampj4H6J3ohJ0ocXG1=w1280-h960-s-no-gm?authuser=0
 passive time: 
 active time: 
 yield: 
 nutrition rating: 
 taste rating: 
-credit: []
+credit: 
 part_of_the_set:
 ---
 ```dataviewjs
@@ -29,8 +29,8 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | 1                                                                                                                                                                                                                                    | 2                                                                                                                                                                                                                                    | 3                                                                                                                                                                                                                                    | 4                                                                                                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |
-|                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczOr3BHk_WWMxRwMimo-YTOx9NSdOA7mEA3eOJ4JsE6HwaB8zKIqo3bdO5dIR9CLRCf4iZps26kKGB0BtKGBuYgvruSgIvbdd4JpuLspRQDW3Sm0yWtFosOAScQ7uoaapcce4vxnhigZBpAbZlBPuQfE=w1280-h960-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczOdV0Hw5Wv1hC8dMrtC6pFtG48oQ_VWuToIuBo7M7oy_CcUCeUvbSR3KgxHJ78c5mkPKvYa_oHOAcEi6-fLFE3FU1SuNzfM0DOAMiMR5pmUb3Gt1SDhNoa3LmaKEMnF615NA6MLrigSJkmMUQHfkFCV=w1280-h960-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczNpwjsTHcr4t37M7VbpxlP8OPpfpgVomDbhImTofmxt0xhmgXrGyY5D2VOhrTcCYqF72wRlwyYPLxU5jx7VZTyotHKDiPojQnqUQ3zzbEhHTwysLJ7YVEYShJkWfv2lywECApampj4H6J3ohJ0ocXG1=w1280-h960-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczOccs6Woaluj2376l4mzZEBAjWS39jGAH5TrhxCFmarfNmm8Az526bDykK87WVZv2yjbGeVWj76nO9s9a7spoo241BgGzYtjrnLczELxsx_s9XvErtMwhOVjIaB9VEOyr_R2L5vPIpQSbu4DrVpV8_f=w929-h1239-s-no-gm?authuser=0) |
+| 27.07.2015                                                                                                                                                                                                                           |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |
 
 ## Ingredients
 
@@ -40,37 +40,38 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                                | Quantity, g | Baker's % | %   | Note |
-| --------------------------------------------------------- | ----------- | --------- | --- | ---- |
-| **Ice-cream base**                                        |             |           |     |      |
-| Coconut cream                                             | 1200        |           |     |      |
-| White sugar                                               | 144         |           |     |      |
-| Glucose syrup                                             | 72          |           |     |      |
-| Inverted syrup (or honey)                                 | 72          |           |     |      |
-| Vanilla extract (alcohol based; to prevent freezing)      |             |           |     |      |
-| Salt                                                      | 4           |           |     |      |
-|                                                           |             |           |     |      |
-| **Overall weight**                                        |             |           |     |      |
-|                                                           |             |           |     |      |
-| **Vanilla** (for 1400)                                    |             |           |     |      |
-| Vanilla bean seeds                                        | 1 pc.       |           |     |      |
-|                                                           |             |           |     |      |
-| **Chocolate-tonka flavor** (for 1400)                     |             |           |     |      |
-| Cocoa powder                                              | 48          |           |     |      |
-| Chocolate chips / chopped chocolate                       | 80          |           |     |      |
-| Tonka beans, grated                                       | 5           |           |     |      |
-|                                                           |             |           |     |      |
-| **Banana** (for 1400)                                     |             |           |     |      |
-| Mashed bananas                                            | 2 pcs.      |           |     |      |
-|                                                           |             |           |     |      |
-| **Matcha ice-cream** (for 1400)                           |             |           |     |      |
-| Matcha                                                    | 18          |           |     |      |
-|                                                           |             |           |     |      |
-| **Berry ripple** (for 1400)                               |             |           |     |      |
-| Sweetened fruit puree (just raw fruit blended with sugar) | 100         |           |     |      |
-|                                                           |             |           |     |      |
-| **Pistachio** (for 500)                                   |             |           |     |      |
-| Pistachios (small and big chunks)                         | 75          |           |     |      |
+| Ingredient                                                                                        | Quantity, g | Baker's % | %   | Note |
+| ------------------------------------------------------------------------------------------------- | ----------- | --------- | --- | ---- |
+| **Ice-cream base**                                                                                |             |           |     |      |
+| Coconut cream                                                                                     | 1200        |           |     |      |
+| White sugar                                                                                       | 80          |           |     |      |
+| Glucose syrup                                                                                     | 36          |           |     |      |
+| Inverted syrup (or honey)                                                                         | 36          |           |     |      |
+| Vanilla extract (alcohol based; to prevent freezing)                                              |             |           |     |      |
+| Salt                                                                                              | 4           |           |     |      |
+|                                                                                                   |             |           |     |      |
+| **Overall weight**                                                                                |             |           |     |      |
+|                                                                                                   |             |           |     |      |
+| **Chocolate (lighter version)** (for 220)                                                         |             |           |     |      |
+| Cocoa powder                                                                                      | 14          |           |     |      |
+|                                                                                                   |             |           |     |      |
+| **Chocolate (strciter version)** (for 220)                                                        |             |           |     |      |
+| Cocoa powder                                                                                      | 24          |           |     |      |
+|                                                                                                   |             |           |     |      |
+| **Vanilla** (for 220)                                                                             |             |           |     |      |
+| Vanilla bean seeds                                                                                | 1/5 pc.     |           |     |      |
+|                                                                                                   |             |           |     |      |
+| **Banana** (for 220)                                                                              |             |           |     |      |
+| Mashed bananas                                                                                    | 1/2 pcs.    |           |     |      |
+|                                                                                                   |             |           |     |      |
+| **Matcha ice-cream** (for 200)                                                                    |             |           |     |      |
+| Matcha                                                                                            | 3           |           |     |      |
+|                                                                                                   |             |           |     |      |
+| **Berry ripple** (for 220)                                                                        |             |           |     |      |
+| Sweetened fruit puree (just raw fruit blended with sugar or even just whole fruit / mashed fruit) | 40          |           |     |      |
+|                                                                                                   |             |           |     |      |
+| **Pistachio** (for 200)                                                                           |             |           |     |      |
+| Pistachios (small and big chunks)                                                                 | 30          |           |     |      |
 
 
 
@@ -81,15 +82,14 @@ window.onerror = function (message, source, lineno, colno, error) {
 ### 🔥 STEP 1: MAKE COCONUT SWEETENED CONDENSED MILK
 
 1. In a saucepan, combine:
-    - **300g (half) coconut cream**
-    - **72g (all) white sugar**
+    - **one third coconut cream**
+    - **all white sugar**
 2. Stir well and bring to a gentle simmer over medium-low heat.
-3. Cook uncovered, **stirring often**, (until it's 112-116C).
-4. Let cool completely in the fridge.
+3. Cook uncovered, until it becomes grey and then slightly brown-ish and thick. It is done, chill in the freezer or fridge, but not in a glass if doing so abruptly.
 
 ### 🌀 STEP 2: MAKE ICE CREAM BASE
 
-1. In a blender/stand mixer, combine:
+1. In a bowl, combine:
     - **Your cooled coconut condensed milk**
     - **remaining coconut milk**
     - **glucose syrup**
@@ -97,9 +97,9 @@ window.onerror = function (message, source, lineno, colno, error) {
     - **vanilla extract (optional)**
     - **fine sea salt**
 2. Blend/whip for 30–60 seconds until smooth and emulsified.
-3. Pour the cold base into a **freezer-safe container** (tall is okay).
-- Optional: after 4–5 hours, stir once with a fork or stick blender to break crystals.
+3. Pour into molds with your fav fillings.
 
+HOWEVER, if you want to freeze a big batch of a single flavor, use a plain wide pan and whip again every 30 minutes 2-3 times. Then put it into a final container and freeze overnight.
 
 ---
 ## Nutrition Facts:

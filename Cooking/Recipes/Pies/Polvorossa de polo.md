@@ -5,13 +5,14 @@ tags:
   - long-cooking
   - vegetables
 date: 2025-03-08
-thumbnail: "![](https://lh3.googleusercontent.com/pw/AP1GczMACCn2ick32EFsS_9ScpKgM0FYIW6E3T0vrSbvds4BRaKy5eJLU-FxlrJ4mvSjFpuhZ2ppN0GoPNaE53B6103UCrvfr_saLVAIkJDcYaQdnrecmvqOrEb62tdyHZRa9es84Du1mpb2UqFU2oTZYPYu=w643-h858-s-no-gm?authuser=0)"
+thumbnail: https://lh3.googleusercontent.com/pw/AP1GczMACCn2ick32EFsS_9ScpKgM0FYIW6E3T0vrSbvds4BRaKy5eJLU-FxlrJ4mvSjFpuhZ2ppN0GoPNaE53B6103UCrvfr_saLVAIkJDcYaQdnrecmvqOrEb62tdyHZRa9es84Du1mpb2UqFU2oTZYPYu=w643-h858-s-no-gm?authuser=0
 passive time: 
 active time: 2 h
 yield: 1
 nutrition rating: 
 taste rating: 
-credit: me
+credit:
+  - me
 part_of_the_set:
 ---
 ```dataviewjs
