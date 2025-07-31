@@ -47,14 +47,14 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                                                | Quantity, g | Baker's % | %   | Note |
 | ------------------------------------------------------------------------- | ----------- | --------- | --- | ---- |
-| Water                                                                     | 497         |           |     |      |
+| Water                                                                     | 502         |           |     |      |
 | Water 2                                                                   | 20          |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (50%)]]                      | 100         |           |     |      |
+| [[Sourdough starter types\|Sourdough starter (50%)]]                      | 90          |           |     |      |
 | Sea salt                                                                  | 16          |           |     |      |
-| [[Flours\|Durum Flour (Molino Cosma semolina rimacinata) S3 Pasta Bella]] | 264         |           |     |      |
-| [[Flours\|Wheat flour (HH Manitoba)]]                                     | 148         |           |     |      |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]                          | 150         |           |     |      |
-| [[Flours\|Whole wheat flour (Molino Pordenone)]]                          | 105         |           |     |      |
+| [[Flours\|Durum Flour (Molino Cosma semolina rimacinata) S3 Pasta Bella]] | 267         |           |     |      |
+| [[Flours\|Wheat flour (HH Manitoba)]]                                     | 147         |           |     |      |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]                          | 152         |           |     |      |
+| [[Flours\|Whole wheat flour (Molino Pordenone)]]                          | 106         |           |     |      |
 |                                                                           |             |           |     |      |
 | **Overall hydration**                                                     |             |           |     |      |
 | **Overall weight**                                                        |             |           |     |      |
