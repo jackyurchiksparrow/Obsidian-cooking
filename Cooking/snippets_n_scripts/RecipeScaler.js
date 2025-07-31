@@ -498,8 +498,8 @@ class RecipeScaler {
             if (ingredient_title_lower.contains("sourdough")) {
                 let hydration_match = ingredient_title_lower.match(/(\d+(?:\.\d+)?)\s*%/);
                 sourdough = {
-                    hydration: hydration_match ? parseFloat(hydration_match[1]) : 0,
-                    weight: ingredient_title_lower.contains("dried") ? 0 : (parseFloat(ingredient_qty) || 0)
+                    hydration: ingredient_title_lower.contains("dried") ? 0 : (hydration_match ? parseFloat(hydration_match[1]) : 0),
+                    weight: parseFloat(ingredient_qty) || 0
                 };
             } 
             // Identify flour rows and accumulate total flour weight.
