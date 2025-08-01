@@ -9,7 +9,8 @@ active time:
 yield: 
 nutrition rating: 
 taste rating: 
-credit: 
+credit:
+  - https://www.youtube.com/watch?v=ezpq5m29MeI
 part_of_the_set:
   - "[[Chocolate sauce; chocolate paste]]"
   - "[[Orange marmalade]]"
@@ -39,39 +40,41 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ###### 1
 ###### Scale
-###### 80+160 = 240
+###### 5 * 17 = 85
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                                  | Quantity, g | Baker's % | %   | Note |
-| ----------------------------------------------------------- | ----------- | --------- | --- | ---- |
-| **My previous version**                                     |             |           |     |      |
-| [[Sourdough starter types\|Sourdough discard (50%)]]; dried | 185         |           |     |      |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]            | 300         |           |     |      |
-| Sugar                                                       | 40          |           |     |      |
-| Salt; fine                                                  | 7           |           |     |      |
-| Baking soda (optional)                                      | 5           |           |     |      |
-| Eggs                                                        | 250         |           |     |      |
-| Milk / whey                                                 | 1000        |           |     |      |
-| Butter / olive oil                                          | 55          |           |     |      |
-| Vanilla                                                     |             |           |     |      |
-|                                                             |             |           |     |      |
-| **Overall weight**                                          |             |           |     |      |
-| **Overall hydration**                                       |             |           |     |      |
-|                                                             |             |           |     |      |
-| **Her version**                                             |             |           |     |      |
-| [[Sourdough starter types\|Sourdough discard (100%)]]       | 300         |           |     |      |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]            | 100         |           |     |      |
-| Sugar                                                       | 25          |           |     |      |
-| Salt; fine                                                  | 5           |           |     |      |
-| Baking soda (optional)                                      | 3           |           |     |      |
-| Eggs                                                        | 100         |           |     |      |
-| Milk / whey                                                 | 400         |           |     |      |
-| Butter / olive oil                                          | 40          |           |     |      |
-| Vanilla                                                     |             |           |     |      |
-|                                                             |             |           |     |      |
-| **Overall weight**                                          |             |           |     |      |
-| **Overall hydration**                                       |             |           |     |      |
+| Ingredient                                                  | Quantity, g | Baker's % | %   | Note                     |
+| ----------------------------------------------------------- | ----------- | --------- | --- | ------------------------ |
+| **Batter**                                                  |             |           |     |                          |
+| [[Sourdough starter types\|Sourdough discard (50%)]]; dried | 155         |           |     |                          |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]            | 300         |           |     |                          |
+| Sugar                                                       | 50          |           |     |                          |
+| Salt; fine                                                  | 7           |           |     |                          |
+| Baking soda (optional; if too sour)                         | 5           |           |     |                          |
+| Eggs                                                        | 200         |           |     | 4 pcs.                   |
+| Milk / whey                                                 | 1000        |           |     |                          |
+| Butter / olive oil                                          | 75          |           |     |                          |
+| Vanilla                                                     |             |           |     |                          |
+|                                                             |             |           |     |                          |
+| **Overall weight**                                          |             |           |     |                          |
+| **Overall hydration**                                       |             |           |     |                          |
+|                                                             |             |           |     |                          |
+| **Filling**                                                 |             |           |     |                          |
+| Cottage cheese                                              | 1200        |           |     |                          |
+| Raisins                                                     | 3/4 cup     |           |     |                          |
+| Egg yolks                                                   | 85          |           |     | 5 large / 6 smaller pcs. |
+| Sugar                                                       | 6 tbsp.     |           |     |                          |
+| Salt                                                        |             |           |     |                          |
+| Vanilla                                                     |             |           |     |                          |
+| Butter (for brushing and greasing)                          | 80          |           |     |                          |
+| Fruit (ripe pears, bananas etc.)                            |             |           |     |                          |
+| Chocolate (to taste)                                        |             |           |     |                          |
+|                                                             |             |           |     |                          |
+| **Overall weight**                                          |             |           |     |                          |
+
+
+
 
 
 
@@ -80,21 +83,22 @@ window.onerror = function (message, source, lineno, colno, error) {
 ---
 ## Directions:
 
+### (Optional step - in advance)
+1. Mix milk and 2 tbsp. of vinegar (per 1L).
+2. Heat slowly in a pan with a thick bottom or bain marie (do not boil to preserve the tenderness), mixing until the mixture is separated.
+3. Do not drain yet, cool in the pan (to preserve big pieces), then drain in the cloth. If you tighten the cloth or loosen it - you control the texture of the product. Reserve the whey for nalistniki.
+
 ### Batter
-
-**For thick and fluffy pancakes:** Combine the wet and dry ingredients EXCEPT for the baking powder and baking soda. Whisk well, cover and chill overnight. The next day, sift the powders directly over the bowl and whisk again to combine. **The consistency should be thick-ish, bubbly, and pourable.** Add extra milk, 1 tbsp. at a time, to thin out the texture if needed. Let the batter sit for at least 5 minutes to aerate; it should be nice and bubbly before using. The batter can be used cold. 
-
-> Heat the milk slightly and soak the stiff starter, then homogenize it.
-
-> Be careful! The batter will have risen overnight by ~30%. Keep in mind when choosing a jar/bowl.
-
-**For thin and fluffy pancakes:** Add all of the ingredients together and chill overnight. No need to add the leavening agents separately.
+1. Mix all dry ingredients.
+2. Add the liquid gradually. The consistency should be as a traditional blin batter.
+3. Let it sit for 1-2 hours (optional, but if no time at least 15 min).
+4. Make thin pancakes and stack them as you cook.
 
 ### Cooking
 
-1. Preheat the pan to max and then reduce heat slightly.
-2. Pour the batter into the center. Pour a teaspoon of water on the side. Cover with a lid.
-3. When bubble formation starts stopping and some larger bubbles appear, turn them over. Cook with a lid one more time. Optionally flip back again if seems too soft. Done.
+1. Grease a deep baking tray.
+2. Fill each pancake with 1 tbsp. of filling, place into the tray and brush with butter. 
+3. Bake at 160-170 C for 25 min, cover if needed.
 
 ---
 ## Nutrition Facts:
