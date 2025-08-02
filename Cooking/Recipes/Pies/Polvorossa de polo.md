@@ -4,6 +4,8 @@ tags:
   - shortcrust_pastry
   - long-cooking
   - vegetables
+  - ground_meat
+  - shredded_meat
 date: 2025-03-08
 thumbnail: https://lh3.googleusercontent.com/pw/AP1GczMACCn2ick32EFsS_9ScpKgM0FYIW6E3T0vrSbvds4BRaKy5eJLU-FxlrJ4mvSjFpuhZ2ppN0GoPNaE53B6103UCrvfr_saLVAIkJDcYaQdnrecmvqOrEb62tdyHZRa9es84Du1mpb2UqFU2oTZYPYu=w643-h858-s-no-gm?authuser=0
 passive time: 
@@ -81,7 +83,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Dry red wine                                                 | 200         |     |                                     |
 | Tomatoes passata / tomato juice                              | 300         |     |                                     |
 | Palm sugar (better omit)                                     |             |     | 1 tbsp.                             |
-| Meat / mushrooms                                             |             |     | 1.5 pcs. breasts                    |
+| ground / shredded meat / mushrooms                           |             |     | 1.5 pcs. breasts                    |
 | Raisins; soaked                                              | 100         |     |                                     |
 | Olives                                                       | 30          |     |                                     |
 | Capers / pickles                                             | 150         |     | I always use pickles                |

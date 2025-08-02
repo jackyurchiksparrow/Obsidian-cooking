@@ -5,6 +5,7 @@ tags:
   - nextday
   - shortcrust_pastry
   - vegetables
+  - "#ground_meat"
 date: ""
 thumbnail: 
 passive time: 
@@ -12,7 +13,8 @@ active time:
 yield: 
 nutrition rating: 
 taste rating: 
-credit: https://www.youtube.com/watch?v=RRNVLC6IAv4&t=6s
+credit:
+  - https://www.youtube.com/watch?v=RRNVLC6IAv4&t=6s
 part_of_the_set:
 ---
 ```dataviewjs

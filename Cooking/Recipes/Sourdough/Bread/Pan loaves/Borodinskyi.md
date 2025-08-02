@@ -2,17 +2,17 @@
 tags:
   - "#sourdough"
   - rye
-date: 2025-07-14
-hydration: 65
-bulk fermentation: 6h
-cold retard: 12h
-outcome: properly proofed
-thumbnail: https://lh3.googleusercontent.com/pw/AP1GczPt8f4vFNuny4O7hOdYHcMOoixieXUraTdAPOh6hjT9WmoyUYyn36-zyCUUmEINlwkKGOpqrSWwnVEq0dIyuhdDqgimplP_FKqcSeSwJNKZllKsAsimZizOCdEp8QSg50Wdc7Sml3FZc52X2fsf1Bnv=w929-h1239-s-no-gm?authuser=0
-yield: 1
+date: ""
+hydration: 
+bulk fermentation: 
+cold retard: 
+outcome: 
+thumbnail: 
+yield: 
 nutrition rating: 
 taste rating: 
 credit:
-  - https://www.hlebomoli.ru/blog/100-rzhanoy-hleb-na-zakvaske?srsltid=AfmBOooPrNUA_mQTmQS9R7DwZ1mlJzCE-AH2kwR7Y5rP5at2xqKx1vdY
+  - https://www.instagram.com/p/DMrj4WaoOMG/
 part_of_the_set:
 ---
 ```dataviewjs
@@ -49,9 +49,9 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Pan before cold retard                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Pan before baking                                                                                                                                                                                                                    | Appearance                                                                                                                                                                                                                           | Crumb                                                                                                                                                                                                                                |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | ![](https://lh3.googleusercontent.com/pw/AP1GczORt49VKub2f6I2Hd2W3uWvOo8K0QmGepNEL8MikbasMBd2xVq7gpClPv6LrDZNTeUL_MZwoTbdaDLGgROqNhGUjeJlwml-WqfW2CjxbEFs6Xs4hHOGE2RohEEmIoBQNnzmMyiiLGUnt2hTBLN1zcwQ=w1280-h960-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczPt8f4vFNuny4O7hOdYHcMOoixieXUraTdAPOh6hjT9WmoyUYyn36-zyCUUmEINlwkKGOpqrSWwnVEq0dIyuhdDqgimplP_FKqcSeSwJNKZllKsAsimZizOCdEp8QSg50Wdc7Sml3FZc52X2fsf1Bnv=w929-h1239-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczOLQxZGQ8ueQYV2htthU3f0BWAM9D1jqgi7jCL0GgJfG4tsJvLIxmMZhqb4E5GNXmDeFvYAB1MmTMkZwb-QdVU6qlTv1gON5-9TFazPyQ0pEa8Y9EfbaRY-enarXhGXMzqBlc11CFWzsHLcYSFnbhst=w929-h1239-s-no-gm?authuser=0) |
-| Bulk: 6 hours, then fridge in a bag, water used was pretty hot<br>Starter fed: 0.5 starter, 70 white flour, 10 rye flour, ~65g water, a pinch of malt<br>Retard: 12h<br>Outcome: This loaf is **very well proofed and baked**. Maybe, just **5–10% overproofed** (because of lack of top cracks and very slight settling on top), but it’s within excellent range.<br>Hydration: 70%<br>Dough weight: 700g<br><br>- next time, **feed** with bigger ratio to manage it to be ready **overnight**: 3g starter, 67g water, 40g white flour, 42g rye flour, pinch of malt<br>- reduce hydration to 65% |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |
-| - don't forget to oil the pan, no parchment and don't leave it to cool in the pan, use a silicon spatula to get it out.                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |
 
 ## Ingredients
 
@@ -61,18 +61,25 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                           | Quantity, g | Baker's % | %   | Note                                              |
-| ---------------------------------------------------- | ----------- | --------- | --- | ------------------------------------------------- |
-| Water                                                | 190         |           |     |                                                   |
-| [[Sourdough starter types\|Sourdough starter (80%)]] | 150         |           |     | feed with white and rye flour 50/50, may add malt |
-| Raisins                                              | 34          |           |     |                                                   |
-| Sea salt                                             | 8           |           |     |                                                   |
-| [[Flours\|Rye flour (Ecorod)]]                       | 288         |           |     |                                                   |
-| Spelt flour                                          | 22          |           |     |                                                   |
-| Oil (for greasing; generously)                       |             |           |     |                                                   |
-|                                                      |             |           |     |                                                   |
-| **Overall hydration**                                |             |           |     |                                                   |
-| **Overall weight**                                   |             |           |     |                                                   |
+| Ingredient                                           | Quantity, g         | Baker's % | %   | Note                                              |
+| ---------------------------------------------------- | ------------------- | --------- | --- | ------------------------------------------------- |
+| **Soaker** (3-4 hours / overnight)                   |                     |           |     |                                                   |
+| Dark fermented malt                                  | 27                  |           |     |                                                   |
+| [[Flours\|Rye flour (Ecorod)]]                       | 40                  |           |     |                                                   |
+| Boiling water                                        | 142                 |           |     |                                                   |
+| Ground coriander                                     | 1 tsp. (to taste)   |           |     |                                                   |
+|                                                      |                     |           |     |                                                   |
+| **Main dough**                                       |                     |           |     |                                                   |
+| Water                                                | 58                  |           |     |                                                   |
+| Honey / molasses (optional)                          | 27                  |           |     |                                                   |
+| [[Sourdough starter types\|Sourdough starter (80%)]] | 150                 |           |     | feed with white and rye flour 50/50, may add malt |
+| [[Flours\|Rye flour (Ecorod)]]                       | 246                 |           |     |                                                   |
+| Sea salt                                             | 8                   |           |     |                                                   |
+| Ground coriander                                     | 1/2 tsp. (to taste) |           |     |                                                   |
+| Oil (for greasing; generously)                       |                     |           |     |                                                   |
+|                                                      |                     |           |     |                                                   |
+| **Overall hydration**                                |                     |           |     |                                                   |
+| **Overall weight**                                   |                     |           |     |                                                   |
 
 
 
@@ -81,7 +88,32 @@ window.onerror = function (message, source, lineno, colno, error) {
 ## Directions:
 
 
-[[Sourdough bread making steps]]
+1. Замішування  
+• Змішайте всю закваску, заварку, воду, патоку й сіль.  
+• Додайте житнє борошно та коріандр.  
+• Вимішайте до однорідного густого тіста (житнє тісто не еластичне, не чекайте структури пшеничного).  
+  
+2. Бродіння  
+• Залиште тісто в мисці, змащеній олією, на 2 години при 28–30°C.  
+• Об’єм трохи збільшиться, але не подвоїться.  
+  
+3. Формування  
+• Змоченими руками викладіть тісто у форму для випікання (змащену або вистелену пергаментом).  
+• Змочіть верх водою та посипте подрібненим або цілим коріандром.  
+  
+4. Остаточна ферментація  
+• Залиште тісто у формі ще на 2–3 години при кімнатній температурі або 1,5–2 години при 30°C.  
+• Поверхня має трохи піднятись і стати пружною на дотик.  
+  
+5. Випікання  
+• Піч розігріти до 240°C з парою.  
+• Випікати 10 хв при 240°C з парою, потім зменшити до 200°C і пекти ще 40–45 хв.  
+• За 10 хв до кінця можна дістати хліб із форми, щоб скоринка підрум’янилась.  
+  
+⸻  
+Остудження  
+  
+Обов’язково дайте хлібу повністю охолонути мінімум 12 годин, інакше м’якуш буде липким. Краще — добу.
 
 
 
