@@ -36,6 +36,21 @@ Ingredients:
 2. Add lemon juice, whip on high immediately. !Use stand mixer!
 3. Add vanilla, mix.
 
+## Italian meringue (syrup + egg white; wonderful and crispy when baked or torched; more stable than the Swiss)
+
+- 30g water
+- 117g sugar
+- 65g egg whites
+- 15g lemon juice (optional)
+- 1.5g gelatin (it will help hold it together for longer; just an additional stabilizer; optional)
+
+① Bloom the gelatin in ice-cold water.
+② Make 118℃ sugar syrup by boiling water(30g) and sugar (117g). 
+③ Meanwhile, at the same time, whip the egg white (65g) and sugar (25g) to make a French meringue. 
+④ Pour the sugar syrup into the French meringue and continue to whip. 
+⑤ Melt the lemon juice + gelatin mixture using a microwave and add this in. 
+⑥ Whip until the Italian meringue cools down to room temp. 
+⑦ Store it in the fridge if not used immediately.
 
 ## Agar "Bird's milk" glaze (not too long to cook, soft, stabilizes quickly, top dries quickly, possible to break during a tough transportation)
 

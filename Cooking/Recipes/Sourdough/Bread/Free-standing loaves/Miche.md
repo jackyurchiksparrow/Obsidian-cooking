@@ -46,14 +46,14 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                           | Quantity, g | Baker's % | %   | Note                                        |
 | ---------------------------------------------------- | ----------- | --------- | --- | ------------------------------------------- |
-| Water 1                                              | 490         |           |     |                                             |
-| Water 2                                              | 40          |           |     |                                             |
-| [[Sourdough starter types\|Sourdough starter (50%)]] | 100         |           |     | fed overnight at 9:30 p.m 1:12, ready by 10 |
+| Water 1                                              | 498         |           |     |                                             |
+| Water 2                                              | 20          |           |     |                                             |
+| [[Sourdough starter types\|Sourdough starter (50%)]] | 90          |           |     | fed overnight at 9:30 p.m 1:12, ready by 10 |
 | Sea salt                                             | 15          |           |     |                                             |
-| [[Flours\|Wheat flour (HH Manitoba)]]                | 192         |           |     |                                             |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 202         |           |     |                                             |
-| [[Flours\|Whole wheat flour (Molino Pordenone)]]     | 213         |           |     |                                             |
-| [[Flours\|Whole rye flour (Лавка традицій)]]         | 44          |           |     |                                             |
+| [[Flours\|Wheat flour (HH Manitoba)]]                | 199         |           |     |                                             |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 209         |           |     |                                             |
+| [[Flours\|Whole wheat flour (Molino Pordenone)]]     | 221         |           |     |                                             |
+| [[Flours\|Whole rye flour (Лавка традицій)]]         | 46          |           |     |                                             |
 | [[Malt]]                                             | 2           |           |     |                                             |
 |                                                      |             |           |     |                                             |
 | **Overall hydration**                                |             |           |     |                                             |

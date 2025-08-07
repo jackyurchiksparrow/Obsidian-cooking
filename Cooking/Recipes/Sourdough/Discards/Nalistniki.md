@@ -2,7 +2,7 @@
 tags:
   - sourdough_discard
   - sweet
-date: ""
+date: 2025-08-02
 thumbnail: 
 passive time: 
 active time: 
@@ -31,10 +31,10 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-| 1                                                                                                                                                                                                                                    | 2                                                                                                                                                                                                                                    | 3                                                                                                                                                                                                                                   | 4   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-|                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                     |     |
-|                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                     |     |
+| 1                                                                                                                                                                                                                                                                                                                                                       | 2   | 3   | 4   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- | --- |
+|                                                                                                                                                                                                                                                                                                                                                         |     |     |     |
+| I only head 2 eggs for the filling. No fruit went there. I added some butter, but the filling was dry. So were the pancakes. Consider adding cream before baking or something, also increase amount of fat in the dough (by 5%). More sugar should've gone into raspberries. The pancakes were not sweet as well (sugar 11% -> 18.7%)<br><br>02.08.2025 |     |     |     |
 
 ## Ingredients
 
@@ -44,34 +44,35 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                                  | Quantity, g | Baker's % | %   | Note                     |
-| ----------------------------------------------------------- | ----------- | --------- | --- | ------------------------ |
-| **Batter**                                                  |             |           |     |                          |
-| [[Sourdough starter types\|Sourdough discard (50%)]]; dried | 155         |           |     |                          |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]            | 300         |           |     |                          |
-| Sugar                                                       | 50          |           |     |                          |
-| Salt; fine                                                  | 7           |           |     |                          |
-| Baking soda (optional; if too sour)                         | 5           |           |     |                          |
-| Eggs                                                        | 200         |           |     | 4 pcs.                   |
-| Milk / whey                                                 | 1000        |           |     |                          |
-| Butter / olive oil                                          | 75          |           |     |                          |
-| Vanilla                                                     |             |           |     |                          |
-|                                                             |             |           |     |                          |
-| **Overall weight**                                          |             |           |     |                          |
-| **Overall hydration**                                       |             |           |     |                          |
-|                                                             |             |           |     |                          |
-| **Filling**                                                 |             |           |     |                          |
-| Cottage cheese                                              | 1200        |           |     |                          |
-| Raisins                                                     | 3/4 cup     |           |     |                          |
-| Egg yolks                                                   | 85          |           |     | 5 large / 6 smaller pcs. |
-| Sugar                                                       | 6 tbsp.     |           |     |                          |
-| Salt                                                        |             |           |     |                          |
-| Vanilla                                                     |             |           |     |                          |
-| Butter (for brushing and greasing)                          | 80          |           |     |                          |
-| Fruit (ripe pears, bananas etc.)                            |             |           |     |                          |
-| Chocolate (to taste)                                        |             |           |     |                          |
-|                                                             |             |           |     |                          |
-| **Overall weight**                                          |             |           |     |                          |
+| Ingredient                                                    | Quantity, g | Baker's % | %   | Note                     |
+| ------------------------------------------------------------- | ----------- | --------- | --- | ------------------------ |
+| **Batter**                                                    |             |           |     |                          |
+| [[Sourdough starter types\|Sourdough discard (50%)]]; dried   | 155         |           |     |                          |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]              | 300         |           |     |                          |
+| Sugar                                                         | 85          |           |     |                          |
+| Salt; fine                                                    | 7           |           |     |                          |
+| Baking soda (optional; if too sour)                           | 5           |           |     |                          |
+| Eggs                                                          | 200         |           |     | 4 pcs.                   |
+| Milk / whey                                                   | 1000        |           |     |                          |
+| Butter / olive oil                                            | 90          |           |     |                          |
+| Vanilla                                                       |             |           |     |                          |
+|                                                               |             |           |     |                          |
+| **Overall weight**                                            |             |           |     |                          |
+| **Overall hydration**                                         |             |           |     |                          |
+|                                                               |             |           |     |                          |
+| **Filling**                                                   |             |           |     |                          |
+| Cottage cheese                                                | 1200        |           |     |                          |
+| Raisins                                                       | 3/4 cup     |           |     |                          |
+| Egg yolks                                                     | 85          |           |     | 5 large / 6 smaller pcs. |
+| Sugar                                                         | 6 tbsp.     |           |     |                          |
+| Salt                                                          |             |           |     |                          |
+| Vanilla                                                       |             |           |     |                          |
+| Butter (for brushing and greasing)                            | 80          |           |     |                          |
+| Fruit (ripe pears, bananas etc.)                              |             |           |     |                          |
+| Chocolate (to taste)                                          |             |           |     |                          |
+| If it's not moist enough and no fruit, add sour cream / cream |             |           |     |                          |
+|                                                               |             |           |     |                          |
+| **Overall weight**                                            |             |           |     |                          |
 
 
 
