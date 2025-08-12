@@ -40,7 +40,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ## Ingredients
 
-###### 1
+###### 0.75
 ###### Scale
 ###### 288 + 55 = 343
 ###### Calculate
@@ -112,13 +112,13 @@ window.onerror = function (message, source, lineno, colno, error) {
 |                                                                            |             |     |                                                                                   |
 | **--- Lemon Italian meringue ---**                                         |             |     |                                                                                   |
 | Water (for syrup); just to moisturize the sugar                            |             |     |                                                                                   |
-| Sugar 1 (for syrup)                                                        | 540         |     |                                                                                   |
-| Egg whites                                                                 | 300         |     | 10 pcs.                                                                           |
-| Sugar 2 (for egg whites)                                                   | 116         |     |                                                                                   |
-| Lemon juice (watch the quantity based on taste)                            | 69          |     |                                                                                   |
+| Sugar 1 (for syrup)                                                        | 270         |     |                                                                                   |
+| Egg whites                                                                 | 150         |     | 10 pcs.                                                                           |
+| Sugar 2 (for egg whites)                                                   | 58          |     |                                                                                   |
+| Lemon juice (watch the quantity based on taste)                            | 34          |     |                                                                                   |
 | Salt                                                                       |             |     |                                                                                   |
 | Vanilla                                                                    |             |     |                                                                                   |
-| Gelatin                                                                    | 6           |     | it will help hold it together for longer; just an additional stabilizer; optional |
+| Gelatin                                                                    | 3           |     | it will help hold it together for longer; just an additional stabilizer; optional |
 |                                                                            |             |     |                                                                                   |
 | **Overall weight**                                                         |             |     |                                                                                   |
 |                                                                            |             |     |                                                                                   |
