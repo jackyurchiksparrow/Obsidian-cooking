@@ -4,7 +4,7 @@ tags:
   - blueberries
   - egg_whites
   - lemon
-date: ""
+date: 2025-08-10
 thumbnail: 
 passive time: 
 active time: 
@@ -40,7 +40,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ## Ingredients
 
-###### 1
+###### 0.75
 ###### Scale
 ###### 288 + 55 = 343
 ###### Calculate
@@ -49,8 +49,9 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Ingredient                                                                 | Quantity, g | %   | Note                                                                              |
 | -------------------------------------------------------------------------- | ----------- | --- | --------------------------------------------------------------------------------- |
 | **--- Sponge cake ---**                                                    |             |     |                                                                                   |
-| Flour                                                                      | 240         |     |                                                                                   |
-| Sugar                                                                      | 333         |     |                                                                                   |
+| Flour                                                                      | 210         |     |                                                                                   |
+| Sourdough discard (dried)                                                  | 30          |     |                                                                                   |
+| Sugar                                                                      | 300         |     |                                                                                   |
 | Baking powder                                                              | 1.5 tsp.    |     |                                                                                   |
 | Salt                                                                       | 1/4 tsp.    |     |                                                                                   |
 | Butter; softened                                                           | 170         |     |                                                                                   |
@@ -78,7 +79,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Sugar                                                                      | 60          |     |                                                                                   |
 | Salt                                                                       |             |     |                                                                                   |
 | Blueberry puree                                                            | 338         |     |                                                                                   |
-| Gelatin                                                                    | 10          |     |                                                                                   |
+| Gelatin                                                                    | 8           |     |                                                                                   |
 | Water                                                                      | 50          |     |                                                                                   |
 | Cold butter                                                                | 100         |     |                                                                                   |
 |                                                                            |             |     |                                                                                   |
@@ -86,39 +87,38 @@ window.onerror = function (message, source, lineno, colno, error) {
 |                                                                            |             |     |                                                                                   |
 |                                                                            |             |     |                                                                                   |
 | **--- Lemon Curd ---**                                                     |             |     |                                                                                   |
-| Sugar                                                                      | 200         |     |                                                                                   |
+| Sugar                                                                      | 250         |     |                                                                                   |
 | Lemon zest                                                                 | 11          |     | of 3 lemons                                                                       |
 | Egg yolks                                                                  | 105         |     | 6 large                                                                           |
-| Lemon juice                                                                | 170         |     | 5-6 lemons                                                                        |
-| Salt                                                                       | 1/2 tsp.    |     |                                                                                   |
-| Butter; chilled                                                            | 113         |     |                                                                                   |
+| Lemon juice                                                                | 230         |     | 3 very juicy lemons                                                               |
+| Salt                                                                       |             |     |                                                                                   |
+| Butter; chilled                                                            | 120         |     |                                                                                   |
 | Vanilla                                                                    |             |     |                                                                                   |
 |                                                                            |             |     |                                                                                   |
 | **Overall weight**                                                         |             |     |                                                                                   |
 |                                                                            |             |     |                                                                                   |
 |                                                                            |             |     |                                                                                   |
 | **--- Lemon curd-based lemon mousse ---**                                  |             |     |                                                                                   |
-| Lemon curd                                                                 | 600         |     |                                                                                   |
+| Lemon curd                                                                 | 700         |     |                                                                                   |
 | Coconut cream                                                              | 200         |     |                                                                                   |
-| Mascarpone                                                                 | 250         |     |                                                                                   |
-| Sugar                                                                      | 90          |     |                                                                                   |
+| Mascarpone                                                                 | 500         |     |                                                                                   |
+| Sugar                                                                      | 30          |     |                                                                                   |
 | Salt                                                                       | 2           |     |                                                                                   |
-| Gelatin                                                                    | 8           |     |                                                                                   |
-| Water                                                                      | 40          |     |                                                                                   |
-| Vanilla                                                                    |             |     |                                                                                   |
+| Gelatin                                                                    | 12          |     |                                                                                   |
+| Water                                                                      | 60          |     |                                                                                   |
 | Turmeric (optional; for color)                                             |             |     |                                                                                   |
 |                                                                            |             |     |                                                                                   |
 | **Overall weight**                                                         |             |     |                                                                                   |
 |                                                                            |             |     |                                                                                   |
 | **--- Lemon Italian meringue ---**                                         |             |     |                                                                                   |
 | Water (for syrup); just to moisturize the sugar                            |             |     |                                                                                   |
-| Sugar 1 (for syrup)                                                        | 540         |     |                                                                                   |
-| Egg whites                                                                 | 65          |     | 10 pcs.                                                                           |
-| Sugar 2 (for egg whites)                                                   | 116         |     |                                                                                   |
-| Lemon juice (watch the quantity based on taste)                            | 69          |     |                                                                                   |
+| Sugar 1 (for syrup)                                                        | 270         |     |                                                                                   |
+| Egg whites                                                                 | 150         |     | 10 pcs.                                                                           |
+| Sugar 2 (for egg whites)                                                   | 58          |     |                                                                                   |
+| Lemon juice (watch the quantity based on taste)                            | 34          |     |                                                                                   |
 | Salt                                                                       |             |     |                                                                                   |
 | Vanilla                                                                    |             |     |                                                                                   |
-| Gelatin                                                                    | 6           |     | it will help hold it together for longer; just an additional stabilizer; optional |
+| Gelatin                                                                    | 3           |     | it will help hold it together for longer; just an additional stabilizer; optional |
 |                                                                            |             |     |                                                                                   |
 | **Overall weight**                                                         |             |     |                                                                                   |
 |                                                                            |             |     |                                                                                   |
@@ -144,6 +144,7 @@ Day 1:
 - Blueberry puree.
 - Lemon curd.
 Day 2:
+- Lemon mousse.
 - Italian meringue.
 - Assembling.
 - Isomalt dew drops.
@@ -172,6 +173,35 @@ DO NOT USE ANYTHING METAL IN THIS. SILICON WHISK / WOODEN SPOON. NOTHING METAL /
 ③ Add the gelatin in. 
 ④ Once the lemon curd cools down to 40~45℃ add in the room temp butter and blend.
 
+### Blueberry cremeux:
+- **Bloom gelatin:**  
+    Add 10 g gelatin powder to 50 g cold water. Stir gently and let it bloom for 5–10 minutes.
+- **Warm the purée:**  
+    In a saucepan, gently heat the blueberry purée until warm but not boiling (around 50–60 °C).
+- **Temper egg yolks:**  
+    In a separate bowl, whisk together the egg yolks and sugar until pale and smooth.
+- **Combine and cook:**  
+    Slowly pour about half of the warm blueberry purée into the yolk mixture while whisking constantly (this tempers the yolks, preventing curdling).  
+    Then, return the combined mixture back into the saucepan with the remaining blueberry purée.
+- **Cook custard:**  
+    Cook over low to medium heat, stirring constantly with a spatula or whisk, until the mixture thickens and coats the back of a spoon. Temperature should reach about 82–84 °C (180–183 °F). Do not boil or scramble the eggs!
+- **Add gelatin:**  
+    Remove from heat and immediately whisk in the bloomed gelatin until fully dissolved.
+- **Strain (optional):**  
+    Pass the mixture through a fine sieve into a clean bowl to ensure ultra-smooth texture.
+- **Add butter:**  
+    While the mixture is still warm (around 40–45 °C), whisk in the cold cubed butter piece by piece until fully emulsified and smooth.
+- **Cool down:**  
+    Cover the surface with plastic wrap (touching the surface to prevent skin) and refrigerate until chilled and thickened but still spreadable (4+ hours or overnight).
+### Lemon mousse
+1. **Bloom gelatin**: 10–12 g gelatin in 45–60 g cold water for 5–10 min.
+2. **Warm gelatin**: gently heat (microwave in short bursts or over bain-marie) until gelatin liquefies — don’t boil. Let it cool to ~45–50 °C.
+3. **Blend dairy base**: in a blender, combine **mascarpone + coconut cream + lemon curd + sugar + salt + vanilla**. Blend until silky and homogeneous. Taste and adjust sugar/acid. If the curd is very sharp, add a teaspoon of softened butter or an extra 10–20 g mascarpone (or 10 g sugar) to round it.
+4. **Temper gelatin**: pour a little (2–3 tbsp) of the blended curd mix into the warm gelatin to temper, mix, then fold gelatin back into the main curd mix, whisking gently to combine. The mix should be warm-ish but not hot.
+5. **Chill to thicken**: refrigerate the mix until it **starts to thicken but is still pourable/pipable** — about 20–45 minutes depending on your fridge. You want a consistency like thick custard (not fully set).
+6. **Optional aeration**: to make it lighter, whip **150–200 g** chilled coconut cream to soft peaks and **fold** into the thickened base. This gives mousse loft and makes it pipeable without extra gelatin. If you want denser mousse, skip whipping and use as-is.
+7. **Piping / layering**: fill a piping bag with the mousse. Pipe rings or even layers: since mousse is stabilized with gelatin, it will hold shape. If you want layered piped discs, pipe directly onto chilled cake layers or acetate rings. After piping each layer, chill the cake for 20–30 minutes to firm before adding next layer or applying meringue.
+8. **Set fully**: after assembly, chill entire cake 4–6 hours (overnight preferred) to fully set gelatin.
 ### Isomalt dew drops
 1. Be careful, melt a very small portion of isomalt.
 2. Make small drops on a silicon mat / foil greased with oil.
