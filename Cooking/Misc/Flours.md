@@ -77,3 +77,6 @@ Very coarsely milled. You can strongly sense the taste and presence of it. The b
 ## Durum Flour (Molino Cosma semolina rimacinata) S3 Pasta Bella
 
 ![|500](https://lh3.googleusercontent.com/pw/AP1GczMNMFLjWC5J_-r7rsITse0JxtF8cpvgiXxd9MfycNCCRaKWDMUPd6uTkJwlUNZ5Y1bHBwFn1bsJ8WLFgtlSyDqy4JPMW5jZ2leWlPXDNGzGK_m0hWXymTjG1tPGWMAAg-ZJzccwtRcGz5zaBiqE9Rom=w841-h858-s-no-gm?authuser=0)
+
+## Whole wheat organic (Ecorod)
+Too fine, messes with the structure and openness
