@@ -31,18 +31,19 @@ The most perfect white strong and long-fermentation flour so far. Takes about 8+
 
 ![|500](https://lh3.googleusercontent.com/pw/AP1GczP5FQYmJ3jVEr2cb9eGSeccfTLH5w2ss3iKFZyD7s3FV_hmyMdj1beRy1Ub7ZNs7Yo42SlM_0IE7vGaDhgaHhfOxkyPHnMHm3xCoxYE3bvbaZPF8YULeEQbKHzheXAjElfK6QpdAvT-FKAYx966wfZS=w858-h858-s-no-gm?authuser=0)
 
- 
-|Grain|Wheat|
-|Type|00|
-|Protein|14.00|
-|Energy:|342/|
-|Fats|1.00|
-|Carbohydrates|68.00|
-|Fiber|2.50|
-|Max. hydration|80%|
-|W|400-420|
-|P/L|0.5-0.6|
-|Ferm. Time|~8+ h|
+|                |         |
+| -------------- | ------- |
+| Grain          | Wheat   |
+| Type           | 00      |
+| Protein        | 14.00   |
+| Energy:        | 342/    |
+| Fats           | 1.00    |
+| Carbohydrates  | 68.00   |
+| Fiber          | 2.50    |
+| Max. hydration | 80%     |
+| W              | 400-420 |
+| P/L            | 0.5-0.6 |
+| Ferm. Time     | ~8+ h   |
 
 ## Durum Flour (Molino Cosma semolina rimacinata)
 
