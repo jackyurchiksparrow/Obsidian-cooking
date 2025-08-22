@@ -37,7 +37,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ## Ingredients
 
-###### 0.8
+###### 1
 ###### Scale
 ###### 11.5+3 = 14.5
 ###### Calculate
