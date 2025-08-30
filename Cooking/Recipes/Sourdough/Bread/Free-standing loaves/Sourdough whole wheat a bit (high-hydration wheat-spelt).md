@@ -2,15 +2,16 @@
 tags:
   - "#sourdough"
 date: 2025-08-27
-hydration:
-bulk fermentation:
-cold retard:
-outcome:
-thumbnail:
+hydration: 81
+bulk fermentation: 6h 13min
+cold retard: 12 h
+outcome: underproofed
+thumbnail: https://lh3.googleusercontent.com/pw/AP1GczP3gETZQVhvSYrSK41ZC3v8uZ5kM5VDLHH4_T27TxPqC6PK2LbOrRRl-6vGDUh7767kmzuUvA3C43hKq7TyI0WY5S11tyOI_N5sCwgJsZpsYck3xmHumuep0BjKKruMLUVGdWRQiTGvPuUSXYWq0NNE=w929-h1239-s-no-gm?authuser=0
 yield:
 nutrition rating:
 taste rating:
 credit:
+  - me
 part_of_the_set:
 ---
 ```dataviewjs
@@ -29,10 +30,10 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-| Banneton                                                                                                                                                                                                                             | Scoring                                                                                                                                                                                                                              | Appearance                                                                                                                                                                                                                           | Crumb                                                                                                                                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |
-|                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |
+| Banneton                                                                                                                                                                                                                                                                                                                                                                 | Scoring                                                                                                                                                                                                                              | Appearance                                                                                                                                                                                                                           | Crumb                                                                                                                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczOMjAuUSkvaEbz9nWJBxlEcLAu_Y1PT2oEIzUTYpoPGDJO2WFN-by22g-bYBbB6jzkYmIAmVhBqJxCgH-qotRKSh5coXtg1vpU4HOEm5YyGfcDftuBZZ5pUy6vSqP2cYJ1qEjKG1x9dQNzUoUqXiSNx=w1280-h960-s-no-gm?authuser=0)                                                                                                                                     | ![](https://lh3.googleusercontent.com/pw/AP1GczO-j-yDSM2yKNhq2sB55xbx99MUyHBvpknVCgsiivt1B71Tlqa6KBycfig0bQ3TAahoMoRw7VUG68PyGFEiQGB7Q8efIA0ghk2qdgA4I2HdtKP6EfOme4Qz28d7KokQgPZFXtGg1ZvBPFza1stvY_82=w929-h1239-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczP3gETZQVhvSYrSK41ZC3v8uZ5kM5VDLHH4_T27TxPqC6PK2LbOrRRl-6vGDUh7767kmzuUvA3C43hKq7TyI0WY5S11tyOI_N5sCwgJsZpsYck3xmHumuep0BjKKruMLUVGdWRQiTGvPuUSXYWq0NNE=w929-h1239-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczNE2mlqgm9zZ8yhGnaVkMIWrs97ZkQyD5fOR8-8MeZuyxtPq01Ac8PP47TySXOWEwOLRCDGnEw6aXZ1IGO5jcJ1INUNB-3MqLQ6KydKx-tss0WV9Sz2BmTvPPp5Ga8MqeDmwwvnmZeyheZ0Rr-BJXEl=w1280-h960-s-no-gm?authuser=0) |
+| bulk: 5h preshaped (too soon), 5 20 shaped (looked very underproofed), 6 20 fridge in a bag<br>cold: 14h<br>outcome: underproofed greatly<br>hydration: 81-82%<br><br>- ratio of Manitoba to Zernari is too high: 62.5x19.2% (with 4.7% whole wheat and 5.3% whole spelt), reduce Manitoba<br>- too much water, stay at 77-78% and add more whole wheat flour (~5% more) |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |
 
 
 
@@ -46,14 +47,14 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                           | Quantity, g | Baker's % | %   | Note                                         |
 | ---------------------------------------------------- | ----------- | --------- | --- | -------------------------------------------- |
-| Water                                                | 514         |           |     |                                              |
+| Water                                                | 513         |           |     |                                              |
 | Water 2                                              | 20          |           |     |                                              |
 | [[Sourdough starter types\|Sourdough starter (50%)]] | 90          |           |     | Fed overnight at 8 p.m 1:9., ready by 9 a.m. |
 | Sea salt                                             | 16          |           |     |                                              |
-| [[Flours\|Wheat flour (HH Manitoba)]]                | 450         |           |     |                                              |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 138         |           |     |                                              |
-| [[Flours\|Whole wheat flour (Caputo)]]               | 34          |           |     |                                              |
-| Whole spelt flour                                    | 38          |           |     |                                              |
+| [[Flours\|Wheat flour (HH Manitoba)]]                | 308         |           |     |                                              |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 245         |           |     |                                              |
+| [[Flours\|Whole wheat flour (Caputo)]]               | 54          |           |     |                                              |
+| Whole spelt flour                                    | 54          |           |     |                                              |
 |                                                      |             |           |     |                                              |
 |                                                      |             |           |     |                                              |
 | **Overall hydration**                                |             |           |     |                                              |
