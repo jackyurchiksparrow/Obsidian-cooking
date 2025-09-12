@@ -39,7 +39,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ## Ingredients
 
-###### 2
+###### 1
 ###### Scale
 ###### 490/(683+60) = 0.66
 ###### Calculate
@@ -47,15 +47,15 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                                 | Quantity, g | Baker's % | %   | Note |
 | ---------------------------------------------------------- | ----------- | --------- | --- | ---- |
-| Water                                                      | 482         |           |     |      |
-| Water 2                                                    | 34          |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (50%)]]       | 100         |           |     |      |
-| Honey                                                      | 23          |           |     |      |
+| Water                                                      | 492         |           |     |      |
+| Water 2                                                    | 20          |           |     |      |
+| [[Sourdough starter types\|Sourdough starter (50%)]]       | 90          |           |     |      |
+| Honey                                                      | 24          |           |     |      |
 | Sea salt                                                   | 16          |           |     |      |
-| [[Flours\|Wheat flour (HH Manitoba)]]                      | 217         |           |     |      |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]           | 188         |           |     |      |
-| [[Flours\|Whole rye flour (Лавка традицій or Metro Chef)]] | 174         |           |     |      |
-| [[Flours\|Whole wheat flour (Caputo)]]                     | 66          |           |     |      |
+| [[Flours\|Wheat flour (HH Manitoba)]]                      | 221         |           |     |      |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]           | 192         |           |     |      |
+| [[Flours\|Whole rye flour (Лавка традицій or Metro Chef)]] | 178         |           |     |      |
+| [[Flours\|Whole wheat flour (Caputo)]]                     | 67          |           |     |      |
 |                                                            |             |           |     |      |
 | **Overall hydration**                                      |             |           |     |      |
 | **Overall weight**                                         |             |           |     |      |
