@@ -29,10 +29,10 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
-|     |     |     |
+|                                                                                                                           |     |     |
+| ------------------------------------------------------------------------------------------------------------------------- | --- | --- |
+|                                                                                                                           |     |     |
+| - the dough is too stiff (46%), increase to at least 55%<br>- the butter is too low for a soft dough (5.5%), increase to  |     |     |
 
 > [!Tip] T
 ## Ingredients
@@ -43,28 +43,39 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                           | Quantity, g | Baker's % | %   | Note                                                     |
-| ---------------------------------------------------- | ----------- | --------- | --- | -------------------------------------------------------- |
-| **Dough**                                            |             |           |     |                                                          |
-| [[Sourdough starter types\|Sourdough starter (50%)]] | 200         |           |     | 4g starter : 60g water : 120g white flour (1:31 - ~12h.) |
-| Milk                                                 | 320         |           |     |                                                          |
-| [[Flours\|Whole wheat flour (Molino Pordenone)]]     | 280         |           |     |                                                          |
-| [[Flours\|Bread flour (Zernari) / any bread flour]]  | 600         |           |     |                                                          |
-| Sugar                                                | 50          |           |     |                                                          |
-| Salt                                                 | 15          |           |     |                                                          |
-| Butter                                               | 56          |           |     |                                                          |
-| Eggs                                                 | 100         |           |     | 2 pcs.                                                   |
-|                                                      |             |           |     |                                                          |
-|                                                      |             |           |     |                                                          |
-| **Overall hydration**                                |             |           |     |                                                          |
-| **Overall weight**                                   |             |           |     |                                                          |
-|                                                      |             |           |     |                                                          |
-| **Filling**                                          |             |           |     |                                                          |
-| Brown sugar                                          | 218         |           |     |                                                          |
-| Cinnamon                                             | 16          |           |     |                                                          |
-| Butter                                               | 70          |           |     |                                                          |
-|                                                      |             |           |     |                                                          |
-| **Overall weight**                                   |             |           |     |                                                          |
+| Ingredient                                               | Quantity, g    | Baker's % | %   | Note                                                     |
+| -------------------------------------------------------- | -------------- | --------- | --- | -------------------------------------------------------- |
+| **Dough**                                                |                |           |     |                                                          |
+| [[Sourdough starter types\|Sourdough starter (50%)]]     | 200            |           |     | 4g starter : 60g water : 120g white flour (1:31 - ~12h.) |
+| Milk                                                     | 320            |           |     |                                                          |
+| [[Flours\|Whole wheat flour (Molino Pordenone)]]         | 280            |           |     |                                                          |
+| [[Flours\|Bread flour (Zernari) / any bread flour]]      | 600            |           |     |                                                          |
+| Sugar                                                    | 50             |           |     |                                                          |
+| Salt                                                     | 15             |           |     |                                                          |
+| Butter                                                   | 56             |           |     |                                                          |
+| Eggs                                                     | 100            |           |     | 2 pcs.                                                   |
+|                                                          |                |           |     |                                                          |
+|                                                          |                |           |     |                                                          |
+| **Overall hydration**                                    |                |           |     |                                                          |
+| **Overall weight**                                       |                |           |     |                                                          |
+|                                                          |                |           |     |                                                          |
+| **Filling 1 (whole batch)**                              |                |           |     |                                                          |
+| Brown sugar                                              | 218            |           |     |                                                          |
+| Cinnamon                                                 | 16             |           |     |                                                          |
+| Butter                                                   | 70             |           |     |                                                          |
+|                                                          |                |           |     |                                                          |
+| **Overall weight**                                       |                |           |     |                                                          |
+|                                                          |                |           |     |                                                          |
+|                                                          |                |           |     |                                                          |
+| **Filling 2 (whole batch)**                              |                |           |     |                                                          |
+| Sugar; caramelized                                       | 150            |           |     |                                                          |
+| Orange juice                                             | from 1 orange  |           |     |                                                          |
+| Lemon juice                                              | a squeeze      |           |     |                                                          |
+| Salt                                                     |                |           |     |                                                          |
+| Skin-on diced apples + cinnamon                          | 850            |           |     |                                                          |
+| (Optional) berries: currants, blueberry, strawberry etc. | 2 big handfuls |           |     |                                                          |
+|                                                          |                |           |     |                                                          |
+| **Overall weight**                                       |                |           |     |                                                          |
 
 
 
