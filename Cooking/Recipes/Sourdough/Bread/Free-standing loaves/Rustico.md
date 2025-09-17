@@ -46,14 +46,15 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                           | Quantity, g | Baker's % | %   | Note                                                |
 | ---------------------------------------------------- | ----------- | --------- | --- | --------------------------------------------------- |
-| Water                                                | 510         |           |     |                                                     |
-| [[Sourdough starter types\|Sourdough starter (60%)]] | 90          |           |     |                                                     |
-| Sea salt                                             | 15          |           |     |                                                     |
-| [[Flours\|Wheat flour (HH Manitoba)]]                | 240         |           |     |                                                     |
-| [[Flours\|Bread flour (Zernari) / any bread flour]]  | 253         |           |     |                                                     |
-| [[Flours\|Whole spelt flour (organic)]]              | 142         |           |     |                                                     |
+| Water                                                | 400         |           |     |                                                     |
+| Water 2                                              | 20          |           |     |                                                     |
+| [[Sourdough starter types\|Sourdough starter (50%)]] | 90          |           |     |                                                     |
+| Sea salt                                             | 13          |           |     |                                                     |
+| [[Flours\|Wheat flour (HH Manitoba)]]                | 200         |           |     |                                                     |
+| [[Flours\|Bread flour (Zernari) / any bread flour]]  | 212         |           |     |                                                     |
+| [[Flours\|Whole spelt flour (organic)]]              | 119         |           |     |                                                     |
 | [[Malt]]                                             | 1           |           |     |                                                     |
-| Flax seed                                            | 45          |           |     | covered with water just until it barely covers them |
+| Flax seed                                            | 30          |           |     | covered with water just until it barely covers them |
 | Cranberries                                          | 15          |           |     |                                                     |
 |                                                      |             |           |     |                                                     |
 | **Overall hydration**                                |             |           |     |                                                     |
