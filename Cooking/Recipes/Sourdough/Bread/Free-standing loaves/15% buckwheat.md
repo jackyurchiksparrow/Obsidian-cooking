@@ -40,7 +40,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ## Ingredients
 
-###### 1
+###### 0.83
 ###### Scale
 ###### 322+89 = 411
 ###### Calculate
@@ -48,6 +48,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                           | Quantity, g | Baker's % | %   | Note |
 | ---------------------------------------------------- | ----------- | --------- | --- | ---- |
+| **1.3 kg**                                           |             |           |     |      |
 | Water                                                | 545         |           |     |      |
 | Water 2                                              | 25          |           |     |      |
 | [[Sourdough starter types\|Sourdough starter (50%)]] | 90          |           |     |      |
@@ -56,6 +57,20 @@ window.onerror = function (message, source, lineno, colno, error) {
 | [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 210         |           |     |      |
 | [[Flours\|Whole wheat flour (Caputo)]]               | 60          |           |     |      |
 | [[Flours\|Whole buckwheat flour]]                    | 103         |           |     |      |
+| [[Malt]]                                             | 2           |           |     |      |
+|                                                      |             |           |     |      |
+| **Overall hydration**                                |             |           |     |      |
+| **Overall weight**                                   |             |           |     |      |
+|                                                      |             |           |     |      |
+| **1.1kg**                                            |             |           |     |      |
+| Water                                                | 456         |           |     |      |
+| Water 2                                              | 21          |           |     |      |
+| [[Sourdough starter types\|Sourdough starter (50%)]] | 90          |           |     |      |
+| Sea salt                                             | 13          |           |     |      |
+| [[Flours\|Wheat flour (HH Manitoba)]]                | 208         |           |     |      |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 174         |           |     |      |
+| [[Flours\|Whole wheat flour (Caputo)]]               | 50          |           |     |      |
+| [[Flours\|Whole buckwheat flour]]                    | 86          |           |     |      |
 | [[Malt]]                                             | 2           |           |     |      |
 |                                                      |             |           |     |      |
 | **Overall hydration**                                |             |           |     |      |

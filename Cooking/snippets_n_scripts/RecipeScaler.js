@@ -506,6 +506,7 @@ class RecipeScaler {
             else if (RecipeScaler.ING_TBL_FLOUR_KEYS.some(val => ingredient_title_lower.contains(val))) {
                 if (!isNaN(ingredient_qty) && ingredient_qty != null && ingredient_qty !== '') {
                     flour_weight += parseFloat(ingredient_qty);
+                    console.log("flour_weight after considering", ingredient_title_lower, "=",flour_weight)
                 }
             } 
             // Identify water rows and accumulate total water weight.
@@ -515,6 +516,7 @@ class RecipeScaler {
                 if (matchingKey) {
                     const waterPercentage = RecipeScaler.ING_TBL_WATER_KEYS[matchingKey] / 100;
                     water_weight += (parseFloat(ingredient_qty) || 0) * waterPercentage;
+                    console.log("water_weight after considering", ingredient_title_lower, "=",water_weight)
                 }
             }
 
@@ -542,7 +544,8 @@ class RecipeScaler {
                 let dough_hydration = 0;
     
                 // Adjust for sourdough components if present.
-                if (sourdough) {
+                if (sourdough && sourdough.hydration != 100) {
+                    console.log(sourdough)
                     let levain_flour_parts = 100 / sourdough.hydration;
                     let levain_water_amount = sourdough.weight / (levain_flour_parts + 1);
                     let levain_flour_amount = sourdough.weight - levain_water_amount;
@@ -554,7 +557,7 @@ class RecipeScaler {
                     dough_hydration = flour_weight > 0 ? (water_weight / flour_weight) * 100 : 0;
                 }
 
-                console.log("Flour weight = ", flour_weight);
+                console.log("Flour weight after considering levain = ", flour_weight);
                 ingr_quanties.map(qty => console.log(`${qty}/${flour_weight}`));
     
                 // Store calculated data for the section.

@@ -45,20 +45,45 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                                 | Quantity, g | Baker's % | %   | Note |
-| ---------------------------------------------------------- | ----------- | --------- | --- | ---- |
-| Water                                                      | 492         |           |     |      |
-| Water 2                                                    | 20          |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (50%)]]       | 90          |           |     |      |
-| Honey                                                      | 24          |           |     |      |
-| Sea salt                                                   | 16          |           |     |      |
-| [[Flours\|Wheat flour (HH Manitoba)]]                      | 221         |           |     |      |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]           | 192         |           |     |      |
-| [[Flours\|Whole rye flour (Лавка традицій or Metro Chef)]] | 178         |           |     |      |
-| [[Flours\|Whole wheat flour (Caputo)]]                     | 67          |           |     |      |
-|                                                            |             |           |     |      |
-| **Overall hydration**                                      |             |           |     |      |
-| **Overall weight**                                         |             |           |     |      |
+| Ingredient                                                 | Quantity, g | Baker's % | %   | Note                                                                |
+| ---------------------------------------------------------- | ----------- | --------- | --- | ------------------------------------------------------------------- |
+| Water                                                      | 492         |           |     |                                                                     |
+| Water 2                                                    | 20          |           |     |                                                                     |
+| [[Sourdough starter types\|Sourdough starter (50%)]]       | 90          |           |     |                                                                     |
+| Honey                                                      | 24          |           |     |                                                                     |
+| Sea salt                                                   | 16          |           |     |                                                                     |
+| [[Flours\|Wheat flour (HH Manitoba)]]                      | 221         |           |     |                                                                     |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]           | 192         |           |     |                                                                     |
+| [[Flours\|Whole rye flour]]                                | 178         |           |     |                                                                     |
+| [[Flours\|Whole wheat flour (Caputo)]]                     | 67          |           |     |                                                                     |
+|                                                            |             |           |     |                                                                     |
+| **Overall hydration**                                      |             |           |     |                                                                     |
+| **Overall weight**                                         |             |           |     |                                                                     |
+|                                                            |             |           |     |                                                                     |
+| Water                                                      | 384         |           |     |                                                                     |
+| Water 2                                                    | 20          |           |     |                                                                     |
+| [[Sourdough starter types\|Sourdough starter; rye (100%)]] | 110         |           |     | hoping for 12h: 10pm 10g starter : 50g rye flour : 50g water        |
+| Honey                                                      | 20          |           |     |                                                                     |
+| Sea salt                                                   | 13          |           |     |                                                                     |
+| [[Flours\|Wheat flour (HH Manitoba)]]                      | 186         |           |     |                                                                     |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]           | 161         |           |     |                                                                     |
+| [[Flours\|Whole rye flour (Ecorod)]]                       | 150         |           |     |                                                                     |
+| [[Flours\|Whole wheat flour (Ecorod)]]                     | 56          |           |     |                                                                     |
+|                                                            |             |           |     |                                                                     |
+| **Overall hydration**                                      |             |           |     |                                                                     |
+| **Overall weight**                                         |             |           |     |                                                                     |
+|                                                            |             |           |     |                                                                     |
+| Water                                                      | 357         |           |     |                                                                     |
+| Water 2                                                    | 40          |           |     |                                                                     |
+| [[Sourdough starter types\|Sourdough starter; rye (100%)]] | 156         |           |     | hoping for 12h (10 p.m.)<br>14g starter : 71g rye flour : 71g water |
+| Honey                                                      | 25          |           |     |                                                                     |
+| Sea salt                                                   | 13          |           |     |                                                                     |
+| [[Flours\|00 Flour (10% protein)]]                         | 319         |           |     |                                                                     |
+| [[Flours\|Whole rye flour (Ecorod)]]                       | 138         |           |     |                                                                     |
+| [[Flours\|Whole wheat flour (Ecorod)]]                     | 52          |           |     |                                                                     |
+|                                                            |             |           |     |                                                                     |
+| **Overall hydration**                                      |             |           |     |                                                                     |
+| **Overall weight**                                         |             |           |     |                                                                     |
 
 
 
