@@ -55,27 +55,41 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ## Ingredients
 
-###### 1
+###### 2
 ###### Scale
 ###### 26.8+50.2 = 77
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                            | Quantity, g | Baker's % | %   | Note                           |
-| ----------------------------------------------------- | ----------- | --------- | --- | ------------------------------ |
-| **Main dough**                                        |             |           |     |                                |
-| Water 1                                               | 175         |           |     |                                |
-| Water 2                                               | 25          |           |     |                                |
-| Honey / molasses (optional)                           | 20          |           |     |                                |
-| [[Sourdough starter types\|Sourdough starter (100%)]] | 35          |           |     | 8 starter: 16 flour : 16 water |
-| [[Flours\|Rye flour (Ecorod)]]                        | 123         |           |     |                                |
-| [[Flours\|Bread flour (Zernari) / any bread flour]]   | 123         |           |     |                                |
-| Sea salt                                              | 8           |           |     |                                |
-| Ground coriander                                      | 1 tsp.      |           |     |                                |
-| Oil (for greasing; generously)                        |             |           |     |                                |
-|                                                       |             |           |     |                                |
-| **Overall hydration**                                 |             |           |     |                                |
-| **Overall weight**                                    |             |           |     |                                |
+| Ingredient                                            | Quantity, g              | Baker's % | %   | Note                            |
+| ----------------------------------------------------- | ------------------------ | --------- | --- | ------------------------------- |
+| **Main dough** (smallest aluminum mold)               |                          |           |     |                                 |
+| Water 1                                               | 175                      |           |     |                                 |
+| Water 2                                               | 25                       |           |     |                                 |
+| Honey / molasses (optional)                           | 20                       |           |     |                                 |
+| [[Sourdough starter types\|Sourdough starter (100%)]] | 35                       |           |     | 8 starter: 16 flour : 16 water  |
+| [[Flours\|Rye flour (Ecorod)]]                        | 123                      |           |     |                                 |
+| [[Flours\|Bread flour (Zernari) / any bread flour]]   | 123                      |           |     |                                 |
+| Sea salt                                              | 8                        |           |     |                                 |
+| Ground coriander                                      | 1.25 tsp. of whole seeds |           |     |                                 |
+| Oil (for greasing; generously; the top rim as well)   |                          |           |     |                                 |
+|                                                       |                          |           |     |                                 |
+| **Overall hydration**                                 |                          |           |     |                                 |
+| **Overall weight**                                    |                          |           |     |                                 |
+|                                                       |                          |           |     |                                 |
+| **Main dough** (bigger aluminum mold)                 |                          |           |     |                                 |
+| Water 1                                               | 380                      |           |     |                                 |
+| Water 2                                               | 20                       |           |     |                                 |
+| Honey / molasses (optional)                           | 40                       |           |     |                                 |
+| [[Sourdough starter types\|Sourdough starter (100%)]] | 70                       |           |     | 16 starter: 32 flour : 32 water |
+| [[Flours\|Rye flour (Ecorod)]]                        | 246                      |           |     |                                 |
+| [[Flours\|Bread flour (Zernari) / any bread flour]]   | 246                      |           |     |                                 |
+| Sea salt                                              | 16                       |           |     |                                 |
+| Ground coriander                                      | 2 tsp. of whole seeds    |           |     |                                 |
+| Oil (for greasing; generously; the top rim as well)   |                          |           |     |                                 |
+|                                                       |                          |           |     |                                 |
+| **Overall hydration**                                 |                          |           |     |                                 |
+| **Overall weight**                                    |                          |           |     |                                 |
 
 
 

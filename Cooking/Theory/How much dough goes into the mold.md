@@ -2,7 +2,7 @@
 - **Light and airy doughs (like Panettone)** $\Huge \approx 0.387 g/cm^3$ (not really tested; supposed to be less than for Kulich I guess)
 - **Medium-density doughs (like Kulich)**  $\Huge \approx 0.372 g/cm^3$ (tested; confirmed)
 - **Denser doughs (like Brioche)** $\Huge \approx 0.42 g/cm^3$ (not really tested)
-- **Pan loaves (white bread)** $\Huge \approx 0.678 g/cm^3$ (not tested)
+- **Pan loaves (white bread)** $\Huge \approx 0.384 g/cm^3$ (roughly tested)
 - **Pan loaves (dense; i.e., rye bread)** $\Huge \approx 0.511 g/cm^3$ (not tested)
 
 ## Regular shape pans: The formulas
