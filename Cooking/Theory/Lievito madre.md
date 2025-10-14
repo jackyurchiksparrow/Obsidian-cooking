@@ -38,7 +38,7 @@ Choose the hydration (30-50%). Better use 50% for tying. It dries out a lot. You
 - Let ferment at **24°C** for 24h in room-temp water 3 times the volume of the LM, feed regularly
 - Feeding formula example: 20g starter : 20g high-protein flour : 6g water (30C) **If** it takes too fast to start collapsing in 24 h, consider switching to 10g starter : 20 g high-protein flour : 6g water (26C)
 
-### The day of kneading
+### The day of kneading Panettone
 #### 1. Bathing (bagnetto); optional, but highly recommended on the day of kneading
 
 **If your LM smells too sour** (like vinegar or sharp acidity), **or if it rises very slowly**, any other issues with it, then it’s time for a bath. This could happen if there’s too much **acetic acid** building up. It is also a good idea to bathe it before warm feeding right before you make [[Panettone (fruit version)|Panettone]]. The idea is that by submerging LM in **cool, lightly sweetened water**, yeast will be refreshed and excess acidity will be removed into the water. This helps maintain a balanced microbial environment and strengthens LM for optimal fermentation.
@@ -57,3 +57,34 @@ Sticking to the recipe, perform the feedings. Despite of the method you use for 
 
 > If the acidity is higher (**e.x. 5**), it means the starter is too alkali (not acidic enough), the fermentation is not active enough, too weak.
 > If the acidity is too low (**e.x. 3.7**), it means the starter is too acidic, the balance of bacteria is off and the starter is not ready for Panettone.
+
+
+### Feed ratios and peaking
+
+Do not use high ratios, you will harm the microbial balance. The acidity will have been accumulated significantly.
+
+### ✅ At **1:2 (or 1:3)**
+
+Standard for maintenance and levain. Optimal amount of food, optimal balance. Fast peak.
+
+- You _dilute_ the starter more → microbes have to multiply before acid and gas accumulate.
+- That **takes time**: the yeast population builds steadily, producing a gentle, even rise.
+- Peak (tripling) usually happens **in 4–5 hours** at 26 °C for a strong LM.
+- Acidity stays moderate (pH ~4.2–4.4).
+
+So yes — this is your **true peak**: maximum yeast expansion, balanced aroma, sweet smell.
+
+### ✅ At **1:1 (or smaller ratio)**
+
+Used in consecutive panettone feedings to feed the yeast and prevent peaking (which happens LONGER that a 1:2 because there is more competition for food) not to accumulate the acidity.
+
+- You feed much less flour → you’re starting with a _heavier inoculation_ (many more microbes in less food).    
+- That means the pH drops _faster_, fermentation becomes more intense early, but **food is exhausted sooner**.
+- It _looks_ fast initially, but the dough plateaus earlier and would acidify if left as long.
+
+In other words:
+
+> 1:1 rises quickly at the start but **peaks earlier** and then collapses faster.  
+> 1:2 or 1:3 take longer to reach the top but hold that peak beautifully.
+
+So **it’s the opposite of what intuition suggests** — lower ratio = faster start, shorter total life; higher ratio = slower start, longer stable peak.

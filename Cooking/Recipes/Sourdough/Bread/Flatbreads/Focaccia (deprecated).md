@@ -2,15 +2,15 @@
 tags:
   - "#sourdough"
   - flatbread
-date:
-hydration:
-bulk fermentation:
-cold retard:
-outcome:
-thumbnail:
-yield:
-nutrition rating:
-taste rating:
+date: 2025-06-08
+hydration: 75.8
+bulk fermentation: 5 h 45 min
+cold retard: 40h
+outcome: properly proofed
+thumbnail: https://lh3.googleusercontent.com/pw/AP1GczNqiVqoO6csdnS7FykgtaLH31IWUMxV9MAJQN6j8I0t-eTbyZ0nAGksMFN74G_AeclAQNioUL7EEfjvXPa_G_miq0VikUygUkj4shG_9jbZoNvUc15rjuYxMbHmW4ytdiLeFMKGLMvgnagBhPsH8kck=w929-h1239-s-no-gm?authuser=0
+yield: 
+nutrition rating: 
+taste rating: 
 credit:
   - Perfect loaf book
 part_of_the_set:
@@ -31,10 +31,11 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-|                                                      |     |     |     |
-| ---------------------------------------------------- | --- | --- | --- |
-|                                                      |     |     |     |
-| Bulk: <br>Cold: <br>Outcome: <br>Hydration: <br><br> |     |     |     |
+|                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczOlugRuj1KqE64jKUTPMedeAhTJVWSbkvveQqbMAJIzRUsf1RmJJPKbAWo4uHpcOL-VIABed5NHXM6pZhYDZb2pGjudoeT5JlisVNhawcfD4LBLXTLhFVQqEyjhRZBtZEN51NKpkys2MIiPdiCeAG6c=w1280-h960-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczMaLNQPrm_VKvYUlFhvfFs7VsVJ0bjuB3ICD5BkrLJA6YvMPNML8lxx_tvkDEmGxfsZGX-Rl7fFw6LS5d-X9fg-4H0jjvFCkQaWdW9FF8lnYmsRxz9KdK6OQxMt7IaEYUmELCWUAo_r2mKsbcy8SdNB=w1280-h960-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczMepKPbVxX8fAjqy0vi3OuZ_3kwsOKx_Tojyv1fjmaUNIxlWn9oh_OdnE8Wue0eqDro661YZ5zk8XttJmN25ENssyzqf3XPR1nKzXXmNsAjODTeViF9ZuxlS9K3YQ4qYEOTMWkVqGMTe-tyGAVY_o1a=w1280-h960-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczNqiVqoO6csdnS7FykgtaLH31IWUMxV9MAJQN6j8I0t-eTbyZ0nAGksMFN74G_AeclAQNioUL7EEfjvXPa_G_miq0VikUygUkj4shG_9jbZoNvUc15rjuYxMbHmW4ytdiLeFMKGLMvgnagBhPsH8kck=w929-h1239-s-no-gm?authuser=0) |
+|                                                                                                                                                                                                                                      | ![](https://lh3.googleusercontent.com/pw/AP1GczNRyGgsB-E1ZXczV26IH4GqnhdUltz5Gll8CbVzz4lRvPFFsmojHa31bDjSffIU8ZQpYG2l_csMvNQvjsFmlDrtZ1hYWu_QA4im0gKFimWj-nRMjEzi5dwVUFsxsFnetSVAIcL24iEPZ2rwAyJRxyTP=w1280-h960-s-no-gm?authuser=0) | fridge for 2 days                                                                                                                                                                                                                    | ![](https://lh3.googleusercontent.com/pw/AP1GczNskXusqkQi5Tg9AK9z9yXB9jttcGMmYFdCrvkPcC9OtDwMzJBhaHs8IPHm8P2n59Q2flk1tRnNdkTlLyg1zQa1ZlRNNzi_L2ivpaOdW1o6OCZYHgJVKyjexzs1BOZ4PQXWh1V_I4Nv0PeAmOp66zzH=w929-h1239-s-no-gm?authuser=0) |
+| Bulk: 5h put in the pan, 5h 30min added greens, salt, oil, 5h 45min fridge<br>Cold: 40h<br>Outcome: properly proofed<br>Hydration: 72%<br><br>08.07.2026                                                                             |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |
 
 
 
@@ -49,20 +50,20 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                             | Quantity, g | Baker's % | %   | Note |
 | ------------------------------------------------------ | ----------- | --------- | --- | ---- |
-| **Dough**                                              |             |           |     |      |
+| <h3 style="color:#00ff13;">Dough</h3>                  |             |           |     |      |
 | Water                                                  | 510         |           |     |      |
 | Water 2                                                | 25          |           |     |      |
 | [[Sourdough starter types\|Sourdough starter (50%)]]   | 100         |           |     |      |
 | Sea salt                                               | 13          |           |     |      |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]       | 660         |           |     |      |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]       | 444         |           |     |      |
+| [[Flours\|Wheat flour (HH Manitoba)]]                  | 216         |           |     |      |
 | [[Flours\|Le Farine del Molino Cosma Integrale flour]] | 62          |           |     |      |
-| Honey                                                  | 30          |           |     |      |
 | Olive oil                                              |             |           |     |      |
 |                                                        |             |           |     |      |
 | **Overall hydration**                                  |             |           |     |      |
 | **Overall weight**                                     |             |           |     |      |
 |                                                        |             |           |     |      |
-| **Toppings (savory)**                                  |             |           |     |      |
+| **Toppings**                                           |             |           |     |      |
 | Cherry tomatoes; sliced in half                        | 400         |           |     |      |
 | Olives                                                 |             |           |     |      |
 | Olive oil                                              |             |           |     |      |
@@ -70,19 +71,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Salt                                                   | 5           |           |     |      |
 | Rosemary                                               |             |           |     |      |
 |                                                        |             |           |     |      |
-| **Overall hydration**                                  |             |           |     |      |
 | **Overall weight**                                     |             |           |     |      |
-|                                                        |             |           |     |      |
-| **Topping (sweet)**                                    |             |           |     |      |
-| Apples; peeled                                         | 7 pcs.      |           |     |      |
-| Sugar                                                  | 100         |           |     |      |
-| Cinnamon                                               |             |           |     |      |
-| Lemon juice                                            |             |           |     |      |
-| Sugar (for icing if using)                             | 150         |           |     |      |
-| Butter; melted (for icing if using)                    | 22          |           |     |      |
-| Milk (for icing, if using)                             | 15          |           |     |      |
-| Salt                                                   |             |           |     |      |
-
 
 
 
