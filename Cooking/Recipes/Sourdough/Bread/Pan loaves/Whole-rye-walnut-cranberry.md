@@ -46,34 +46,34 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                            | Quantity, g              | Baker's % | %   | Note                            |
-| ----------------------------------------------------- | ------------------------ | --------- | --- | ------------------------------- |
-| **Main dough** (smallest aluminum mold)               |                          |           |     |                                 |
-| Water 1                                               | 155                      |           |     |                                 |
-| Water 2                                               | 25                       |           |     |                                 |
-| Honey / molasses (optional)                           | 20                       |           |     |                                 |
-| [[Sourdough starter types\|Sourdough starter (100%)]] | 35                       |           |     | 8 starter: 16 flour : 16 water  |
-| [[Flours\|Rye flour (Ecorod)]]                        | 123                      |           |     |                                 |
-| [[Flours\|Bread flour (Zernari) / any bread flour]]   | 123                      |           |     |                                 |
-| Sea salt                                              | 8                        |           |     |                                 |
-| Ground coriander                                      | 1.25 tsp. of whole seeds |           |     |                                 |
-| Oil (for greasing; generously; the top rim as well)   |                          |           |     |                                 |
-|                                                       |                          |           |     |                                 |
-| **Overall hydration**                                 |                          |           |     |                                 |
-| **Overall weight**                                    |                          |           |     |                                 |
-|                                                       |                          |           |     |                                 |
-| **Main dough** (bigger aluminum mold)                 |                          |           |     |                                 |
-| Water 1                                               | 440                      |           |     |                                 |
-| Water 2                                               | 20                       |           |     |                                 |
-| Honey / molasses (optional)                           | 15                       |           |     |                                 |
-| [[Sourdough starter types\|Sourdough starter (100%)]] | 230                      |           |     | 48 starter: 96 flour : 96 water |
-| [[Flours\|Whole rye flour (Ecorod)]]                  | 385                      |           |     |                                 |
-| Sea salt                                              | 8                        |           |     |                                 |
-| Ground coriander / anise / fennel / caraway           | 3                        |           |     |                                 |
-| Walnuts/cranberries                                   | 150                      |           |     |                                 |
-|                                                       |                          |           |     |                                 |
-| **Overall hydration**                                 |                          |           |     |                                 |
-| **Overall weight**                                    |                          |           |     |                                 |
+| Ingredient                                            | Quantity, g | Baker's % | %   | Note                            |
+| ----------------------------------------------------- | ----------- | --------- | --- | ------------------------------- |
+|                                                       |             |           |     |                                 |
+|                                                       |             |           |     |                                 |
+|                                                       |             |           |     |                                 |
+|                                                       |             |           |     |                                 |
+|                                                       |             |           |     |                                 |
+|                                                       |             |           |     |                                 |
+|                                                       |             |           |     |                                 |
+|                                                       |             |           |     |                                 |
+|                                                       |             |           |     |                                 |
+|                                                       |             |           |     |                                 |
+|                                                       |             |           |     |                                 |
+|                                                       |             |           |     |                                 |
+|                                                       |             |           |     |                                 |
+|                                                       |             |           |     |                                 |
+| **Main dough** (bigger aluminum mold)                 |             |           |     |                                 |
+| Water 1                                               | 440         |           |     |                                 |
+| Water 2                                               | 20          |           |     |                                 |
+| Honey / molasses (optional)                           | 15          |           |     |                                 |
+| [[Sourdough starter types\|Sourdough starter (100%)]] | 230         |           |     | 48 starter: 96 flour : 96 water |
+| [[Flours\|Whole rye flour (Ecorod)]]                  | 385         |           |     |                                 |
+| Sea salt                                              | 8           |           |     |                                 |
+| Ground coriander / anise / fennel / caraway           | 3           |           |     |                                 |
+| Walnuts/cranberries                                   | 150         |           |     |                                 |
+|                                                       |             |           |     |                                 |
+| **Overall hydration**                                 |             |           |     |                                 |
+| **Overall weight**                                    |             |           |     |                                 |
 
 
 

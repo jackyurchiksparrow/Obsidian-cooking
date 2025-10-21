@@ -47,13 +47,13 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                           | Quantity, g | Baker's % | %   | Note                                         |
 | ---------------------------------------------------- | ----------- | --------- | --- | -------------------------------------------- |
-| Water                                                | 492         |           |     |                                              |
+| Water                                                | 400         |           |     |                                              |
 | Water 2                                              | 20          |           |     |                                              |
-| [[Sourdough starter types\|Sourdough starter (50%)]] | 90          |           |     | Fed overnight at 8 p.m 1:9., ready by 9 a.m. |
-| Sea salt                                             | 16          |           |     |                                              |
-| [[Flours\|Wheat flour (HH Manitoba)]]                | 248         |           |     |                                              |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 360         |           |     |                                              |
-| [[Flours\|Whole wheat flour (Caputo)]]               | 74          |           |     |                                              |
+| [[Sourdough starter types\|Sourdough starter (50%)]] | 120         |           |     | Fed overnight at 8 p.m 1:9., ready by 9 a.m. |
+| Sea salt                                             | 14          |           |     |                                              |
+| [[Flours\|Wheat flour (HH Manitoba)]]                | 211         |           |     |                                              |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 306         |           |     |                                              |
+| [[Flours\|Whole wheat flour (Caputo)]]               | 63          |           |     |                                              |
 |                                                      |             |           |     |                                              |
 | **Overall hydration**                                |             |           |     |                                              |
 | **Overall weight**                                   |             |           |     |                                              |

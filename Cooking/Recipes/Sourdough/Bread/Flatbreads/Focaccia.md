@@ -47,41 +47,55 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Unreleased 3
 
-| Ingredient                                             | Quantity, g | Baker's % | %   | Note |
-| ------------------------------------------------------ | ----------- | --------- | --- | ---- |
-| **Dough**                                              |             |           |     |      |
-| Water                                                  | 510         |           |     |      |
-| Water 2                                                | 25          |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (50%)]]   | 100         |           |     |      |
-| Sea salt                                               | 13          |           |     |      |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]       | 660         |           |     |      |
-| [[Flours\|Le Farine del Molino Cosma Integrale flour]] | 62          |           |     |      |
-| Honey                                                  | 30          |           |     |      |
-| Olive oil                                              |             |           |     |      |
-|                                                        |             |           |     |      |
-| **Overall hydration**                                  |             |           |     |      |
-| **Overall weight**                                     |             |           |     |      |
-|                                                        |             |           |     |      |
-| **Toppings (savory)**                                  |             |           |     |      |
-| Cherry tomatoes; sliced in half                        | 400         |           |     |      |
-| Olives                                                 |             |           |     |      |
-| Olive oil                                              |             |           |     |      |
-| Garlic                                                 | 2 cloves    |           |     |      |
-| Salt                                                   | 5           |           |     |      |
-| Rosemary                                               |             |           |     |      |
-|                                                        |             |           |     |      |
-| **Overall hydration**                                  |             |           |     |      |
-| **Overall weight**                                     |             |           |     |      |
-|                                                        |             |           |     |      |
-| **Topping (sweet)**                                    |             |           |     |      |
-| Apples; peeled                                         | 7 pcs.      |           |     |      |
-| Sugar                                                  | 100         |           |     |      |
-| Cinnamon                                               |             |           |     |      |
-| Lemon juice                                            |             |           |     |      |
-| Sugar (for icing if using)                             | 150         |           |     |      |
-| Butter; melted (for icing if using)                    | 22          |           |     |      |
-| Milk (for icing, if using)                             | 15          |           |     |      |
-| Salt                                                   |             |           |     |      |
+| Ingredient                                             | Quantity, g | Baker's % | %   | Note                            |
+| ------------------------------------------------------ | ----------- | --------- | --- | ------------------------------- |
+| **Dough** (big savory, 1.4kg)                          |             |           |     |                                 |
+| Water                                                  | 510         |           |     |                                 |
+| Water 2                                                | 25          |           |     |                                 |
+| [[Sourdough starter types\|Sourdough starter (50%)]]   | 100         |           |     |                                 |
+| Sea salt                                               | 13          |           |     |                                 |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]       | 660         |           |     |                                 |
+| [[Flours\|Le Farine del Molino Cosma Integrale flour]] | 62          |           |     |                                 |
+| Honey                                                  | 30          |           |     |                                 |
+| Olive oil                                              |             |           |     |                                 |
+|                                                        |             |           |     |                                 |
+| **Overall hydration**                                  |             |           |     |                                 |
+| **Overall weight**                                     |             |           |     |                                 |
+|                                                        |             |           |     |                                 |
+| **Dough** (smaller, more sweet, 1.15kg)                |             |           |     |                                 |
+| Water                                                  | 400         |           |     |                                 |
+| Water 2                                                | 20          |           |     |                                 |
+| [[Sourdough starter types\|Sourdough starter (50%)]]   | 80          |           |     | 20g starter 40g flour 20g water |
+| Sea salt                                               | 11          |           |     |                                 |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]       | 538         |           |     |                                 |
+| [[Flours\|Le Farine del Molino Cosma Integrale flour]] | 51          |           |     |                                 |
+| Honey                                                  | 55          |           |     |                                 |
+| Olive oil                                              |             |           |     |                                 |
+|                                                        |             |           |     |                                 |
+| **Overall hydration**                                  |             |           |     |                                 |
+| **Overall weight**                                     |             |           |     |                                 |
+|                                                        |             |           |     |                                 |
+|                                                        |             |           |     |                                 |
+| **Toppings (savory)**                                  |             |           |     |                                 |
+| Cherry tomatoes; sliced in half                        | 400         |           |     |                                 |
+| Olives                                                 |             |           |     |                                 |
+| Olive oil                                              |             |           |     |                                 |
+| Garlic                                                 | 2 cloves    |           |     |                                 |
+| Salt                                                   | 5           |           |     |                                 |
+| Rosemary                                               |             |           |     |                                 |
+|                                                        |             |           |     |                                 |
+| **Overall hydration**                                  |             |           |     |                                 |
+| **Overall weight**                                     |             |           |     |                                 |
+|                                                        |             |           |     |                                 |
+| **Topping (sweet)**                                    |             |           |     |                                 |
+| Apples; peeled                                         | 7 pcs.      |           |     |                                 |
+| Sugar                                                  | 100         |           |     |                                 |
+| Cinnamon                                               |             |           |     |                                 |
+| Lemon juice                                            |             |           |     |                                 |
+| Sugar (for icing if using)                             | 150         |           |     |                                 |
+| Butter; melted (for icing if using)                    | 22          |           |     |                                 |
+| Milk (for icing, if using)                             | 15          |           |     |                                 |
+| Salt                                                   |             |           |     |                                 |
 
 
 
