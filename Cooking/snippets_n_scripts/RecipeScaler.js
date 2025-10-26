@@ -19,9 +19,7 @@ class RecipeScaler {
     // the index of the 
     static MATH_EXPRESSION_CONT_ORDER_IDX = 2;
     static CALCULATE_EXPRESSION_BUTTON_ORDER_IDX = 3;
-
-    // yet to come
-    static UNRELEASED_BUTTON_3_ORDER_IDX = 4;
+    static HIDE_PERCENTAGE_COLUMNS_ORDER_IDX = 4;
 
     // LOWERCASE ingredients table column names; they work by the fuzzy principle of "includes" (with the exception of ING_TBL_PERCENTAGE_COL that compares strictly)
     static ING_TBL_INGREDIENTS_COL = "ingredient";
@@ -62,8 +60,7 @@ class RecipeScaler {
         this.table_with_ingredients_pos_index = first_table_idx+RecipeScaler.INGREDIENTS_TABLE_ORDER_IDX;
         this.math_expression_cont_pos_index = start_from_idx+RecipeScaler.MATH_EXPRESSION_CONT_ORDER_IDX;
         this.calculate_expression_button_pos_index = start_from_idx+RecipeScaler.CALCULATE_EXPRESSION_BUTTON_ORDER_IDX;
-        // yet to come
-        this.unreleased_button2 = start_from_idx+RecipeScaler.UNRELEASED_BUTTON_3_ORDER_IDX;
+        this.hide_percentage_columns_pos_index = start_from_idx+RecipeScaler.HIDE_PERCENTAGE_COLUMNS_ORDER_IDX;
 
         // listeners are set up
         this.setupListeners();
@@ -104,6 +101,7 @@ class RecipeScaler {
         this.scaleIngredients_button = h6_headers[this.scale_the_ingredients_button_pos_index];
         this.calculate_expression_container = h6_headers[this.math_expression_cont_pos_index];
         this.calculate_expression_button = h6_headers[this.calculate_expression_button_pos_index];
+        this.hide_percentage_columns_button = h6_headers[this.hide_percentage_columns_pos_index];
 
 
         // Select all close tab buttons
@@ -125,6 +123,13 @@ class RecipeScaler {
         if(this.calculate_expression_button && !this.calculate_expression_button.listenerAdded) {
             this.addCalculateExpressionButtonListener();
             this.calculate_expression_button.listenerAdded = true;
+        }
+
+        if(this.hide_percentage_columns_button && !this.hide_percentage_columns_button.listenerAdded) {
+            // update button text in case irrelevant toggle label exists
+            this.hide_percentage_columns_button.textContent = "Hide percentage columns";
+            this.addHidePercentageColumnsButtonListener();
+            this.hide_percentage_columns_button.listenerAdded = true;
         }
 
         if(this.tree_structure_files) {
@@ -247,6 +252,65 @@ class RecipeScaler {
                 
                 this.calculate_expression_container.textContent = `${expression} = ${RecipeScaler.round(result,2)}`; // Update the h6 with the result
             });
+    }
+
+    addHidePercentageColumnsButtonListener() {
+        this.hide_percentage_columns_button.addEventListener('click', (event) => {
+
+            const ingredients_table = document.querySelectorAll("table")[this.table_with_ingredients_pos_index];
+            const ingredients_table_trs = ingredients_table.querySelectorAll("tr");
+
+            if (ingredients_table_trs.length == 0) {
+                console.log("ERROR: your table doesn't contain 'tr' elements");
+                return;
+            }
+
+            if (ingredients_table_trs[0].querySelector("th") == null) {
+                console.log("ERROR: your table doesn't contain 'th' elements");
+                return;
+            }
+
+            
+            // 1. Get column images to toggle and toggle 'th's
+            const indices_to_toggle = []
+            const title_ths = ingredients_table_trs[0].querySelectorAll("th");
+            for (let i = 0; i < title_ths.length; i++) {
+                const th = title_ths[i];
+
+                if (th.querySelector("div").textContent.contains("%")) {
+                    // update button text in case irrelevant toggle label exists
+                    this.hide_percentage_columns_button.textContent = "Hide percentage columns";
+                    indices_to_toggle.push(i);
+                    let th_to_toggle = title_ths[i];
+                    
+                    // toggle th
+                    if(th_to_toggle.style.display.toLowerCase() != "none") {
+                        th_to_toggle.style.display = "none";
+                        this.hide_percentage_columns_button.textContent = "Show percentage columns";
+                    } else {
+                        th_to_toggle.style.display = "table-cell";
+                        this.hide_percentage_columns_button.textContent = "Hide percentage columns";
+                    }
+                }
+            }
+            
+            // 2. toggle 'tr' elements (skip the first line with ths)
+            for (let i = 1; i < ingredients_table_trs.length; i++) {
+                const tr = ingredients_table_trs[i];
+                const curr_tds = tr.querySelectorAll("td");
+
+                indices_to_toggle.forEach(idx => {
+                    const curr_td_to_toggle = curr_tds[idx];
+
+                    // toggle tr
+                    if(curr_td_to_toggle.style.display.toLowerCase() != "none")
+                        curr_td_to_toggle.style.display = "none";
+                    else
+                        curr_td_to_toggle.style.display = "table-cell";
+                });
+            }
+
+        });
     }
 
     addNonActiveTabsButtonListener(tab) {
