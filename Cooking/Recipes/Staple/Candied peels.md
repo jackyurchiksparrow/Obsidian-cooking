@@ -46,7 +46,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Scale
 ###### 11.5 = 11.5
 ###### Calculate
-###### Unreleased 3
+###### Hide percentage columns
 
 | Ingredient                              | Quantity, g | %   | Note                                                   |
 | --------------------------------------- | ----------- | --- | ------------------------------------------------------ |
@@ -81,7 +81,7 @@ window.onerror = function (message, source, lineno, colno, error) {
     - Bring water to a rolling boil and boil all the peels (including tops and bottoms) for **15 minutes**.
     - Repeat this process **three times**, changing the water and rinsing the peels with cold water each time.
 
-### #### **Making Candied Orange Peels**
+### **Making Candied Orange Peels**
 
 5. **Prepare the Syrup**:
     - Combine sugar, orange juice, water, and [[Inverted Sugar]] in a pot.
