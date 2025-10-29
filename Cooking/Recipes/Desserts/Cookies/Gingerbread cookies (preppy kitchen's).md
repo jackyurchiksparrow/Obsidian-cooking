@@ -35,37 +35,37 @@ window.onerror = function (message, source, lineno, colno, error) {
 | ![](https://lh3.googleusercontent.com/pw/AP1GczMOZg7bqIT_fDrehaVI1oqrmEBzFq_ofLtiDhh2nxQK0P8N1F_VPRNmVcEMtHqJExGxnW-K4t-ptpAQp7v43tdeBLdRT7IoPo1_ectyvkj39PKvKjy2tBtU3vOxsK6L3wFzQiY0lpuNQvWy36DU1vDx=w1145-h858-s-no-gm?authuser=0)            | ![](https://lh3.googleusercontent.com/pw/AP1GczNz0ZZ3SHmuaLiW5YsgGI8lIuVMF-yeGzvcMJ-kzLbd7sN_ekQbxn_RUU7mn9Mv7fmgiXgXWdtS8Ptb0BYj9ZGToGg_jbNr63pkA9KvdUaMxgNJ-vj2vgTAQ7ThbfVv8xUuChb1XK9l7ZcktTixp5Q3=w1115-h858-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczPRtSrB6MGMgkFvVC-BCSBbBI25NJPQg0UfOd1pfqrrc-2LRS_-vKuNFkTU1fWXPsivRTw0luFYl7pbLGIGpI3B-K1VhEMzVf0jZndopLRratZ_-hdKqa0gNlpjaTmiE_VoMkTx6mbVkv1VQQ975Dj6=w1177-h858-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczMjY30q-0vNFIwzo3f20J7lgjQZTjROmvrQ7fXy35SgDGQ1a_zHTTeCFrws8kSJ8EkakDisEOtZa5uuLye2zg0W7jfzKnOUz8-jp5-feB_pIwj2eDU8TK1MDLpeB7z6Ih3UySkjZ7OQZV5I9loef0ko=w643-h858-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczPVfOKC8ts5VtFaY-MDEBH3gHgOiPkQftF855I9TYYhPaiI6UVg-gnn9_9B5leWIp2ixfTXLuw2yJa7rTIbmPdAFvDgutUKNfK3n1e15T3sMAF9DXL7nFx_ftYK52OU8T8ZdxQYOdaRimgZn07cSCBX=w1145-h858-s-no-gm?authuser=0) |
 | Adjustments:<br>- next time try more spices:<br>ginger: 2 tsp. -> 3 tsp.<br>cinnamon: 1 tsp. ->1.5 tsp.<br><br>- don't try to give them any drawings unless they are very distinct, the dough is too sticky inside, so only use regular cutters |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                     | ![](https://lh3.googleusercontent.com/pw/AP1GczMZIHko6TYm7UXypAF_KlJ2_lWuhZqfDPGJKbHlXumSqjbha_pQvJWnKc71F3CAI4W1eQsZKAN6Nql9jS8SZSndlfNlunUbbKEfhlSmt3wn4KY5eBNG7VugM8GUkgtJRi5Wkz_esOp1u1DURd_xN_IK=w1145-h858-s-no-gm?authuser=0) |
 
-> [!Tip] T
+> [!Tip] These are mostly soft and very sticky. Has less molasses.
 ## Ingredients
 
 ###### 1
 ###### Scale
 ###### 11.5+37.4+21.6+15.8+13+0.4+0.4 = 100.1
 ###### Calculate
-###### Unreleased 3
+###### Hide percentage columns
 
-| Ingredient                                           | Quantity, g | Baker's % | %   | Note                 |
-| ---------------------------------------------------- | ----------- | --------- | --- | -------------------- |
-| [[Sourdough starter types\|Sourdough discard (50%)]] | 120         |           |     |                      |
-| [[Flours\|Any 00 flour / Bread flour (Zernari)]]     | 660         |           |     |                      |
-| Baking soda                                          |             |           |     | 1 tsp.               |
-| Ginger                                               |             |           |     | 2 tsp.               |
-| Salt                                                 | to taste    |           |     | 1/4 tsp.             |
-| Cinnamon                                             |             |           |     | 1 tsp.               |
-| Ground cloves                                        |             |           |     | 1/4 tsp.             |
-| Ground nutmeg                                        |             |           |     | 3/4 of the whole nut |
-| Butter; softened                                     | 340         |           |     |                      |
-| Brown sugar                                          | 330         |           |     |                      |
-| Unsulphured molasses                                 | 60          |           |     |                      |
-| Honey / [[Inverted sugar (theory)]] paste            | 180         |           |     |                      |
-| Eggs                                                 | 200         |           |     | 2 pc.                |
-| Vanilla                                              | to taste    |           |     |                      |
-|                                                      |             |           |     |                      |
-| **Overall weight**                                   |             |           |     |                      |
-|                                                      |             |           |     |                      |
-| [[Glazes and meringues\|Royal icing]] (for decoration; optional)   | 250         |           |     |                      |
-|                                                      |             |           |     |                      |
-| **Overall weight**                                   |             |           |     |                      |
+| Ingredient                                                       | Quantity, g | Baker's % | %   | Note                 |
+| ---------------------------------------------------------------- | ----------- | --------- | --- | -------------------- |
+| [[Sourdough starter types\|Sourdough discard (50%)]]             | 120         |           |     |                      |
+| [[Flours\|Any 00 flour / Bread flour (Zernari)]]                 | 660         |           |     |                      |
+| Baking soda                                                      |             |           |     | 1 tsp.               |
+| Ginger                                                           |             |           |     | 3 tsp.               |
+| Salt                                                             | to taste    |           |     | 1/4 tsp.             |
+| Cinnamon                                                         |             |           |     | 1.5 tsp.             |
+| Ground cloves                                                    |             |           |     | 1/4 tsp.             |
+| Ground nutmeg                                                    |             |           |     | 3/4 of the whole nut |
+| Butter; softened                                                 | 340         |           |     |                      |
+| Brown sugar                                                      | 330         |           |     |                      |
+| Unsulphured molasses                                             | 60          |           |     |                      |
+| Honey / [[Inverted sugar (theory)]] paste                        | 180         |           |     |                      |
+| Eggs                                                             | 200         |           |     | 2 pc.                |
+| Vanilla                                                          | to taste    |           |     |                      |
+|                                                                  |             |           |     |                      |
+| **Overall weight**                                               |             |           |     |                      |
+|                                                                  |             |           |     |                      |
+| [[Glazes and meringues\|Royal icing]] (for decoration; optional) | 250         |           |     |                      |
+|                                                                  |             |           |     |                      |
+| **Overall weight**                                               |             |           |     |                      |
 
 
 
