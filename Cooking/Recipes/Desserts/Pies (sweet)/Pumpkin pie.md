@@ -40,7 +40,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 > - baking pan: 26cm
 ## Ingredients
 
-###### 1.4
+###### 1
 ###### Scale
 ###### 224/388 = 0.58
 ###### Calculate

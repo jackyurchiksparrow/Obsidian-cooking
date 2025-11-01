@@ -2,14 +2,14 @@
 tags:
   - "#sourdough"
 date: ""
-hydration: 
-bulk fermentation: 
-cold retard: 
-outcome: overproofed
-thumbnail: 
-yield: 
-nutrition rating: 
-taste rating: 
+hydration:
+bulk fermentation:
+cold retard:
+outcome:
+thumbnail:
+yield:
+nutrition rating:
+taste rating:
 credit:
   - https://www.youtube.com/watch?v=bdYPXnKHD2c
 part_of_the_set:
