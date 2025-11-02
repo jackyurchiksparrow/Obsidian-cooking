@@ -43,20 +43,20 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Scale
 ###### 319-159 = 160
 ###### Calculate
-###### Unreleased 3
+###### Hide percentage columns
 
-| Ingredient                                                       | Quantity, g | Baker's % | %   | Note                                                     |
-| ---------------------------------------------------------------- | ----------- | --------- | --- | -------------------------------------------------------- |
-| Water                                                            | 380         |           |     |                                                          |
-| Water 2                                                          | 20          |           |     |                                                          |
-| [[Sourdough starter types\|Sourdough starter; rye levain (80%)]] | 130         |           |     | 12h (10 p.m.)<br>10g starter : 70g rye flour : 56g water |
-| Sea salt                                                         | 14          |           |     |                                                          |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]                 | 470         |           |     |                                                          |
-| [[Flours\|Whole rye flour (Ecorod)]]                             | 200         |           |     |                                                          |
-| Flax seeds; soaked in water 1:2                                  | 70          |           |     |                                                          |
-|                                                                  |             |           |     |                                                          |
-| **Overall hydration**                                            |             |           |     |                                                          |
-| **Overall weight**                                               |             |           |     |                                                          |
+| Ingredient                                                        | Quantity, g | Baker's % | %   | Note                                                     |
+| ----------------------------------------------------------------- | ----------- | --------- | --- | -------------------------------------------------------- |
+| Water                                                             | 380         |           |     |                                                          |
+| Water 2                                                           | 20          |           |     |                                                          |
+| [[Sourdough starter types\|Sourdough starter; rye levain (100%)]] | 130         |           |     | 12h (10 p.m.)<br>10g starter : 70g rye flour : 56g water |
+| Sea salt                                                          | 14          |           |     |                                                          |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]                  | 470         |           |     |                                                          |
+| [[Flours\|Whole rye flour (Ecorod)]]                              | 200         |           |     |                                                          |
+| Flax seeds; soaked in water 1:2                                   | 70          |           |     |                                                          |
+|                                                                   |             |           |     |                                                          |
+| **Overall hydration**                                             |             |           |     |                                                          |
+| **Overall weight**                                                |             |           |     |                                                          |
 
 
 
