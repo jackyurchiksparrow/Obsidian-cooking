@@ -42,7 +42,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Scale
 ###### 1645 / 40 = 41.13
 ###### Calculate
-###### Unreleased 3
+###### Hide percentage columns
 
 | Ingredient                                                                        | Quantity, g | Baker's % | %   | Note   |
 | --------------------------------------------------------------------------------- | ----------- | --------- | --- | ------ |
