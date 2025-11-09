@@ -255,36 +255,59 @@ class RecipeScaler {
     }
 
     addHidePercentageColumnsButtonListener() {
-        this.hide_percentage_columns_button.addEventListener('click', (event) => {
+        // Function to merge specific rows in the first column
+        function mergeTitleAndStepsRows(table, colspan_val) {
+            const ingredient_cells = table.querySelectorAll("tbody tr > td:first-child");
 
+            for (let i = 0; i < ingredient_cells.length; i++) {
+                const currentIngred = ingredient_cells[i];
+                const ingredText = currentIngred.textContent.trim();
+
+                const isSpecialRow = ingredText.startsWith("---") && ingredText.endsWith("---");
+                if (isSpecialRow) {
+                    const tr = currentIngred.closest("tr");
+
+                    // Remove all other cells from that row
+                    const tds = tr.querySelectorAll("td");
+                    for (let j = 1; j < tds.length; j++) {
+                        tds[j].remove();
+                    }
+
+                    // Merge the row visually across all columns
+                    currentIngred.setAttribute("colspan", colspan_val);
+                }
+            }
+        }
+
+        this.hide_percentage_columns_button.addEventListener('click', (event) => {
             const ingredients_table = document.querySelectorAll("table")[this.table_with_ingredients_pos_index];
+            const total_cols = ingredients_table.querySelectorAll("thead th").length ||
+                            ingredients_table.querySelectorAll("tbody tr:first-child td").length;
             const ingredients_table_trs = ingredients_table.querySelectorAll("tr");
 
-            if (ingredients_table_trs.length == 0) {
+            if (ingredients_table_trs.length === 0) {
                 console.log("ERROR: your table doesn't contain 'tr' elements");
                 return;
             }
-
-            if (ingredients_table_trs[0].querySelector("th") == null) {
+            if (ingredients_table_trs[0].querySelector("th") === null) {
                 console.log("ERROR: your table doesn't contain 'th' elements");
                 return;
             }
 
-            
-            // 1. Get column images to toggle and toggle 'th's
-            const indices_to_toggle = []
+            // 1. Get percentage columns
+            const indices_to_toggle = [];
             const title_ths = ingredients_table_trs[0].querySelectorAll("th");
+            let percentage_cols_count = 0;
+
             for (let i = 0; i < title_ths.length; i++) {
                 const th = title_ths[i];
-
-                if (th.querySelector("div").textContent.contains("%")) {
-                    // update button text in case irrelevant toggle label exists
+                if (th.querySelector("div")?.textContent.includes("%")) {
+                    percentage_cols_count++;
                     this.hide_percentage_columns_button.textContent = "Hide percentage columns";
                     indices_to_toggle.push(i);
-                    let th_to_toggle = title_ths[i];
-                    
-                    // toggle th
-                    if(th_to_toggle.style.display.toLowerCase() != "none") {
+                    const th_to_toggle = title_ths[i];
+
+                    if (th_to_toggle.style.display.toLowerCase() !== "none") {
                         th_to_toggle.style.display = "none";
                         this.hide_percentage_columns_button.textContent = "Show percentage columns";
                     } else {
@@ -293,25 +316,41 @@ class RecipeScaler {
                     }
                 }
             }
-            
-            // 2. toggle 'tr' elements (skip the first line with ths)
+
+            // 2. Toggle cells
             for (let i = 1; i < ingredients_table_trs.length; i++) {
                 const tr = ingredients_table_trs[i];
                 const curr_tds = tr.querySelectorAll("td");
-
                 indices_to_toggle.forEach(idx => {
                     const curr_td_to_toggle = curr_tds[idx];
+                    if (!curr_td_to_toggle) return;
 
-                    // toggle tr
-                    if(curr_td_to_toggle.style.display.toLowerCase() != "none")
+                    if (curr_td_to_toggle.style.display.toLowerCase() !== "none") {
                         curr_td_to_toggle.style.display = "none";
-                    else
+                    } else {
                         curr_td_to_toggle.style.display = "table-cell";
+                    }
                 });
             }
 
+            // 3. Run merge ONCE after toggling
+            // detect whether columns are currently hidden or shown
+            let anyHidden = false;
+            indices_to_toggle.forEach(idx => {
+                const th = title_ths[idx];
+                if (th.style.display.toLowerCase() === "none") anyHidden = true;
+            });
+
+            // adjust colspan depending on state
+            const current_colspan = anyHidden
+                ? total_cols - percentage_cols_count  // hiding
+                : total_cols;                         // showing
+
+            mergeTitleAndStepsRows(ingredients_table, current_colspan);
+
         });
     }
+
 
     addNonActiveTabsButtonListener(tab) {
         if(!tab.listenerAdded)

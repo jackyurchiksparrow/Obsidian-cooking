@@ -22,4 +22,4 @@ More commonly found in the professional kitchen. There are four grades of sheets
 
 ## How much gelatin to use?
 
-You take any LIQUID that you want to gel and add the amount of gelatin equal to **0.6 - 1.7%**. On average, it is usually **1%**, it is exactly enough to set the liquid, but you'll need more to let it hold its shape based on other ingredients and its mass. 
+You take any LIQUID (*including* the liquid it is soaked in) that you want to gel and add the amount of gelatin equal to **0.6 - 1.7%**. On average, it is usually **1%**, it is exactly enough to set the liquid, but you'll need more to let it hold its shape based on other ingredients and its mass. 
