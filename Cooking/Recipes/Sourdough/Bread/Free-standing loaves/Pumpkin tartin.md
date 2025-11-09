@@ -46,11 +46,11 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                               | Quantity, g | Baker's % | %   | Note                                                                                     |
 | -------------------------------------------------------- | ----------- | --------- | --- | ---------------------------------------------------------------------------------------- |
-| Water                                                    | 310         |           |     |                                                                                          |
-| Pumpkin puree; baked with sugar (counts as water);       | 131         |           |     |                                                                                          |
+| Water                                                    | 325         |           |     |                                                                                          |
+| Pumpkin puree; baked with sugar (counts as water);       | 200         |           |     |                                                                                          |
 | [[Sourdough starter types\|Sourdough starter (50%); LM]] | 120         |           |     | 30g starter : 60 flour : 30 water; <br>4-5h at 26-28C, ideally tripled or almost tripled |
-| Sea salt                                                 | 14          |           |     |                                                                                          |
-| [[Flours\|Bread flour (Zernari)]]                        | 450         |           |     |                                                                                          |
+| Sea salt                                                 | 15          |           |     |                                                                                          |
+| [[Flours\|Bread flour (Zernari)]]                        | 530         |           |     |                                                                                          |
 | [[Flours\|Whole wheat flour (Caputo)]]                   | 75          |           |     |                                                                                          |
 |                                                          |             |           |     |                                                                                          |
 | **Overall hydration**                                    |             |           |     |                                                                                          |

@@ -36,26 +36,26 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ## Ingredients
 
-###### 1
+###### 1.47
 ###### Scale
 ###### 884+162 + 60 = 1106
 ###### Calculate
-###### Unreleased 3
+###### Hide percentage columns
 
-| Ingredient                                   | Quantity, g | %   | Note                                              |
-| -------------------------------------------- | ----------- | --- | ------------------------------------------------- |
-| Milk                                         | 884         |     |                                                   |
-| Cream (30%)                                  | 221         |     | aiming for ~20% cream based on milk               |
-| Milk 2 (if not using cream)                  | 162         |     |                                                   |
-| Butter (if not using cream)                  | 60          |     |                                                   |
-| [[Xanthan gum (E 415)]] (if not using cream) | a pinch     |     | for butter and milk not to separate in the fridge |
-| Sugar                                        | 65          |     |                                                   |
-| Vanilla                                      | to taste    |     |                                                   |
-| Salt                                         | to taste    |     |                                                   |
-| [[Gelatin]]                                  | 17          |     |                                                   |
-| Water; cold (for gelatin soaking)            | 52          |     |                                                   |
-|                                              |             |     |                                                   |
-| **Overall weight**                           |             |     |                                                   |
+| Ingredient                                             | Quantity, g | %   | Note                                              |
+| ------------------------------------------------------ | ----------- | --- | ------------------------------------------------- |
+| Milk                                                   | 884         |     |                                                   |
+| Cream (30%)                                            | 221         |     | aiming for ~20% cream based on milk               |
+| Milk 2 *(if not using the 30% cream)*                  | 162         |     |                                                   |
+| Butter *(if not using the 30% cream)*                  | 60          |     |                                                   |
+| [[Xanthan gum (E 415)]] *(if not using the 30% cream)* | a pinch     |     | for butter and milk not to separate in the fridge |
+| Sugar                                                  | 65          |     |                                                   |
+| Vanilla                                                | to taste    |     |                                                   |
+| Salt                                                   | to taste    |     |                                                   |
+| [[Gelatin]]                                            | 17          |     |                                                   |
+| Water; cold (for gelatin soaking)                      | 52          |     |                                                   |
+|                                                        |             |     |                                                   |
+| **Overall weight**                                     |             |     |                                                   |
 
 
 
