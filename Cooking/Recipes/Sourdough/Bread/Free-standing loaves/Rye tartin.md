@@ -45,18 +45,19 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Hide percentage columns
 
-| Ingredient                                                        | Quantity, g | Baker's % | %   | Note                                                     |
-| ----------------------------------------------------------------- | ----------- | --------- | --- | -------------------------------------------------------- |
-| Water                                                             | 380         |           |     |                                                          |
-| Water 2                                                           | 20          |           |     |                                                          |
-| [[Sourdough starter types\|Sourdough starter; rye levain (100%)]] | 130         |           |     | 12h (10 p.m.)<br>10g starter : 70g rye flour : 56g water |
-| Sea salt                                                          | 14          |           |     |                                                          |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]                  | 470         |           |     |                                                          |
-| [[Flours\|Whole rye flour (Ecorod)]]                              | 200         |           |     |                                                          |
-| Flax seeds; soaked in water 1:2                                   | 70          |           |     |                                                          |
-|                                                                   |             |           |     |                                                          |
-| **Overall hydration**                                             |             |           |     |                                                          |
-| **Overall weight**                                                |             |           |     |                                                          |
+| Ingredient                                                        | Quantity, g | Baker's % | %   | Note                                                        |
+| ----------------------------------------------------------------- | ----------- | --------- | --- | ----------------------------------------------------------- |
+| **--- 1. 30min fermentolyse ---**                                 |             |           |     |                                                             |
+| Water                                                             | 341         |           |     |                                                             |
+| Water 2                                                           | 20          |           |     |                                                             |
+| [[Sourdough starter types\|Sourdough starter; rye levain (100%)]] | 108         |           |     | 6-8h until domed<br>10g starter : 50g rye flour : 50g water |
+| Sea salt                                                          | 12          |           |     |                                                             |
+| [[Flours\|Bread flour (Zernari) / any bread flour]]               | 392         |           |     |                                                             |
+| [[Flours\|Whole rye flour (Ecorod)]]                              | 167         |           |     |                                                             |
+| Flax seeds; soaked 1 seeds : 2 liquid                             | 60          |           |     |                                                             |
+|                                                                   |             |           |     |                                                             |
+| **Overall hydration**                                             |             |           |     |                                                             |
+| **Overall weight**                                                |             |           |     |                                                             |
 
 
 
