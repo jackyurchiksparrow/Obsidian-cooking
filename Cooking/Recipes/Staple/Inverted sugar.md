@@ -6,14 +6,14 @@ date: 2024-12-21
 thumbnail: https://lh3.googleusercontent.com/pw/AP1GczMHwhcr3cKBV3Js9C9Bvn0HyC3SpRilX0-lkqAOPSxH4DxcbfuqGuYHrp51D3NRQlvsIq_AEQHfUohI0MGWCLaqVo34CXHU8dIBwx_IMEhqSGfrJ7Qule_qQf_sRnWsi2Op3iU5-23BDbjAhJmGW07q=w571-h858-s-no-gm?authuser=0
 passive time: 0h
 active time: 30 min
-yield: 
-nutrition rating: 
-taste rating: 
-credit: 
+yield:
+nutrition rating:
+taste rating:
+credit:
 part_of_the_set:
   - "[[Panettone (fruit version)]]"
   - "[[Panettone (chocolate version)]]"
-  - "[[Stollen (white)]]"
+  - "[[Stollen (white) (draft)]]"
   - "[[Stollen (whole wheat)]]"
   - "[[Candied peels]]"
 ---

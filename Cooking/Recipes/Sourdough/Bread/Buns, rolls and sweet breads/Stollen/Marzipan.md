@@ -4,15 +4,15 @@ tags:
   - christmas
   - nuts
 date: ""
-thumbnail: 
-passive time: 
-active time: 
-yield: 
-nutrition rating: 
-taste rating: 
-credit: 
+thumbnail:
+passive time:
+active time:
+yield:
+nutrition rating:
+taste rating:
+credit:
 part_of_the_set:
-  - "[[Stollen (white)]]"
+  - "[[Stollen (white) (draft)]]"
   - "[[Stollen (whole wheat)]]"
 ---
 ```dataviewjs
@@ -42,7 +42,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Scale
 ###### 11.5 = 11.5
 ###### Calculate
-###### Unreleased 3
+###### Hide percentage columns
 
 | Ingredient          | Quantity, g | %   | Note |
 | ------------------- | ----------- | --- | ---- |

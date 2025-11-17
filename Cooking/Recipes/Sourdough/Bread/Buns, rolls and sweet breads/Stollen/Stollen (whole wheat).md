@@ -9,9 +9,11 @@ cold retard: 8 h
 outcome: overproofed
 thumbnail: https://lh3.googleusercontent.com/pw/AP1GczOEwkaGP-fLrHLSCzvNolhsnDOV6OTn0s2f6shLT80uIHMmMgp8N-khYUhtDKZ2XtePvOdbneajeHOp_5_i7eaQk3PGX8mmjR-XC2Iw2l-lE7IxXx2PJaaczPbLkS9Q-PPLWYikTi9qbs9fi6WUelaP=w1145-h858-s-no-gm?authuser=0
 yield: 4
-nutrition rating: 
-taste rating: 
-credit: https://www.instagram.com/p/Clk92ONISbl/?igsh=MXQ2ZTI4cXZoMWhlYQ%3D%3D&img_index=3
+nutrition rating:
+taste rating:
+credit:
+  - https://www.instagram.com/p/Clk92ONISbl/?igsh=MXQ2ZTI4cXZoMWhlYQ%3D%3D&img_index=3
+  - https://www.hlebomoli.ru/blog/pryaniki-i-pryanosti
 part_of_the_set:
   - "[[Candied peels]]"
   - "[[Marzipan]]"
@@ -45,38 +47,42 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ###### 1
 ###### Scale
-###### 467-123-120 = 224
+###### 467/700 = 0.67
 ###### Calculate
 ###### Hide percentage columns
 
-| Ingredient                                           | Quantity, g | Baker's % | %   | Note                                                                           |
-| ---------------------------------------------------- | ----------- | --------- | --- | ------------------------------------------------------------------------------ |
-| **The dough**                                        |             |           |     |                                                                                |
-| [[Sourdough starter types\|Sourdough starter (50%)]] | 300         |           |     | 150 water: 100 white flour: 30 sourdough starter (use fruit water if possible) |
-| [[Flours\|Wheat flour (HH Manitoba)]] (optional)     | 100         |           |     |                                                                                |
-| [[Flours\|Whole wheat flour (Caputo)]]               | 367         |           |     |                                                                                |
-| Water                                                | 267         |           |     |                                                                                |
-| Sugar                                                | 133         |           |     |                                                                                |
-| Honey / [[Inverted sugar (theory)]] paste            | 27          |           |     |                                                                                |
-| Sea salt                                             | 14          |           |     |                                                                                |
-| Butter                                               | 234         |           |     | 15-16 C, not overly softened!                                                  |
-| Raisins                                              | 224         |           |     |                                                                                |
-| Cranberries                                          | 120         |           |     |                                                                                |
-| [[Candied peels]]                                    | 123         |           |     |                                                                                |
-| [[Marzipan]]                                         | 500         |           |     |                                                                                |
-| Ground cardamom<br><br>                              | 2           |           |     |                                                                                |
-| Ground cinnamon                                      | 2           |           |     |                                                                                |
-| Ground mace (recommended but can substitute nutmeg)  | 2           |           |     |                                                                                |
-|                                                      |             |           |     |                                                                                |
-| **Overall hydration**                                |             |           |     |                                                                                |
-| **Overall weight**                                   |             |           |     |                                                                                |
-|                                                      |             |           |     |                                                                                |
-|                                                      |             |           |     |                                                                                |
-| **Brushing**                                         |             |           |     |                                                                                |
-| Butter                                               | 150         |           |     |                                                                                |
-| Powdered sugar                                       | 100         |           |     |                                                                                |
-|                                                      |             |           |     |                                                                                |
-| **Overall weight**                                   |             |           |     |                                                                                |
+| Ingredient                                               | Quantity, g | Baker's % | %   | Note                                                                                                                                                                                                                      |
+| -------------------------------------------------------- | ----------- | --------- | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **--- The dough ---**                                    |             |           |     |                                                                                                                                                                                                                           |
+| **--- 1. Feed LM twice to get the right amount ---**     |             |           |     |                                                                                                                                                                                                                           |
+| [[Sourdough starter types\|Sourdough starter (50%); LM]] | 300         |           |     | First feeding (11 a.m. - 4 p.m.):<br>19g starter : 19g water : 38g bread flour<br>4-5 hours until peaked<br><br>Second feeding (4 p.m. - 9 p.m.):<br>75g starter : 75g water : 150g bread flour<br>4-5 hours until peaked |
+| [[Flours\|Wheat flour (HH Manitoba)]] (optional)         | 100         |           |     |                                                                                                                                                                                                                           |
+| [[Flours\|Whole wheat flour (Caputo)]]                   | 367         |           |     |                                                                                                                                                                                                                           |
+| Water                                                    | 267         |           |     |                                                                                                                                                                                                                           |
+| Sugar                                                    | 133         |           |     |                                                                                                                                                                                                                           |
+| Honey / [[Inverted sugar (theory)]] paste                | 27          |           |     |                                                                                                                                                                                                                           |
+| Sea salt                                                 | 14          |           |     |                                                                                                                                                                                                                           |
+| Butter; softened                                         | 234         |           |     | 15-16 C, not overly softened!                                                                                                                                                                                             |
+| Raisins                                                  | 224         |           |     |                                                                                                                                                                                                                           |
+| Cranberries                                              | 120         |           |     |                                                                                                                                                                                                                           |
+| [[Candied peels]]                                        | 123         |           |     |                                                                                                                                                                                                                           |
+| Ground cardamom<br><br>                                  | 2           |           |     |                                                                                                                                                                                                                           |
+| Ground cinnamon                                          | 2           |           |     |                                                                                                                                                                                                                           |
+| Ground mace (recommended but can substitute nutmeg)      | 2           |           |     |                                                                                                                                                                                                                           |
+|                                                          |             |           |     |                                                                                                                                                                                                                           |
+| **Overall hydration**                                    |             |           |     |                                                                                                                                                                                                                           |
+| **Overall weight**                                       |             |           |     |                                                                                                                                                                                                                           |
+|                                                          |             |           |     |                                                                                                                                                                                                                           |
+| **--- Filling ---**                                      |             |           |     |                                                                                                                                                                                                                           |
+| Poppy seed filling / [[Marzipan]]                        | 500         |           |     |                                                                                                                                                                                                                           |
+|                                                          |             |           |     |                                                                                                                                                                                                                           |
+| **Overall weight**                                       |             |           |     |                                                                                                                                                                                                                           |
+|                                                          |             |           |     |                                                                                                                                                                                                                           |
+| **Brushing**                                             |             |           |     |                                                                                                                                                                                                                           |
+| Butter                                                   | 150         |           |     |                                                                                                                                                                                                                           |
+| Powdered sugar                                           | 100         |           |     |                                                                                                                                                                                                                           |
+|                                                          |             |           |     |                                                                                                                                                                                                                           |
+| **Overall weight**                                       |             |           |     |                                                                                                                                                                                                                           |
 
 
 
@@ -86,7 +92,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 ---
 ## Directions:
 
-Day 1: make the levain, soak the dried fruit in water + rum (optional) + orange juice (optional). Make the [[marzipan]] or poppy seed filling.
+Day 1: make the levain, soak the dried fruit in water + rum (optional) + orange juice (optional). Make the [[Marzipan]] or poppy seed filling.
 Day 2:
 
 1. Mix the peaked levain, flour and water, cover, leave for 30 min.  
