@@ -31,10 +31,10 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-| Banneton                                                                                                                                                                                                                                                                                                                                                                                         | Scoring | Appearance | Crumb |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | ---------- | ----- |
-|                                                                                                                                                                                                                                                                                                                                                                                                  |         |            |       |
-| Bulk: <br>Cold retard: <br>Hydration: <br>Outcome: <br><br>Recipe adjustments (already done):<br>- inoculation 120g->220g (19.4%->)<br>- water 75% -> 72% (omitting water 2)<br>- low-protein flour (23.9% -> 14.2%)<br>- bread flour (23.9% -> 33.6%)<br>- dry emmer flour (24.8% -> 15.2%) + whole wheat flour (9.7%)<br>- expected dough rise (20%->30% before retardation)<br><br>05.05.2025 |         |            |       |
+| Banneton                                                                                                                                                                                                                                                                                                                                                                                              | Scoring | Appearance | Crumb |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ---------- | ----- |
+|                                                                                                                                                                                                                                                                                                                                                                                                       |         |            |       |
+| Bulk: <br>Cold retard: <br>Hydration: <br>Outcome: <br><br>Recipe adjustments (already done):<br>- inoculation 120g->220g (19.4%->35.3%)<br>- water 75% -> 72% (omitting water 2)<br>- low-protein flour (23.9% -> 14.2%)<br>- bread flour (23.9% -> 33.6%)<br>- dry emmer flour (24.8% -> 15.2%) + whole wheat flour (9.7%)<br>- expected dough rise (20%->30% before retardation)<br><br>05.05.2025 |         |            |       |
 
 
 
@@ -44,7 +44,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Scale
 ###### 154-60 = 94
 ###### Calculate
-###### Show percentage columns
+###### Hide percentage columns
 
 | Ingredient                                                        | Quantity, g | Baker's % | %   | Note                                                                                         |
 | ----------------------------------------------------------------- | ----------- | --------- | --- | -------------------------------------------------------------------------------------------- |
