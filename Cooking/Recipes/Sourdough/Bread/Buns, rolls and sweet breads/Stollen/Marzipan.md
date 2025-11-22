@@ -11,6 +11,7 @@ yield:
 nutrition rating:
 taste rating:
 credit:
+  - https://www.youtube.com/watch?v=jvL5dl7fCtw
 part_of_the_set:
   - "[[Stollen (white) (draft)]]"
   - "[[Stollen (whole wheat)]]"
@@ -42,16 +43,17 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Scale
 ###### 11.5 = 11.5
 ###### Calculate
-###### Hide percentage columns
+###### Show percentage columns
 
-| Ingredient          | Quantity, g | %   | Note |
-| ------------------- | ----------- | --- | ---- |
-| Sugar               | 180         |     |      |
-| Water / Kirch / Rum | 35          |     |      |
-| Almond flour        | 180         |     |      |
-| Salt                | to taste    |     |      |
-|                     |             |     |      |
-| **Overall weight**  |             |     |      |
+| Ingredient                                    | Quantity, g | %   | Note  |
+| --------------------------------------------- | ----------- | --- | ----- |
+| Sugar (powdered)                              | 174         |     |       |
+| Rum                                           | 14          |     |       |
+| Almond flour (whole ground almonds preferred) | 280         |     |       |
+| Salt                                          | 3           |     |       |
+| Egg whites                                    | 30          |     | 1 pc. |
+|                                               |             |     |       |
+| **Overall weight**                            |             |     |       |
 
 
 
@@ -59,7 +61,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 ---
 ## Directions:
 
-1. Toast the flour on low.
+1. (Optional) Toast the flour / ground nuts on low if they are raw (although it's traditional to use blanched raw).
 2. Off of the heat. Add the sugar and salt with a tiny bit of the liquid and store in the fridge up to two weeks.
 
 
