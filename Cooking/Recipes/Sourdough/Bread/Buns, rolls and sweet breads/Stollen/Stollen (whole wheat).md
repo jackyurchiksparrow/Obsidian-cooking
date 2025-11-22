@@ -49,7 +49,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Scale
 ###### 467/700 = 0.67
 ###### Calculate
-###### Hide percentage columns
+###### Show percentage columns
 
 | Ingredient                                               | Quantity, g | Baker's % | %   | Note                                                                                                                                                                                                                      |
 | -------------------------------------------------------- | ----------- | --------- | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -99,9 +99,9 @@ Day 2:
 2. Add salt and sugar and [[Inverted sugar|inverted sugar]] / honey and mix on low until absolutely smooth.
 3. Add butter in 2 batches. Regain the consistency.
 4. Let the dough rest for at least 10 minutes. Add the dried fruit and mix until the consistency is regained again.
-5. Collect the dough and round it, fermentation for 10-12 hours at 24-26° until ???. 
+5. Collect the dough and round it, fermentation for 10-12 hours at 24-26° dough doubles **visibly in volume and feels aerated**. 
 6. Divide into 4 parts, round, let rest for 15 minutes. 
-7. Meanwhile, Shape the stollens, roll the marzipan:
+7. Meanwhile, Shape the stolen, roll the marzipan:
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczOTt9AhBBEA7hVqm_1hWoS6bcJa54SX9PUJ8qUD_v_vKgNMGiq-b2Cy2mrb9oq8efnuiYXn1Ld-4g48VPSSIpnDMFpL8Dpny8J43HAGa7eeMbpG1iK8vyx5KAQxUc3Cd4hwHpvCoAdvBNs32nHsCUf_=w1921-h589-s-no-gm?authuser=0)
 
