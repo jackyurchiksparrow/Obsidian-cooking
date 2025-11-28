@@ -38,7 +38,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Scale
 ###### 11.5 = 11.5
 ###### Calculate
-###### Unreleased 3
+###### Hide percentage columns
 +45 almond?
 +12 whites?
 salt?

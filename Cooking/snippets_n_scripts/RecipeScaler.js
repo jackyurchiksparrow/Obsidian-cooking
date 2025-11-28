@@ -297,12 +297,12 @@ class RecipeScaler {
             // 1. Get percentage columns
             const indices_to_toggle = [];
             const title_ths = ingredients_table_trs[0].querySelectorAll("th");
-            let percentage_cols_count = 0;
+            let to_hide_cols_count = 0;
 
             for (let i = 0; i < title_ths.length; i++) {
                 const th = title_ths[i];
-                if (th.querySelector("div")?.textContent.includes("%")) {
-                    percentage_cols_count++;
+                if (th.querySelector("div")?.textContent.includes("%") || th.querySelector("div")?.textContent.toLowerCase().includes("scale")) {
+                    to_hide_cols_count++;
                     this.hide_percentage_columns_button.textContent = "Hide percentage columns";
                     indices_to_toggle.push(i);
                     const th_to_toggle = title_ths[i];
@@ -343,14 +343,13 @@ class RecipeScaler {
 
             // adjust colspan depending on state
             const current_colspan = anyHidden
-                ? total_cols - percentage_cols_count  // hiding
+                ? total_cols - to_hide_cols_count       // hiding
                 : total_cols;                         // showing
 
             mergeTitleAndStepsRows(ingredients_table, current_colspan);
 
         });
     }
-
 
     addNonActiveTabsButtonListener(tab) {
         if(!tab.listenerAdded)
@@ -438,21 +437,19 @@ class RecipeScaler {
             let scale_value = this.getScaleIngredientsValue();
             let new_column_idx = scaled_col_idx;
             
-            console.log("scaled_col_idx = ", scaled_col_idx);
             // Check if the scaled column already exists; if not, add it
             if (scaled_col_idx === false || scaled_col_idx === undefined) {
-                new_column_idx = this.add_new_col_to_table(ingredients_table, quantity_col_pos_idx + 1, "Scaled <strong>x" + scale_value + "</strong>");
+                    new_column_idx = this.add_new_col_to_table(ingredients_table, quantity_col_pos_idx + 1, "Scaled <strong>x" + scale_value + "</strong>");
+                    // if the show/hide percentages columns button is in "hide" state, then it is aka 
+                    // "reading mode" and we should immediately enforce the new column to be hidden
+                    if(this.hide_percentage_columns_button.textContent.toLowerCase().includes("show")) {
+                        RecipeScaler.hide_tables_col(ingredients_table, new_column_idx+1, true);
+                    } else RecipeScaler.hide_tables_col(ingredients_table, new_column_idx+1, false);
             } else {
                 // change the column title
                 ingredients_table_ths[scaled_col_idx].querySelector('strong').innerHTML = `x${scale_value}`;
             }
 
-            // let sourdough_obj = {
-            //     sourdough_flag: false,
-            //     levain_weight: 1,
-            //     hydration: 100
-            // };
-            
             // Iterate through each row in tbody to scale values
             const ingredients_table_tbody_trs = ingredients_table.querySelectorAll("tbody tr");
             ingredients_table_tbody_trs.forEach((tr) => {
@@ -460,16 +457,6 @@ class RecipeScaler {
                 // const ingredient_title_lower = tr.querySelectorAll('td')[ingredients_col_pos_idx]?.querySelector('div').textContent.toLowerCase();
                 const initial_amount_el = tr.querySelectorAll('td')[quantity_col_pos_idx]?.querySelector('div');
                 const scaled_td = tr.querySelectorAll('td')[new_column_idx];
-                
-                // if(ingredient_title_lower.contains("sourdough")) {
-                //     sourdough_obj.sourdough_flag = true;
-
-                //     if(ingredient_title_lower.contains("%")) { // if the ingredient that says "sourdough" has "%"
-                //         sourdough_obj.hydration = ingredient_title_lower.match(/(\d+(?:\.\d+)?)\s*%/)[1];
-                //         sourdough_obj.levain_weight = initial_amount_el.textContent;
-                //     } else
-                //         console.error("You might've forgotten to specify the levain's hydration!");
-                // }
 
                 if (!initial_amount_el || !scaled_td) return; // Skip if elements are missing
             
@@ -512,6 +499,33 @@ class RecipeScaler {
         });
 
         return [ingredients_col_pos_idx, quantity_col_pos_idx, percentage_col_pos_idx, bakers_percentage_col_pos_idx, note_col_pos_idx, scaled_col_dx];
+    }
+
+    // assumes that table has a head with th elements and a body with trs
+    static hide_tables_col(table, column_idx, flag_is_to_hide) {
+        let status = "table-cell";
+        
+        if(flag_is_to_hide)
+            status = "none";
+        
+        const table_trs = table.querySelectorAll("tr");
+
+        for (let i = 0; i < table_trs.length; i++) {
+            const curr_trs = table_trs[i];
+            console.log(curr_trs);
+            let el_to_hide = null;
+
+            if(i==0) {
+                el_to_hide = curr_trs.querySelector(`th:nth-child(${column_idx})`);
+            } else {
+                el_to_hide = curr_trs.querySelector(`td:nth-child(${column_idx})`);
+            }
+            
+            console.log(el_to_hide)
+
+            if(el_to_hide)
+                el_to_hide.style.display = status;
+        }
     }
 
     static round(num, decimals) {
