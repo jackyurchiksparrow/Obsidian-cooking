@@ -48,15 +48,15 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                               | Quantity, g | Baker's % | %   | Note                                                                                         |
 | -------------------------------------------------------- | ----------- | --------- | --- | -------------------------------------------------------------------------------------------- |
-| Water 1                                                  | 265         |           |     |                                                                                              |
+| Water 1                                                  | 242         |           |     |                                                                                              |
 | Water 2                                                  | 20          |           |     |                                                                                              |
 | [[Sourdough starter types\|Sourdough starter (50%); LM]] | 220         |           |     | 55g starter : 110g flour : 55g water; 4-5h at env. 28-31C, ideally tripled or almost tripled |
 | Sea salt                                                 | 14          |           |     |                                                                                              |
-| [[Flours\|Bread flour (Zernari) / any bread flour]]      | 126         |           |     |                                                                                              |
-| Low-protein flour (10g)                                  | 101         |           |     |                                                                                              |
-| [[Flours\|Whole spelt flour (organic)]]                  | 166         |           |     |                                                                                              |
-| Whole spelt berries, milled into coarse flour (soaker)   | 96          |           |     | soak in water 1:1 + a bit more                                                               |
-| Water (soaker)                                           | 96          |           |     |                                                                                              |
+| [[Flours\|Bread flour (Zernari) / any bread flour]]      | 129         |           |     |                                                                                              |
+| Low-protein flour (10g)                                  | 104         |           |     |                                                                                              |
+| [[Flours\|Whole spelt flour (organic)]]                  | 171         |           |     |                                                                                              |
+| Whole spelt berries, milled into coarse flour (soaker)   | 100         |           |     | soak in water 1:1                                                                            |
+| Water (soaker)                                           | 100         |           |     |                                                                                              |
 |                                                          |             |           |     |                                                                                              |
 | **Overall hydration**                                    |             |           |     |                                                                                              |
 | **Overall weight**                                       |             |           |     |                                                                                              |
