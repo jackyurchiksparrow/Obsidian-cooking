@@ -37,11 +37,11 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ## Ingredients
 
-###### 1.9
+###### 0.8
 ###### Scale
 ###### 17* 6 = 102
 ###### Calculate
-###### Unreleased 3
+###### Hide percentage columns
 
 | Ingredient                        | Quantity, g | %   | Note                                                                              |
 | --------------------------------- | ----------- | --- | --------------------------------------------------------------------------------- |

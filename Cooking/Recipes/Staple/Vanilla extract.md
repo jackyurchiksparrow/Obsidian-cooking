@@ -28,10 +28,10 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-|                                                                                                                                                                                                                                      |     |     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- | --- |
-| ![](https://lh3.googleusercontent.com/pw/AP1GczN0v-bRue0W1OkdWyvJKpOffAyJTEXysBhQkWOUz2S0GfQK7C0O800oi1gxlA-IufJiqhJvrKrtTdIdkrTFgYPVXX04N8izm5b4QHB-Xrbn0JqrtAi3vxvCqBI4nFZ6I8qQsyy3J1bHWcOwQahfUeNN=w1204-h903-s-no-gm?authuser=0) |     |     |
-| Bought from Prom (ЕКОКУМ інтернет магазин):<br>8 pcs. (18g) for 525 UAH (175 UAH a piece)<br><br>But the best value and packaging would be on Prom (Унікраса):<br>18g would be 375 UAH (125 UAH a piece)!                            |     |     |
+|                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczN0v-bRue0W1OkdWyvJKpOffAyJTEXysBhQkWOUz2S0GfQK7C0O800oi1gxlA-IufJiqhJvrKrtTdIdkrTFgYPVXX04N8izm5b4QHB-Xrbn0JqrtAi3vxvCqBI4nFZ6I8qQsyy3J1bHWcOwQahfUeNN=w1204-h903-s-no-gm?authuser=0)                      | ![](https://lh3.googleusercontent.com/pw/AP1GczMVJTR2qCF59QJDBcBNgslpAV8cRpHc1Pa8eTdeukIwr72dTDOddJq9ucQf3go_yMlmCd3mxLbb_VFan2AB3N0RgMyqHkmi7QeEOFcecGZnGFrhL43q55MwAmIY94WE42s9NHaCA1KIMuoYAp_3h8Le=w960-h1280-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczOrZjmCxrW4p1-kvzpxEtdcE7pNPZoYofuPplzZlPNf8O5Lyl3CMitOTBGtptJobp-vnJ1nN_DhlsLT5_iq4IfCnYzkJ__eNRyRooEGrcrgXWazsXSjSBfJmGzajKg9oOiX9wwRwW6UeHqiC2cuQoOQ=w720-h1280-s-no-gm?authuser=0) |
+| Bought from Prom (ЕКОКУМ інтернет магазин):<br>8 pcs. (18g) for 525 UAH (175 UAH a piece)<br><br>But the best value and packaging would be on Prom (Унікраса):<br>18g would be 375 UAH (125 UAH a piece)!<br><br>New best (prom) Aurlanka 50g are 700UAH! |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                      |
 
 ## Ingredients
 
@@ -54,10 +54,14 @@ window.onerror = function (message, source, lineno, colno, error) {
 ---
 ## Directions:
 
-1. Cut the beans lengthwise. Cut them into 2-3 parts to fit the bottle height.
-2. Using knife, go along the inner part of each bean exposing the seeds more.
-3. Immediately brush off the remaining seeds from the knife with the bean.
-4. Pour vodka in. Screw. Shake every day for the first week, every 2-3 days next weeks and then once-twice per month until you forget about it.
+1. Cut the beans lengthwise. Cut them into 2/3 of the bottle height.
+2. Using knife, go along the inner part of each bean exposing the seeds more. 
+	> Do not scrape out the seeds (waste while doing it + cloudiness and wasting the seeds during usage of the extract).
+3. Pour vodka in. Screw. Shake every day for the first week, every 2-3 days next weeks and then once-twice per month until you forget about it. 
+4. Readiness in my experience:
+	- 6 months - ok, but mediocre
+	- 1 year - ok
+	- 2 years - perfect
 
 
 ---

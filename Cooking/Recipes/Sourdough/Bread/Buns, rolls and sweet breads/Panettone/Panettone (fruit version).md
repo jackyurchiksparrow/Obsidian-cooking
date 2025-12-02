@@ -5,13 +5,13 @@ tags:
   - chocolate
   - christmas
 date: 2025-06-08
-hydration: 
-bulk fermentation: 
-cold retard: 
+hydration:
+bulk fermentation:
+cold retard:
 outcome: properly proofed
 thumbnail: https://lh3.googleusercontent.com/pw/AP1GczO9asfa-ERgatiGHEL-c3m3NXCINGGSQhPEjfBhAhYioERnVRMWu8gZkr4FKepXJQJTZqVsHvbFbwD4BG2YO9WYuCh1Mfp28XBL9vt1D37Vd8oGp3H_U6P6sla45G_bwMUGmAHfIsciA0xgMrm6n8KE=w677-h903-s-no-gm?authuser=0
-yield: 
-nutrition rating: 
+yield:
+nutrition rating:
 taste rating: 10
 credit:
   - Lluís Costa
@@ -54,8 +54,8 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### 1
 ###### Scale
 ###### 167/611 = 0.27
-###### Calculate
-###### Show percentage columns
+###### Hide percentage columns
+###### Hide percentage columns
 
 | Ingredient                                           | Quantity, g                 | Baker's % | %   | Note                                                                                                                                                                                                                                                                            |
 | ---------------------------------------------------- | --------------------------- | --------- | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -107,7 +107,10 @@ FR: 09:30 (regular feeding): 20 LM : 17 water : 40 white bread flour
 ST 08:15-8:35: **1st refreshment ratio: 8g sourdough starter (after Bagnetto if used): 8g water: 16g white flour -> into a cup, covered at 25-26C** (50% hydration) 1:2 feeding;
 ST 12:35-12:50: **2nd refreshment ratio: 30g sourdough starter: 23g water: 46g white flour -> into a cup, covered at 25-26C** (50% hydration) 1:1.5 feeding;
 ST 16:50-17:05: **3rd refreshment ratio: 100g sourdough starter: 42g water: 84g white flour** (50% hydration) 1:0.83 feeding; 
-ST 20:00: Combine the flour and room temperature water (25-26C) in the bowl of a stand mixer. Cover and put in the fridge covered. Place the hook in the freezer. You may optionally proceed to the glaze and dry fruit soaking if bored.
+ST 20:00: 
+- Combine the flour and room temperature water (25-26C) in the bowl of a stand mixer. Cover and put in the fridge (pay attention that your dough is room temperature in order for autolysis to be useful at all, otherwise it reaches the fridge temperature quickly and makes almost no sense). 
+- Place the hook in the freezer.
+- You may optionally proceed to the glaze and dry fruit soaking if bored.
 ### First kneading (ST 21:05):
 1. Put the cold autolyze dough together with the sourdough starter, torn into pieces. Start mixing slowly until the mixture is gathered and uniformly mixed, the gluten is developed. 
 2. Add the softened cubed butter. 
