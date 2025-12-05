@@ -336,10 +336,14 @@ class RecipeScaler {
             // 3. Run merge ONCE after toggling
             // detect whether columns are currently hidden or shown
             let anyHidden = false;
-            indices_to_toggle.forEach(idx => {
+            for (let i = 0; i < indices_to_toggle.length; i++) {
+                const idx = indices_to_toggle[i];
                 const th = title_ths[idx];
-                if (th.style.display.toLowerCase() === "none") anyHidden = true;
-            });
+                if (th.style.display.toLowerCase() === "none") {
+                    anyHidden = true;
+                    break;
+                }
+            }
 
             // adjust colspan depending on state
             const current_colspan = anyHidden
