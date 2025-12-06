@@ -267,14 +267,15 @@ class RecipeScaler {
                 if (isSpecialRow) {
                     const tr = currentIngred.closest("tr");
 
-                    // Remove all other cells from that row
+                    // Hide other cells from that row (preserve DOM structure so column indexes remain stable)
                     const tds = tr.querySelectorAll("td");
                     for (let j = 1; j < tds.length; j++) {
-                        tds[j].remove();
+                        tds[j].style.display = "none";
                     }
 
-                    // Merge the row visually across all columns
+                    // set proper colspan on the first cell so the visual merge still works
                     currentIngred.setAttribute("colspan", colspan_val);
+
                 }
             }
         }
@@ -437,22 +438,31 @@ class RecipeScaler {
             const ingredients_table_ths = ingredients_table.querySelectorAll("th");
             
             // Get the column indices
+            // Get the column indices
             let [ingredients_col_pos_idx, quantity_col_pos_idx, percentage_col_pos_idx, bakers_percentage_col_pos_idx, note_col_pos_idx, scaled_col_idx] = this.get_column_indices(ingredients_table_ths);
             let scale_value = this.getScaleIngredientsValue();
             let new_column_idx = scaled_col_idx;
-            
-            // Check if the scaled column already exists; if not, add it
+
+            // If scaled column doesn't exist, add it
             if (scaled_col_idx === false || scaled_col_idx === undefined) {
-                    new_column_idx = this.add_new_col_to_table(ingredients_table, quantity_col_pos_idx + 1, "Scaled <strong>x" + scale_value + "</strong>");
-                    // if the show/hide percentages columns button is in "hide" state, then it is aka 
-                    // "reading mode" and we should immediately enforce the new column to be hidden
-                    if(this.hide_percentage_columns_button.textContent.toLowerCase().includes("show")) {
-                        RecipeScaler.hide_tables_col(ingredients_table, new_column_idx+1, true);
-                    } else RecipeScaler.hide_tables_col(ingredients_table, new_column_idx+1, false);
+                // Insert after quantity column
+                new_column_idx = this.add_new_col_to_table(ingredients_table, quantity_col_pos_idx + 1, "Scaled <strong>x" + scale_value + "</strong>");
+                // respect hide/show state of percentage columns (button text contains "show" when currently hidden)
+                if (this.hide_percentage_columns_button.textContent.toLowerCase().includes("show")) {
+                    RecipeScaler.hide_tables_col(ingredients_table, new_column_idx + 1, true);
+                } else {
+                    RecipeScaler.hide_tables_col(ingredients_table, new_column_idx + 1, false);
+                }
             } else {
-                // change the column title
-                ingredients_table_ths[scaled_col_idx].querySelector('strong').innerHTML = `x${scale_value}`;
+                // scaled column exists — update the header consistently
+                const scaledTh = ingredients_table_ths[scaled_col_idx];
+                if (scaledTh) {
+                    // ensure the full header has the "Scaled " label and the strong xN markup
+                    scaledTh.innerHTML = `<div class='table-cell-wrapper'>Scaled <strong>x${scale_value}</strong></div>`;
+                }
+                new_column_idx = scaled_col_idx;
             }
+
 
             // Iterate through each row in tbody to scale values
             const ingredients_table_tbody_trs = ingredients_table.querySelectorAll("tbody tr");
