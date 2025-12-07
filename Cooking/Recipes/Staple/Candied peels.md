@@ -99,7 +99,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 8. **Slice the Fruit**:
     - Thinly slice the oranges.
-    - Reserve ugly slices and juice for [[Orange Marmalade]]. Keep about **2 trays** of thin, beautiful slices for drying.
+    - Reserve ugly slices and juice for [[Orange marmalade]]. Keep about **2 trays** of thin, beautiful slices for drying.
 9. **Make Marmalade**:
     - After the peels are done, add the reserved ugly slices, tops, and bottoms to the pot.
     - Add [[Inverted Sugar]], sugar, and enough juice to cover everything.
