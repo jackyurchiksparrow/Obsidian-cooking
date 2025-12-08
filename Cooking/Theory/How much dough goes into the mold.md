@@ -1,5 +1,5 @@
 ## Constant variables (dough density => less hydration - tighter crumb - bigger density)
-- **Light and airy doughs (like Panettone)** $\Huge \approx 0.387 g/cm^3$ (not really tested; supposed to be less than for Kulich I guess)
+- **Light and airy doughs (like Panettone)** $\Huge \approx 0.366 g/cm^3$ (not really tested; supposed to be less than for Kulich I guess)
 - **Medium-density doughs (like Kulich)**  $\Huge \approx 0.372 g/cm^3$ (tested; confirmed)
 - **Denser doughs (like Brioche)** $\Huge \approx 0.42 g/cm^3$ (not really tested)
 - **Pan loaves (rye-wheat bread)** $\Huge \approx 0.384 g/cm^3$ (roughly tested)
@@ -107,14 +107,14 @@ $\Huge 3) \space DoughWeight = 1017.87 \times 0.372 \approx 380 \space g$
 
 $\Huge 1) \space V = \pi \times (\frac{13.4}{2})^2 \times 9.5 = 1339.75 \space cm^3$
 
-$\Huge 2) \space Density \approx 0.387 \space g/cm^3$
+$\Huge 2) \space Density \approx 0.366 \space g/cm^3$
 
-$\Huge 3) \space DoughWeight = 1339.75 \times 0.387 \approx 518 \space g$ 
+$\Huge 3) \space DoughWeight = 1339.75 \times 0.366 \approx 490 \space g$ 
 
 #### Example: Round mold for panettone (17.8 diameter 11 height)
 
 $\Huge 1) \space V = \pi \times (\frac{17.8}{2})^2 \times 11 = 2737.3 \space cm^3$
 
-$\Huge 2) \space Density \approx 0.387 \space g/cm^3$
+$\Huge 2) \space Density \approx 0.366 \space g/cm^3$
 
-$\Huge 3) \space DoughWeight = 2737.3 \times 0.387 \approx 1060 \space g$ 
+$\Huge 3) \space DoughWeight = 2737.3 \times 0.366 \approx 1000 \space g$ 
