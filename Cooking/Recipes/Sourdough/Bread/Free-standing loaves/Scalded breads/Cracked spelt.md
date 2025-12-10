@@ -47,19 +47,30 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Hide percentage columns
 
-| Ingredient                                               | Quantity, g | Baker's % | %   | Note                                                                                         |
-| -------------------------------------------------------- | ----------- | --------- | --- | -------------------------------------------------------------------------------------------- |
-| Water 1                                                  | 283         |           |     |                                                                                              |
-| Water 2                                                  | 20          |           |     |                                                                                              |
-| [[Sourdough starter types\|Sourdough starter (50%); LM]] | 220         |           |     | 55g starter : 110g flour : 55g water; 4-5h at env. 28-31C, ideally tripled or almost tripled |
-| Sea salt                                                 | 14          |           |     |                                                                                              |
-| [[Flours\|Bread flour (Zernari) / any bread flour]]      | 217         |           |     |                                                                                              |
-| [[Flours\|Whole spelt flour (organic)]]                  | 160         |           |     |                                                                                              |
-| Whole spelt berries, milled into coarse flour (soaker)   | 93          |           |     | soak in water 1:1                                                                            |
-| Water (soaker)                                           | 93          |           |     |                                                                                              |
-|                                                          |             |           |     |                                                                                              |
-| **Overall hydration**                                    |             |           |     |                                                                                              |
-| **Overall weight**                                       |             |           |     |                                                                                              |
+| Ingredient                                               | Quantity, g | Baker's % | %   | Note                                                                                                                                                   |
+| -------------------------------------------------------- | ----------- | --------- | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **LM version**                                           |             |           |     |                                                                                                                                                        |
+| Water 1                                                  | 283         |           |     |                                                                                                                                                        |
+| Water 2                                                  | 20          |           |     |                                                                                                                                                        |
+| [[Sourdough starter types\|Sourdough starter (50%); LM]] | 220         |           |     | 4-5h version at 28-31C:<br>55g starter : 110g flour : 55g water; ideally tripled or almost tripled, ripe peach stage<br><br>10-11h version at 21C:<br> |
+| Sea salt                                                 | 14          |           |     |                                                                                                                                                        |
+| [[Flours\|Bread flour (Zernari) / any bread flour]]      | 217         |           |     |                                                                                                                                                        |
+| [[Flours\|Whole spelt flour (organic)]]                  | 160         |           |     |                                                                                                                                                        |
+| Whole spelt berries, milled into coarse flour (soaker)   | 93          |           |     | soak in water 1:1                                                                                                                                      |
+| Water (soaker)                                           | 93          |           |     |                                                                                                                                                        |
+|                                                          |             |           |     |                                                                                                                                                        |
+| **Overall hydration**                                    |             |           |     |                                                                                                                                                        |
+| **Overall weight**                                       |             |           |     |                                                                                                                                                        |
+|                                                          |             |           |     |                                                                                                                                                        |
+| **Rye version**                                          |             |           |     |                                                                                                                                                        |
+| Water 1                                                  | 283         |           |     |                                                                                                                                                        |
+| Water 2                                                  | 20          |           |     |                                                                                                                                                        |
+| [[Sourdough starter types\|Sourdough starter (50%); LM]] | 220         |           |     | 55g starter : 110g flour : 55g water; 4-5h at env. 28-31C, ideally tripled or almost tripled                                                           |
+| Sea salt                                                 | 14          |           |     |                                                                                                                                                        |
+| [[Flours\|Bread flour (Zernari) / any bread flour]]      | 217         |           |     |                                                                                                                                                        |
+| [[Flours\|Whole spelt flour (organic)]]                  | 160         |           |     |                                                                                                                                                        |
+| Whole spelt berries, milled into coarse flour (soaker)   | 93          |           |     | soak in water 1:1                                                                                                                                      |
+| Water (soaker)                                           | 93          |           |     |                                                                                                                                                        |
 
 
 
