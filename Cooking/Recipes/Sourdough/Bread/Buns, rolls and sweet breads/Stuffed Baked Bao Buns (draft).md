@@ -1,17 +1,18 @@
 ---
 tags:
   - "#sourdough"
+  - draft
 date: ""
-hydration: 
-bulk fermentation: 
-cold retard: 
-outcome: 
-thumbnail: 
-yield: 
-nutrition rating: 
-taste rating: 
+hydration:
+bulk fermentation:
+cold retard:
+outcome:
+thumbnail:
+yield:
+nutrition rating:
+taste rating:
 credit: https://www.instagram.com/reel/DFBBni1M-mF/?igsh=bHEydWt2aTBkOHpk
-part_of_the_set: 
+part_of_the_set:
 cuisine:
   - Chinese
 ---
@@ -44,7 +45,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Scale
 ###### 240+112 = 352
 ###### Calculate
-###### Unreleased 3
+###### Hide percentage columns
 
 | Ingredient                                                                               | Quantity, g | Baker's % | %   | Note  |
 | ---------------------------------------------------------------------------------------- | ----------- | --------- | --- | ----- |
