@@ -51,7 +51,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Scale
 ###### 167/611 = 0.27
 ###### Hide percentage columns
-###### Hide percentage columns
+###### Show percentage columns
 
 | Ingredient                                                                                                                                                                                                                                                                                                                                                                                                                                | Quantity, g          | Baker's % | %   | Note                                                                                                                                                                                                                                                                            |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | --------- | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -132,7 +132,8 @@ Need recalculation? [[Recalculation of 3 feedings|Run this script]] to decide on
 - Measure and place the water into the fridge.
 - You may optionally proceed to the glaze and dry fruit soaking if bored.
 ### First kneading (ST 23:00):
-1. Put the <u>cold water</u>, <u>flour</u>, <u>sourdough starter</u> (discard the extra!) torn into pieces, <u>butter</u> and <u>sugar</u> into a mixing bowl. (DO NOT AUTOLYSE, the hydration is too low at this stage and it will ruin the texture when butter is added!) 
+1. Put the <u>cold water</u>, <u>flour</u>, <u>sourdough starter</u> (discard the extra!) torn into pieces, <u>butter</u> and <u>sugar</u> into a mixing bowl. 
+> (DO NOT AUTOLYSE, the hydration is too low at this stage and it will ruin the texture when butter is added!) 
 2. Knead for ~15 minutes or until the dough is tenacious (the gluten is developed).
 3. Now the dough must look smooth, glossy, detached from the walls, not too dry, not too wet. Add the <u>egg yolks</u> gradually, while mixing. The goal now is to return to the initial consistency, but it will be slightly more wet and sticky. It will first start to break down, that's OK. When the yolks are mixed in slightly, we may increase the speed to medium.
 4. Take the dough out from the mixer onto the counter. Fold it a few times to form a strong big boule.
