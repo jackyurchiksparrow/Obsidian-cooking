@@ -75,7 +75,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 3. Mix the dry into the wet.
 4. One cookie = 1/2 tbsp. 
 5. Form balls and put into powdered sugar a few at a time and rotate the bowl to cover, place on the tray.
-6. Slightly squeeze with a tablespoon and bake 30min at 180C closer to the top heating element.
+6. Slightly squeeze with a tablespoon and bake 20min for softer ones and 30min for chewier and crusty at 180C closer to the top heating element.
 
 
 ---
