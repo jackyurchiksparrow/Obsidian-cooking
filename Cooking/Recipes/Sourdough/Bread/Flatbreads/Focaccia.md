@@ -47,13 +47,12 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Scale
 ###### 870 / 70 = 12.43
 ###### Calculate
-###### Hide percentage columns
+###### Show percentage columns
 
 | Ingredient                                                                                                                                                                                 | Quantity, g | Baker's % | %   | Note                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- | --------- | --- | ------------------------------- |
 | **Dough** (big savory, 1.4kg)                                                                                                                                                              |             |           |     |                                 |
-| Water                                                                                                                                                                                      | 510         |           |     |                                 |
-| Water 2                                                                                                                                                                                    | 25          |           |     |                                 |
+| Water                                                                                                                                                                                      | 535         |           |     |                                 |
 | [[Sourdough starter types\|Sourdough starter (50%)]]                                                                                                                                       | 100         |           |     |                                 |
 | Sea salt                                                                                                                                                                                   | 13          |           |     |                                 |
 | [[Flours\|Bread flour (Zernari) / any 00 flour]]                                                                                                                                           | 660         |           |     |                                 |
@@ -66,7 +65,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 |                                                                                                                                                                                            |             |           |     |                                 |
 | **--- 1. One-hour autolyze ---**                                                                                                                                                           |             |           |     |                                 |
 | **--- 2. Add the levain, salt and honey, knead the dough well ---**                                                                                                                        |             |           |     |                                 |
-| **--- 3. Bulk at 30C for about 5h or until doubled or more ---**                                                                                                                           |             |           |     |                                 |
+| **--- 3. Bulk at 24C for about 5-6h or until well risen (50% is 1 day in the fridge, 60% if two) ---**                                                                                     |             |           |     |                                 |
 | **--- 4. Fridge overnight (optional) ---**                                                                                                                                                 |             |           |     |                                 |
 | **--- 5. Wait for 1-1.5h at room temperature ---**                                                                                                                                         |             |           |     |                                 |
 | **--- 6. Divide and put into baking pans (NO PARCHMENT). Ferment at 30C again and expect at least 0.5-0.8 increase. The dough can handle a very long refrigeration of 2-3 days even. ---** |             |           |     |                                 |
