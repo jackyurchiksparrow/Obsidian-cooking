@@ -28,22 +28,6 @@ window.onerror = function (message, source, lineno, colno, error) {
 		return true;
 	}
     };
-
-```
-```dataviewjs
-while (!customJS?.state?._ready) { 
-	await new Promise(resolve => setTimeout(resolve, 50)); 
-} 
-
-const {RecipeScaler} = await cJS();
-RecipeScaler.RecipeScaler();
-
-window.onerror = function (message, source, lineno, colno, error) {
-	if (error instanceof TypeError && message.includes("Cannot read properties of undefined")) {
-		RecipeScaler.RecipeScaler();
-		return true;
-	}
-    };
 ```
 
 | Pan before cold retard | Pan before baking | Appearance | Crumb |
@@ -58,7 +42,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Scale
 ###### 26.8+50.2 = 77
 ###### Calculate
-###### Show percentage columns
+###### Hide percentage columns
 
 | Ingredient                                                | Quantity, g | Baker's % | %   | Note                                                                |
 | --------------------------------------------------------- | ----------- | --------- | --- | ------------------------------------------------------------------- |
