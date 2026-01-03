@@ -35,7 +35,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ## Ingredients
 
-###### 3
+###### 1
 ###### Scale
 ###### 26/16 = 1.63
 ###### Calculate
@@ -67,7 +67,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | **--- 8. Line the bottom of a spring form with parchment. Then, wrap it in foil from the bottom to prevent water going inside. Pour the batter in over a spatula (to avoid bubbles forming). Even out the surface with spatula and burst bubbles ---**                                                                                  |             |     |         |
 | **--- 9. Place the spring form into a deep tray, put the tray into the oven and fill it with boiling water about 1-2cm height ---**                                                                                                                                                                                                     |             |     |         |
 | **--- 10. Bake:<br>at 160C for 20min,<br>at 120C for 60min ---**                                                                                                                                                                                                                                                                        |             |     |         |
-| **--- 11. Cool it there for 15-30min with an oven door ajar. It must come out of the pan easily.  ---**                                                                                                                                                                                                                                 |             |     |         |
+| **--- 11. Cool it there for 15-30min with an oven door ajar. It must come out of the pan easily. Brush the top with honey  ---**                                                                                                                                                                                                        |             |     |         |
 |                                                                                                                                                                                                                                                                                                                                         |             |     |         |
 | **Overall weight**                                                                                                                                                                                                                                                                                                                      |             |     |         |
 
