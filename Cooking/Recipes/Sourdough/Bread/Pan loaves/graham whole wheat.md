@@ -1,7 +1,7 @@
 ---
 tags:
   - "#sourdough"
-date:
+date: 2026-01-06
 hydration:
 bulk fermentation:
 cold retard:
@@ -30,10 +30,10 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-| Pan before cold retard                                                                                                                                                                                                                              | Pan before baking | Appearance | Crumb |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- | ----- |
-|                                                                                                                                                                                                                                                     |                   |            |       |
-| **Hydration**: <br>**Weight**: <br>**Autolyse**: <br>**Fermentolyse**: <br>**Bulk**: (*24C* optimal)<br><br>**Cold retard**: -<br>**Outcome**: <br>**Aliquot**: <br>**Levain**: <br>**Title**: <br>**Improvements (next)**:<br>- <br><br>24.12.2025 |                   |            |       |
+| Pan before cold retard                                                                                                                                                                                                                                     | Pan before baking | Appearance | Crumb |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- | ----- |
+|                                                                                                                                                                                                                                                            |                   |            |       |
+| **Hydration**: 72%<br>**Weight**: 850g<br>**Autolyse**: <br>**Fermentolyse**: <br>**Bulk**: (*24C* optimal)<br><br>**Cold retard**: -<br>**Outcome**: <br>**Aliquot**: <br>**Levain**: <br>**Title**: <br>**Improvements (next)**:<br>- <br><br>24.12.2025 |                   |            |       |
 
 
 ## Ingredients
