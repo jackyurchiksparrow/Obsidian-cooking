@@ -62,8 +62,8 @@ Usage:
 
 Poppy seeds — 250 g  
 Milk 1 — 150 g  
-Milk 2 — 25g  
-Sugar — 100 g  
+Milk 2 — 25g (ONLY if it looks really dry, then cook it out thoroughly)
+Sugar — 130 g  
 Butter — 25 g  
 Raisins dark - 25g  
 Fine breadcrumbs — 25 g (only if it looks liquid, if just too wet while hot, then do nothing and leave to cool)
@@ -73,7 +73,7 @@ Egg - 50g (when it has cooled down - if baking)
 
 1. While they are still dry, grind them in a coffee grinder.
 2. Heat the milk 1 until almost boils, soak the poppy seed covered for 60min / overnight.
-3. Add sugar and raisins, milk 2, cook on very low constantly stirring while the milk is boiling away.
+3. Add sugar and raisins, optionally milk 2, cook on very low constantly stirring while the milk is boiling away.
 4. Off of the heat, add butter and stir on the hot stove. 
 5. Consider if adding breadcrumbs is necessary, you can always add them later, with the egg.
 6. Add the egg before using (if using in baking)
