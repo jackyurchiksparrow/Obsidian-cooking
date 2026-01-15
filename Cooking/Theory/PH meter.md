@@ -24,20 +24,24 @@ Extremely useful for [[Lievito madre]] where the perfect value after the very la
 Calibrate according to the manual of the device. Prepare the bought solution also according to their instructions. I use single-use sachets. Only makes sense to do if it is going to be used soon after (see "recalibrate when" section).
 
 In the case of YY-1033 PH meter:
-1. Connect the device to the app and check that calibration setting is set to your solution (6.86 or 7.00).
+1. Connect the device to the app and check that calibration setting is set to your initial solution (*6.86* or *7.00*).
 2. Remove from storage solution (it is mandatory for it to have spent it at least 1-2 hours prior to calibration)
-3. Rinse the electrode with distilled water, discard the water.
-4. Blot gently with lint-free tissue or a paper towel (do not put pressure with your fingers).
-5. Put the electrode into the *6.86*/*7.00* calibration solution first (mandatory for this model).
-6. Press and hold the "cal" button for 5 second. As soon as the number on the screen has blinked three times, rinse with distilled water again.
-7.  Put the electrode into the *4.01* solution.
-8. Press and hold the "cal" button for 5 second. As soon as the number on the screen has blinked three times, rinse with distilled water again.
-9. Proceed to measuring if needed. Clean with distilled water again, shake it off and store in storage solution.
+3. Rinse the electrode with distilled water (should it be a bigger glass).
+4. (Optional) Blot gently with lint-free tissue or a paper towel (do not put pressure with your fingers).
+5. Put the electrode into each of the three solutions in this exact order (the first two are must have): either 
+	either/or:
+		- Asian standard: *6.86*/*4.00*/*9.18*
+		- EU standard: *7.00*/*4.00*/*10.01*
+	a. Choose the respective standard in settings.
+	b. Put the meter into the first solution. Press and hold the "cal" button for 5 second. As soon as the number on the screen has blinked three times and stopped blinking, rinse in distilled water again.
+	c. Same for second solution.
+	d. Same for third solution.
+6. Clean with distilled water again, shake it off and store in storage solution or proceed to measuring.
 
 ## Usage
 
-1. If it is calibrated, insert the electrode into the softest and wettest part of the dough, no protection sleeves, nothing. Measure.
-2. Clean with distilled water, ensure no dough residue or staff. Wipe gently.
+1. If it is calibrated, insert the electrode into the softest and wettest part of the dough's surface with rotating motions, no protection sleeves, nothing. Measure. You may slice it and them measure inside again to ensure precision.
+2. Clean with distilled water, ensure no dough residue or staff. Wipe gently if any residue is visible.
 3. Put back into storage solution. Always mark the last calibration date or track in the app.
 ## Do I discard the calibration solutions?
 
