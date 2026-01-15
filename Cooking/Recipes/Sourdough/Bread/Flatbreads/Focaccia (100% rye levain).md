@@ -2,17 +2,17 @@
 tags:
   - "#sourdough"
   - flatbread
-date:
-hydration:
-bulk fermentation:
-cold retard:
-outcome:
-thumbnail:
+date: 2025-12-29
+hydration: 74
+bulk fermentation: 4 h
+cold retard: 48h
+outcome: overproofed
+thumbnail: https://lh3.googleusercontent.com/pw/AP1GczNwIg74Rn1F-h8XAcOgdhMtapUUN9tzKV1XduZBX2UxMLhLWYvsGfFRyoefpo0TwY7j67n8Rh6gZ-YaTp4cEArl81t7AxX0hdT0MPLMSirgaeNJ3858sgVEi8IMk0bgm43cM4V45ASKq4O_3H2Sy-GC=w986-h718-s-no-gm?authuser=0
 yield:
 nutrition rating:
 taste rating:
 credit:
-  - Perfect loaf book
+  - I
 part_of_the_set:
 ---
 ```dataviewjs
@@ -31,13 +31,13 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-| 1                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 2   | 3   | 4   |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- | --- |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                       |     |     |     |
-| **Hydration**: 72%<br>**Autolysis**: 1h<br>**Bulk 1**: <br>- 4h 53min at 25-26C<br>**Cold retard**: 12h<br>**Bulk 2**:<br>- 1h at 25C after fridge<br>- 2h 30min warm oven<br>**Outcome**: properly proofed, but could benefit from a longer rise<br>**Levain**: LM; peaked at 5h (almost tripled)<br>**Title**: Focaccia<br>**Improvements (next)**:<br>- increase bulk temperature to 29-31C and try to maintain the same timings<br><br>11.10.2025 |     |     |     |
+| 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 2                                                                                                                                                                                                                                    | 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 4                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczPzg42VAZo2QEaFa6FS0rc_a7z-3FYCKSu-dptGPzwyDoIvhygry8wJ60lZcr178wOosYZN83PA18lV4CA4K8WZNe_S6WXt9gkUvfBWEdgBBb-tLz0Hlb3fcbesZPvNAo2sj_1bGtEyADkyLS6XdbHE=w960-h1280-s-no-gm?authuser=0)<br><br>![](https://lh3.googleusercontent.com/pw/AP1GczOAB8-nNWjNL0M6DEZCtAGH7EDwe8ZkOrUwJ4lakEn8WX_OJBOUtpJM2nDuPyMuiLD1Djro86WAlpRH-4rQ2ytVXVH9amNYac56kWSxp6n613fUMJSg1PViaX6zS7ROac5Kw9UI6edovkDP7LssnVHX=w1280-h720-s-no-gm?authuser=0)                                                                                                                                                                                                                                                                                                                      | ![](https://lh3.googleusercontent.com/pw/AP1GczMrXDyVs-Vcaf1krclZmAma23IlLQPYZx0gitb_IQpGA9RCP2O45mee1OzA0VWdMopUI0x2BfOgV5NFt2En4D5p6ICEVPtymNR5Gh2LrrgikPrlbK4VAJrS-fEjF3eudlXyu-wunxJEd1zg9k_S0RHl=w1280-h960-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczOxl5oImxscbpxoRkCFXHrWPJLZf6Rhz2jiCwBoxpteOsOPN5osnupBlsr9NffhB6GzZSX5Vyh2nxCy8BYJcQWCFic8SYZiUdKc_VuWBgwMu036W7smPWGL6qizdezzwyiHlfmnacrjryncbpOrIfxc=w1280-h720-s-no-gm?authuser=0)<br><br>![](https://lh3.googleusercontent.com/pw/AP1GczOUKONGHuHtDcp9SRQC65MbwS3uIFmo9jpDw9Bgo6fC5dRCgyRhROH1b-_BDnHqpc2AujeuZS2ZivDCJXvcQNnO8rXRDQT0unv4Qw_P1essKQBcOhS43NJd0EmgfQCPcegqQ_Vc4dBzgSZ1vNBssPHE=w960-h1280-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczNwIg74Rn1F-h8XAcOgdhMtapUUN9tzKV1XduZBX2UxMLhLWYvsGfFRyoefpo0TwY7j67n8Rh6gZ-YaTp4cEArl81t7AxX0hdT0MPLMSirgaeNJ3858sgVEi8IMk0bgm43cM4V45ASKq4O_3H2Sy-GC=w986-h718-s-no-gm?authuser=0)<br><br>![](https://lh3.googleusercontent.com/pw/AP1GczP69E856kSI8boKAp8Sg1hXV6rQWj6bIHZtihxAwLvWhNmZ8iJUXPQlxv8nMul7tvxYeKRZTTX8bGpOZh3XZCgB7Cv4JWUX27khr0eah2U2cmqVIV2hg0UniA_ZNDHCz3AjrGwAB8hD9Q0EU7DhKP7t=w1280-h720-s-no-gm?authuser=0) |
+| **Hydration**: 74%<br>**Autolysis**: 1h<br>**Bulk**: <br>~4-5h (60% increase) at 24C<br>- same day in the evening in the fridge increased to 120% due to residual heat<br>**Cold retard**: 48h<br>**Outcome**: severely overproofed<br>**Levain**: 100% rye levain<br>**Title**: Focaccia (100% rye levain)<br>**Improvements (next)**:<br>- *limit bulk to 40% rise*, then release the hit under the lid and refrigerate overnight<br>- make it smaller, probably 1.1kg as usual and use smaller pan then<br>- do not exceed 400g for tomatoes, too much of them<br>- do not take a big onion, the smallest you can find<br>- slice the garlic finer<br>- open the lid before placing the dough into the fridge, it accumulates too much residual heat in the container after bulk<br><br>29.12.2025 |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
 
-
+You might want to consider either feeding rye start with white flour or use LM. imho
 
 ## Ingredients
 
@@ -49,12 +49,11 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                                                                                                                                                                 | Quantity, g | Baker's % | %   | Note                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- | --------- | --- | ------------------------------------------------------------------- |
-| **Dough** (big savory, 1.3kg)                                                                                                                                                              |             |           |     |                                                                     |
-| Water 1                                                                                                                                                                                    | 410         |           |     |                                                                     |
-| Water 2                                                                                                                                                                                    | 70          |           |     |                                                                     |
+| **Dough** (big savory, 1.4kg)                                                                                                                                                              |             |           |     |                                                                     |
+| Water (never use all of it)                                                                                                                                                                | 535         |           |     |                                                                     |
 | [[Sourdough starter types\|Sourdough starter (100%); rye]]                                                                                                                                 | 105         |           |     | Levain ~8h at 21C:<br>15g starter : 45g water : 45g whole rye flour |
 | Sea salt                                                                                                                                                                                   | 13          |           |     |                                                                     |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]                                                                                                                                           | 660         |           |     |                                                                     |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]                                                                                                                                           | 722         |           |     |                                                                     |
 | Honey                                                                                                                                                                                      | 40          |           |     |                                                                     |
 | Olive oil (during shaping)                                                                                                                                                                 |             |           |     |                                                                     |
 |                                                                                                                                                                                            |             |           |     |                                                                     |
@@ -63,7 +62,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 |                                                                                                                                                                                            |             |           |     |                                                                     |
 | **--- 1. One-hour fermentolyze ---**                                                                                                                                                       |             |           |     |                                                                     |
 | **--- 2. Add the salt and honey, knead the dough well ---**                                                                                                                                |             |           |     |                                                                     |
-| **--- 3. Bulk at 24C for about 5-6h or until well risen (50% is 1 day in the fridge, 60% if two) ---**                                                                                     |             |           |     |                                                                     |
+| **--- 3. Bulk at 24C for about 5-6h or until well risen (40% is overnight in the fridge, 30% if one day, 20% if two days) ---**                                                            |             |           |     |                                                                     |
 | **--- 4. Fridge overnight (optional) ---**                                                                                                                                                 |             |           |     |                                                                     |
 | **--- 5. Wait for 1-1.5h at room temperature ---**                                                                                                                                         |             |           |     |                                                                     |
 | **--- 6. Divide and put into baking pans (NO PARCHMENT). Ferment at 30C again and expect at least 0.5-0.8 increase. The dough can handle a very long refrigeration of 2-3 days even. ---** |             |           |     |                                                                     |
@@ -90,21 +89,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 ---
 ## Directions:
 
-1. Autolysis.
-2. Mix in the starter and water 2 with salt.
-3. Knead thoroughly.
-4. Make very gentle folds.
-5. Proof until it looks very bubbly and aerated, as if it were a very overproofed free-standing loaf. **Bubbles must start appearing on top, not just one bubble**.
-6. Line a pan with parchment paper. Drizzle olive oil in.
-7. Spread the dough in the baking pan, stretching it a bit to reach the ends of the pan. Cover it until it's spread, it might need another hour for that.
-### 2-day option:
-8. When it looks bubbly enough and very giggly, dimple the dough and introduce the fillings and drizzle more olive oil on top. Place into the fridge for a cold retard.
-### 3-day option:
-1. Dimple the dough and introduce the fillings and drizzle more olive oil on top. Place into the fridge for a cold retard.
 
-### Baking:
-1. DO NOT redimple it after the fridge. Bake immediately.
-2. Bake for 30 minutes at 220C, turning it halfway through. Check the temperature (95-99C).
 
 
 

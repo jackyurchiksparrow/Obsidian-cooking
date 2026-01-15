@@ -37,7 +37,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 > [!Tip] T
 ## Ingredients
 
-###### 1
+###### 0.625
 ###### Scale
 ###### 610+182 = 792
 ###### Calculate
@@ -52,8 +52,9 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Milk                                                                                                                                                     | 460            |           |     |                                                                                                   |
 |                                                                                                                                                          |                |           |     |                                                                                                   |
 | **--- 2. Add the flour and salt. Continue mixing until a rough, sticky dough forms. Scrape down the sides of the bowl. Knead to give some strength ---** |                |           |     |                                                                                                   |
-| [[Flours\|Whole wheat flour (Molino Pordenone)]]                                                                                                         | 166            |           |     |                                                                                                   |
-| [[Flours\|Bread flour (Zernari) / any bread flour]]                                                                                                      | 555            |           |     |                                                                                                   |
+| Whole wheat flour (either sifted type 2 or professional strong whole wheat)                                                                              | 166            |           |     |                                                                                                   |
+| [[Flours\|Bread flour (Zernari) / any bread flour]]                                                                                                      | 150            |           |     |                                                                                                   |
+| Low-protein flour (10.3g)                                                                                                                                | 405            |           |     |                                                                                                   |
 | Salt                                                                                                                                                     | 11             |           |     |                                                                                                   |
 | Butter; softened                                                                                                                                         | 100            |           |     |                                                                                                   |
 |                                                                                                                                                          |                |           |     |                                                                                                   |
