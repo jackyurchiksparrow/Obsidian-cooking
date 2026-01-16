@@ -33,7 +33,7 @@ In the case of YY-1033 PH meter:
 		- Asian standard: *6.86*/*4.00*/*9.18*
 		- EU standard: *7.00*/*4.00*/*10.01*
 	a. Choose the respective standard in settings.
-	b. Put the meter into the first solution. Press and hold the "cal" button for 5 second. As soon as the number on the screen has blinked three times and stopped blinking, rinse in distilled water again.
+	b. Put the meter into the first solution. Press and hold the "CAL" button for 5 second. As soon as the number on the screen has blinked three times and stopped blinking, rinse in distilled water again.
 	c. Same for second solution.
 	d. Same for third solution.
 6. Clean with distilled water again, shake it off and store in storage solution or proceed to measuring.
@@ -43,6 +43,17 @@ In the case of YY-1033 PH meter:
 1. If it is calibrated, insert the electrode into the softest and wettest part of the dough's surface with rotating motions, no protection sleeves, nothing. Measure. You may slice it and them measure inside again to ensure precision.
 2. Clean with distilled water, ensure no dough residue or staff. Wipe gently if any residue is visible.
 3. Put back into storage solution. Always mark the last calibration date or track in the app.
+
+## Connection to the app
+
+It is mandatory to connect to the app via Bluetooth in order to check calibration settings before calibration (Asian / EU standard) to know what solution set to use. It is not required for the usage itself.
+
+However, it won't connect unless:  
+1. The Bluetooth is on on both devices  
+2. Location is enabled on the phone  
+3. The app is the last version  
+4. The app has location permission in settings -> apps -> YINMIK -> permissions
+
 ## Do I discard the calibration solutions?
 
 For single-use ones (like *4.01* sachets) do not store. For powdered *6.86* - possible if stored in the fridge airtight for 2-4 weeks. I would say 2 at most 3 recalibrations given that it successfully reads *4.01* afterwards (means the solution is still fine). Any signs of mold or cloudiness - discard immediately.
