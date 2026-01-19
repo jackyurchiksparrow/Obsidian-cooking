@@ -38,15 +38,15 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ## Ingredients
 
-###### 1.75
+###### 1.25
 ###### Scale
-###### 27+27+54 = 108
+###### 150/626 = 0.24
 ###### Calculate
 ###### Hide percentage columns
 
 | Ingredient                                                                                                                                                                                                                                | Quantity, g | Baker's % | %   | Note                                                             |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | --------- | --- | ---------------------------------------------------------------- |
-| **--- 1. Autolyze 1h ---**                                                                                                                                                                                                                |             |           |     |                                                                  |
+| **--- 1. Fermentolyze 1h ---**                                                                                                                                                                                                            |             |           |     |                                                                  |
 | Milk                                                                                                                                                                                                                                      | 92          |           |     |                                                                  |
 | Water (never add all of it at once)                                                                                                                                                                                                       | 163         |           |     |                                                                  |
 | [[Sourdough starter types\|Sourdough starter (50%)]]                                                                                                                                                                                      | 120         |           |     | Levain (4h at 28C):<br>30g starter : 30g water : 60g bread flour |
