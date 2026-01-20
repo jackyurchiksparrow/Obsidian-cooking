@@ -526,7 +526,7 @@ class RecipeScaler {
 
         for (let i = 0; i < table_trs.length; i++) {
             const curr_trs = table_trs[i];
-            console.log(curr_trs);
+            //console.log(curr_trs);
             let el_to_hide = null;
 
             if(i==0) {
@@ -535,7 +535,7 @@ class RecipeScaler {
                 el_to_hide = curr_trs.querySelector(`td:nth-child(${column_idx})`);
             }
             
-            console.log(el_to_hide)
+            //console.log(el_to_hide)
 
             if(el_to_hide)
                 el_to_hide.style.display = status;
@@ -549,201 +549,211 @@ class RecipeScaler {
     };
 
     calculate_percentages(
-        table_rows, 
-        ingredients_col_pos_idx, 
-        quantity_col_pos_idx, 
-        scaled_col_idx, 
-        percentage_col_pos_idx, 
-        bakers_percentage_col_pos_idx, 
-        new_column_idx, 
+        table_rows,
+        ingredients_col_pos_idx,
+        quantity_col_pos_idx,
+        scaled_col_idx,
+        percentage_col_pos_idx,
+        bakers_percentage_col_pos_idx,
+        new_column_idx,
         scale_value
     ) {
-        /**
-         * Calculates general and baker's percentages for an ingredients table. 
-         * Each subsection of the table ends at rows containing the 
-         * `RecipeScaler.OVERALL_WEIGHT_ROW` keyword, treated as independent tables.
-         * 
-         * @param {Array} table_rows - List of rows in the table.
-         * @param {Number} ingredients_col_pos_idx - Column index for ingredients names.
-         * @param {Number} quantity_col_pos_idx - Column index for ingredient quantities.
-         * @param {Number|Boolean} scaled_col_idx - Column index for scaled quantities.
-         * @param {Number|Boolean} percentage_col_pos_idx - Column index for overall percentages.
-         * @param {Number|Boolean} bakers_percentage_col_pos_idx - Column index for baker's percentages.
-         * @param {Number} new_column_idx - Column index for new/updated data.
-         * @param {Number} scale_value - Scaling factor applied to quantities.
-         */
-    
+
         function render_dough_hydration(dough_hydration_val) {
-            /**
-             * Updates the "overall hydration" rows in the table with calculated hydration values.
-             * Only modifies the last encountered "overall hydration" row in the current table section.
-             * 
-             * @param {Number} dough_hydration_val - The calculated hydration percentage for the dough.
-             */
-            let counter = 0; // Tracks how many hydration rows have been processed.
+            let counter = 0;
             table_rows.forEach(tr_s => {
-                const ingredient_title_lower = tr_s.querySelectorAll('td')[ingredients_col_pos_idx]?.querySelector('div').textContent.toLowerCase();
-    
-                if (ingredient_title_lower.contains(RecipeScaler.OVERALL_HYDRATION_ROW)) {
+                const ingredient_title_lower =
+                    tr_s.querySelectorAll('td')[ingredients_col_pos_idx]
+                        ?.querySelector('div')?.textContent.toLowerCase();
+
+                if (ingredient_title_lower?.contains(RecipeScaler.OVERALL_HYDRATION_ROW)) {
                     counter++;
-                    if (counter === ingredients_tables.length) { // Update only the last hydration row for the section
-                        const ingredient_qty_el = tr_s.querySelectorAll('td')[quantity_col_pos_idx]?.querySelector('div');
-                        const ingredient_scaled_qty_el = tr_s.querySelectorAll('td')[new_column_idx]?.querySelector('div');
-    
-                        ingredient_qty_el.innerHTML = "<strong>" + RecipeScaler.round(dough_hydration_val, 3) + "%</strong>";
-                        ingredient_scaled_qty_el.innerHTML = "<strong>" + RecipeScaler.round(dough_hydration_val, 3) + "%</strong>";
+                    if (counter === ingredients_tables.length) {
+                        const ingredient_qty_el =
+                            tr_s.querySelectorAll('td')[quantity_col_pos_idx]?.querySelector('div');
+                        const ingredient_scaled_qty_el =
+                            tr_s.querySelectorAll('td')[new_column_idx]?.querySelector('div');
+
+                        ingredient_qty_el.innerHTML =
+                            "<strong>" + RecipeScaler.round(dough_hydration_val, 3) + "%</strong>";
+                        ingredient_scaled_qty_el.innerHTML =
+                            "<strong>" + RecipeScaler.round(dough_hydration_val, 3) + "%</strong>";
                     }
                 }
             });
         }
-    
-        // Adjust indexes if this is not the first time scaling.
+
         if (scaled_col_idx === false || scaled_col_idx === undefined) {
-            if (bakers_percentage_col_pos_idx)
-                bakers_percentage_col_pos_idx += 1;
-    
-            if (percentage_col_pos_idx)
-                percentage_col_pos_idx += 1;
+            if (bakers_percentage_col_pos_idx) bakers_percentage_col_pos_idx += 1;
+            if (percentage_col_pos_idx) percentage_col_pos_idx += 1;
         }
-    
-        // Initialize variables for processing table rows.
-        let ingredients_tables = []; // Stores data for each independent table section.
-        let sourdough = false;       // Tracks sourdough details if present.
-        let rows_indexes = [];       // Row indices for the current section.
-        let ingr_labels_lower = [];  // Lowercased ingredient names for the current section.
-        let ingr_quanties = [];      // Ingredient quantities for the current section.
-        let flour_weight = 0;        // Total weight of flour in the current section.
-        let water_weight = 0;        // Total weight of water in the current section.
-    
-        // Iterate through each row in the table.
+
+        let ingredients_tables = [];
+
+        let sourdough = null;
+        let rows_indexes = [];
+        let ingr_labels_lower = [];
+        let ingr_quanties = [];
+
+        let flour_weight = 0;
+        let water_weight = 0;
+
         table_rows.forEach((tr, idx) => {
-            const ingredient_title_lower = tr.querySelectorAll('td')[ingredients_col_pos_idx]?.querySelector('div').textContent.toLowerCase();
-            const ingredient_qty_el = tr.querySelectorAll('td')[quantity_col_pos_idx]?.querySelector('div');
-            const ingredient_scaled_qty_el = tr.querySelectorAll('td')[new_column_idx]?.querySelector('div');
-            const ingredient_qty = ingredient_qty_el.textContent;
-    
-            // Check if the row is an "overall weight" row.
-            let is_overall_row = ingredient_title_lower.contains(RecipeScaler.OVERALL_WEIGHT_ROW);
-    
-            // Check if the ingredient is sourdough and extract hydration and weight.
+
+            const ingredient_title_lower =
+                tr.querySelectorAll('td')[ingredients_col_pos_idx]
+                    ?.querySelector('div')?.textContent.toLowerCase();
+
+            if (!ingredient_title_lower) return;
+
+            if (ingredient_title_lower.contains("---") || ingredient_title_lower.contains("--"))
+                return;
+
+            const ingredient_qty_el =
+                tr.querySelectorAll('td')[quantity_col_pos_idx]?.querySelector('div');
+            const ingredient_scaled_qty_el =
+                tr.querySelectorAll('td')[new_column_idx]?.querySelector('div');
+
+            const ingredient_qty = parseFloat(ingredient_qty_el?.textContent) || 0;
+
+            const is_overall_row =
+                ingredient_title_lower.contains(RecipeScaler.OVERALL_WEIGHT_ROW);
+
+            /* ---------------- SOURDOUGH ---------------- */
             if (ingredient_title_lower.contains("sourdough")) {
-                let hydration_match = ingredient_title_lower.match(/(\d+(?:\.\d+)?)\s*%/);
+
+                const hydration_match =
+                    ingredient_title_lower.match(/(\d+(?:\.\d+)?)\s*%/);
+
+                const hydration =
+                    ingredient_title_lower.contains("dried")
+                        ? 0
+                        : (hydration_match ? parseFloat(hydration_match[1]) : 0);
+
                 sourdough = {
-                    hydration: ingredient_title_lower.contains("dried") ? 0 : (hydration_match ? parseFloat(hydration_match[1]) : 0),
-                    weight: parseFloat(ingredient_qty) || 0
+                    hydration: hydration,
+                    weight: ingredient_qty
                 };
-            } 
-            // Identify flour rows and accumulate total flour weight.
-            else if (RecipeScaler.ING_TBL_FLOUR_KEYS.some(val => ingredient_title_lower.contains(val))) {
-                if (!isNaN(ingredient_qty) && ingredient_qty != null && ingredient_qty !== '') {
-                    flour_weight += parseFloat(ingredient_qty);
-                    console.log("flour_weight after considering", ingredient_title_lower, "=",flour_weight)
-                }
-            } 
-            // Identify water rows and accumulate total water weight.
-            else {
-                const matchingKey = Object.keys(RecipeScaler.ING_TBL_WATER_KEYS).find(val => ingredient_title_lower.contains(val));
-    
-                if (matchingKey) {
-                    const waterPercentage = RecipeScaler.ING_TBL_WATER_KEYS[matchingKey] / 100;
-                    water_weight += (parseFloat(ingredient_qty) || 0) * waterPercentage;
-                    console.log("water_weight after considering", ingredient_title_lower, "=",water_weight)
-                }
+
+                rows_indexes.push(idx);
+                ingr_labels_lower.push(ingredient_title_lower);
+                ingr_quanties.push(ingredient_qty);
+                return;
             }
 
-            // else if (RecipeScaler.ING_TBL_WATER_KEYS.some(val => ingredient_title_lower.contains(val))) {
-            //     if(ingredient_title_lower.contains("yolk"))
-            //         water_weight += parseFloat(ingredient_qty) / 2 || 0;
-            //     else
-            //         water_weight += parseFloat(ingredient_qty) || 0;
-            // }
-    
-            // Track non-overall rows for calculations.
-            if (!ingredient_title_lower.contains(RecipeScaler.OVERALL_WEIGHT_ROW) && !ingredient_title_lower.contains(RecipeScaler.OVERALL_HYDRATION_ROW)) {
-                rows_indexes.push(idx);
-                if(ingredient_title_lower.contains("if not"))
-                    ingr_quanties.push(0.0);
-                else
-                    ingr_quanties.push(parseFloat(ingredient_qty) || 0);
-                ingr_labels_lower.push(ingredient_title_lower);
+            /* ---------------- FLOUR ---------------- */
+            if (RecipeScaler.ING_TBL_FLOUR_KEYS.some(val => ingredient_title_lower.contains(val))) {
+                flour_weight += ingredient_qty;
+                console.log("flour weight after considering", ingredient_title_lower, "=", flour_weight);
             }
-    
-            // When an overall row is encountered, calculate percentages and hydration.
+
+            /* ---------------- WATER ---------------- */
+            const matchingKey =
+                Object.keys(RecipeScaler.ING_TBL_WATER_KEYS)
+                    .find(val => ingredient_title_lower.contains(val));
+
+            if (matchingKey) {
+                const waterPercentage = RecipeScaler.ING_TBL_WATER_KEYS[matchingKey] / 100;
+                water_weight += ingredient_qty * waterPercentage;
+                console.log("water weight after considering", ingredient_title_lower, "=", water_weight);
+            }
+
+            if (
+                !ingredient_title_lower.contains(RecipeScaler.OVERALL_WEIGHT_ROW) &&
+                !ingredient_title_lower.contains(RecipeScaler.OVERALL_HYDRATION_ROW)
+            ) {
+                rows_indexes.push(idx);
+                ingr_labels_lower.push(ingredient_title_lower);
+                ingr_quanties.push(ingredient_qty);
+            }
+
+            /* ---------------- SECTION END ---------------- */
             if (is_overall_row) {
-                // Calculate the total weight of ingredients for the current section.
-                let overall_weight = ingr_quanties.reduce((acc, val) => val === '' ? acc : acc + val, 0);
-                let dough_hydration = 0;
-    
-                // Adjust for sourdough components if present.
-                if (sourdough && sourdough.hydration != 100) {
-                    console.log(sourdough)
-                    let levain_flour_parts = 100 / sourdough.hydration;
-                    let levain_water_amount = sourdough.weight / (levain_flour_parts + 1);
-                    let levain_flour_amount = sourdough.weight - levain_water_amount;
-    
+
+                let levain_flour_amount = 0;
+                let levain_water_amount = 0;
+
+                if (sourdough && sourdough.hydration !== 0) {
+                    levain_flour_amount =
+                        sourdough.weight / (1 + sourdough.hydration / 100);
+                    levain_water_amount =
+                        sourdough.weight - levain_flour_amount;
+
                     flour_weight += levain_flour_amount;
                     water_weight += levain_water_amount;
-                    dough_hydration = flour_weight > 0 ? (water_weight / flour_weight) * 100 : 0;
-                } else {
-                    dough_hydration = flour_weight > 0 ? (water_weight / flour_weight) * 100 : 0;
+
+                    console.log("Flour weight after considering levain =", flour_weight);
+                    console.log("Water weight after considering levain =", water_weight);
                 }
 
-                console.log("Flour weight after considering levain = ", flour_weight);
-                ingr_quanties.map(qty => console.log(`${qty}/${flour_weight}`));
-    
-                // Store calculated data for the section.
+                const overall_weight =
+                    ingr_quanties.reduce((a, b) => a + b, 0);
+
+                const dough_hydration =
+                    flour_weight > 0 ? (water_weight / flour_weight) * 100 : 0;
+
                 ingredients_tables.push({
-                    sourdough: sourdough,
                     rows_indexes: rows_indexes,
                     ingr_labels_lower: ingr_labels_lower,
                     ingr_quanties: ingr_quanties,
-                    percentages: ingr_quanties.map(qty => qty / overall_weight),
-                    bakers_percentages: sourdough ? ingr_quanties.map(qty => qty / flour_weight) : [],
+                    percentages: ingr_quanties.map(q => q / overall_weight),
+                    bakers_percentages: ingr_labels_lower.map((lbl, i) => {
+                        if (lbl.contains("sourdough") && sourdough) {
+                            return levain_flour_amount / flour_weight;
+                        }
+                        return ingr_quanties[i] / flour_weight;
+                    }),
                     hydration: dough_hydration,
                     flour_weight: flour_weight
                 });
-    
-                // Update hydration and overall weight in the table.
+
                 render_dough_hydration(dough_hydration);
-    
-                ingredient_qty_el.innerHTML = "<strong>" + RecipeScaler.round(overall_weight, RecipeScaler.ING_TBL_DECIMALS) + "</strong>";
-                ingredient_scaled_qty_el.innerHTML = "<strong>" + RecipeScaler.round(overall_weight * scale_value, RecipeScaler.ING_TBL_DECIMALS) + "</strong>";
-    
-                // Reset variables for the next table section.
-                sourdough = false;
-                ingr_quanties = [];
+
+                ingredient_qty_el.innerHTML =
+                    "<strong>" + RecipeScaler.round(overall_weight, RecipeScaler.ING_TBL_DECIMALS) + "</strong>";
+                ingredient_scaled_qty_el.innerHTML =
+                    "<strong>" + RecipeScaler.round(overall_weight * scale_value, RecipeScaler.ING_TBL_DECIMALS) + "</strong>";
+
+                sourdough = null;
                 rows_indexes = [];
                 ingr_labels_lower = [];
+                ingr_quanties = [];
                 flour_weight = 0;
                 water_weight = 0;
             }
         });
-    
-        // Update percentages for each independent table section.
-        ingredients_tables.forEach((table) => {
+
+        ingredients_tables.forEach(table => {
             for (let i = 0; i < table.rows_indexes.length; i++) {
                 const row_index = table.rows_indexes[i];
-    
-                // Update overall percentages.
+
                 if (percentage_col_pos_idx) {
-                    const ingredient_percent_el = table_rows[row_index].querySelectorAll('td')[percentage_col_pos_idx].querySelector('div');
-                    let curr_overall_percentage = table.percentages[i];
-                    ingredient_percent_el.innerHTML = isNaN(curr_overall_percentage) || curr_overall_percentage === 0
-                        ? ''
-                        : RecipeScaler.round(curr_overall_percentage * 100, RecipeScaler.ING_TBL_DECIMALS) + "%";
+                    const el =
+                        table_rows[row_index]
+                            .querySelectorAll('td')[percentage_col_pos_idx]
+                            ?.querySelector('div');
+
+                    if (el && table.percentages[i]) {
+                        el.innerHTML =
+                            RecipeScaler.round(table.percentages[i] * 100, RecipeScaler.ING_TBL_DECIMALS) + "%";
+                    }
                 }
-    
-                // Update baker's percentages.
+
                 if (bakers_percentage_col_pos_idx) {
-                    const ingredient_bakers_percent_el = table_rows[row_index].querySelectorAll('td')[bakers_percentage_col_pos_idx].querySelector('div');
-                    let curr_bakers_percentage = table.bakers_percentages[i];
-                    ingredient_bakers_percent_el.innerHTML = isNaN(curr_bakers_percentage) || curr_bakers_percentage === 0
-                        ? ''
-                        : RecipeScaler.round(curr_bakers_percentage * 100, RecipeScaler.ING_TBL_DECIMALS) + "%";
+                    const el =
+                        table_rows[row_index]
+                            .querySelectorAll('td')[bakers_percentage_col_pos_idx]
+                            ?.querySelector('div');
+
+                    if (el && table.bakers_percentages[i]) {
+                        el.innerHTML =
+                            RecipeScaler.round(table.bakers_percentages[i] * 100, RecipeScaler.ING_TBL_DECIMALS) + "%";
+                    }
                 }
             }
         });
     }
+
     
 
     static clearAllIntervals() {
