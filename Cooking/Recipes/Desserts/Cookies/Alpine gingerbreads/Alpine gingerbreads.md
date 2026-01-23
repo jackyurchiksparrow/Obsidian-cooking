@@ -41,6 +41,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 > - if you have decided to make this again, please take the old spice mix and dilute it with new spice ratios (use chatGPT) to dilute the exact portion you need for the recipe
 > - the recipe requires the dough to be placed for 2-3 days into the fridge to infuse
 > - please give the ready-made gingerbreads at least 1 full day, better 3 to fully mature
+> - IMPORTANT. GPT was right, too much soda + baking powder causes the flavor to evaporate + for them to dry quickly. It needs to be accounted for, need to ask it again!
 ## Ingredients
 
 ###### 1

@@ -1,6 +1,6 @@
 Recipes:
 1. The [[Cinnamon rolls]] recipe is taken at 1kg of dough and made into a poppy seed roll with 500g of filling.
-2. [[graham whole wheat]] loaf (843g)
+2. [[Graham whole wheat]] loaf (843g)
 
 both fermented in 8 hours, hence the set
 
