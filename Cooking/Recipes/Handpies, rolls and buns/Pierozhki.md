@@ -41,30 +41,30 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Scale
 ###### 490 /(1060+166) = 0.4
 ###### Calculate
-###### Unreleased 3
+###### Hide percentage columns
 
-| Ingredient                                           | Quantity, g | Baker's % | %   | Note                                                              |
-| ---------------------------------------------------- | ----------- | --------- | --- | ----------------------------------------------------------------- |
-| <h3 style="color:#00ff13;">Dough</h3>                |             |           |     |                                                                   |
-| Milk                                                 | 205         |           |     |                                                                   |
-| Water                                                | 218         |           |     |                                                                   |
-| [[Sourdough starter types\|Sourdough starter (60%)]] | 210         |           |     | 25g starter : 72g water : 60g white flour : 60g whole wheat flour |
-| [[Flours\|Whole wheat flour (Molino Pordenone)]]     | 280         |           |     |                                                                   |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 280         |           |     |                                                                   |
-| Sugar                                                | 60          |           |     |                                                                   |
-| Salt                                                 | 12          |           |     |                                                                   |
-| Butter                                               | 50          |           |     |                                                                   |
-| Olive oil                                            | 50          |           |     |                                                                   |
-| Eggs                                                 |             |           |     | 1 for brushing                                                    |
-| Sesame seeds                                         |             |           |     | for topping                                                       |
-|                                                      |             |           |     |                                                                   |
-| **Overall hydration**                                |             |           |     |                                                                   |
-| **Overall weight**                                   |             |           |     |                                                                   |
-|                                                      |             |           |     |                                                                   |
-| <h3 style="color:#00ff13;">Filling</h3>              |             |           |     |                                                                   |
-| Anything                                             | 840         |           |     |                                                                   |
-|                                                      |             |           |     |                                                                   |
-| **Overall weight**                                   |             |           |     |                                                                   |
+| Ingredient                                            | Quantity, g | Baker's % | %   | Note                                                              |
+| ----------------------------------------------------- | ----------- | --------- | --- | ----------------------------------------------------------------- |
+| <h3 style="color:#00ff13;">Dough</h3>                 |             |           |     |                                                                   |
+| Milk                                                  | 200         |           |     |                                                                   |
+| Water                                                 | 140         |           |     |                                                                   |
+| [[Sourdough starter types\|Sourdough starter (100%)]] | 210         |           |     | 25g starter : 72g water : 60g white flour : 60g whole wheat flour |
+| [[Flours\|Whole wheat flour (Molino Pordenone)]]      | 280         |           |     |                                                                   |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]      | 280         |           |     |                                                                   |
+| Sugar                                                 | 60          |           |     |                                                                   |
+| Salt                                                  | 12          |           |     |                                                                   |
+| Butter                                                | 50          |           |     |                                                                   |
+| Olive oil                                             | 50          |           |     |                                                                   |
+| Eggs                                                  |             |           |     | 1 for brushing                                                    |
+| Sesame seeds                                          |             |           |     | for topping                                                       |
+|                                                       |             |           |     |                                                                   |
+| **Overall hydration**                                 |             |           |     |                                                                   |
+| **Overall weight**                                    |             |           |     |                                                                   |
+|                                                       |             |           |     |                                                                   |
+| <h3 style="color:#00ff13;">Filling</h3>               |             |           |     |                                                                   |
+| Anything                                              | 840         |           |     |                                                                   |
+|                                                       |             |           |     |                                                                   |
+| **Overall weight**                                    |             |           |     |                                                                   |
 
 
 
