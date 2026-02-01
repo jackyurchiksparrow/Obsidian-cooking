@@ -40,41 +40,40 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ## Ingredients
 
-###### 0.83
+###### 1
 ###### Scale
-###### 322+89 = 411
+###### 261+134 = 395
 ###### Calculate
 ###### Hide percentage columns
 
-| Ingredient                                           | Quantity, g | Baker's % | %   | Note |
-| ---------------------------------------------------- | ----------- | --------- | --- | ---- |
-| **1.3 kg**                                           |             |           |     |      |
-| Water                                                | 545         |           |     |      |
-| Water 2                                              | 25          |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (50%)]] | 90          |           |     |      |
-| Sea salt                                             | 15          |           |     |      |
-| [[Flours\|Wheat flour (HH Manitoba)]]                | 250         |           |     |      |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 210         |           |     |      |
-| [[Flours\|Whole wheat flour (Caputo)]]               | 60          |           |     |      |
-| [[Flours\|Whole buckwheat flour]]                    | 103         |           |     |      |
-| [[Malt]]                                             | 2           |           |     |      |
-|                                                      |             |           |     |      |
-| **Overall hydration**                                |             |           |     |      |
-| **Overall weight**                                   |             |           |     |      |
-|                                                      |             |           |     |      |
-| **1.1kg**                                            |             |           |     |      |
-| Water                                                | 456         |           |     |      |
-| Water 2                                              | 21          |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (50%)]] | 90          |           |     |      |
-| Sea salt                                             | 13          |           |     |      |
-| [[Flours\|Wheat flour (HH Manitoba)]]                | 208         |           |     |      |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 174         |           |     |      |
-| [[Flours\|Whole wheat flour (Caputo)]]               | 50          |           |     |      |
-| [[Flours\|Whole buckwheat flour]]                    | 86          |           |     |      |
-| [[Malt]]                                             | 2           |           |     |      |
-|                                                      |             |           |     |      |
-| **Overall hydration**                                |             |           |     |      |
-| **Overall weight**                                   |             |           |     |      |
+| Ingredient                                            | Quantity, g | Baker's % | %   | Note                                                                                                        |
+| ----------------------------------------------------- | ----------- | --------- | --- | ----------------------------------------------------------------------------------------------------------- |
+| **1.3 kg** (old)                                      |             |           |     |                                                                                                             |
+| Water                                                 | 545         |           |     |                                                                                                             |
+| Water 2                                               | 25          |           |     |                                                                                                             |
+| [[Sourdough starter types\|Sourdough starter (50%)]]  | 90          |           |     |                                                                                                             |
+| Sea salt                                              | 15          |           |     |                                                                                                             |
+| [[Flours\|Wheat flour (HH Manitoba)]]                 | 250         |           |     |                                                                                                             |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]      | 210         |           |     |                                                                                                             |
+| [[Flours\|Whole wheat flour (Caputo)]]                | 60          |           |     |                                                                                                             |
+| [[Flours\|Whole buckwheat flour]]                     | 103         |           |     |                                                                                                             |
+| [[Malt]]                                              | 2           |           |     |                                                                                                             |
+|                                                       |             |           |     |                                                                                                             |
+| **Overall hydration**                                 |             |           |     |                                                                                                             |
+| **Overall weight**                                    |             |           |     |                                                                                                             |
+|                                                       |             |           |     |                                                                                                             |
+| **1.1kg**                                             |             |           |     |                                                                                                             |
+| Water (never add all at once)                         | 464         |           |     |                                                                                                             |
+| [[Sourdough starter types\|Sourdough starter (100%)]] | 90          |           |     | *Levain (26-28C) for 4-6h:*<br>20g starter : 40g water : 40g flour<br>(**with 10g extra for next feeding**) |
+| Sea salt                                              | 13          |           |     |                                                                                                             |
+| Low-protein flour (10.3g)                             | 217         |           |     |                                                                                                             |
+| [[Flours\|Bread flour (Zernari)]]                     | 178         |           |     |                                                                                                             |
+| [[Flours\|Whole wheat flour (Caputo)]]                | 52          |           |     |                                                                                                             |
+| [[Flours\|Whole buckwheat flour]]                     | 89          |           |     |                                                                                                             |
+| [[Malt]]                                              | 2           |           |     |                                                                                                             |
+|                                                       |             |           |     |                                                                                                             |
+| **Overall hydration**                                 |             |           |     |                                                                                                             |
+| **Overall weight**                                    |             |           |     |                                                                                                             |
 
 
 
