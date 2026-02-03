@@ -41,23 +41,26 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ###### 1
 ###### Scale
-###### 319-159 = 160
+###### (167+54) / (54+392+167) = 0.36
 ###### Calculate
 ###### Hide percentage columns
 
-| Ingredient                                                        | Quantity, g | Baker's % | %   | Note                                                        |
-| ----------------------------------------------------------------- | ----------- | --------- | --- | ----------------------------------------------------------- |
-| **--- 1. 30min fermentolyse ---**                                 |             |           |     |                                                             |
-| Water                                                             | 341         |           |     |                                                             |
-| Water 2                                                           | 20          |           |     |                                                             |
-| [[Sourdough starter types\|Sourdough starter; rye levain (100%)]] | 108         |           |     | 6-8h until domed<br>10g starter : 50g rye flour : 50g water |
-| Sea salt                                                          | 12          |           |     |                                                             |
-| [[Flours\|Bread flour (Zernari) / any bread flour]]               | 392         |           |     |                                                             |
-| [[Flours\|Whole rye flour (Ecorod)]]                              | 167         |           |     |                                                             |
-| Flax seeds; soaked 1 seeds : 2 liquid                             | 60          |           |     |                                                             |
-|                                                                   |             |           |     |                                                             |
-| **Overall hydration**                                             |             |           |     |                                                             |
-| **Overall weight**                                                |             |           |     |                                                             |
+| Ingredient                                                                                                                                                                                            | Quantity, g | Baker's % | %   | Note                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | --------- | --- | ---------------------------------------------------------------------------------- |
+| **--- 1. 1-2h autolyze in the fridge ---**                                                                                                                                                            |             |           |     |                                                                                    |
+| Water                                                                                                                                                                                                 | 341         |           |     |                                                                                    |
+| [[Flours\|Bread flour (Zernari) / any bread flour]]                                                                                                                                                   | 392         |           |     |                                                                                    |
+| [[Flours\|Whole rye flour (Ecorod)]]                                                                                                                                                                  | 167         |           |     |                                                                                    |
+|                                                                                                                                                                                                       |             |           |     |                                                                                    |
+| **--- 2. Add the levain and salt, knead for 3-4 minutes. As soon as the dough has gotten some strength (windowpane still tears but not immediately), add the soaked seeds and knead until ready ---** |             |           |     |                                                                                    |
+| [[Sourdough starter types\|Sourdough starter; rye levain (100%)]]                                                                                                                                     | 108         |           |     | *7.5-8h at 26C until domed and tripled*<br>10g starter : 50g rye flour : 50g water |
+| Water 2                                                                                                                                                                                               | 20          |           |     |                                                                                    |
+| Sea salt                                                                                                                                                                                              | 12          |           |     |                                                                                    |
+| Flax seeds; soaked                                                                                                                                                                                    | 50          |           |     |                                                                                    |
+| Water for soaking                                                                                                                                                                                     | 95          |           |     |                                                                                    |
+|                                                                                                                                                                                                       |             |           |     |                                                                                    |
+| **Overall hydration**                                                                                                                                                                                 |             |           |     |                                                                                    |
+| **Overall weight**                                                                                                                                                                                    |             |           |     |                                                                                    |
 
 
 
