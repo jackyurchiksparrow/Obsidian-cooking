@@ -45,19 +45,19 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Show percentage columns
 
-| Ingredient                                                 | Quantity, g | Baker's % | %   | Note                                                                                               |
-| ---------------------------------------------------------- | ----------- | --------- | --- | -------------------------------------------------------------------------------------------------- |
-| Water                                                      | 450         |           |     |                                                                                                    |
-| Water 2                                                    | 20          |           |     |                                                                                                    |
-| [[Sourdough starter types\|Sourdough starter (100%)]]      | 90          |           |     | *Levain (9-10h at 21C)*:<br>9g starter : 45g water : 45g bread flour<br><br>(**with 9 grams extra) |
-| Sea salt                                                   | 16          |           |     |                                                                                                    |
-| [[Flours\|Durum Flour (Molino Cosma semolina rimacinata)]] | 262         |           |     |                                                                                                    |
-| All-purpose lower protein flour (10.3g)                    | 117         |           |     |                                                                                                    |
-| [[Flours\|Bread flour (Zernari)]]                          | 176         |           |     |                                                                                                    |
-| [[Flours\|Whole wheat flour (Molino Pordenone)]]           | 104         |           |     |                                                                                                    |
-|                                                            |             |           |     |                                                                                                    |
-| **Overall hydration**                                      |             |           |     |                                                                                                    |
-| **Overall weight**                                         |             |           |     |                                                                                                    |
+| Ingredient                                                 | Quantity, g | Baker's % | %   | Note                                                                 |
+| ---------------------------------------------------------- | ----------- | --------- | --- | -------------------------------------------------------------------- |
+| Water                                                      | 477         |           |     |                                                                      |
+| Water 2                                                    | 20          |           |     |                                                                      |
+| [[Sourdough starter types\|Sourdough starter (100%)]]      | 95          |           |     | *Levain (9-10h at 21C)*:<br>9g starter : 45g water : 45g bread flour |
+| Sea salt                                                   | 16          |           |     |                                                                      |
+| [[Flours\|Durum Flour (Molino Cosma semolina rimacinata)]] | 278         |           |     |                                                                      |
+| All-purpose lower protein flour (10.3g)                    | 124         |           |     |                                                                      |
+| [[Flours\|Bread flour (Zernari)]]                          | 187         |           |     |                                                                      |
+| [[Flours\|Whole wheat flour (Molino Pordenone)]]           | 110         |           |     |                                                                      |
+|                                                            |             |           |     |                                                                      |
+| **Overall hydration**                                      |             |           |     |                                                                      |
+| **Overall weight**                                         |             |           |     |                                                                      |
 
 
 
