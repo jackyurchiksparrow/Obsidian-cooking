@@ -42,7 +42,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Scale
 ###### 400/3 = 133.33
 ###### Calculate
-###### Unreleased 3
+###### Hide percentage columns
 
 | Ingredient                                    | Quantity, g | %   | Note                                 |
 | --------------------------------------------- | ----------- | --- | ------------------------------------ |
