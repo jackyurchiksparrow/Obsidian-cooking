@@ -41,37 +41,23 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ###### 1
 ###### Scale
-###### 319-159 = 160
+###### 169 * 2 = 338
 ###### Calculate
 ###### Hide percentage columns
 
 | Ingredient                                                 | Quantity, g | Baker's % | %   | Note                                                     |
 | ---------------------------------------------------------- | ----------- | --------- | --- | -------------------------------------------------------- |
-| **50% Levain** (old recipe; tough dough)                   |             |           |     |                                                          |
-| Water                                                      | 492         |           |     |                                                          |
-| Water 2                                                    | 20          |           |     |                                                          |
-| [[Sourdough starter types\|Sourdough starter (50%)]]       | 90          |           |     |                                                          |
-| Honey                                                      | 24          |           |     |                                                          |
-| Sea salt                                                   | 16          |           |     |                                                          |
-| [[Flours\|Wheat flour (HH Manitoba)]]                      | 221         |           |     |                                                          |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]           | 192         |           |     |                                                          |
-| [[Flours\|Whole rye flour]]                                | 178         |           |     |                                                          |
-| [[Flours\|Whole wheat flour (Caputo)]]                     | 67          |           |     |                                                          |
-|                                                            |             |           |     |                                                          |
-| **Overall hydration**                                      |             |           |     |                                                          |
-| **Overall weight**                                         |             |           |     |                                                          |
-|                                                            |             |           |     |                                                          |
 | **100% Levain** (new recipe)                               |             |           |     |                                                          |
-| Water                                                      | 378         |           |     |                                                          |
+| Water                                                      | 358         |           |     |                                                          |
 | Water 2                                                    | 20          |           |     |                                                          |
-| [[Sourdough starter types\|Sourdough starter; rye (100%)]] | 110         |           |     | 12h (10 p.m.)<br>24g starter : 48g rye flour : 48g water |
+| [[Sourdough starter types\|Sourdough starter; rye (100%)]] | 128         |           |     | 12h (10 p.m.)<br>27g starter : 51g rye flour : 51g water |
 | Honey                                                      | 40          |           |     |                                                          |
 | Sea salt                                                   | 14          |           |     |                                                          |
-| [[Flours\|00 Flour (10% protein) - Ecorod]]                | 169         |           |     |                                                          |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]           | 169         |           |     |                                                          |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]           | 338         |           |     |                                                          |
 | [[Flours\|Whole rye flour (Ecorod)]]                       | 145         |           |     |                                                          |
 | [[Flours\|Whole wheat flour (Ecorod)]]                     | 55          |           |     |                                                          |
 |                                                            |             |           |     |                                                          |
+| **Inoculation**                                            |             |           |     |                                                          |
 | **Overall hydration**                                      |             |           |     |                                                          |
 | **Overall weight**                                         |             |           |     |                                                          |
 
