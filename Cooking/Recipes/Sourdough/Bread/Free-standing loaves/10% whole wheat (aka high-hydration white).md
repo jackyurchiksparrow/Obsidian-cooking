@@ -42,12 +42,12 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Scale
 ###### 215/(215+322) = 0.4
 ###### Calculate
-###### Hide percentage columns
+###### Show percentage columns
 
 | Ingredient                                            | Quantity, g | Baker's % | %   | Note                                                                                  |
 | ----------------------------------------------------- | ----------- | --------- | --- | ------------------------------------------------------------------------------------- |
 | **--- 1. Autolyze 1h ---**                            |             |           |     |                                                                                       |
-| Water                                                 | 350         |           |     |                                                                                       |
+| Water                                                 | 375         |           |     |                                                                                       |
 | Bread flour (Zernari)                                 | 215         |           |     |                                                                                       |
 | Low-protein wheat flour (10.3g)                       | 322         |           |     |                                                                                       |
 | Whole wheat flour; coarse                             | 59          |           |     |                                                                                       |
