@@ -43,7 +43,7 @@ Just a beginner-friendly bread. Cool to add cold proof, but too stiff for me. An
 ###### Scale
 ###### 624/2 = 312
 ###### Calculate
-###### Unreleased 3
+###### Hide percentage columns
 
 | Ingredient                                                 | Quantity, g | Baker's % | %   | Note                                           |
 | ---------------------------------------------------------- | ----------- | --------- | --- | ---------------------------------------------- |
