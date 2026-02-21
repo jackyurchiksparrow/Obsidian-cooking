@@ -42,52 +42,34 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Scale
 ###### 288 + 55 = 343
 ###### Calculate
-###### Hide percentage columns
+###### Show percentage columns
 
-| Ingredient                       | Quantity, g | %   | Note     |
-| -------------------------------- | ----------- | --- | -------- |
-| **Batter**                       |             |     |          |
-| Low-protein flour (10.3 g)       | 224         |     |          |
-| Cinnamon / spice mix             |             |     | 1/2 tsp. |
-| Salt                             |             |     |          |
-| Baking powder                    | 4           |     |          |
-| Baking soda                      | 3           |     |          |
-|                                  |             |     |          |
-| Sourdough starter discard (100%) | 120         |     |          |
-| Neutral oil                      | 80          |     |          |
-|                                  |             |     |          |
-|                                  |             |     |          |
-|                                  |             |     |          |
-|                                  |             |     |          |
-|                                  |             |     |          |
-|                                  |             |     |          |
-|                                  |             |     |          |
-|                                  |             |     |          |
-|                                  |             |     |          |
-|                                  |             |     |          |
-|                                  |             |     |          |
-|                                  |             |     |          |
-|                                  |             |     |          |
-|                                  |             |     |          |
-|                                  |             |     |          |
-|                                  |             |     |          |
-|                                  |             |     |          |
-|                                  |             |     |          |
-|                                  |             |     |          |
-|                                  |             |     |          |
-|                                  |             |     |          |
-|                                  |             |     |          |
-|                                  |             |     |          |
-|                                  |             |     |          |
-|                                  |             |     |          |
-|                                  |             |     |          |
-|                                  |             |     |          |
-|                                  |             |     |          |
-|                                  |             |     |          |
-|                                  |             |     |          |
-|                                  |             |     |          |
-|                                  |             |     |          |
-|                                  |             |     |          |
+| Ingredient                       | Quantity, g | %   | Note                                                                                                                                                                    |
+| -------------------------------- | ----------- | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Batter**                       |             |     |                                                                                                                                                                         |
+| Low-protein flour (10.3 g)       | 250         |     |                                                                                                                                                                         |
+| Coconut flour                    | 22          |     |                                                                                                                                                                         |
+| Cinnamon / spice mix             |             |     | 1/2 tsp.                                                                                                                                                                |
+| Salt                             | 4           |     |                                                                                                                                                                         |
+| Baking powder                    | 5           |     |                                                                                                                                                                         |
+| Baking soda                      | 3           |     |                                                                                                                                                                         |
+|                                  |             |     |                                                                                                                                                                         |
+| Sourdough starter discard (100%) | 162         |     |                                                                                                                                                                         |
+| Neutral oil                      | 90          |     |                                                                                                                                                                         |
+| Applesauce                       | 100         |     | - Peel and grate 1 medium apple (≈150 g).<br>- Put in small saucepan.<br>- Add **10 g water**.<br>- Cover.<br>- Cook on low 5–8 minutes.<br>- Stir and mash.<br>- Cool. |
+| Yoghurt                          | 100         |     |                                                                                                                                                                         |
+| Sugar                            | 230         |     |                                                                                                                                                                         |
+| Eggs                             | 200         |     |                                                                                                                                                                         |
+| Vanilla                          |             |     |                                                                                                                                                                         |
+| Carrot; grated                   | 300         |     |                                                                                                                                                                         |
+|                                  |             |     |                                                                                                                                                                         |
+| **Overall hydration**            |             |     |                                                                                                                                                                         |
+| **Overall weight**               |             |     |                                                                                                                                                                         |
+|                                  |             |     |                                                                                                                                                                         |
+|                                  |             |     |                                                                                                                                                                         |
+|                                  |             |     |                                                                                                                                                                         |
+|                                  |             |     |                                                                                                                                                                         |
+|                                  |             |     |                                                                                                                                                                         |
 
 
 
