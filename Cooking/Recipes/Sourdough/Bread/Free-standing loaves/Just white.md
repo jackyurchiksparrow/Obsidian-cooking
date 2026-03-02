@@ -41,22 +41,31 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ###### 1
 ###### Scale
-###### 624/2 = 312
+###### 322+59 = 381
 ###### Calculate
 ###### Hide percentage columns
 
-| Ingredient                                           | Quantity, g | Baker's % | %   | Note |
-| ---------------------------------------------------- | ----------- | --------- | --- | ---- |
-| Water                                                | 507         |           |     |      |
-| Water 2                                              | 20          |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (50%)]] | 90          |           |     |      |
-| Sea salt                                             | 15          |           |     |      |
-| [[Flours\|Wheat flour (HH Manitoba)]]                | 294         |           |     |      |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 360         |           |     |      |
-| [[Flours\|Whole wheat flour (Caputo)]]               | 14          |           |     |      |
-|                                                      |             |           |     |      |
-| **Overall hydration**                                |             |           |     |      |
-| **Overall weight**                                   |             |           |     |      |
+| Ingredient                                           | Quantity, g | Baker's % | %   | Note                                                                                                                            |
+| ---------------------------------------------------- | ----------- | --------- | --- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **--- 1. Autolyze 1h ---**                           |             |           |     |                                                                                                                                 |
+| Water 1                                              | 375         |           |     |                                                                                                                                 |
+| Bread flour (Zernari)                                | 215         |           |     |                                                                                                                                 |
+| Low-protein wheat flour (10.3g)                      | 381         |           |     |                                                                                                                                 |
+| Whole wheat flour; coarse                            | 59          |           |     |                                                                                                                                 |
+|                                                      |             |           |     |                                                                                                                                 |
+| **--- 2. Add the levain and salt, knead ---**        |             |           |     |                                                                                                                                 |
+| Water 2                                              | 20          |           |     |                                                                                                                                 |
+| [[Sourdough starter types\|Sourdough starter (80%)]] | 105         |           |     | **Levain (12h at 19C)**:<br>*20g starter : 40g water : 40g bread flour + 1-2 tsp. of whole wheat flour*, first 1-2 hours at 26C |
+| Salt                                                 | 11          |           |     |                                                                                                                                 |
+|                                                      |             |           |     |                                                                                                                                 |
+| **--- 4. Ferment at 24C for ~5-6h  ---**             |             |           |     |                                                                                                                                 |
+| **--- 5.Shape and bake<br>---**                      |             |           |     |                                                                                                                                 |
+|                                                      |             |           |     |                                                                                                                                 |
+| **Inoculation**                                      |             |           |     |                                                                                                                                 |
+| **Overall hydration**                                |             |           |     |                                                                                                                                 |
+| **Overall weight**                                   |             |           |     |                                                                                                                                 |
+|                                                      |             |           |     |                                                                                                                                 |
+|                                                      |             |           |     |                                                                                                                                 |
 
 
 
