@@ -3,14 +3,16 @@ tags:
   - "#sourdough"
 date: 2025-04-16
 hydration: 78.5
-bulk fermentation: 
-cold retard: 
+bulk fermentation:
+cold retard:
 outcome: properly proofed
 thumbnail: https://lh3.googleusercontent.com/pw/AP1GczNkEQY51N_Ao0b7c5lL1wTrwhM_EMeFcQksGkiLVychrE9AOp_L6FSlMsB8iO3tbe1Gb5CGFFNhIYr-0N026BRZiGT10qv_w9DqSm-FGr2NHTsyoL8MSetCCe05Hhx7GpYD7-73c1SXzwktIApmDUSC=w1145-h858-s-no-gm?authuser=0
 yield: 1
-nutrition rating: 
-taste rating: 
-credit: Perfect loaf book
+nutrition rating:
+taste rating:
+credit:
+  - Perfect loaf book
+  - I
 part_of_the_set:
 ---
 ```dataviewjs
@@ -42,23 +44,34 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Scale
 ###### 322+89 = 411
 ###### Calculate
-###### Hide percentage columns
+###### Show percentage columns
 
-| Ingredient                                           | Quantity, g | Baker's % | %   | Note                                                |
-| ---------------------------------------------------- | ----------- | --------- | --- | --------------------------------------------------- |
-| Water                                                | 400         |           |     |                                                     |
-| Water 2                                              | 20          |           |     |                                                     |
-| [[Sourdough starter types\|Sourdough starter (50%)]] | 90          |           |     |                                                     |
-| Sea salt                                             | 13          |           |     |                                                     |
-| [[Flours\|Wheat flour (HH Manitoba)]]                | 200         |           |     |                                                     |
-| [[Flours\|Bread flour (Zernari) / any bread flour]]  | 212         |           |     |                                                     |
-| [[Flours\|Whole spelt flour (organic)]]              | 119         |           |     |                                                     |
-| [[Malt]]                                             | 1           |           |     |                                                     |
-| Flax seed                                            | 30          |           |     | covered with water just until it barely covers them |
-| Cranberries                                          | 15          |           |     |                                                     |
-|                                                      |             |           |     |                                                     |
-| **Overall hydration**                                |             |           |     |                                                     |
-| **Overall weight**                                   |             |           |     |                                                     |
+| Ingredient                                                    | Quantity, g | Baker's % | %   | Note           |
+| ------------------------------------------------------------- | ----------- | --------- | --- | -------------- |
+| Water                                                         | 316         |           |     |                |
+| Water 2                                                       | 50          |           |     |                |
+| [[Sourdough starter types\|Sourdough starter (100%)]]         | 90          |           |     |                |
+| Sea salt                                                      | 14          |           |     |                |
+| White flour (10.3g)                                           | 141         |           |     |                |
+| White bread flour (13.3g)                                     | 212         |           |     |                |
+| Whole wheat flour                                             | 59          |           |     |                |
+| [[Flours\|Whole spelt flour (organic)]]                       | 102         |           |     |                |
+| Flax seed                                                     | 13          |           |     | 1 heaped tbsp. |
+| Cranberries                                                   | 67          |           |     |                |
+| Soaker liquid (completely absorbed so doesn't increase hydr.) | 95          |           |     |                |
+|                                                               |             |           |     |                |
+| **Inoculation**                                               |             |           |     |                |
+| **Overall hydration**                                         |             |           |     |                |
+| **Overall weight**                                            |             |           |     |                |
+|                                                               |             |           |     |                |
+| **Levain** (8-10h at 19-20C):                                 |             |           |     |                |
+| Starter                                                       | 8           |           |     |                |
+| Whole spelt flour                                             | 15          |           |     |                |
+| White bread flour (13.3g)                                     | 26          |           |     |                |
+| Water                                                         | 41          |           |     |                |
+|                                                               |             |           |     |                |
+| **Overall hydration**                                         |             |           |     |                |
+| **Overall weight**                                            |             |           |     |                |
 
 
 
