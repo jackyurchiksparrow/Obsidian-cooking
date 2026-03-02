@@ -39,33 +39,38 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ## Ingredients
 
-###### 1
+###### 0.53
 ###### Scale
 ###### 322+59 = 381
 ###### Calculate
 ###### Hide percentage columns
 
-| Ingredient                                           | Quantity, g | Baker's % | %   | Note                                                                                                                            |
-| ---------------------------------------------------- | ----------- | --------- | --- | ------------------------------------------------------------------------------------------------------------------------------- |
-| **--- 1. Autolyze 1h ---**                           |             |           |     |                                                                                                                                 |
-| Water 1                                              | 375         |           |     |                                                                                                                                 |
-| Bread flour (Zernari)                                | 215         |           |     |                                                                                                                                 |
-| Low-protein wheat flour (10.3g)                      | 381         |           |     |                                                                                                                                 |
-| Whole wheat flour; coarse                            | 59          |           |     |                                                                                                                                 |
-|                                                      |             |           |     |                                                                                                                                 |
-| **--- 2. Add the levain and salt, knead ---**        |             |           |     |                                                                                                                                 |
-| Water 2                                              | 20          |           |     |                                                                                                                                 |
-| [[Sourdough starter types\|Sourdough starter (80%)]] | 105         |           |     | **Levain (12h at 19C)**:<br>*20g starter : 40g water : 40g bread flour + 1-2 tsp. of whole wheat flour*, first 1-2 hours at 26C |
-| Salt                                                 | 11          |           |     |                                                                                                                                 |
-|                                                      |             |           |     |                                                                                                                                 |
-| **--- 4. Ferment at 24C for ~5-6h  ---**             |             |           |     |                                                                                                                                 |
-| **--- 5.Shape and bake<br>---**                      |             |           |     |                                                                                                                                 |
-|                                                      |             |           |     |                                                                                                                                 |
-| **Inoculation**                                      |             |           |     |                                                                                                                                 |
-| **Overall hydration**                                |             |           |     |                                                                                                                                 |
-| **Overall weight**                                   |             |           |     |                                                                                                                                 |
-|                                                      |             |           |     |                                                                                                                                 |
-|                                                      |             |           |     |                                                                                                                                 |
+| Ingredient                                            | Quantity, g | Baker's % | %   | Note |
+| ----------------------------------------------------- | ----------- | --------- | --- | ---- |
+| **--- 1. Autolyze 1h ---**                            |             |           |     |      |
+| Water 1                                               | 200         |           |     |      |
+| Bread flour (Zernari)                                 | 114         |           |     |      |
+| Low-protein wheat flour (10.3g)                       | 202         |           |     |      |
+|                                                       |             |           |     |      |
+| **--- 2. Add the levain and salt, knead ---**         |             |           |     |      |
+| Water 2                                               | 20          |           |     |      |
+| [[Sourdough starter types\|Sourdough starter (100%)]] | 63          |           |     | <br> |
+| Salt                                                  | 7           |           |     |      |
+|                                                       |             |           |     |      |
+| **--- 4. Ferment at 24C for ~5-6h  ---**              |             |           |     |      |
+| **--- 5.Shape and bake<br>---**                       |             |           |     |      |
+|                                                       |             |           |     |      |
+| **Inoculation**                                       |             |           |     |      |
+| **Overall hydration**                                 |             |           |     |      |
+| **Overall weight**                                    |             |           |     |      |
+|                                                       |             |           |     |      |
+| **Levain** (10-12h at 19-20C):                        |             |           |     |      |
+| Starter                                               | 9           |           |     |      |
+| White bread flour (13.3g)                             | 27          |           |     |      |
+| Water                                                 | 27          |           |     |      |
+|                                                       |             |           |     |      |
+| **Overall hydration**                                 |             |           |     |      |
+| **Overall weight**                                    |             |           |     |      |
 
 
 
