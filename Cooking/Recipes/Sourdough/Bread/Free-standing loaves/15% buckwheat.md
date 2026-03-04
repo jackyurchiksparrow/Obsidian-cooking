@@ -42,45 +42,39 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ###### 1
 ###### Scale
-###### 261+134 = 395
+###### 57/19 = 3
 ###### Calculate
-###### Hide percentage columns
+###### Show percentage columns
 
-| Ingredient                                            | Quantity, g | Baker's % | %   | Note                                                                                                        |
-| ----------------------------------------------------- | ----------- | --------- | --- | ----------------------------------------------------------------------------------------------------------- |
-| **1.3 kg** (old)                                      |             |           |     |                                                                                                             |
-| Water                                                 | 545         |           |     |                                                                                                             |
-| Water 2                                               | 25          |           |     |                                                                                                             |
-| [[Sourdough starter types\|Sourdough starter (50%)]]  | 90          |           |     |                                                                                                             |
-| Sea salt                                              | 15          |           |     |                                                                                                             |
-| [[Flours\|Wheat flour (HH Manitoba)]]                 | 250         |           |     |                                                                                                             |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]      | 210         |           |     |                                                                                                             |
-| [[Flours\|Whole wheat flour (Caputo)]]                | 60          |           |     |                                                                                                             |
-| [[Flours\|Whole buckwheat flour]]                     | 103         |           |     |                                                                                                             |
-| [[Malt]]                                              | 2           |           |     |                                                                                                             |
-|                                                       |             |           |     |                                                                                                             |
-| **Overall hydration**                                 |             |           |     |                                                                                                             |
-| **Overall weight**                                    |             |           |     |                                                                                                             |
-|                                                       |             |           |     |                                                                                                             |
-| **1.1kg**                                             |             |           |     |                                                                                                             |
-| **--- 1. Autolyze ---**                               |             |           |     |                                                                                                             |
-| Water 1                                               | 421         |           |     |                                                                                                             |
-| Low-protein flour (10.3g)                             | 234         |           |     |                                                                                                             |
-| [[Flours\|Bread flour (Zernari)]]                     | 192         |           |     |                                                                                                             |
-| [[Flours\|Whole wheat flour (Caputo)]]                | 56          |           |     |                                                                                                             |
-| [[Flours\|Whole buckwheat flour]]                     | 96          |           |     |                                                                                                             |
-| Dark fermented rye [[Malt\|malt]]                     | 2.2         |           |     |                                                                                                             |
-|                                                       |             |           |     |                                                                                                             |
-| **--- 2. Add the levain and salt, knead ---**         |             |           |     |                                                                                                             |
-| [[Sourdough starter types\|Sourdough starter (100%)]] | 90          |           |     | *Levain (26-28C) for 4-6h:*<br>20g starter : 40g water : 40g flour<br>(**with 10g extra for next feeding**) |
-| Sea salt                                              | 13          |           |     |                                                                                                             |
-|                                                       |             |           |     |                                                                                                             |
-| **--- 4. Ferment at 24C for ~5-6h  ---**              |             |           |     |                                                                                                             |
-| **--- 5.Shape and bake<br>---**                       |             |           |     |                                                                                                             |
-|                                                       |             |           |     |                                                                                                             |
-|                                                       |             |           |     |                                                                                                             |
-| **Overall hydration**                                 |             |           |     |                                                                                                             |
-| **Overall weight**                                    |             |           |     |                                                                                                             |
+| Ingredient                                            | Quantity, g | Baker's % | %   | Note     |
+| ----------------------------------------------------- | ----------- | --------- | --- | -------- |
+| **--- 1. Autolyze ---**                               |             |           |     |          |
+| Water 1                                               | 421         |           |     |          |
+| Low-protein flour (10.3g)                             | 234         |           |     |          |
+| [[Flours\|Bread flour (Zernari)]]                     | 192         |           |     |          |
+| [[Flours\|Whole wheat flour (Caputo)]]                | 56          |           |     |          |
+| [[Flours\|Whole buckwheat flour]]                     | 96          |           |     |          |
+| Dark fermented rye [[Malt\|malt]]                     | 2.2         |           |     |          |
+|                                                       |             |           |     |          |
+| **--- 2. Add the levain and salt, knead ---**         |             |           |     |          |
+| [[Sourdough starter types\|Sourdough starter (100%)]] | 133         |           |     | <br><br> |
+| Sea salt                                              | 13          |           |     |          |
+|                                                       |             |           |     |          |
+| **--- 4. Ferment at 24C for ~5-6h  ---**              |             |           |     |          |
+| **--- 5.Shape and bake<br>---**                       |             |           |     |          |
+|                                                       |             |           |     |          |
+| **Inoculation**                                       |             |           |     |          |
+| **Overall hydration**                                 |             |           |     |          |
+| **Overall weight**                                    |             |           |     |          |
+|                                                       |             |           |     |          |
+| **Levain** (8h at 19-20C):                            |             |           |     |          |
+| Starter                                               | 19          |           |     |          |
+| Whole spelt flour                                     | 21          |           |     |          |
+| White bread flour (13.3g)                             | 36          |           |     |          |
+| Water                                                 | 57          |           |     |          |
+|                                                       |             |           |     |          |
+| **Overall hydration**                                 |             |           |     |          |
+| **Overall weight**                                    |             |           |     |          |
 
 
 

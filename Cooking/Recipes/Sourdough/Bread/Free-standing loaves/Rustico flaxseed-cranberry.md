@@ -1,12 +1,12 @@
 ---
 tags:
   - "#sourdough"
-date: 2025-04-16
-hydration: 78.5
+date: 2026-03-02
+hydration: 73
 bulk fermentation:
 cold retard:
 outcome: properly proofed
-thumbnail: https://lh3.googleusercontent.com/pw/AP1GczNkEQY51N_Ao0b7c5lL1wTrwhM_EMeFcQksGkiLVychrE9AOp_L6FSlMsB8iO3tbe1Gb5CGFFNhIYr-0N026BRZiGT10qv_w9DqSm-FGr2NHTsyoL8MSetCCe05Hhx7GpYD7-73c1SXzwktIApmDUSC=w1145-h858-s-no-gm?authuser=0
+thumbnail: https://lh3.googleusercontent.com/pw/AP1GczNKBVeMAqX9Yl7a6EP-1wGnrvO2bK6Zd0CUsl5dho1ywXWN3TRdP-iU36HRDqph7srJGIKry8wIs23hB2EqAnAKnM0ci2icKNdVkt251jPkPrp5zde1thvutSqubVwn0kuqp-Qd998qM6LkPBUl29Eb=w960-h1106-s-no-gm?authuser=0
 yield: 1
 nutrition rating:
 taste rating:
@@ -31,10 +31,10 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-| Banneton                                                                                             | Scoring | Appearance | Crumb |
-| ---------------------------------------------------------------------------------------------------- | ------- | ---------- | ----- |
-|                                                                                                      |         |            |       |
-| Bulk: <br>Cold retard: 12h<br>Hydration: 78.5<br>Outcome: properly proofed<br><br><br><br>16.04.2025 |         |            |       |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | ![](https://lh3.googleusercontent.com/pw/AP1GczPqa_vFt3LRON2eanH4ssM9So7GzgOKG6EgJM_KSrACPVY5VEP6VRoIbLFK04sQbcQK02dZpsRrhjfUAYrIj6gZRzY4_8Cf8gtgYN1bI6pfUGXu8Chp8Jz4tuL9UZ8K2aER3z9ALTOF8nvj-fSlIB2H=w1280-h720-s-no-gm?authuser=0)<br><br>![](https://lh3.googleusercontent.com/pw/AP1GczNZOS8t6w5oB8JB4sqWPr1ceR91r3OJhYhtv9Nvfb98Z932wHXBU3oGDwa9t6HfWwVMfVVtzsTh4LLs6z3Hj5FqPkuBH7KHHNp9wQK0fa0ZvDG84DuMQBQ2zLnsbtZMHA55r0foKU2I63FyH4IgDFOG=w1280-h720-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczNaSL0cgKmF2QVDOIGlf5ox20_d2t4AdCBAQvnOB9EXhvXjxhrj_XrKfnoeuJ5VVkXc5lMxs1NSxdVG_Tt1dM-Md9Vo09riyzq8o8JUbmOi3XHmjqzlsZtsGIHKJ2Q7UyPidIJZRGyCO1y6nE_pJl3J=w1280-h960-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczNKBVeMAqX9Yl7a6EP-1wGnrvO2bK6Zd0CUsl5dho1ywXWN3TRdP-iU36HRDqph7srJGIKry8wIs23hB2EqAnAKnM0ci2icKNdVkt251jPkPrp5zde1thvutSqubVwn0kuqp-Qd998qM6LkPBUl29Eb=w960-h1106-s-no-gm?authuser=0)<br><br>![](https://lh3.googleusercontent.com/pw/AP1GczMyjh50iuS3psR2mzm309-jNf2OTPLaklSVD0QwMWHCZHxntb7JWe5t2QUlcoGaZfUbUtX2QyctErNow4S1pIaKD_mPUtdiZFGFS8j5UzA6pDET-mdVyJTZ2ewbY8qaXukyipXhzPYog-RUjT-H9o8Z=w960-h1280-s-no-gm?authuser=0) |
+| **Hydration**: 70%<br>**Weight**: 1149g<br>**Autolyse**: 1h<br>**Fermentolyse**: -<br>**Bulk**: <br>- 10h 55min at 23C<br>**Cold retard**: 12h<br>**Outcome**: properly fermented, fuller side<br>**Aliquot**: -<br>**Levain**: 100% wheat levain; 1:5 36% spelt flour, 6% white 8h at 19-20C, 3h 20min at 26C<br>**Title**: Rustico flaxseed-cranberry<br>**Logs**:<br>- 20min stretches and folds with 1st part of cranberries  <br>- 50min stretches and folds, rest of cranberries + linseed  <br>- 1h 30min stretches and folds, rest of linseed  <br>- 2h 40min gentle coil folds to help distribute the filling<br>**Improvements**:<br>- increase inoculation 16% -> 22%<br>- increase hydration 70% -> 73% at least<br>- increase inoculation for the levain 1:5 -> 1:3<br>- do not cover the dough anymore in brod & taylor, don't place the water bowl right under the bowl as well<br>- the dough is underkneaded?, I didn't have time to develop gluten<br><br>02.03.2026 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
 
 
@@ -42,36 +42,35 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ###### 1
 ###### Scale
-###### 322+89 = 411
+###### 48/16 = 3
 ###### Calculate
 ###### Hide percentage columns
 
-| Ingredient                                                    | Quantity, g | Baker's % | %   | Note           |
-| ------------------------------------------------------------- | ----------- | --------- | --- | -------------- |
-| Water                                                         | 316         |           |     |                |
-| Water 2                                                       | 50          |           |     |                |
-| [[Sourdough starter types\|Sourdough starter (100%)]]         | 90          |           |     |                |
-| Sea salt                                                      | 14          |           |     |                |
-| White flour (10.3g)                                           | 141         |           |     |                |
-| White bread flour (13.3g)                                     | 212         |           |     |                |
-| Whole wheat flour                                             | 59          |           |     |                |
-| [[Flours\|Whole spelt flour (organic)]]                       | 102         |           |     |                |
-| Flax seed                                                     | 13          |           |     | 1 heaped tbsp. |
-| Cranberries                                                   | 67          |           |     |                |
-| Soaker liquid (completely absorbed so doesn't increase hydr.) | 95          |           |     |                |
-|                                                               |             |           |     |                |
-| **Inoculation**                                               |             |           |     |                |
-| **Overall hydration**                                         |             |           |     |                |
-| **Overall weight**                                            |             |           |     |                |
-|                                                               |             |           |     |                |
-| **Levain** (8-10h at 19-20C):                                 |             |           |     |                |
-| Starter                                                       | 8           |           |     |                |
-| Whole spelt flour                                             | 15          |           |     |                |
-| White bread flour (13.3g)                                     | 26          |           |     |                |
-| Water                                                         | 41          |           |     |                |
-|                                                               |             |           |     |                |
-| **Overall hydration**                                         |             |           |     |                |
-| **Overall weight**                                            |             |           |     |                |
+| Ingredient                                            | Quantity, g | Baker's % | %   | Note           |
+| ----------------------------------------------------- | ----------- | --------- | --- | -------------- |
+| Water                                                 | 307         |           |     |                |
+| [[Sourdough starter types\|Sourdough starter (100%)]] | 112         |           |     |                |
+| Sea salt                                              | 12          |           |     |                |
+| White flour (10.3g)                                   | 120         |           |     |                |
+| White bread flour (13.3g)                             | 180         |           |     |                |
+| Whole wheat flour                                     | 50          |           |     |                |
+| [[Flours\|Whole spelt flour (organic)]]               | 87          |           |     |                |
+| Flax seed                                             | 11          |           |     | 1 heaped tbsp. |
+| Cranberries                                           | 57          |           |     |                |
+| Soaker liquid (discard the rest afterwards)           | 81          |           |     |                |
+|                                                       |             |           |     |                |
+| **Inoculation**                                       |             |           |     |                |
+| **Overall hydration**                                 |             |           |     |                |
+| **Overall weight**                                    |             |           |     |                |
+|                                                       |             |           |     |                |
+| **Levain** (8h at 19-20C):                            |             |           |     |                |
+| Starter                                               | 16          |           |     |                |
+| Whole spelt flour                                     | 18          |           |     |                |
+| White bread flour (13.3g)                             | 30          |           |     |                |
+| Water                                                 | 48          |           |     |                |
+|                                                       |             |           |     |                |
+| **Overall hydration**                                 |             |           |     |                |
+| **Overall weight**                                    |             |           |     |                |
 
 
 

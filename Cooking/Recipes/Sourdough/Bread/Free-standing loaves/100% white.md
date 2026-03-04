@@ -48,8 +48,8 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Ingredient                                            | Quantity, g | Baker's % | %   | Note |
 | ----------------------------------------------------- | ----------- | --------- | --- | ---- |
 | **--- 1. Autolyze 1h ---**                            |             |           |     |      |
-| Water 1                                               | 200         |           |     |      |
-| Bread flour (Zernari)                                 | 114         |           |     |      |
+| Water 1                                               | 210         |           |     |      |
+| Bread flour (Zernari)                                 | 134         |           |     |      |
 | Low-protein wheat flour (10.3g)                       | 202         |           |     |      |
 |                                                       |             |           |     |      |
 | **--- 2. Add the levain and salt, knead ---**         |             |           |     |      |
