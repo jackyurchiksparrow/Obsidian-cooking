@@ -42,7 +42,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ###### 1
 ###### Scale
-###### 57/19 = 3
+###### 60/12 = 5
 ###### Calculate
 ###### Show percentage columns
 
@@ -57,7 +57,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Dark fermented rye [[Malt\|malt]]                     | 2.2         |           |     |          |
 |                                                       |             |           |     |          |
 | **--- 2. Add the levain and salt, knead ---**         |             |           |     |          |
-| [[Sourdough starter types\|Sourdough starter (100%)]] | 133         |           |     | <br><br> |
+| [[Sourdough starter types\|Sourdough starter (100%)]] | 132         |           |     | <br><br> |
 | Sea salt                                              | 13          |           |     |          |
 |                                                       |             |           |     |          |
 | **--- 4. Ferment at 24C for ~5-6h  ---**              |             |           |     |          |
@@ -68,10 +68,10 @@ window.onerror = function (message, source, lineno, colno, error) {
 | **Overall weight**                                    |             |           |     |          |
 |                                                       |             |           |     |          |
 | **Levain** (8h at 19-20C):                            |             |           |     |          |
-| Starter                                               | 19          |           |     |          |
-| Whole spelt flour                                     | 21          |           |     |          |
-| White bread flour (13.3g)                             | 36          |           |     |          |
-| Water                                                 | 57          |           |     |          |
+| Starter                                               | 12          |           |     |          |
+| Whole wheat flour                                     | 14          |           |     |          |
+| White bread flour (13.3g)                             | 46          |           |     |          |
+| Water                                                 | 60          |           |     |          |
 |                                                       |             |           |     |          |
 | **Overall hydration**                                 |             |           |     |          |
 | **Overall weight**                                    |             |           |     |          |
