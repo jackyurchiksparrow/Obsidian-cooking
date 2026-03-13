@@ -44,33 +44,40 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Scale
 ###### 224/388 = 0.58
 ###### Calculate
-###### Hide percentage columns
+###### Show percentage columns
 
-| Ingredient                                                               | Quantity, g | %   | Note  |
-| ------------------------------------------------------------------------ | ----------- | --- | ----- |
-| **The dough**                                                            |             |     |       |
-| Flour                                                                    | 353         |     |       |
-| Sourdough discard; dried (optional, but replace with flout if not using) | 35          |     |       |
-| Butter                                                                   | 224         |     |       |
-| Sugar                                                                    | 1.5 tbsp.   |     |       |
-| Salt                                                                     | 1 tsp.      |     |       |
-| Ice water + a splash of rum                                              | 80          |     | 60-90 |
-|                                                                          |             |     |       |
-| **Overall weight**                                                       |             |     |       |
-|                                                                          |             |     |       |
-| **Filling**                                                              |             |     |       |
-| Brown sugar                                                              | 230         |     |       |
-| Cinnamon                                                                 | 1/2 tsp.    |     |       |
-| Ginger                                                                   | 1/2 tsp.    |     |       |
-| Nutmeg                                                                   | 1/4 tsp.    |     |       |
-| Cloves                                                                   | 1/8 tsp.    |     |       |
-| Salt                                                                     | 1/2 tsp.    |     |       |
-| Pumpkin puree                                                            | 600         |     |       |
-| Evaporated milk / cream                                                  | 495         |     |       |
-| Eggs                                                                     | 200         |     |       |
-|                                                                          |             |     |       |
-| **Overall weight**                                                       |             |     |       |
-|                                                                          |             |     |       |
+| Ingredient                                                                                                                                                                                                   | Quantity, g | %   | Note |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- | --- | ---- |
+| **The dough**                                                                                                                                                                                                |             |     |      |
+| **--- 1. Combine flour, cornstarch, sugar, salt.<br>Mix thoroughly; starch must be evenly dispersed. ---**                                                                                                   |             |     |      |
+| Low-protein flour                                                                                                                                                                                            | 297         |     |      |
+| Cornstarch                                                                                                                                                                                                   | 33          |     |      |
+| Sugar                                                                                                                                                                                                        | 16          |     |      |
+| Salt                                                                                                                                                                                                         | 7           |     |      |
+| **--- 2. Grate fully frozen butter into the dry mix.<br>Toss gently.<br>Rub only until:<br>    - Majority looks sandy<br>    - 20–30% butter remains as visible flakes<br>Do not homogenize completely.---** |             |     |      |
+| Butter                                                                                                                                                                                                       | 165         |     |      |
+| **--- 3. Mix water, vodka, discard.<br>- Add gradually while tossing with fingers or fork.<br>- Stop as soon as the dough just holds when squeezed.<br>- No kneading.---**                                   |             |     |      |
+| Sourdough discard (100%) - optional, can be more                                                                                                                                                             | 39          |     |      |
+| Ice cold water                                                                                                                                                                                               | 81          |     |      |
+| Cold vodka                                                                                                                                                                                                   | 26          |     |      |
+| **--- 4. <br>- Flatten to ~2 cm thick.<br>- Wrap airtight.<br>- Refrigerate at least 1 hour.---**                                                                                                            |             |     |      |
+|                                                                                                                                                                                                              |             |     |      |
+| **Overall hydration**                                                                                                                                                                                        |             |     |      |
+| **Overall weight**                                                                                                                                                                                           |             |     |      |
+|                                                                                                                                                                                                              |             |     |      |
+| **Filling**                                                                                                                                                                                                  |             |     |      |
+| Brown sugar                                                                                                                                                                                                  | 230         |     |      |
+| Cinnamon                                                                                                                                                                                                     | 1/2 tsp.    |     |      |
+| Ginger                                                                                                                                                                                                       | 1/2 tsp.    |     |      |
+| Nutmeg                                                                                                                                                                                                       | 1/4 tsp.    |     |      |
+| Cloves                                                                                                                                                                                                       | 1/8 tsp.    |     |      |
+| Salt                                                                                                                                                                                                         | 1/2 tsp.    |     |      |
+| Pumpkin puree                                                                                                                                                                                                | 600         |     |      |
+| Evaporated milk / cream                                                                                                                                                                                      | 495         |     |      |
+| Eggs                                                                                                                                                                                                         | 200         |     |      |
+|                                                                                                                                                                                                              |             |     |      |
+| **Overall weight**                                                                                                                                                                                           |             |     |      |
+|                                                                                                                                                                                                              |             |     |      |
 
 
 
@@ -86,7 +93,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 2. Preheat the oven to 400F. To blind bake, line with parchment paper and fill with weights. Bake for 15 minutes at 220C. Remove parchment and weights and let cool before proceeding with the filling.
 
 ### Filling
-1. . In a large pan, whisk together the sugar, spices, and salt. Add the pumpkin, milk, and eggs, and whisk until well combined. 
+1. In a large pan, whisk together the sugar, spices, and salt. Add the pumpkin, milk, and eggs, and whisk until well combined. 
 2. If your crust is blind-baked and slightly cooled, cook the pumpkin filling until it's about 50C (on the stove; whisking - prevents uneven cooking in the center and cracking because of that).
 3. Meanwhile, brush the edges and all the inners of the crust with egg + cream.
 

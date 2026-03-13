@@ -3,7 +3,7 @@ tags:
   - "#no-bake"
   - "#fast"
   - sweet
-date:
+date: 2026-03-01
 thumbnail:
 passive time:
 active time:
@@ -30,9 +30,10 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-|                                                                                                                                                                                                                                      |     |     |     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- | --- | --- |
-|                                                                                                                                                                                                                                      |     |     |     |
+|                                                                                                                                             |     |     |     |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- | --- |
+|                                                                                                                                             |     |     |     |
+| Adjustments:<br>flour 25g ->75g<br><br>Review:<br>Brilliant in taste, but it almost didn't thicken at all, was kind of liquid, like a drink |     |     |     |
 
 > NOTES
 > - The ice addition is traditional and differentiates Supangle from ordinary pudding—it lightens and chills it simultaneously.
@@ -43,12 +44,12 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Scale
 ###### 27.6+54.3 = 81.9
 ###### Calculate
-###### Show percentage columns
+###### Hide percentage columns
 
 | Ingredient                                                                                                                                                                                                         | Quantity, g | %   | Note |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- | --- | ---- |
 | **--- 1. In a medium saucepan (off heat), whisk together flour, cocoa powder, sugar, and salt until homogeneous. ---**                                                                                             |             |     |      |
-| Flour                                                                                                                                                                                                              | 25          |     |      |
+| Flour                                                                                                                                                                                                              | 75          |     |      |
 | Cocoa powder                                                                                                                                                                                                       | 20          |     |      |
 | Sugar                                                                                                                                                                                                              | 90          |     |      |
 | Salt                                                                                                                                                                                                               | 1           |     |      |
@@ -57,7 +58,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Milk                                                                                                                                                                                                               | 900         |     |      |
 |                                                                                                                                                                                                                    |             |     |      |
 | **--- 3. Place over medium heat and cook, stirring constantly with a heatproof spatula, until it thickens and small bubbles appear (≈ 7–10 min). Do not boil hard; the texture should be silky and pourable. ---** |             |     |      |
-| **--- 4. Remove from heat. In a small bowl, temper the egg yolk by whisking in a few spoonfuls of the hot mixture, then pour it back into the pot while whisking. ---**                                            |             |     |      |
+| **--- 4. Remove from heat. In a small bowl, temper the egg yolk by whisking in a few spoonfuls of the hot mixture, then pour it back into the pot while whisking until the mixture is 77°C–82°C ---**              |             |     |      |
 | Egg yolk (double for reacher)                                                                                                                                                                                      | 20          |     |      |
 |                                                                                                                                                                                                                    |             |     |      |
 | **--- 5. Add butter and bittersweet chocolate; stir until fully melted and glossy.  ---**                                                                                                                          |             |     |      |
