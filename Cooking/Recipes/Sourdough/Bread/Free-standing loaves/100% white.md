@@ -1,12 +1,12 @@
 ---
 tags:
   - "#sourdough"
-date: ""
-hydration:
-bulk fermentation:
-cold retard:
-outcome:
-thumbnail:
+date: 2026-03-02
+hydration: 70
+bulk fermentation: 19h
+cold retard: 12h
+outcome: properly fermented
+thumbnail: https://lh3.googleusercontent.com/pw/AP1GczMs7_4_wrPG98n9gS9SD4vw3RmHNqzLxDT4psixgH4a-Hn4E4kzXKYLDE9iwtfJXKrUgYJ2wRVv-he76JrjIvzZ8K6d7J96K7fF8hXlVSNAqyJqCI1_uGaWM7O7hMq8jpcHQwY0uTxNp8gcPgQd1Ccb=w913-h1181-s-no-gm?authuser=0
 yield:
 nutrition rating:
 taste rating:
@@ -30,16 +30,16 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-| Banneton                                                                                                                                | Scoring | Appearance | Crumb |
-| --------------------------------------------------------------------------------------------------------------------------------------- | ------- | ---------- | ----- |
-|                                                                                                                                         |         |            |       |
-| Bulk: 4h 30min shaped and fridge<br>Cold retard: 16h<br>Hydration: 72.2%<br>Outcome: overproofed, but hard to say<br><br><br>16.06.2025 |         |            |       |
+| Banneton                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Scoring                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Appearance                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Crumb                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczPX3h7uvNZOTHJcxRldkfNqiz7a3MEdYPSGR04Q-DBi_PMkTxlxbMrPO9NY76zlWakbHpYmNCNgACUqNPAuEk2YKwWYgiZo8Xo58bcncCYiKWCAxgIDvyvMBwWIbp_PrxqwXOxzQuAqcUR1Ikmhn3Zv=w960-h1280-s-no-gm?authuser=0)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | ![](https://lh3.googleusercontent.com/pw/AP1GczOuurs9r6lGj7SFFV8ELnHF4wD7M7OYDFnUEOCI090nySqj96BGYhXJ_tfVw8JEUPvteXMsCR2s9EhFLW-jgn6_jKQSoNzRE5P-KE_daVVsCE69upsL3299cG5O189oFp05sY5u8it301NNTfhXx4-j=w1280-h960-s-no-gm?authuser=0)<br><br>![](https://lh3.googleusercontent.com/pw/AP1GczOkOGCj2F3sIQu2veq57fHC_Ckp6xnnlbLj--ZhZ6rHSWRws1x2Jfo9y7E6CeSHFRRp4MnL544rdsJn0J0ejwWWOxHZ2TADCnGOTI5FFBiqEA7MjCFSnvjAYGaTW8a71Y5oghXk9dyoxxOYW8qy6X1w=w1280-h960-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczM9zjertXdL6-B3UsxnMxIaC5Htcc9nO0CC8OXpuRzbQm8hgiiodjnv_FU59awjkij1X6vFvctcYZ113Qy4-ePtMVCGrmdqvq2EyC7MGsBmTW52P3K9-WOIy_H5AuwWTDvXxxGUytX-5-PW_1QvCh4o=w1280-h960-s-no-gm?authuser=0)<br><br>![](https://lh3.googleusercontent.com/pw/AP1GczMxHqIbu7--_KGzTcY8mO-AdODIiQsiim7npfVNhVEOkoc-7-LfAjN4InGU-HtapXvTYM0SdCBkEQDuvH1b9Dw4zP9iBBL8Fkzk7TzozqDSrQ-CML4ATJljQMN6tKaR6Av4EkzGY6oWQod5eY_Gu8k7=w960-h1177-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczMs7_4_wrPG98n9gS9SD4vw3RmHNqzLxDT4psixgH4a-Hn4E4kzXKYLDE9iwtfJXKrUgYJ2wRVv-he76JrjIvzZ8K6d7J96K7fF8hXlVSNAqyJqCI1_uGaWM7O7hMq8jpcHQwY0uTxNp8gcPgQd1Ccb=w913-h1181-s-no-gm?authuser=0)<br><br>![](https://lh3.googleusercontent.com/pw/AP1GczMzZqVjyrTbF6nF2XSISKDy_g78H1Tv9wgCtJ2Q7cW3IX-RQBua5sX18Ce1D5B6cO3hJdK1bz_meKv_xEjmHE23cpDCShsQ6EECczDSsSLqe3uLR5v_8gF6Tm2hrWK3Dcv7OywrdH54zXvQjgpVp1xk=w960-h1280-s-no-gm?authuser=0) |
+| **Hydration**: 70%<br>**Inoculation**: 16%<br>**Weight**: 666g<br>**Autolyse**: -<br>**Fermentolyse**: -<br>**Bulk**: <br>- 5h 20min and refrigerated, won't make it, too late (10:30 p.m.)  at 24C<br>gonna chill it for a couple of hours and then continue proofing overnight at 19C (~8h)  <br>- + 13h40min of bulk (5h of them is at 23C)<br>**Cold retard**: 12h<br>**Outcome**: closed, but correct and uniform; properly proofed<br>**Aliquot**: -<br>**Levain**: 100% wheat levain; levain 1:1:1 at 26C 6h<br>**Title**: 100% white<br>**Improvements**:<br>- increase inoculation 16% -> 26% OR go with strong bread flour only to withstand such long fermentation<br>- keep hydration at 69-70%<br><br>**Logs**:<br>- 30min coil folds - tighter  <br>- 60min coil folds - gentler  <br>- 1h 37min coil folds - gentler  <br>- 2h coil folds - gentler<br><br>02.03.2026 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
 
 
 ## Ingredients
 
-###### 0.53
+###### 1
 ###### Scale
 ###### 322+59 = 381
 ###### Calculate
@@ -49,12 +49,12 @@ window.onerror = function (message, source, lineno, colno, error) {
 | ----------------------------------------------------- | ----------- | --------- | --- | ---- |
 | **--- 1. Autolyze 1h ---**                            |             |           |     |      |
 | Water 1                                               | 210         |           |     |      |
-| Bread flour (Zernari)                                 | 134         |           |     |      |
+| Bread flour (Zernari)                                 | 154         |           |     |      |
 | Low-protein wheat flour (10.3g)                       | 202         |           |     |      |
 |                                                       |             |           |     |      |
 | **--- 2. Add the levain and salt, knead ---**         |             |           |     |      |
 | Water 2                                               | 20          |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (100%)]] | 63          |           |     | <br> |
+| [[Sourdough starter types\|Sourdough starter (100%)]] | 108         |           |     | <br> |
 | Salt                                                  | 7           |           |     |      |
 |                                                       |             |           |     |      |
 | **--- 4. Ferment at 24C for ~5-6h  ---**              |             |           |     |      |
@@ -64,10 +64,10 @@ window.onerror = function (message, source, lineno, colno, error) {
 | **Overall hydration**                                 |             |           |     |      |
 | **Overall weight**                                    |             |           |     |      |
 |                                                       |             |           |     |      |
-| **Levain** (10-12h at 19-20C):                        |             |           |     |      |
-| Starter                                               | 9           |           |     |      |
-| White bread flour (13.3g)                             | 27          |           |     |      |
-| Water                                                 | 27          |           |     |      |
+| **Levain** (8h at 24C):                               |             |           |     |      |
+| Starter                                               | 12          |           |     |      |
+| White bread flour (13.3g)                             | 48          |           |     |      |
+| Water                                                 | 48          |           |     |      |
 |                                                       |             |           |     |      |
 | **Overall hydration**                                 |             |           |     |      |
 | **Overall weight**                                    |             |           |     |      |

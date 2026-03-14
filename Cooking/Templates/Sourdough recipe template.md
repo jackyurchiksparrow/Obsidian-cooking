@@ -31,7 +31,7 @@ RecipeScaler.RecipeScaler(true, dv.current().file.ctime.ts);
 ###### Scale
 ###### Get saved values
 ###### Save (for this session)
-###### Calculate %
+###### Hide percentage columns
 
 | Ingredient                                           | Quantity | Measure | Baker's % | Note                                         |
 | ---------------------------------------------------- | -------- | ------- | --------- | -------------------------------------------- |
