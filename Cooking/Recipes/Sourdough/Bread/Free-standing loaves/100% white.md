@@ -41,7 +41,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ###### 1
 ###### Scale
-###### 322+59 = 381
+###### 154+202 = 356
 ###### Calculate
 ###### Hide percentage columns
 
@@ -49,8 +49,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | ----------------------------------------------------- | ----------- | --------- | --- | ---- |
 | **--- 1. Autolyze 1h ---**                            |             |           |     |      |
 | Water 1                                               | 210         |           |     |      |
-| Bread flour (Zernari)                                 | 154         |           |     |      |
-| Low-protein wheat flour (10.3g)                       | 202         |           |     |      |
+| Bread flour (Zernari)                                 | 356         |           |     |      |
 |                                                       |             |           |     |      |
 | **--- 2. Add the levain and salt, knead ---**         |             |           |     |      |
 | Water 2                                               | 20          |           |     |      |
