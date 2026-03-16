@@ -39,22 +39,22 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ## Ingredients
 
-###### 1
+###### 1.5
 ###### Scale
 ###### 154+202 = 356
 ###### Calculate
-###### Hide percentage columns
+###### Show percentage columns
 
 | Ingredient                                            | Quantity, g | Baker's % | %   | Note |
 | ----------------------------------------------------- | ----------- | --------- | --- | ---- |
 | **--- 1. Autolyze 1h ---**                            |             |           |     |      |
-| Water 1                                               | 210         |           |     |      |
-| Bread flour (Zernari)                                 | 356         |           |     |      |
+| Water 1                                               | 315         |           |     |      |
+| Bread flour (Zernari)                                 | 534         |           |     |      |
 |                                                       |             |           |     |      |
 | **--- 2. Add the levain and salt, knead ---**         |             |           |     |      |
 | Water 2                                               | 20          |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (100%)]] | 108         |           |     | <br> |
-| Salt                                                  | 7           |           |     |      |
+| [[Sourdough starter types\|Sourdough starter (100%)]] | 160         |           |     | <br> |
+| Salt                                                  | 12          |           |     |      |
 |                                                       |             |           |     |      |
 | **--- 4. Ferment at 24C for ~5-6h  ---**              |             |           |     |      |
 | **--- 5.Shape and bake<br>---**                       |             |           |     |      |
@@ -64,9 +64,9 @@ window.onerror = function (message, source, lineno, colno, error) {
 | **Overall weight**                                    |             |           |     |      |
 |                                                       |             |           |     |      |
 | **Levain** (8h at 24C):                               |             |           |     |      |
-| Starter                                               | 12          |           |     |      |
-| White bread flour (13.3g)                             | 48          |           |     |      |
-| Water                                                 | 48          |           |     |      |
+| Starter                                               | 18          |           |     |      |
+| White bread flour (13.3g)                             | 72          |           |     |      |
+| Water                                                 | 72          |           |     |      |
 |                                                       |             |           |     |      |
 | **Overall hydration**                                 |             |           |     |      |
 | **Overall weight**                                    |             |           |     |      |
