@@ -1,12 +1,12 @@
 ---
 tags:
   - "#sourdough"
-date:
-hydration:
-bulk fermentation:
-cold retard:
-outcome:
-thumbnail:
+date: 2026-03-16
+hydration: 75
+bulk fermentation: 9h 40min
+cold retard: 12h
+outcome: overfermented
+thumbnail: https://lh3.googleusercontent.com/pw/AP1GczMpZHmIIJnDvuZMhsN8SWg80ZgvV5pCxa1ePOkBP0AB1djYcqEi2vriZu28u1obo0u-E16xOXyJRK0AcNk1CKwxgx3yrkQ-y6B3XtJtPd8TzPdf3cuQ5ReLH78fgaGv1EM66aDKjNwEttJwvzLwbPFD=w960-h1127-s-no-gm?authuser=0
 yield:
 nutrition rating:
 taste rating:
@@ -30,10 +30,10 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |     |     |     |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- | --- |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |     |     |     |
-| **Hydration**: 68% + soaked chia seeds 1:3<br>**Inoculation**: 20%<br>**Weight**: 1100g + 80g chia seeds soaked 1:3<br>**Autolyse**: -<br>**Fermentolyse**: 4h in the fridge (unplanned hospital trip)<br>**Bulk**: <br>- 9h 40min at 24C shaped, the dough was still tacky, mb the long fermentolyze or seeds + hydration<br>**Cold retard**: 12h<br>**Outcome**: properly fermented, fuller side<br>**Aliquot**: -<br>**Levain**: 100% wheat levain; 1:2 + 1 extra teaspoon of whole wheat for a stiffer one, 4h at 24C, 8h at 19C<br>**Title**: 10% whole wheat (aka high hydration white)<br>**Improvements / logs**:<br>- the fermentolyze was too long might have caused the tackiness and slight tearing during shaping, as well as first 60-min 26C fermentation<br><br>Turned out extremely tasty with this levain<br><br>17.02.2026 |     |     |     |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczNrdDgcfQZBNhq_ukRpVsyAIpl67_lbjYFk6w0Dq1jR3KhB_bGhlidYWPVMzZVlxNTv5GZc_x5OdHEd0xAvLVvix9uoAfGXkBP4zYjY6rwbdT5eNjbFngiJHUvgsbrmc34ubffDN1ilw1xYevFpUom-=w1280-h960-s-no-gm?authuser=0)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | ![](https://lh3.googleusercontent.com/pw/AP1GczM1Rttcm7LBtibJTjbMxpgke_tt1HMdnNv-fBTXk2AFfwHkw246cOvUxGfauqVQQYA5uL80CAgDmeJQ8bOLhDblAylxNuFU8WQOrsJUqruBKAhi_mI1wO3QV4YXPNm1hgW2dszhVeGWBP9ohZWvHfTR=w1280-h960-s-no-gm?authuser=0)<br><br>![](https://lh3.googleusercontent.com/pw/AP1GczPkiTzHcJxUIzP83Wwo-F5p5I43y39cWhwDuXcod2vmATpgwO4ddnP3B_3DE5VOZ4frhkO_GqosAOhNCJtffA73UVMAR8Iqw9ul75zmFbO5rACvMu-P889hL2aSQvDyAJem0AVsZlvGHz7wcCZHgq4c=w1181-h720-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczN0TAegyOfmtBG7nZDwzmjjE6QXf5VQb4rXa6hoevG4vYYlMPE1c5aShZEqWsAyyA57vExCYieh7x_M4-eQd7opDCpLxkGKXVYEoluuUXzrprEkEukjmX_m1zFvb9G_8FtSy1Ak-HwlZzL-qqFer4nU=w1280-h731-s-no-gm?authuser=0)<br><br>![](https://lh3.googleusercontent.com/pw/AP1GczMZsuj8O3BbdkGQfoJmsH46UkdIfucqAdTMm_pTwTBawYvoUyRGPryy8ep2fxu0eM4BNu9jh1YhrQm6tFkXWU_jif2u-fnAYIuJNkuTTZNIJVaBpkBZafu54O0hxYXTjcr23x0czMGPuASfX9_9VB1s=w960-h1280-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczMpZHmIIJnDvuZMhsN8SWg80ZgvV5pCxa1ePOkBP0AB1djYcqEi2vriZu28u1obo0u-E16xOXyJRK0AcNk1CKwxgx3yrkQ-y6B3XtJtPd8TzPdf3cuQ5ReLH78fgaGv1EM66aDKjNwEttJwvzLwbPFD=w960-h1127-s-no-gm?authuser=0)<br><br>![](https://lh3.googleusercontent.com/pw/AP1GczMhpT8a2XBS1XaT4yZ4p6wYi7iQ_DHSoFIjI81E1fPP-_CQHvUTqGV5wqDzoaeRREGAtF0Hfc9rUL5Jc_Ev97tQJJ3mQ3jO6_-LyAsMSNeypyXv9imFyBKHFCIN7ftDQ10PKIux6qF_pVa4ApoHvUUG=w960-h1280-s-no-gm?authuser=0) |
+| **Hydration**: 75%<br>**Inoculation**: 22%<br>**Weight**: 1033g<br>**Autolyse**: -<br>**Fermentolyse**: 1h room temp.<br>**Bulk**: <br>- 9h 10min at 23C<br>**Cold retard**: 14h<br>**Outcome**: overfermented (overacidified due to long bulk)<br>**Levain**: 100% wheat levain; <br>**Title**: 7% whole wheat with scalded malt<br>**Improvements**:<br>- the temperature too low and long bulk causes the structure to weaken: use only Zernari, add insulation (like a towel) to Brod & Taylor and set it to 26C, don't change the innoculation.<br><br>**Logs**:<br>- 4 sets of coil folds<br>- used a new bowl; the bottom is 25C somehow again, tacky but not sticky, left the bowl willingly, but not as I would want it to<br><br><br>16.03.2026 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
 
 ## Ingredients
@@ -44,38 +44,36 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Hide percentage columns
 
-| Ingredient                                                  | Quantity, g | Baker's % | %   | Note |
-| ----------------------------------------------------------- | ----------- | --------- | --- | ---- |
-| **--- 1. Autolyze 1h ---**                                  |             |           |     |      |
-| Water 1                                                     | 300         |           |     |      |
-| Bread flour (Zernari)                                       | 196         |           |     |      |
-| Low-protein wheat flour (10.3g)                             | 293         |           |     |      |
-| Whole wheat flour; coarse                                   | 42          |           |     |      |
-| Dark malt                                                   | 12          |           |     |      |
-|                                                             |             |           |     |      |
-| **--- 2. Add the levain and salt, knead ---**               |             |           |     |      |
-| Water 2                                                     | 20          |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (100%)]]       | 135         |           |     | <br> |
-| Salt                                                        | 11          |           |     |      |
-|                                                             |             |           |     |      |
-| **--- 3. Optionally, add chia seeds during first fold ---** |             |           |     |      |
-| Chia seeds                                                  | 18          |           |     |      |
-| Water for soaking                                           | 55          |           |     |      |
-|                                                             |             |           |     |      |
-| **--- 4. Ferment at 24C for ~5-6h  ---**                    |             |           |     |      |
-| **--- 5.Shape and bake<br>---**                             |             |           |     |      |
-|                                                             |             |           |     |      |
-| **Inoculation**                                             |             |           |     |      |
-| **Overall hydration**                                       |             |           |     |      |
-| **Overall weight**                                          |             |           |     |      |
-|                                                             |             |           |     |      |
-| **Levain** (8h at 24C):                                     |             |           |     |      |
-| Starter                                                     | 15          |           |     |      |
-| White bread flour (13.3g)                                   | 60          |           |     |      |
-| Water                                                       | 60          |           |     |      |
-|                                                             |             |           |     |      |
-| **Overall hydration**                                       |             |           |     |      |
-| **Overall weight**                                          |             |           |     |      |
+| Ingredient                                                                                         | Quantity, g | Baker's % | %   | Note |
+| -------------------------------------------------------------------------------------------------- | ----------- | --------- | --- | ---- |
+| **--- 1. Autolyze 1h ---**                                                                         |             |           |     |      |
+| Water 1                                                                                            | 300         |           |     |      |
+| Bread flour (Zernari)                                                                              | 196         |           |     |      |
+| Low-protein wheat flour (10.3g)                                                                    | 293         |           |     |      |
+| Whole wheat flour; coarse                                                                          | 42          |           |     |      |
+|                                                                                                    |             |           |     |      |
+| **--- 2. Add the levain, scalded malt and salt, knead. Add water 2 towards the end if needed ---** |             |           |     |      |
+| Dark malt                                                                                          | 12          |           |     |      |
+| Water; boiling for malt scald                                                                      | 24          |           |     |      |
+| Water 2                                                                                            | 20          |           |     |      |
+| [[Sourdough starter types\|Sourdough starter (100%)]]                                              | 135         |           |     | <br> |
+| Salt                                                                                               | 11          |           |     |      |
+|                                                                                                    |             |           |     |      |
+|                                                                                                    |             |           |     |      |
+| **--- 4. Ferment at 24C for ~5-6h  ---**                                                           |             |           |     |      |
+| **--- 5.Shape and bake<br>---**                                                                    |             |           |     |      |
+|                                                                                                    |             |           |     |      |
+| **Inoculation**                                                                                    |             |           |     |      |
+| **Overall hydration**                                                                              |             |           |     |      |
+| **Overall weight**                                                                                 |             |           |     |      |
+|                                                                                                    |             |           |     |      |
+| **Levain** (6-6.5h at 24C):                                                                        |             |           |     |      |
+| Starter                                                                                            | 15          |           |     |      |
+| White bread flour (13.3g)                                                                          | 60          |           |     |      |
+| Water                                                                                              | 60          |           |     |      |
+|                                                                                                    |             |           |     |      |
+| **Overall hydration**                                                                              |             |           |     |      |
+| **Overall weight**                                                                                 |             |           |     |      |
 
 
 
