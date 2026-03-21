@@ -28,39 +28,38 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ## Ingredients
 
-###### 0.5
+###### 1
 ###### Scale
-###### 520 * 6 = 3120
+###### 166 - 55 = 111
 ###### Calculate
-###### Hide percentage columns
+###### Show percentage columns
 
-| Ingredient                                                                                                                            | Quantity, g | Baker's % | %   | Note                                 |
-| ------------------------------------------------------------------------------------------------------------------------------------- | ----------- | --------- | --- | ------------------------------------ |
-| **My white version; classic** (yield 6 molds x 520-535g)                                                                              |             |           |     |                                      |
-| [[Sourdough starter types\|Sourdough starter (50%)]]                                                                                  | 368         |           |     |                                      |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]                                                                                      | 784         |           |     |                                      |
-| [[Flours\|Wheat flour (HH Manitoba)]]                                                                                                 | 243         |           |     |                                      |
-| Milk                                                                                                                                  | 270         |           |     |                                      |
-| Egg yolks                                                                                                                             | 180         |           |     | 9 pcs. (175-180g)                    |
-| Eggs                                                                                                                                  | 150         |           |     | 3 pc.                                |
-| Sugar                                                                                                                                 | 240         |           |     |                                      |
-| Vanilla extract                                                                                                                       |             |           |     |                                      |
-| [[Inverted sugar]] / honey                                                                                                            | 127         |           |     |                                      |
-| Butter; softened                                                                                                                      | 243         |           |     |                                      |
-| Sea salt                                                                                                                              | 19          |           |     |                                      |
-| Milk 2 (if needed)                                                                                                                    | 30          |           |     |                                      |
-| Raisins/any dry fruit; soaked                                                                                                         | 400         |           |     | 150g cranberries + 250g raisins used |
-|                                                                                                                                       |             |           |     |                                      |
-| **Overall hydration**                                                                                                                 |             |           |     |                                      |
-| **Overall weight**                                                                                                                    |             |           |     |                                      |
-|                                                                                                                                       |             |           |     |                                      |
-|                                                                                                                                       |             |           |     |                                      |
-|                                                                                                                                       |             |           |     |                                      |
-|                                                                                                                                       |             |           |     |                                      |
-| [[Glazes and meringues\|Swiss meringue]]                                                                                              | 400         |           |     |                                      |
-| • 120 g egg whites (~4 egg whites)<br>• 216 g sugar (ratio sugar : egg whites = 1.8)<br>• 1/4 tsp. salt<br>• lemon juice<br>• vanilla |             |           |     |                                      |
-|                                                                                                                                       |             |           |     |                                      |
-| **Overall weight**                                                                                                                    |             |           |     |                                      |
+| Ingredient                                                                                                                            | Quantity, g | Baker's % | %   | Note                                |
+| ------------------------------------------------------------------------------------------------------------------------------------- | ----------- | --------- | --- | ----------------------------------- |
+| [[Sourdough starter types\|Sourdough starter; LM (50%)]]                                                                              | 153         |           |     |                                     |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]                                                                                      | 325         |           |     |                                     |
+| [[Flours\|Wheat flour (HH Manitoba)]]                                                                                                 | 101         |           |     |                                     |
+| Milk                                                                                                                                  | 112         |           |     |                                     |
+| Egg yolks                                                                                                                             | 75          |           |     | ~4 pcs. (75-80g)                    |
+| Eggs                                                                                                                                  | 62          |           |     | 1 pc.                               |
+| Sugar                                                                                                                                 | 100         |           |     |                                     |
+| Vanilla extract                                                                                                                       |             |           |     |                                     |
+| [[Inverted sugar]] / honey                                                                                                            | 53          |           |     |                                     |
+| Butter; softened                                                                                                                      | 101         |           |     |                                     |
+| Sea salt                                                                                                                              | 8           |           |     |                                     |
+| Milk 2 (if needed)                                                                                                                    | 13          |           |     |                                     |
+| Raisins/any dry fruit; soaked                                                                                                         | 166         |           |     | 55g cranberries + 111g raisins used |
+|                                                                                                                                       |             |           |     |                                     |
+| **Overall hydration**                                                                                                                 |             |           |     |                                     |
+| **Overall weight**                                                                                                                    |             |           |     |                                     |
+|                                                                                                                                       |             |           |     |                                     |
+|                                                                                                                                       |             |           |     |                                     |
+|                                                                                                                                       |             |           |     |                                     |
+|                                                                                                                                       |             |           |     |                                     |
+| [[Glazes and meringues\|Swiss meringue]]                                                                                              | 400         |           |     |                                     |
+| • 120 g egg whites (~4 egg whites)<br>• 216 g sugar (ratio sugar : egg whites = 1.8)<br>• 1/4 tsp. salt<br>• lemon juice<br>• vanilla |             |           |     |                                     |
+|                                                                                                                                       |             |           |     |                                     |
+| **Overall weight**                                                                                                                    |             |           |     |                                     |
 
 
 
@@ -74,8 +73,15 @@ window.onerror = function (message, source, lineno, colno, error) {
 ## Directions:
 
 Day 1:
-**10:00 a.m.** Feed LM: 12g LM : 20g **water** : 40g white flour **at room temp**
-**10:00 p.m.-12:00 p.m.** Feed LM: 72g LM (50%): 100g **water** : 200g white flour **at 25-26C** for 12 hours, when it's fully expanded, not growing anymore and bubbly all over
+- **10:00 a.m.** Feed LM 1:2 at 26-27C, 50% hydration 4h peak
+	- Also, soak the dry fruit afterwards
+- **02:00 p.m.** Feed LM 1:2 at 26-27C, 50% hydration 4h peak
+- **05:20 p.m.** - Autolyze
+- **06:00 p.m.** - add levain and go on, then, ferment at 26-27C for ~5-6h. Put into the fridge overnight.
+
+Day 2:
+- Wait until doubled at 26-27C again if it hasn't, then divide and shape, proof at 26-27C for ~8h until they are at the rim's level or a bit under (the dome) and start preheating the oven
+- Preheat to 180C, put Kulick in, lower to 160C no fan immediately. Bake until golden brown and 93-95C inside.
 
 
 ---
