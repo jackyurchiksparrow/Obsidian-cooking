@@ -50,8 +50,8 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ###### 1
 ###### Scale
-###### 167/611 = 0.27
-###### Hide percentage columns
+###### (105+222)/(385+145+90) = 0.53
+###### Calculate
 ###### Hide percentage columns
 
 | Ingredient                                                                                                                                                                                                                                                                                                                                                                                                                                | Quantity, g          | Baker's % | %   | Note                                                                                                                                                                                                                                                                            |

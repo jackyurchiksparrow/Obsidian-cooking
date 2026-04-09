@@ -91,14 +91,16 @@ In other words:
 So **it’s the opposite of what intuition suggests** — lower ratio = faster start, shorter total life; higher ratio = slower start, longer stable peak.
 
 
-### Reviving after refrigeration + storage for Panettone and for regular enriched doughs
+### Reviving after conservation + storage for Panettone AND for regular enriched doughs
 
 It is usually recommended to feed it ~1:5 if you're going to refrigerate it for 1 month. Better to go with bigger amounts for this. Still tie in cloth, put into a glass jar, cover with a lid.
 When reviving, proceed to Bagnetto and then, recovery feeds (**3 times that day**):
-1. 1 : 1.5 : 0.45 (LM : Flour : Water) at 25-26C (less water because of Bagnetto)
-2. if it doesn't triple, repeat in 4 hours (at peak), if it does, repeat with 1:2:1 at 25-26C
+1. 1 : 1.5 : 0.25 (LM : Flour : Water) at 28C (less water because of Bagnetto)
+2. if it doesn't triple, repeat in 4 hours (at peak), if it does, repeat with 1:2:1 at 28C
 3. same as step 2
 
-When it is predictable again, triples, smells nice, doesn't tear, go back to the 15C cloth storage method.
+When it is predictable again, triples, smells nice, doesn't tear, go back to the 15C cloth storage method (IF opting for Panettone, otherwise, read "Storage in the fridge".
 
-*However*, it you need Lievito Madre for enriched doughs (not Panettone), the more practical way would be the regular fridge. Feed 1:2 with less water (45%), put at 25-26C (yes, in cloth) and wait 60-90min until 10-20% increase, then into a glass jar with a lid to prevent drying. Can stay there for 5-7 days. When using, you'll need to perform Bagnetto again though.
+### Storage in the fridge
+
+*However*, it you need Lievito Madre for enriched doughs (not Panettone), the more practical way would be the regular fridge. Feed 1:2 with less water (40-45%), put at 28C (yes, in cloth) and wait 1-2h, then into a glass jar with a lid to prevent drying. Can stay there for 5-7 days. When using, you'll need to perform Bagnetto again though.
