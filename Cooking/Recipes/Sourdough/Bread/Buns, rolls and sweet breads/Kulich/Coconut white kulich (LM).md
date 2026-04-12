@@ -107,13 +107,13 @@ window.onerror = function (message, source, lineno, colno, error) {
 - **Fruit:** Fold in the drained dried fruit on the lowest speed just until distributed.
 
 #### 5. Bulk fermentation, proofing, shaping
-- Place the dough in a container with straight sides. Put into 26C (warm oven let's say) and let it ferment for ~8h or until it has increased by 2.5 or more, i.e., 1000 x 2.5 = 2500ml or until the top dome looks more flat
+- Place the dough in a container with straight sides. Put into 26C (if the dough's temp is the same, if it's 21C, set to 28-30C) and let it ferment for ~8h or until it has increased by 2.5 or more, i.e., 1000 x 2.5 = 2500ml or until the top dome looks more flat
 > Skew the molds meanwhile.
 - Measure the dough's weight and [[How much dough goes into the mold|calculate]] for the molds. Mine were 420g each (3 Kulich).
 - Divide the dough and weigh the each piece, put into molds. Ensure no dry fruit remain, they create weak points and the Kulich's domes might shift to the side during baking. Tighten the rounds as much as you can. Ferment at 30C until their tops have reached the rims of the molds. About 6h. 
 
 #### 6. Baking
-- Preheat the oven to 180C (but we'll be baking at 160C!)
+- Preheat the oven to 160C.
 - Brush each kulich top with milk generously.
 - Put in the oven (middle level), turn the fan off and immediately drop the temperature to 160C. Bake.
 - After ~30min of baking, insert the probe thermometer to get the temperature right (94-96C).

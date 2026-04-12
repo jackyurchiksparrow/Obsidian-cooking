@@ -28,13 +28,18 @@ Ingredients:
 • 120 g egg whites (~4 egg whites)
 • 216 g sugar (ratio sugar : egg whites = 1.8)
 • 1/4 tsp. salt
-• lemon juice
-• vanilla
+• lemon juice (must-have; stabilizer, over-whipping protector + taste contrast brightener)
+• vanilla (must-have for flavor)
 
 1. Cook whites, sugar and salt to 72C on !Baine Marie. 
 	**Very important!  The foam created by heat on the surface won't let you use remote thermometer so opt for using regular**
-2. Add lemon juice, whip on high immediately. !Use stand mixer!
-3. Add vanilla, mix.
+2. Add lemon juice, whip on high immediately. Reduce speed when peaks start forming and immediately stop whipping when stiff peaks and glossiness are achieved.
+	**Very important! Use stand mixer or a powerful hand one.**
+	**It's easy to overwhip them! Do not proceed on max speed when you see them forming peaks.**
+	*Signs of overwhipping: 
+		weepy syrupy look, lose of glossiness and marshmallow-like texture, dull with tiny clumps or small grains throughout.*
+	*If you happen to overwhip them after all and its hasn't gone too far into syrup, add a fresh egg white and whip ON LOWEDT back in until the consistency smoothens out. Should take less than a minute.*
+3. Add vanilla, mix on low.
 
 ## Italian meringue (syrup + egg white; wonderful and crispy when baked or torched; more stable than the Swiss)
 
