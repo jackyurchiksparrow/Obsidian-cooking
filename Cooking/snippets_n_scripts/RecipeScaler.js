@@ -709,6 +709,8 @@ class RecipeScaler {
                 if (sourdough && sourdough.hydration !== 0) {
                     levain_flour_amount = sourdough.weight / (1 + sourdough.hydration / 100);
                     levain_water_amount = sourdough.weight - levain_flour_amount;
+                    flour_weight += levain_flour_amount;   // ← add first
+                    water_weight += levain_water_amount;
                 }
 
                 const overall_weight =
@@ -718,15 +720,9 @@ class RecipeScaler {
                     flour_weight > 0 ? (water_weight / flour_weight) * 100 : 0;
 
                 const inoculation = (sourdough && flour_weight > 0)
-                    ? (levain_flour_amount / flour_weight) * 100  // ← flour_weight is main dough only = 658
+                    ? (levain_flour_amount / flour_weight) * 100
                     : 0;
                 inoculation_value = inoculation;
-
-                // Add levain contribution AFTER inoculation is computed (still needed for hydration)
-                if (sourdough && sourdough.hydration !== 0) {
-                    flour_weight += levain_flour_amount;
-                    water_weight += levain_water_amount;
-                }
 
                 ingredients_tables.push({
                     rows_indexes: rows_indexes,
