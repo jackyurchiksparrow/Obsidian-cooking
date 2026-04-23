@@ -74,7 +74,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 ---
 ## Directions:
 
-[[Sourdough bread making steps]]
+
 
 ---
 ## Nutrition Facts:
