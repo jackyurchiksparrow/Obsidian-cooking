@@ -586,29 +586,29 @@ class RecipeScaler {
             });
         }
 
-        function render_inoculation(inoculation_val) { // EDIT
-            let counter = 0; // EDIT
-            table_rows.forEach(tr_s => { // EDIT
-                const ingredient_title_lower = // EDIT
-                    tr_s.querySelectorAll('td')[ingredients_col_pos_idx] // EDIT
-                        ?.querySelector('div')?.textContent.toLowerCase(); // EDIT
+        function render_inoculation(inoculation_val) {  
+            let counter = 0;  
+            table_rows.forEach(tr_s => {  
+                const ingredient_title_lower =  
+                    tr_s.querySelectorAll('td')[ingredients_col_pos_idx]  
+                        ?.querySelector('div')?.textContent.toLowerCase();  
 
-                if (ingredient_title_lower?.contains(RecipeScaler.INOCULATION)) { // EDIT
-                    counter++; // EDIT
-                    if (counter === ingredients_tables.length) { // EDIT
-                        const ingredient_qty_el = // EDIT
-                            tr_s.querySelectorAll('td')[quantity_col_pos_idx]?.querySelector('div'); // EDIT
-                        const ingredient_scaled_qty_el = // EDIT
-                            tr_s.querySelectorAll('td')[new_column_idx]?.querySelector('div'); // EDIT
+                if (ingredient_title_lower?.contains(RecipeScaler.INOCULATION)) {  
+                    counter++;  
+                    if (counter === ingredients_tables.length) {  
+                        const ingredient_qty_el =  
+                            tr_s.querySelectorAll('td')[quantity_col_pos_idx]?.querySelector('div');  
+                        const ingredient_scaled_qty_el =  
+                            tr_s.querySelectorAll('td')[new_column_idx]?.querySelector('div');  
 
-                        ingredient_qty_el.innerHTML = // EDIT
-                            "<strong>" + RecipeScaler.round(inoculation_val, 3) + "%</strong>"; // EDIT
-                        ingredient_scaled_qty_el.innerHTML = // EDIT
-                            "<strong>" + RecipeScaler.round(inoculation_val, 3) + "%</strong>"; // EDIT
-                    } // EDIT
-                } // EDIT
-            }); // EDIT
-        } // EDIT
+                        ingredient_qty_el.innerHTML =  
+                            "<strong>" + RecipeScaler.round(inoculation_val, 3) + "%</strong>";  
+                        ingredient_scaled_qty_el.innerHTML =  
+                            "<strong>" + RecipeScaler.round(inoculation_val, 3) + "%</strong>";  
+                    }  
+                }  
+            });  
+        }  
 
         if (scaled_col_idx === false || scaled_col_idx === undefined) {
             if (bakers_percentage_col_pos_idx) bakers_percentage_col_pos_idx += 1;
@@ -625,7 +625,7 @@ class RecipeScaler {
         let flour_weight = 0;
         let water_weight = 0;
 
-        let inoculation_value = 0; // EDIT
+        let inoculation_value = 0;  
 
         table_rows.forEach((tr, idx) => {
 
@@ -648,8 +648,8 @@ class RecipeScaler {
             const is_overall_row =
                 ingredient_title_lower.contains(RecipeScaler.OVERALL_WEIGHT_ROW);
 
-            const is_inoculation_row = // EDIT
-            ingredient_title_lower.contains(RecipeScaler.INOCULATION); // EDIT
+            const is_inoculation_row =  
+            ingredient_title_lower.contains(RecipeScaler.INOCULATION);  
 
             /* ---------------- SOURDOUGH ---------------- */
             if (ingredient_title_lower.contains("sourdough")) {
@@ -693,7 +693,7 @@ class RecipeScaler {
             if (
                 !ingredient_title_lower.contains(RecipeScaler.OVERALL_WEIGHT_ROW) &&
                 !ingredient_title_lower.contains(RecipeScaler.OVERALL_HYDRATION_ROW) &&
-                !ingredient_title_lower.contains(RecipeScaler.INOCULATION) // EDIT
+                !ingredient_title_lower.contains(RecipeScaler.INOCULATION)  
             ) {
                 rows_indexes.push(idx);
                 ingr_labels_lower.push(ingredient_title_lower);
@@ -707,16 +707,10 @@ class RecipeScaler {
                 let levain_water_amount = 0;
 
                 if (sourdough && sourdough.hydration !== 0) {
-                    levain_flour_amount =
-                        sourdough.weight / (1 + sourdough.hydration / 100);
-                    levain_water_amount =
-                        sourdough.weight - levain_flour_amount;
-
-                    flour_weight += levain_flour_amount;
+                    levain_flour_amount = sourdough.weight / (1 + sourdough.hydration / 100);
+                    levain_water_amount = sourdough.weight - levain_flour_amount;
+                    flour_weight += levain_flour_amount;   // ← add first
                     water_weight += levain_water_amount;
-
-                    console.log("Flour weight after considering levain =", flour_weight);
-                    console.log("Water weight after considering levain =", water_weight);
                 }
 
                 const overall_weight =
@@ -725,9 +719,10 @@ class RecipeScaler {
                 const dough_hydration =
                     flour_weight > 0 ? (water_weight / flour_weight) * 100 : 0;
 
-                const inoculation = // EDIT
-                (sourdough && flour_weight > 0) ? (sourdough.weight / flour_weight) * 100 : 0; // EDIT
-                inoculation_value = inoculation; // EDIT
+                const inoculation = (sourdough && flour_weight > 0)
+                    ? (levain_flour_amount / flour_weight) * 100
+                    : 0;
+                inoculation_value = inoculation;
 
                 ingredients_tables.push({
                     rows_indexes: rows_indexes,
@@ -742,11 +737,11 @@ class RecipeScaler {
                     }),
                     hydration: dough_hydration,
                     flour_weight: flour_weight,
-                    inoculation: inoculation // EDIT
+                    inoculation: inoculation  
                 });
 
                 render_dough_hydration(dough_hydration);
-                render_inoculation(inoculation); // EDIT
+                render_inoculation(inoculation);  
 
                 ingredient_qty_el.innerHTML =
                     "<strong>" + RecipeScaler.round(overall_weight, RecipeScaler.ING_TBL_DECIMALS) + "</strong>";
@@ -759,7 +754,7 @@ class RecipeScaler {
                 ingr_quanties = [];
                 flour_weight = 0;
                 water_weight = 0;
-                inoculation_value = 0; // EDIT
+                inoculation_value = 0;  
             }
         });
 

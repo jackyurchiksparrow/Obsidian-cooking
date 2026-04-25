@@ -32,7 +32,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Scale
 ###### 1252-1185 = 67
 ###### Calculate
-###### Unreleased 3
+###### Hide percentage columns
 
 | Ingredient                                                                           | Quantity, g         | Baker's % | %   | Note                             |
 | ------------------------------------------------------------------------------------ | ------------------- | --------- | --- | -------------------------------- |
@@ -53,6 +53,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Dark chocolate                                                                       | 56                  |           |     |                                  |
 | Walnuts                                                                              | 50                  |           |     |                                  |
 |                                                                                      |                     |           |     |                                  |
+| **Inoculation**                                                                      |                     |           |     |                                  |
 | **Overall hydration**                                                                |                     |           |     |                                  |
 | **Overall weight**                                                                   |                     |           |     |                                  |
 |                                                                                      |                     |           |     |                                  |
@@ -72,6 +73,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Milk (if needed)                                                                     |                     |           |     |                                  |
 | Raisins/any dry fruit; soaked                                                        | 150                 |           |     |                                  |
 |                                                                                      |                     |           |     |                                  |
+| **Inoculation**                                                                      |                     |           |     |                                  |
 | **Overall hydration**                                                                |                     |           |     |                                  |
 | **Overall weight**                                                                   |                     |           |     |                                  |
 |                                                                                      |                     |           |     |                                  |
@@ -94,6 +96,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Apples / anything sour                                                               | 180                 |           |     | 2 small apples                   |
 | Red food coloring (optional)                                                         | start with 1/5 tsp. |           |     |                                  |
 |                                                                                      |                     |           |     |                                  |
+| **Inoculation**                                                                      |                     |           |     |                                  |
 | **Overall hydration**                                                                |                     |           |     |                                  |
 | **Overall weight**                                                                   |                     |           |     |                                  |
 |                                                                                      |                     |           |     |                                  |

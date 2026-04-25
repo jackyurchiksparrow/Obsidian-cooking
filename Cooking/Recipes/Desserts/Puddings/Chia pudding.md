@@ -33,6 +33,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 |                                                                                                                                                                                                                                      |     |     |     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- | --- | --- |
 | ![](https://lh3.googleusercontent.com/pw/AP1GczNS3xfz_lHojJZwqPdNr18kTX2DSLyQ9iDrHClPUWQ6Vofnwgv2Ii_XA20X0BFkh30Wb7xdI_RFz7XT0PFX_n-G4b8GqMJiM2SjkoFKu2vOhV_gl3cGLB-68_hZYju96Apb-P5rY3bREzAdtM0TfS26=w1171-h879-s-no-gm?authuser=0) |     |     |     |
+| - the previous time I used a can with stabilizer (lower protein content, it didn't stabilize at all and didn't whip)                                                                                                                 |     |     |     |
 
 ## Ingredients
 
@@ -40,7 +41,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Scale
 ###### 27.6+54.3 = 81.9
 ###### Calculate
-###### Show percentage columns
+###### Hide percentage columns
 
 | Ingredient          | Quantity, g | %   | Note    |
 | ------------------- | ----------- | --- | ------- |
@@ -58,7 +59,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 ---
 ## Directions:
 
-1. Mix only the cream first. It better not be from the fridge. Whip it until it's lightly aerated and has NO clusters or chunks.
+1. Mix only the cream first, COLD. Whip it until THOROUGHLY WITH A MIXER until it's aerated and has NO clusters or chunks.
 2. Add salt and honey. Mix again.
 3. Add the liquids (milk) gradually while whisking.
 4. Add the seeds and mix. Let it sit while you're preparing the forms. Divide and refrigerate overnight or at least 4 hours. 

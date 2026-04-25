@@ -33,20 +33,21 @@ Choose the hydration (30-50%). Better use 50% for tying. It dries out a lot. You
 - Let ferment at **15-16°C** for 24h, feed regularly
 - Feeding formula example: 75g starter : 75g high-protein flour : 37g water 
 
-#### Option 2. Water method (conserva in aqua). (Less traditional, but still right and convenient)
+#### Option 2. Water method (conserva in aqua). (Less traditional, but still right and convenient) <- I don't like this method, too messy and non-standard
 - Shape the dough into a roll / ball (or better roll it)
 - Let ferment at **24°C** for 24h in room-temp water 3 times the volume of the LM, feed regularly
 - Feeding formula example: 20g starter : 20g high-protein flour : 6g water (30C) **If** it takes too fast to start collapsing in 24 h, consider switching to 10g starter : 20 g high-protein flour : 6g water (26C)
 
 ### The day of kneading Panettone
-#### 1. Bathing (bagnetto); optional, but highly recommended on the day of kneading
+#### 1. Bathing (bagnetto); optional, only if necessary, otherwise it will only harm the starter
 
 **If your LM smells too sour** (like vinegar or sharp acidity), **or if it rises very slowly**, any other issues with it, then it’s time for a bath. This could happen if there’s too much **acetic acid** building up. It is also a good idea to bathe it before warm feeding right before you make [[Panettone (fruit version)|Panettone]]. The idea is that by submerging LM in **cool, lightly sweetened water**, yeast will be refreshed and excess acidity will be removed into the water. This helps maintain a balanced microbial environment and strengthens LM for optimal fermentation.
 
 **How-to:**
 1. Prepare the bath. 26-27C water (3x times more than LM by weight), 5 g of sugar (per 1L) **if it's done during maintenance, not before the Panettone kneading, use colder water (15C)**
 2. Cut your LM into 1-inch pieces, deflate each piece lightly so it can be submerged.
-3. Leave in the water for 15-30 minutes. The faster it floats, the stronger the LM. The murkier the water is, the more acetic acid is left there.
+3. Leave in the water for 15-30 minutes. The faster it floats, the stronger the LM. 
+	> The murkier the water is, the more acetic acid is left there. If the slices sink and stay at the bottom, the yeast is very weak. If they float (even after a few minutes), you have good activity.
 4. Squeeze the excess liquid and proceed with the feedings, slightly reducing the water amount
 
 #### 2. Warm feedings
@@ -88,3 +89,18 @@ In other words:
 > 1:2 or 1:3 take longer to reach the top but hold that peak beautifully.
 
 So **it’s the opposite of what intuition suggests** — lower ratio = faster start, shorter total life; higher ratio = slower start, longer stable peak.
+
+
+### Reviving after conservation + storage for Panettone AND for regular enriched doughs
+
+It is usually recommended to feed it ~1:5 if you're going to refrigerate it for 1 month. Better to go with bigger amounts for this. Still tie in cloth, put into a glass jar, cover with a lid.
+When reviving, proceed to Bagnetto and then, recovery feeds (**3 times that day**):
+1. 1 : 1.5 : 0.25 (LM : Flour : Water) at 28C (less water because of Bagnetto)
+2. if it doesn't triple, repeat in 4 hours (at peak), if it does, repeat with 1:2:1 at 28C
+3. same as step 2
+
+When it is predictable again, triples, smells nice, doesn't tear, go back to the 15C cloth storage method (IF opting for Panettone, otherwise, read "Storage in the fridge".
+
+### Storage in the fridge
+
+*However*, it you need Lievito Madre for enriched doughs (not Panettone), the more practical way would be the regular fridge. Feed 1:2 with less water (40-45%), put at 28C (yes, in cloth) and wait 1-2h, then into a glass jar with a lid to prevent drying. Can stay there for 5-7 days. When using, you'll need to perform Bagnetto again though.
