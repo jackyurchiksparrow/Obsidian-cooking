@@ -266,7 +266,7 @@ class RecipeScaler {
                 const currentIngred = ingredient_cells[i];
                 const ingredText = currentIngred.textContent.trim();
 
-                const isSpecialRow = ingredText.startsWith("---") && ingredText.endsWith("---");
+                const isSpecialRow = ingredText.startsWith("--") && ingredText.endsWith("--");
                 if (isSpecialRow) {
                     const tr = currentIngred.closest("tr");
 
