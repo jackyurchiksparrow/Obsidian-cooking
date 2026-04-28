@@ -43,7 +43,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Scale
 ###### (84) / (84+219+246+87) = 0.13
 ###### Calculate
-###### Show percentage columns
+###### Hide percentage columns
 
 | Ingredient                                                 | Quantity, g | Baker's % | %   | Note |
 | ---------------------------------------------------------- | ----------- | --------- | --- | ---- |
