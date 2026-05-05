@@ -42,23 +42,22 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ###### 1
 ###### Scale
-###### 13 * 4 = 52
+###### 122+266 = 388
 ###### Calculate
 ###### Hide percentage columns
 
 | Ingredient                                            | Quantity, g | Baker's % | %   | Note     |
 | ----------------------------------------------------- | ----------- | --------- | --- | -------- |
 | **--- 1. Autolyze ---**                               |             |           |     |          |
-| Water 1                                               | 392         |           |     |          |
-| Low-protein flour (10.3g)                             | 122         |           |     |          |
-| [[Flours\|Bread flour (Zernari)]]                     | 266         |           |     |          |
+| Water                                                 | 440         |           |     |          |
+| Cuoco flour                                           | 388         |           |     |          |
 | [[Flours\|Whole wheat flour (Caputo)]]                | 51          |           |     |          |
 | [[Flours\|Whole buckwheat flour]]                     | 87          |           |     |          |
 | Dark fermented rye [[Malt\|malt]]                     | 2.2         |           |     |          |
 |                                                       |             |           |     |          |
 | **--- 2. Add the levain and salt, knead ---**         |             |           |     |          |
 | [[Sourdough starter types\|Sourdough starter (100%)]] | 180         |           |     | <br><br> |
-| Sea salt                                              | 12          |           |     |          |
+| Sea salt                                              | 13          |           |     |          |
 |                                                       |             |           |     |          |
 | **--- 4. Ferment at 24C for ~5-6h  ---**              |             |           |     |          |
 | **--- 5.Shape and bake<br>---**                       |             |           |     |          |
