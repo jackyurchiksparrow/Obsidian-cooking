@@ -41,18 +41,27 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ###### 1
 ###### Scale
-###### 360+180 = 540
+###### 25+25+50 = 100
 ###### Calculate
 ###### Hide percentage columns
 
 | Ingredient                                           | Quantity, g | Baker's % | %   | Note |
 | ---------------------------------------------------- | ----------- | --------- | --- | ---- |
-| Water                                                | 380         |           |     |      |
+| Water                                                | 432         |           |     |      |
 | Water 2                                              | 20          |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (50%)]] | 90          |           |     |      |
-| Sea salt                                             | 12          |           |     |      |
-| Cuoco flour                                          | 150         |           |     |      |
-| Whole wheat flour                                    | 350         |           |     |      |
+| [[Sourdough starter types\|Sourdough starter (50%)]] | 100         |           |     |      |
+| Sea salt                                             | 13          |           |     |      |
+| Caputo Cuoco flour                                   | 162         |           |     |      |
+| Whole wheat flour (Caputo Integrale)                 | 378         |           |     |      |
+|                                                      |             |           |     |      |
+| **Inoculation**                                      |             |           |     |      |
+| **Overall hydration**                                |             |           |     |      |
+| **Overall weight**                                   |             |           |     |      |
+|                                                      |             |           |     |      |
+| **Levain**                                           |             |           |     |      |
+| Sourdough starter, 50%                               | 25          |           |     |      |
+| Water                                                | 25          |           |     |      |
+| Bread flour (Zernari)                                | 50          |           |     |      |
 |                                                      |             |           |     |      |
 | **Inoculation**                                      |             |           |     |      |
 | **Overall hydration**                                |             |           |     |      |
