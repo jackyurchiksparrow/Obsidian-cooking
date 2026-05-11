@@ -129,7 +129,8 @@ It is assumed that the LM is maintained using the cloth method ([[Lievito madre]
 2. *ST 12:30-12:50*: 1st refreshment
 3. *ST 15:50-16:20*: 2nd refreshment
 4. *ST 19:20-19:40*: 3rd refreshment
-5. *ST 21:10*: Make the [[Chocolate glaze|Chocolate glaze]] (if not making artisanal version with butter and crisscrossing) and place into the fridge overnight.
+	- if you see you can't proceed with Panettone, you can use up LM on: [[Berliner jam donuts]] / [[White classic kulich (LM)]] (double batch) / [[Focaccia (LM and sweet)]] with high inoculation / [[Vatrushkas]] ~1.5 portion / [[Chocolate bread]] likely at room temperature
+5. *ST 21:10*: Make the [[Chocolate glaze|Chocolate glaze]] (if not making artisanal version with butter and crisscrossing) and put it into the fridge overnight.
 6. *ST 21:20*: Wash the dry fruit thoroughly at 60C to remove covered fat, soak overnight in 80% cold water 20% rum. Then, in the morning, drain them in the colander
 > DO NOT soak candied peels, but DO SOAK a handful for flavor, this is very important. 
 7. *ST 21:30*: separate egg yolks
