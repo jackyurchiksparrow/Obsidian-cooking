@@ -50,7 +50,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ###### 2
 ###### Scale
-###### (105+222)/(385+145+90) = 0.53
+###### (210+444)/180 = 3.63
 ###### Calculate
 ###### Hide percentage columns
 
