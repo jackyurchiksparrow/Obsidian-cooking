@@ -44,36 +44,37 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Scale
 ###### 122+266 = 388
 ###### Calculate
-###### Hide percentage columns
+###### Show percentage columns
 
-| Ingredient                                            | Quantity, g | Baker's % | %   | Note     |
-| ----------------------------------------------------- | ----------- | --------- | --- | -------- |
-| **--- 1. Autolyze ---**                               |             |           |     |          |
-| Water                                                 | 440         |           |     |          |
-| Cuoco flour                                           | 388         |           |     |          |
-| [[Flours\|Whole wheat flour (Caputo)]]                | 51          |           |     |          |
-| [[Flours\|Whole buckwheat flour]]                     | 87          |           |     |          |
-| Dark fermented rye [[Malt\|malt]]                     | 2.2         |           |     |          |
-|                                                       |             |           |     |          |
-| **--- 2. Add the levain and salt, knead ---**         |             |           |     |          |
-| [[Sourdough starter types\|Sourdough starter (100%)]] | 180         |           |     | <br><br> |
-| Sea salt                                              | 13          |           |     |          |
-|                                                       |             |           |     |          |
-| **--- 4. Ferment at 24C for ~5-6h  ---**              |             |           |     |          |
-| **--- 5.Shape and bake<br>---**                       |             |           |     |          |
-|                                                       |             |           |     |          |
-| **Inoculation**                                       |             |           |     |          |
-| **Overall hydration**                                 |             |           |     |          |
-| **Overall weight**                                    |             |           |     |          |
-|                                                       |             |           |     |          |
-|                                                       |             |           |     |          |
-| **Levain** (8h at 24C):                               |             |           |     |          |
-| Starter                                               | 20          |           |     |          |
-| White bread flour (13.3g)                             | 80          |           |     |          |
-| Water                                                 | 80          |           |     |          |
-|                                                       |             |           |     |          |
-| **Overall hydration**                                 |             |           |     |          |
-| **Overall weight**                                    |             |           |     |          |
+| Ingredient                                                                            | Quantity, g | Baker's % | %   | Note                                                                                       |
+| ------------------------------------------------------------------------------------- | ----------- | --------- | --- | ------------------------------------------------------------------------------------------ |
+| **Autolyze 2h in the fridge**                                                         |             |           |     | To maximize the extensibility of your white flour base before the buckwheat can disrupt it |
+| Water                                                                                 | 374         |           |     |                                                                                            |
+| Cuoco flour                                                                           | 373         |           |     |                                                                                            |
+| [[Flours\|Whole wheat flour (Caputo)]]                                                | 49          |           |     |                                                                                            |
+|                                                                                       |             |           |     |                                                                                            |
+| **Scald malt and neutralize unstable ferments while still preserve flavor and color** |             |           |     |                                                                                            |
+| Boiling water                                                                         | 20          |           |     |                                                                                            |
+| Dark fermented rye [[Malt\|malt]]                                                     | 2.2         |           |     |                                                                                            |
+|                                                                                       |             |           |     |                                                                                            |
+| **Add the rest**                                                                      |             |           |     |                                                                                            |
+| Water 2                                                                               | 67          |           |     |                                                                                            |
+| [[Flours\|Whole buckwheat flour]]                                                     | 84          |           |     |                                                                                            |
+| [[Sourdough starter types\|Sourdough starter (50%)]]                                  | 100         |           |     | <br><br>                                                                                   |
+| Sea salt                                                                              | 13          |           |     |                                                                                            |
+|                                                                                       |             |           |     |                                                                                            |
+| **Inoculation**                                                                       |             |           |     |                                                                                            |
+| **Overall hydration**                                                                 |             |           |     |                                                                                            |
+| **Overall weight**                                                                    |             |           |     |                                                                                            |
+|                                                                                       |             |           |     |                                                                                            |
+|                                                                                       |             |           |     |                                                                                            |
+| **Levain** (3h at 28C):                                                               |             |           |     |                                                                                            |
+| Sourdough starter (50%)                                                               | 25          |           |     |                                                                                            |
+| Cuoco flour                                                                           | 50          |           |     |                                                                                            |
+| Water                                                                                 | 25          |           |     |                                                                                            |
+|                                                                                       |             |           |     |                                                                                            |
+| **Overall hydration**                                                                 |             |           |     |                                                                                            |
+| **Overall weight**                                                                    |             |           |     |                                                                                            |
 
 
 
