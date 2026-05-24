@@ -1,13 +1,13 @@
 ---
 tags:
   - "#sourdough"
-date:
-hydration:
-bulk fermentation:
-cold retard:
+date: 2026-05-25
+hydration: 75
+bulk fermentation: 5h
+cold retard: 12h
 outcome:
 thumbnail:
-yield:
+yield: 1
 nutrition rating:
 taste rating:
 credit:
@@ -29,52 +29,52 @@ window.onerror = function (message, source, lineno, colno, error) {
     };
 ```
 
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |     |     |     |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- | --- |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |     |     |     |
-| **Hydration**: 75%<br>**Inoculation**: 10.1%<br>**Weight**: 1105g<br>**Autolyse**: 1.5h in the fridge<br>**Fermentolyse**: -<br>**Bulk**: <br>- 8h at 24C, 8h 20min shaped and refrigerated<br>**Cold retard**: 12h<br>**Outcome**: properly fermented, but go further<br>**Levain**: 50% LM, 4.2pH (fed with Zernari)<br>**Title**: 10% whole wheat (aka high hydration white)<br>**Improvements**:<br>- go further in bulk and use the larger basket, it's going to be greatly aerated<br><br>**Logs**:<br>- Coil folds 1h, 2h, 2h36min<br><br>15.05.2026 |     |     |     |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                     |     |     |     |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- | --- |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                     |     |     |     |
+| **Hydration**: 75%<br>**Inoculation**: 11.2%<br>**Weight**: ~1090g<br>**Autolyse**: ~1h in the fridge<br>**Fermentolyse**: -<br>**Bulk**: <br>- 5h+ at 24C<br>**Cold retard**: 12h<br>**Outcome**: <br>**Levain**: 45% LM, 3.7pH (fed with Cuoco) - levain was stressed after schedule change + improper bath<br>**Title**: Miso tartin<br>**Improvements**:<br>- <br><br>**Logs**:<br>- Coil folds 15min, 30min 1h, 1h 30min, 2h<br><br>25.05.2026 |     |     |     |
 
 
 ## Ingredients
 
-###### 0.91
+###### 0.9
 ###### Scale
 ###### 380 / (480+60) = 0.7
 ###### Calculate
 ###### Hide percentage columns
 
-| Ingredient                                                                                | Quantity, g | Baker's % | %   | Note                                                                                              |
-| ----------------------------------------------------------------------------------------- | ----------- | --------- | --- | ------------------------------------------------------------------------------------------------- |
-| **--- 1. Autolyze 1-2h ---**                                                              |             |           |     |                                                                                                   |
-| Water 1                                                                                   | 346         |           |     |                                                                                                   |
-| Cuoco flour (mix with the algae separately)                                               | 437         |           |     |                                                                                                   |
-| Wacame / Nori; dried and chopped<br>(could also add a handful of bonito flakes)           | 6           |           |     | do not soak                                                                                       |
-| Whole wheat flour; coarse                                                                 | 55          |           |     |                                                                                                   |
-|                                                                                           |             |           |     |                                                                                                   |
-| **--- 2. Soaker ---**                                                                     |             |           |     |                                                                                                   |
-| Sesame seeds; toasted                                                                     | 27          |           |     |                                                                                                   |
-| Soaker liquid; boiling                                                                    | 27          |           |     |                                                                                                   |
-|                                                                                           |             |           |     |                                                                                                   |
-| **--- 2. Mix the miso paste with water first for a slurry. Add everything together. ---** |             |           |     |                                                                                                   |
-| Water 2 (for miso paste)                                                                  | 55          |           |     |                                                                                                   |
-| Miso paste                                                                                | 55          |           |     |                                                                                                   |
-| [[Sourdough starter types\|Sourdough starter (45%)]]                                      | 100         |           |     | 22.1% inoculation: 146g of 100% or 130g of LM + 36g of water<br>15.2% inoculation: 95g of LM <br> |
-| Salt                                                                                      | 4           |           |     |                                                                                                   |
-|                                                                                           |             |           |     |                                                                                                   |
-| **--- 3. Add the seed soaker towards the end of kneading --**                             |             |           |     |                                                                                                   |
-|                                                                                           |             |           |     |                                                                                                   |
-|                                                                                           |             |           |     |                                                                                                   |
-| **Inoculation**                                                                           |             |           |     |                                                                                                   |
-| **Overall hydration**                                                                     |             |           |     |                                                                                                   |
-| **Overall weight**                                                                        |             |           |     |                                                                                                   |
-|                                                                                           |             |           |     |                                                                                                   |
-| **Levain** (LM 4h at 28C)                                                                 |             |           |     |                                                                                                   |
-| Starter                                                                                   | 25.8        |           |     |                                                                                                   |
-| White bread flour (13.3g)                                                                 | 51.5        |           |     |                                                                                                   |
-| Water                                                                                     | 23.2        |           |     |                                                                                                   |
-|                                                                                           |             |           |     |                                                                                                   |
-| **Overall hydration**                                                                     |             |           |     |                                                                                                   |
-| **Overall weight**                                                                        |             |           |     |                                                                                                   |
+| Ingredient                                                                                | Quantity, g | Baker's % | %   | Note                                      |
+| ----------------------------------------------------------------------------------------- | ----------- | --------- | --- | ----------------------------------------- |
+| **--- 1. Autolyze 1-2h ---**                                                              |             |           |     |                                           |
+| Water 1                                                                                   | 371         |           |     |                                           |
+| Cuoco flour (mix with the algae separately)                                               | 437         |           |     |                                           |
+| Wacame / Nori; dried and chopped<br>(could also add a handful of bonito flakes)           | 6           |           |     | do not soak separately, will produce ooze |
+| Whole wheat flour; coarse                                                                 | 55          |           |     |                                           |
+|                                                                                           |             |           |     |                                           |
+| **--- 2. Soaker ---**                                                                     |             |           |     |                                           |
+| Sesame seeds; toasted                                                                     | 27          |           |     |                                           |
+| Soaker liquid; boiling                                                                    | 27          |           |     |                                           |
+|                                                                                           |             |           |     |                                           |
+| **--- 2. Mix the miso paste with water first for a slurry. Add everything together. ---** |             |           |     |                                           |
+| Water 2 (for miso paste)                                                                  | 20          |           |     |                                           |
+| Miso paste                                                                                | 55          |           |     |                                           |
+| [[Sourdough starter types\|Sourdough starter (45%)]]                                      | 90          |           |     |                                           |
+| Salt                                                                                      | 4           |           |     |                                           |
+|                                                                                           |             |           |     |                                           |
+| **--- 3. Add the seed soaker towards the end of kneading --**                             |             |           |     |                                           |
+| Seed soaker                                                                               |             |           |     |                                           |
+|                                                                                           |             |           |     |                                           |
+| **Inoculation**                                                                           |             |           |     |                                           |
+| **Overall hydration**                                                                     |             |           |     |                                           |
+| **Overall weight**                                                                        |             |           |     |                                           |
+|                                                                                           |             |           |     |                                           |
+| **Levain** (LM 4h at 28C)                                                                 |             |           |     |                                           |
+| Starter                                                                                   | 23          |           |     |                                           |
+| White bread flour (13.3g)                                                                 | 46          |           |     |                                           |
+| Water                                                                                     | 23          |           |     |                                           |
+|                                                                                           |             |           |     |                                           |
+| **Overall hydration**                                                                     |             |           |     |                                           |
+| **Overall weight**                                                                        |             |           |     |                                           |
 
 
 

@@ -147,7 +147,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 5. *ST 16:40-19:40*: 2nd refreshment fermenting
 6. *ST 19:40-19:50*: 3rd feed
 7. *ST 19:50-22:50*: 3rd refreshment fermenting
-	> **if** you see that **you can't proceed with Panettone**, you can use up LM on: [[Berliner jam donuts]] / [[White classic kulich (LM)]] (double batch) / [[Focaccia (LM and sweet)]] with high inoculation / [[Vatrushkas]] ~1.5 portion / [[Chocolate bread]] likely at room temperature
+	> **if** you see that **you can't proceed with Panettone**, you can use up LM on: [[Berliner jam donuts]] / [[White classic kulich (LM)]] (double batch) / [[Focaccia (LM and sweet)]] with high inoculation / [[Vatrushkas]] ~1.5 portion / [[Chocolate bread]] likely at room temperature / Cinnamon rolls if the dough is still stretchy and not super sticky (just dust with flour generously, spread very warm/melted SALTED butter THINLY, brown sugar with cinnamon generously, then spread soaked dry fruit, roll and proof for 1-2h or until the poke test is applied)
 8. *ST 21:00*: Preparations:
 	- Take the butter out of the fridge
 	- Pre-measure the flour for the second dough and put it into the fridge to cool
