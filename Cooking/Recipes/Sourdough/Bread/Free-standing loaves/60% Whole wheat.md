@@ -43,13 +43,13 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Scale
 ###### 25+25+50 = 100
 ###### Calculate
-###### Hide percentage columns
+###### Show percentage columns
 
 | Ingredient                                           | Quantity, g | Baker's % | %   | Note |
 | ---------------------------------------------------- | ----------- | --------- | --- | ---- |
-| Water                                                | 463         |           |     |      |
+| Water                                                | 438         |           |     |      |
 | Water 2                                              | 20          |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (50%)]] | 100         |           |     |      |
+| [[Sourdough starter types\|Sourdough starter (45%)]] | 100         |           |     |      |
 | Sea salt                                             | 14          |           |     |      |
 | Caputo Cuoco flour                                   | 162         |           |     |      |
 | Whole wheat flour (Caputo Integrale)                 | 378         |           |     |      |
