@@ -43,7 +43,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Scale
 ###### 25+25+50 = 100
 ###### Calculate
-###### Show percentage columns
+###### Hide percentage columns
 
 | Ingredient                                           | Quantity, g | Baker's % | %   | Note |
 | ---------------------------------------------------- | ----------- | --------- | --- | ---- |
