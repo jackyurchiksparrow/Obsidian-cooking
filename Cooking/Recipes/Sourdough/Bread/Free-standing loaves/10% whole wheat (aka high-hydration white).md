@@ -42,7 +42,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Scale
 ###### 19+38+38 = 95
 ###### Calculate
-###### Hide percentage columns
+###### Show percentage columns
 
 | Ingredient                                           | Quantity, g | Baker's % | %   | Note                                                                                              |
 | ---------------------------------------------------- | ----------- | --------- | --- | ------------------------------------------------------------------------------------------------- |
@@ -54,7 +54,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 |                                                      |             |           |     |                                                                                                   |
 | **--- 2. Add the levain and salt, knead ---**        |             |           |     |                                                                                                   |
 | Water 2                                              | 33          |           |     |                                                                                                   |
-| [[Sourdough starter types\|Sourdough starter (50%)]] | 95          |           |     | 22.1% inoculation: 146g of 100% or 130g of LM + 36g of water<br>15.2% inoculation: 95g of LM <br> |
+| [[Sourdough starter types\|Sourdough starter (50%)]] | 100         |           |     | 22.1% inoculation: 146g of 100% or 130g of LM + 36g of water<br>15.2% inoculation: 95g of LM <br> |
 | Salt                                                 | 12          |           |     |                                                                                                   |
 |                                                      |             |           |     |                                                                                                   |
 | **--- 4. Ferment at 24C for ~5-6h  ---**             |             |           |     |                                                                                                   |
