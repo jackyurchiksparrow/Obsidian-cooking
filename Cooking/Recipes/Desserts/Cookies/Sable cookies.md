@@ -41,7 +41,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Scale
 ###### 140-14 = 126
 ###### Calculate
-###### Hide percentage columns
+###### Show percentage columns
 
 | Ingredient                         | Quantity, g | Baker's % | %   | Note                                                                                           |
 | ---------------------------------- | ----------- | --------- | --- | ---------------------------------------------------------------------------------------------- |
