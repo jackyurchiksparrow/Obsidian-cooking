@@ -38,7 +38,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ## Ingredients
 
-###### 1
+###### 0.88
 ###### Scale
 ###### 631 - 125 = 506
 ###### Calculate
@@ -46,21 +46,16 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                           | Quantity, g | Baker's % | %   | Note |
 | ---------------------------------------------------- | ----------- | --------- | --- | ---- |
-| Water                                                | 328         |           |     |      |
-| Water 2                                              | 24          |           |     |      |
-| Water 3                                              | 20          |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (50%)]] | 90          |           |     |      |
-| Sea salt                                             | 16          |           |     |      |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 380         |           |     |      |
-| [[Flours\|Wheat flour (HH Manitoba)]]                | 237         |           |     |      |
-| Sugar                                                | 16          |           |     |      |
-| Butter                                               | 35          |           |     |      |
-| Linseed                                              | 11          |           |     |      |
-| Chia seeds                                           | 9           |           |     |      |
-| Sunflower seeds                                      | 10          |           |     |      |
-| Quinoa                                               | 50          |           |     |      |
-| Water; soaker                                        | 80          |           |     |      |
+| Water                                                | 350         |           |     |      |
+| Water 2                                              |             |           |     |      |
+| [[Sourdough starter types\|Sourdough starter (50%)]] | 180         |           |     |      |
+| Sea salt                                             | 14          |           |     |      |
+| Cuoco flour                                          | 334         |           |     |      |
+| [[Flours\|Wheat flour (HH Manitoba)]]                | 209         |           |     |      |
+| Sugar                                                | 14          |           |     |      |
+| Butter                                               | 31          |           |     |      |
 |                                                      |             |           |     |      |
+| **Inoculation**                                      |             |           |     |      |
 | **Overall hydration**                                |             |           |     |      |
 | **Overall weight**                                   |             |           |     |      |
 

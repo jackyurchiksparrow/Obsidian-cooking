@@ -1,0 +1,171 @@
+---
+tags:
+  - "#sourdough"
+  - sweet
+date: 2026-05-10
+hydration:
+bulk fermentation:
+cold retard:
+outcome:
+thumbnail: https://lh3.googleusercontent.com/pw/AP1GczMw98K-3dbne4HR4GmVlHpIvM3Erz5Pa0BJqIQuYu5rJodFI_IfV-ECI6W1WXVzsRfyeiJ2Hk5JcSyKiobuxxe6oMXqIoxd0UZIaXyuMzXbqxJU4HVHgiP14Q1wqDH5JW8C2niYibnTDLMnbSW33B4P=w1280-h960-s-no-gm?authuser=0
+yield:
+nutrition rating:
+taste rating:
+credit:
+part_of_the_set:
+---
+```dataviewjs
+while (!customJS?.state?._ready) { 
+	await new Promise(resolve => setTimeout(resolve, 50)); 
+} 
+
+const {RecipeScaler} = await cJS();
+RecipeScaler.RecipeScaler();
+
+window.onerror = function (message, source, lineno, colno, error) {
+	if (error instanceof TypeError && message.includes("Cannot read properties of undefined")) {
+		RecipeScaler.RecipeScaler();
+		return true;
+	}
+    };
+```
+
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                      |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczMBs1Z15WWWTpXU0M0VC8LjtZ1RjrmXRhkjxMA-EUvbG4ag4jUNT3nVNFElsNXh0trLAEUpmJNVWeoIja4fu5mCr9LJ9vcJduVKIiYGQcBgAMRGQSLyTMwOYGQlaFBDmjDDv5bZwxog7EV2fqKVgyTw=w1280-h960-s-no-gm?authuser=0)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | ![](https://lh3.googleusercontent.com/pw/AP1GczOl4qTUITQYPED5CPctLSeGM864dyvWAO4oL68FCiI6oPD4eSfm5ASYL0E06ZqYOXMtV_qdnlFWTz0X_XChiUcQIM2TRmQGDGal-uAMkatslk3yovigeXoUOihhyUwDr-05sT3U0P5chkxF0P49weqQ=w1280-h960-s-no-gm?authuser=0)<br><br>![](https://lh3.googleusercontent.com/pw/AP1GczPSt4k7EXe0ADVwVUEERVK9NSKMllfm2KBcOU8iMiWI6FXtNfChILVPxEG3d4dxyGYhOL2jkGCV7gaeR6zAM9mLOrTdPJ_UWQXpAMdT2AVdD3sZ-0sHVx7JvlOv_WCtY4s2939L8BDY4I6jngj1KqE9=w1280-h960-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczOXJYeGtpccaoRwpiPpansBFVCyLraHWcz6r36a5dEEc0Ty50ZG3gJG2XQvIKVukDmv7p-9qy-VoXgxmRvQNEbkpaJq5ZbHy-DvEEX8t8ZuYNf1OtZLQwdcyhHg2DoQqn9zXGAh3Pg6VBlHtlKCAY2a=w1280-h960-s-no-gm?authuser=0)<br><br>![](https://lh3.googleusercontent.com/pw/AP1GczNG-AzptVVaGVbHmeNLIFYyZ7wOANz057ZKKTttqfNFwEx5RqG4DO9LYBdRQfpAYLhLcKaRygWhHnaENtNpa1npdFWbtdS4s-eWTjP2naPwvwH3ldHPfloL5lErwIi0SMJEdagUeTT5RRrrtECHN6rV=w960-h1280-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczOQMDZdhVXFdgjNAm9jvizxH5balohwhkHxx04kjFCVpYmFs9IqnmGoLgRMOR0Pae-8AN5_J3FPT6gaosVUJZ4iLJvSjmSdvPDQQCuVZEyL7zgAIvJZkj092O_OtZJBdaLdqP39anSNhxtWcLwfHJL_=w1280-h960-s-no-gm?authuser=0)<br><br>![](https://lh3.googleusercontent.com/pw/AP1GczMFklN7OBYX6xP9vSjgcIyrjrKvSIogcO84N7xcHvc9r-C2fD7crI6EDOKIcuzK4juLJcw5SBZkI3vSuHPNVtFPk_r0o6PKLfYEdXI2aaaGd3zPBkzk-LM1_iIACLkrCFT_GG_l85bTb-hhV41mXLkz=w960-h1280-s-no-gm?authuser=0) | ![](https://lh3.googleusercontent.com/pw/AP1GczMw98K-3dbne4HR4GmVlHpIvM3Erz5Pa0BJqIQuYu5rJodFI_IfV-ECI6W1WXVzsRfyeiJ2Hk5JcSyKiobuxxe6oMXqIoxd0UZIaXyuMzXbqxJU4HVHgiP14Q1wqDH5JW8C2niYibnTDLMnbSW33B4P=w1280-h960-s-no-gm?authuser=0) |
+| **Bulk 1**: 2h at 26C (no movement)<br>**Cold**: 8h<br>**Bulk 2**: 4h at 30C doubled<br>**Final proof**: 3h at 29C + steaming pan underneath with just the light on<br><br>**Improvements**:<br>- reassess the kneading method, it was just "combine everything but the butter, then add butter"<br>- reconsider the flour and hydration, the dough was way on the stiffer side, especially during kneading, even after fermentation<br>- consider fermenting overnight to save time<br>- DO NOT make them bigger than 60g a piece, these were 75g each<br>- DO NOT proceed with making space for the filling inside while they are still warm<br>- use way less oil, the donuts will float anyway, oil temp is 175C (the setting of 5-6) and larger pan to fry many at the same time, it will be WAY LESS stressful<br><br>**Logs**:<br>- they were too big and I was to impatient, had to finish them in the oven just in case, I noticed that a few were raw<br>- this batch used up double the cherry filling specified exactly<br><br>10.05.2026 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                      |
+
+you need to edit the recipe
+- reconsider the flour mix
+- increase hydrtion to ~60%, I think
+- I suspect too much cornstarch in the fillings
+- make smaller donuts
+- when frying in oil (in a larger pot), they will stop bubbling but they will still be frying on that side, do not rush
+
+## Ingredients
+
+###### 1
+###### Scale
+###### 1830 / 73 = 25.07
+###### Calculate
+###### Hide percentage columns
+###### Unreleased 3
+
+| Ingredient                                                                                                                           | Quantity, g | Baker's % | %   | Note |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ----------- | --------- | --- | ---- |
+| **Dough**                                                                                                                            |             |           |     |      |
+| Bread flour                                                                                                                          | 380         |           |     |      |
+| All-purpose flour                                                                                                                    | 380         |           |     |      |
+| Sourdough starter (50%), LM                                                                                                          | 300         |           |     |      |
+| Eggs                                                                                                                                 | 200         |           |     |      |
+| Milk                                                                                                                                 | 256         |           |     |      |
+| Sugar                                                                                                                                | 150         |           |     |      |
+| Salt                                                                                                                                 | 14          |           |     |      |
+| Butter                                                                                                                               | 150         |           |     |      |
+|                                                                                                                                      |             |           |     |      |
+| **Inoculation**                                                                                                                      |             |           |     |      |
+| **Overall hydration**                                                                                                                |             |           |     |      |
+| **Overall weight**                                                                                                                   |             |           |     |      |
+|                                                                                                                                      |             |           |     |      |
+| **Strawberry filling**                                                                                                               |             |           |     |      |
+| Frozen strawberries                                                                                                                  | 700         |           |     |      |
+| Sugar                                                                                                                                | 130         |           |     |      |
+| Cornstarch                                                                                                                           | 45          |           |     |      |
+| Lemon juice; zest                                                                                                                    | 1 tbsp.     |           |     |      |
+| Salt                                                                                                                                 | a pinch     |           |     |      |
+|                                                                                                                                      |             |           |     |      |
+| **Whipped ganache (700 ml)**                                                                                                         |             |           |     |      |
+| Chocolate                                                                                                                            | 165         |           |     |      |
+| Whipped cream                                                                                                                        | 500         |           |     |      |
+| Salt                                                                                                                                 | a pinch     |           |     |      |
+|                                                                                                                                      |             |           |     |      |
+| **Cherry filling (everyone's favorite; cinnamon's credit)**                                                                          |             |           |     |      |
+| Cherries                                                                                                                             | 680         |           |     |      |
+| Cornstarch                                                                                                                           | 50          |           |     |      |
+| Sugar                                                                                                                                | 150         |           |     |      |
+| Salt                                                                                                                                 | a pinch     |           |     |      |
+| Cinnamon stick                                                                                                                       |             |           |     |      |
+|                                                                                                                                      |             |           |     |      |
+| **Black currant filling**                                                                                                            |             |           |     |      |
+| Black currant                                                                                                                        | 700         |           |     |      |
+| Cornstarch                                                                                                                           | 50          |           |     |      |
+| Sugar                                                                                                                                | 150         |           |     |      |
+| Salt                                                                                                                                 |             |           |     |      |
+|                                                                                                                                      |             |           |     |      |
+| **Other**                                                                                                                            |             |           |     |      |
+| 750 ml frying oil (sunflower; odorless)  <br>200 g sugar for coating  <br>Vanilla sugar (4 tbsp; homemade)  <br>Lemon zest (1 lemon) |             |           |     |      |
+
+
+
+
+
+---
+## Directions:
+
+Day 1:
+**10:00 a.m.** Feed LM: 20g LM : 20g **water** : 40g white flour **at room temp**
+**10:00 p.m.-12:00 p.m.** Feed LM: 80g LM (50%): 92g **water** : 186g white flour **at 25-26C** for 12 hours, when it's fully expanded, not growing anymore and bubbly all over
+
+- Soak the raisins
+- Grab a cup for egg yolks. Separate egg yolks and whites. White will go straight into the mixing bowl.
+- In the bowl of a stand mixer, mix the water and egg whites. Add all the flours, mix for autolysis and refrigerate overnight. 
+- Place the dough hook into the freezer overnight as well.
+
+---
+
+Day 2:
+1. Get the butter from the fridge.
+2. Get the raisins into a colander and place them into the fridge.
+3. Get the stand mixer bowl from the fridge, add half the sugar and ripe levain. If the dough is very dry, add more milk, a small splash at a time, until it comes together and no dry bits remain. However, the dough should be a little on the firm side at this stage. Increase the mixer to medium speed and mix for 10 to 12 minutes until the dough begins to cling and pull from the sides. Let the dough rest for 10 minutes.
+4. Add the remaining sugar and a small splash of milk, mix on low speed for 1 to 2 minutes until it is absorbed and the dough comes back together. Increase the mixer to medium speed and mix for 5 to 6 minutes until the dough is smooth and strong; it should cling to the hook, but not completely remove from the sides of the bowl. Use the Windowpane Test to see if the dough is ready. If the dough tears irregularly and feels weak, mix on medium speed for 2 to 4 minutes more and test again.
+5. Add the salt, vanilla / zest and honey. Regain the consistency.
+6. With the mixer on low speed, add the butter, one pat at a time, until absorbed into the dough, scraping down the sides of the bowl and the paddle as needed. Continue until all the butter is added, 10 to 15 minutes. Increase the mixer to medium speed and mix for 2 minutes more until the dough smooths out and clings to the dough hook. The dough will be silky smooth, elastic, and shiny. 
+7. Add the soaked raisins. If the dough is stiff prior or after adding them, add a bit more milk to make it softer. **DO NOT ADD MILK UNTIL THE DOUGH IS VERY SOFT IF YOU PLAN TO ADD FILLINGS OR SHAPE IT INTO BABKA**
+8. Transfer to a container for bulk fermentation.
+9. Let the dough double in size (~8-12h), shape it into desired shapes and wait 6-10 hours more, until light, puffy, increased and passes the poke test.
+10. Brush with egg yolk + milk mixture, bake
+
+
+
+---
+## Nutrition Facts:
+
+| **Servings:** 22       |       | % Daily Value |
+| ---------------------- | ----- | ------------- |
+| **Amount per serving** | 60g   |               |
+| **Calories**: 110      |       |               |
+|                        |       |               |
+| **Total Fat**          |       |               |
+| **Saturated Fat**      |       |               |
+| **Cholesterol**        |       |               |
+| **Sodium**             |       |               |
+| **Total Carbohydrate** |       |               |
+| **Dietary Fiber**      |       |               |
+| **Total Sugars**       |       |               |
+| **Protein**            |       |               |
+| **Vitamin D**          |       |               |
+| **Calcium**            |       |               |
+| **Iron**               |       |               |
+| **Potassium**          |       |               |
+
+---
+## History:
+
+|     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- |
+|     |     |     |     |     |     |
+|     |     |     |     |     |     |
+|     |     |     |     |     |     |
+|     |     |     |     |     |     |
+|     |     |     |     |     |     |
+|     |     |     |     |     |     |
+
+---
+## Notes
+
+> H
+
+---
+
+
+
