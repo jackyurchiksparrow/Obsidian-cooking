@@ -6,6 +6,12 @@ Tiramisu
 213 g sugar  
 93 g water  
 Strong coffee  
+
+For orange version, incorporate into the final cream layer:
+- **150g** Fresh orange juice (strained)
+- **30g** Sugar
+- **12g** Cornstarch
+- **Zest of 1 large orange**
   
 ① Lightly beat the mascarpone cheese.  
 ② Add the heavy cream in and beat it until you reach the desired consistency (not too soft). Keep this in the fridge while you work on the pâté à bombe.  
@@ -14,3 +20,5 @@ Strong coffee
 ⑤ Pour it over the coffee syrup soaked lady fingers.  
 ⑥ Let it chill/set in the fridge for at least 3~4hrs.  
 ⑦ Dust it with cocoa powder and serve!
+
+

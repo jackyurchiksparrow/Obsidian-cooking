@@ -53,59 +53,65 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Hide percentage columns
 
-| Ingredient                                                   | Quantity, g | %   | Note                                |
-| ------------------------------------------------------------ | ----------- | --- | ----------------------------------- |
-| **[[Chicken stock]]**                                        |             |     |                                     |
-| Carrot                                                       |             |     | 1 pc.                               |
-| Onion                                                        |             |     | 1 pc.                               |
-| Bay leaves                                                   |             |     | 2-3 pcs.                            |
-| Black peppercorns                                            |             |     | 5-6 pcs.                            |
-| Thyme                                                        |             |     |                                     |
-| Garlic                                                       |             |     |                                     |
-| Any leftover root or veg parts (fennel, celery stalks etc.)  |             |     |                                     |
-| Chicken breast / Chicken thighs                              |             |     | 1.5 pcs. breasts / 4 chicken thighs |
-|                                                              |             |     |                                     |
-| **Overall weight**                                           |             |     |                                     |
-|                                                              |             |     |                                     |
-| **The filling**                                              |             |     |                                     |
-| Olive oil; extra virgin                                      |             |     | for sautéing                        |
-| Leeks                                                        | 200         |     |                                     |
-| Onions                                                       | 200         |     |                                     |
-| Shallots / spring onion                                      | 50          |     |                                     |
-| Parsley stalks (letfovers)                                   | 20          |     |                                     |
-| Chilies (optional)                                           |             |     | 3 tbsp.                             |
-| Red-bell pepper                                              | 300         |     |                                     |
-| Carrots                                                      | 100         |     |                                     |
-| Celery stalks                                                | 100         |     |                                     |
-| Fennel (optional)                                            | 75          |     |                                     |
-| Garlic                                                       |             |     | 4 cloves                            |
-| Tomato paste                                                 |             |     | 2 tbsp.                             |
-| Dry red wine                                                 | 200         |     |                                     |
-| Tomatoes passata / tomato juice                              | 300         |     |                                     |
-| Palm sugar (better omit)                                     |             |     | 1 tbsp.                             |
-| ground / shredded meat / mushrooms                           |             |     | 1.5 pcs. breasts                    |
-| Raisins; soaked                                              | 100         |     |                                     |
-| Olives                                                       | 30          |     |                                     |
-| Capers / pickles                                             | 150         |     | I always use pickles                |
-| Mustard (American)                                           |             |     | 4 tbsp.                             |
-| Soy sauce                                                    | 50          |     |                                     |
-| Chicken stock / water                                        | 200         |     |                                     |
-| Parsley                                                      | 50          |     |                                     |
-| Salt (if needed)                                             |             |     |                                     |
-| Pepper                                                       |             |     |                                     |
-|                                                              |             |     |                                     |
-| **Overall weight**                                           |             |     |                                     |
-|                                                              |             |     |                                     |
-| **The dough**                                                |             |     |                                     |
-| [[Sourdough starter types\|Sourdough starter discard (50%)]] | 90          |     |                                     |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]             | 266         |     | add 300 g if not using sourdough    |
-| [[Flours\|Whole wheat flour (Caputo)]]                       | 72          |     |                                     |
-| Butter                                                       | 180         |     |                                     |
-| Egg whites                                                   | 50          |     | 2 pcs.                              |
-| Salt                                                         |             |     | 1 tsp.                              |
-| Sugar                                                        |             |     | a pinch                             |
-|                                                              |             |     |                                     |
-| **Overall weight**                                           |             |     |                                     |
+| Ingredient                                                                                                                                                                                                   | Quantity, g | %   | Note                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- | --- | ----------------------------------- |
+| **[[Chicken stock]]**                                                                                                                                                                                        |             |     |                                     |
+| Carrot                                                                                                                                                                                                       |             |     | 1 pc.                               |
+| Onion                                                                                                                                                                                                        |             |     | 1 pc.                               |
+| Bay leaves                                                                                                                                                                                                   |             |     | 2-3 pcs.                            |
+| Black peppercorns                                                                                                                                                                                            |             |     | 5-6 pcs.                            |
+| Thyme                                                                                                                                                                                                        |             |     |                                     |
+| Garlic                                                                                                                                                                                                       |             |     |                                     |
+| Any leftover root or veg parts (fennel, celery stalks etc.)                                                                                                                                                  |             |     |                                     |
+| Chicken breast / Chicken thighs                                                                                                                                                                              |             |     | 1.5 pcs. breasts / 4 chicken thighs |
+|                                                                                                                                                                                                              |             |     |                                     |
+| **Overall weight**                                                                                                                                                                                           |             |     |                                     |
+|                                                                                                                                                                                                              |             |     |                                     |
+| **The filling**                                                                                                                                                                                              |             |     |                                     |
+| Olive oil; extra virgin                                                                                                                                                                                      |             |     | for sautéing                        |
+| Leeks                                                                                                                                                                                                        | 200         |     |                                     |
+| Onions                                                                                                                                                                                                       | 200         |     |                                     |
+| Shallots / spring onion                                                                                                                                                                                      | 50          |     |                                     |
+| Parsley stalks (letfovers)                                                                                                                                                                                   | 20          |     |                                     |
+| Chilies (optional)                                                                                                                                                                                           |             |     | 3 tbsp.                             |
+| Red-bell pepper                                                                                                                                                                                              | 300         |     |                                     |
+| Carrots                                                                                                                                                                                                      | 100         |     |                                     |
+| Celery stalks                                                                                                                                                                                                | 100         |     |                                     |
+| Fennel (optional)                                                                                                                                                                                            | 75          |     |                                     |
+| Garlic                                                                                                                                                                                                       |             |     | 4 cloves                            |
+| Tomato paste                                                                                                                                                                                                 |             |     | 2 tbsp.                             |
+| Dry red wine                                                                                                                                                                                                 | 200         |     |                                     |
+| Tomatoes passata / tomato juice                                                                                                                                                                              | 300         |     |                                     |
+| Palm sugar (better omit)                                                                                                                                                                                     |             |     | 1 tbsp.                             |
+| ground / shredded meat / mushrooms                                                                                                                                                                           |             |     | 1.5 pcs. breasts                    |
+| Raisins; soaked                                                                                                                                                                                              | 100         |     |                                     |
+| Olives                                                                                                                                                                                                       | 30          |     |                                     |
+| Capers / pickles                                                                                                                                                                                             | 150         |     | I always use pickles                |
+| Mustard (American)                                                                                                                                                                                           |             |     | 4 tbsp.                             |
+| Soy sauce                                                                                                                                                                                                    | 50          |     |                                     |
+| Chicken stock / water                                                                                                                                                                                        | 200         |     |                                     |
+| Parsley                                                                                                                                                                                                      | 50          |     |                                     |
+| Salt (if needed)                                                                                                                                                                                             |             |     |                                     |
+| Pepper                                                                                                                                                                                                       |             |     |                                     |
+|                                                                                                                                                                                                              |             |     |                                     |
+| **Overall weight**                                                                                                                                                                                           |             |     |                                     |
+|                                                                                                                                                                                                              |             |     |                                     |
+|                                                                                                                                                                                                              |             |     |                                     |
+| **The dough**                                                                                                                                                                                                |             |     |                                     |
+| **--- 1. Combine flour, cornstarch, sugar, salt.<br>Mix thoroughly; starch must be evenly dispersed. ---**                                                                                                   |             |     |                                     |
+| Low-protein flour                                                                                                                                                                                            | 367         |     |                                     |
+| Cornstarch                                                                                                                                                                                                   | 41          |     |                                     |
+| Sugar                                                                                                                                                                                                        | 20          |     |                                     |
+| Salt                                                                                                                                                                                                         | 8           |     |                                     |
+| **--- 2. Grate fully frozen butter into the dry mix.<br>Toss gently.<br>Rub only until:<br>    - Majority looks sandy<br>    - 20–30% butter remains as visible flakes<br>Do not homogenize completely.---** |             |     |                                     |
+| Butter                                                                                                                                                                                                       | 204         |     |                                     |
+| **--- 3. Mix water, vodka, discard.<br>- Add gradually while tossing with fingers or fork.<br>- Stop as soon as the dough just holds when squeezed.<br>- No kneading.---**                                   |             |     |                                     |
+| Sourdough discard (100%) - optional, can be more                                                                                                                                                             | 48          |     |                                     |
+| Ice cold water                                                                                                                                                                                               | 100         |     |                                     |
+| Cold vodka                                                                                                                                                                                                   | 32          |     |                                     |
+|                                                                                                                                                                                                              |             |     |                                     |
+| **Overall weight**                                                                                                                                                                                           |             |     |                                     |
+
 
 
 
