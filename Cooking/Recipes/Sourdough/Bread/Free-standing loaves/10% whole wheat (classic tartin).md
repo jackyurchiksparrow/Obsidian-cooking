@@ -42,35 +42,43 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Scale
 ###### 19+38+38 = 95
 ###### Calculate
-###### Hide percentage columns
+###### Show percentage columns
 
-| Ingredient                                           | Quantity, g | Baker's % | %   | Note                                                                                              |
-| ---------------------------------------------------- | ----------- | --------- | --- | ------------------------------------------------------------------------------------------------- |
-| *Target bulk ~8-9h at 24C*                           |             |           |     |                                                                                                   |
-| **--- 1. Autolyze 1h ---**                           |             |           |     |                                                                                                   |
-| Water 1                                              | 406         |           |     |                                                                                                   |
-| Cuoco flour                                          | 504         |           |     |                                                                                                   |
-| Whole wheat flour; coarse                            | 55          |           |     |                                                                                                   |
-|                                                      |             |           |     |                                                                                                   |
-| **--- 2. Add the levain and salt, knead ---**        |             |           |     |                                                                                                   |
-| Water 2                                              | 33          |           |     |                                                                                                   |
-| [[Sourdough starter types\|Sourdough starter (50%)]] | 100         |           |     | 22.1% inoculation: 146g of 100% or 130g of LM + 36g of water<br>15.2% inoculation: 95g of LM <br> |
-| Salt                                                 | 12          |           |     |                                                                                                   |
-|                                                      |             |           |     |                                                                                                   |
-| **--- 4. Ferment at 24C for ~5-6h  ---**             |             |           |     |                                                                                                   |
-| **--- 5.Shape and bake<br>---**                      |             |           |     |                                                                                                   |
-|                                                      |             |           |     |                                                                                                   |
-| **Inoculation**                                      |             |           |     |                                                                                                   |
-| **Overall hydration**                                |             |           |     |                                                                                                   |
-| **Overall weight**                                   |             |           |     |                                                                                                   |
-|                                                      |             |           |     |                                                                                                   |
-| **Levain** (LM 4h at 28C)                            |             |           |     |                                                                                                   |
-| Starter                                              | 19          |           |     |                                                                                                   |
-| White bread flour (13.3g)                            | 38          |           |     |                                                                                                   |
-| Water                                                | 38          |           |     |                                                                                                   |
-|                                                      |             |           |     |                                                                                                   |
-| **Overall hydration**                                |             |           |     |                                                                                                   |
-| **Overall weight**                                   |             |           |     |                                                                                                   |
+| Ingredient                                            | Quantity, g | Baker's % | %   | Note |
+| ----------------------------------------------------- | ----------- | --------- | --- | ---- |
+| *Target bulk ~8-9h at 24C*                            |             |           |     |      |
+| **--- 1. Autolyze 1h ---**                            |             |           |     |      |
+| Water 1                                               | 370         |           |     |      |
+| Cuoco flour                                           | 504         |           |     |      |
+| Whole wheat flour; coarse                             | 55          |           |     |      |
+|                                                       |             |           |     |      |
+| **--- 2. Add the levain and salt, knead ---**         |             |           |     |      |
+| Water 2                                               | 33          |           |     |      |
+| [[Sourdough starter types\|Sourdough starter (100%)]] | 130         |           |     |      |
+| Salt                                                  | 12          |           |     |      |
+|                                                       |             |           |     |      |
+| **--- 4. Ferment at 24C for ~5-6h  ---**              |             |           |     |      |
+| **--- 5.Shape and bake<br>---**                       |             |           |     |      |
+|                                                       |             |           |     |      |
+| **Inoculation**                                       |             |           |     |      |
+| **Overall hydration**                                 |             |           |     |      |
+| **Overall weight**                                    |             |           |     |      |
+|                                                       |             |           |     |      |
+| **Levain (LM)** (<4h at 26C)                          |             |           |     |      |
+| Starter                                               | 25          |           |     |      |
+| White bread flour (13.3g)                             | 50          |           |     |      |
+| Water                                                 | 25          |           |     |      |
+|                                                       |             |           |     |      |
+| **Overall hydration**                                 |             |           |     |      |
+| **Overall weight**                                    |             |           |     |      |
+|                                                       |             |           |     |      |
+| **Levain (100%)** (5h at 25C)                         |             |           |     |      |
+| Starter                                               | 26          |           |     |      |
+| White bread flour (13.3g)                             | 52          |           |     |      |
+| Water                                                 | 52          |           |     |      |
+|                                                       |             |           |     |      |
+| **Overall hydration**                                 |             |           |     |      |
+| **Overall weight**                                    |             |           |     |      |
 
 
 
