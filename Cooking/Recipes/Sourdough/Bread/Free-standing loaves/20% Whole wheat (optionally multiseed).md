@@ -41,33 +41,36 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ###### 1
 ###### Scale
-###### 150/(534) = 0.28
+###### 178+246 = 424
 ###### Calculate
-###### Hide percentage columns
+###### Show percentage columns
 
-| Ingredient                                                    | Quantity, g | Baker's % | %   | Note                                                                                                         |
-| ------------------------------------------------------------- | ----------- | --------- | --- | ------------------------------------------------------------------------------------------------------------ |
-| **--- 0. Make the soaker and the levain the night ahead ---** |             |           |     |                                                                                                              |
-| **--- 1. Autolyze 1h ---**                                    |             |           |     |                                                                                                              |
-| Water                                                         | 301         |           |     |                                                                                                              |
-| Low-protein flour (10%)                                       | 178         |           |     |                                                                                                              |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]              | 246         |           |     |                                                                                                              |
-| [[Flours\|Whole wheat flour (Caputo)]]                        | 127         |           |     |                                                                                                              |
-|                                                               |             |           |     |                                                                                                              |
-| **--- 2. Add the levain and salt, knead ---**                 |             |           |     |                                                                                                              |
-| Water 2                                                       | 20          |           |     |                                                                                                              |
-| [[Sourdough starter types\|Sourdough starter (100%)]]         | 126         |           |     | *Levain 9-10h at 19-20C* (was going to change to 1:2 ratio)<br>14g starter : 56g water : 56g bread flour<br> |
-| Sea salt                                                      | 14          |           |     |                                                                                                              |
-|                                                               |             |           |     |                                                                                                              |
-| **--- 3. Add the seeds during first folds ---**               |             |           |     |                                                                                                              |
-| Optional inclusions:<br>- Seed mix (linseed, pumpkin, sesame) | 34          |           |     |                                                                                                              |
-| Seed soaker water                                             | 54          |           |     |                                                                                                              |
-|                                                               |             |           |     |                                                                                                              |
-| **--- 4. Ferment at 24C for ~5-6h  ---**                      |             |           |     |                                                                                                              |
-| **--- 5. Shape and bake<br>---**                              |             |           |     |                                                                                                              |
-| **Inoculation**                                               |             |           |     |                                                                                                              |
-| **Overall hydration**                                         |             |           |     |                                                                                                              |
-| **Overall weight**                                            |             |           |     |                                                                                                              |
+| Ingredient                                                    | Quantity, g | Baker's % | %   | Note |
+| ------------------------------------------------------------- | ----------- | --------- | --- | ---- |
+| **--- 0. Make the soaker and the levain the night ahead ---** |             |           |     |      |
+| **--- 1. Autolyze 1h ---**                                    |             |           |     |      |
+| Water                                                         | 400         |           |     |      |
+| Cuoco flour                                                   | 424         |           |     |      |
+| [[Flours\|Whole wheat flour (Caputo)]]                        | 127         |           |     |      |
+|                                                               |             |           |     |      |
+| **--- 2. Add the levain and salt, knead ---**                 |             |           |     |      |
+| Water 2                                                       | 20          |           |     |      |
+| [[Sourdough starter types\|Sourdough starter (100%)]]         | 130         |           |     |      |
+| Sea salt                                                      | 14          |           |     |      |
+|                                                               |             |           |     |      |
+| **--- 4. Ferment at 24C for ~5-6h  ---**                      |             |           |     |      |
+| **--- 5. Shape and bake<br>---**                              |             |           |     |      |
+| **Inoculation**                                               |             |           |     |      |
+| **Overall hydration**                                         |             |           |     |      |
+| **Overall weight**                                            |             |           |     |      |
+|                                                               |             |           |     |      |
+| **Levain (100%)** (5h at 25C)                                 |             |           |     |      |
+| Starter                                                       | 26          |           |     |      |
+| Cuoco flour                                                   | 52          |           |     |      |
+| Water                                                         | 52          |           |     |      |
+|                                                               |             |           |     |      |
+| **Overall hydration**                                         |             |           |     |      |
+| **Overall weight**                                            |             |           |     |      |
 
 
 
