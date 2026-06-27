@@ -55,29 +55,3 @@ Usage:
 4. If you want to add it to buns, then spread the toffee sauce first, then put some apples inside.
 5. Bake.
 
-
-### Poppy seed filling
-
-![|500](https://lh3.googleusercontent.com/pw/AP1GczM8BfTphxfjRg8WNBJzkMn6dOG0ix9_SULx-OcSkMkJ4BG10dMbxpP85WPWpxyUPsB58CdWhaCDlqtcEvXr4SoA10wRYvdKwxqW69C-4ya4gLD0y-xXnrW_MT5obLcGYEmxtsidTrJUVPJ20wYVahYk=w960-h1280-s-no-gm?authuser=0)
-
-Poppy seeds - 400
-Milk 1 - 240
-Raisins (optional) - 40
-Sugar - 304
-Butter - 40
-Salt
-Fine breadcrumbs — 25 g (only if it looks liquid, if just too wet while hot, then do nothing and leave to cool)
-Egg whites / eggs - 50g (when it has cooled down - if baking)
-
-> don't use old poppy seeds, they are bitter
-
-> use coffee grinder to grind the seeds in batches fast, using the bug machine is too much, it gets clumpy and messy
-
-1. While they are still dry, grind them in a coffee grinder.
-2. Heat milk 1 until almost boiling, soak the poppy seed covered for 60min / overnight.
-3. Add sugar and raisins, cook on very low constantly stirring while the milk is boiling away.
-4. Off of the heat, add butter and stir on the hot stove.
-5. Consider if adding breadcrumbs is necessary, you can always add them later, with the egg.
-6. Add the egg before using (if using in baking)
-
-
