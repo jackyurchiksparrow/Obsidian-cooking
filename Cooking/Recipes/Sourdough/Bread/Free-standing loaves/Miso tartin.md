@@ -38,44 +38,52 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ## Ingredients
 
-###### 0.9
+###### 1
 ###### Scale
 ###### 380 / (480+60) = 0.7
 ###### Calculate
-###### Hide percentage columns
+###### Show percentage columns
 
-| Ingredient                                                                                | Quantity, g | Baker's % | %   | Note                                      |
-| ----------------------------------------------------------------------------------------- | ----------- | --------- | --- | ----------------------------------------- |
-| **--- 1. Autolyze 1-2h ---**                                                              |             |           |     |                                           |
-| Water 1                                                                                   | 371         |           |     |                                           |
-| Cuoco flour (mix with the algae separately)                                               | 437         |           |     |                                           |
-| Wacame / Nori; dried and chopped<br>(could also add a handful of bonito flakes)           | 6           |           |     | do not soak separately, will produce ooze |
-| Whole wheat flour; coarse                                                                 | 55          |           |     |                                           |
-|                                                                                           |             |           |     |                                           |
-| **--- 2. Soaker ---**                                                                     |             |           |     |                                           |
-| Sesame seeds; toasted                                                                     | 27          |           |     |                                           |
-| Soaker liquid; boiling                                                                    | 27          |           |     |                                           |
-|                                                                                           |             |           |     |                                           |
-| **--- 2. Mix the miso paste with water first for a slurry. Add everything together. ---** |             |           |     |                                           |
-| Water 2 (for miso paste)                                                                  | 20          |           |     |                                           |
-| Miso paste                                                                                | 55          |           |     |                                           |
-| [[Sourdough starter types\|Sourdough starter (45%)]]                                      | 90          |           |     |                                           |
-| Salt                                                                                      | 4           |           |     |                                           |
-|                                                                                           |             |           |     |                                           |
-| **--- 3. Add the seed soaker towards the end of kneading --**                             |             |           |     |                                           |
-| Seed soaker                                                                               |             |           |     |                                           |
-|                                                                                           |             |           |     |                                           |
-| **Inoculation**                                                                           |             |           |     |                                           |
-| **Overall hydration**                                                                     |             |           |     |                                           |
-| **Overall weight**                                                                        |             |           |     |                                           |
-|                                                                                           |             |           |     |                                           |
-| **Levain** (LM 4h at 28C)                                                                 |             |           |     |                                           |
-| Starter                                                                                   | 23          |           |     |                                           |
-| White bread flour (13.3g)                                                                 | 46          |           |     |                                           |
-| Water                                                                                     | 23          |           |     |                                           |
-|                                                                                           |             |           |     |                                           |
-| **Overall hydration**                                                                     |             |           |     |                                           |
-| **Overall weight**                                                                        |             |           |     |                                           |
+| Ingredient                                                                                | Quantity, g | Baker's % | %   | Note                                           |
+| ----------------------------------------------------------------------------------------- | ----------- | --------- | --- | ---------------------------------------------- |
+| **--- 1. Autolyze 1-2h ---**                                                              |             |           |     |                                                |
+| Water 1                                                                                   | 399         |           |     |                                                |
+| Cuoco flour (mix with the algae separately)                                               | 509         |           |     |                                                |
+| Wacame / Nori; dried and chopped<br>(could also add a handful of bonito flakes)           | 0           |           |     | do not soak separately, will produce ooze<br>6 |
+| Whole wheat flour; coarse                                                                 | 64          |           |     |                                                |
+|                                                                                           |             |           |     |                                                |
+| **--- 2. Soaker ---**                                                                     |             |           |     |                                                |
+| Sesame seeds; toasted                                                                     | 0           |           |     | 27                                             |
+| Soaker liquid; boiling                                                                    | 0           |           |     | 27                                             |
+|                                                                                           |             |           |     |                                                |
+| **--- 2. Mix the miso paste with water first for a slurry. Add everything together. ---** |             |           |     |                                                |
+| Water 2 (for miso paste)                                                                  | 23          |           |     |                                                |
+| Miso paste                                                                                | 29          |           |     | 55                                             |
+| [[Sourdough starter types\|Sourdough starter (100%)]]                                     | 80          |           |     |                                                |
+| Salt                                                                                      | 4           |           |     |                                                |
+|                                                                                           |             |           |     |                                                |
+| **--- 3. Add the seed soaker towards the end of kneading --**                             |             |           |     |                                                |
+| Seed soaker                                                                               |             |           |     |                                                |
+|                                                                                           |             |           |     |                                                |
+| **Inoculation**                                                                           |             |           |     |                                                |
+| **Overall hydration**                                                                     |             |           |     |                                                |
+| **Overall weight**                                                                        |             |           |     |                                                |
+|                                                                                           |             |           |     |                                                |
+| **Levain** (LM 4h at 28C)                                                                 |             |           |     |                                                |
+| Starter                                                                                   | 23          |           |     |                                                |
+| White bread flour (13.3g)                                                                 | 46          |           |     |                                                |
+| Water                                                                                     | 23          |           |     |                                                |
+|                                                                                           |             |           |     |                                                |
+| **Overall hydration**                                                                     |             |           |     |                                                |
+| **Overall weight**                                                                        |             |           |     |                                                |
+|                                                                                           |             |           |     |                                                |
+| **Levain** (100% at 25-26C)                                                               |             |           |     |                                                |
+| Starter                                                                                   | 18          |           |     |                                                |
+| White bread flour (13.3g)                                                                 | 36          |           |     |                                                |
+| Water                                                                                     | 36          |           |     |                                                |
+|                                                                                           |             |           |     |                                                |
+| **Overall hydration**                                                                     |             |           |     |                                                |
+| **Overall weight**                                                                        |             |           |     |                                                |
 
 
 
