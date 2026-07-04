@@ -41,26 +41,43 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ###### 1
 ###### Scale
-###### 268-40 = 228
+###### 323 / (425+30+30+30) = 0.63
 ###### Calculate
-###### Unreleased 3
+###### Show percentage columns
 
-| Ingredient                                           | Quantity, g | Baker's % | %   | Note |
-| ---------------------------------------------------- | ----------- | --------- | --- | ---- |
-| Water                                                | 512         |           |     |      |
-| Water 2                                              | 20          |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (50%)]] | 90          |           |     |      |
-| Sea salt                                             | 15          |           |     |      |
-| [[Flours\|Wheat flour (HH Manitoba)]]                | 226         |           |     |      |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 262         |           |     |      |
-| [[Flours\|Whole wheat flour (Caputo)]]               | 35          |           |     |      |
-| [[Flours\|Whole buckwheat flour]]                    | 35          |           |     |      |
-| [[Flours\|Whole rye flour]]                          | 35          |           |     |      |
-| Whole oatmeal flour                                  | 35          |           |     |      |
-| Seeds and inclusions                                 | 35          |           |     |      |
-|                                                      |             |           |     |      |
-| **Overall hydration**                                |             |           |     |      |
-| **Overall weight**                                   |             |           |     |      |
+| Ingredient                                                                       | Quantity, g | Baker's % | %   | Note                                                                           |
+| -------------------------------------------------------------------------------- | ----------- | --------- | --- | ------------------------------------------------------------------------------ |
+| **--- 1. Autolyze 1-2h ---**                                                     |             |           |     |                                                                                |
+| Water                                                                            | 333         |           |     |                                                                                |
+| [[Flours\|Cuoco flour]]                                                          | 425         |           |     |                                                                                |
+| [[Flours\|Whole wheat flour (Caputo)]]                                           | 30          |           |     |                                                                                |
+| [[Flours\|Whole buckwheat flour]]                                                | 30          |           |     |                                                                                |
+| [[Flours\|Whole rye flour]]                                                      | 30          |           |     |                                                                                |
+|                                                                                  |             |           |     |                                                                                |
+| **--- 2. Scald ---**                                                             |             |           |     | beta-glucans in the oat flour and chia seeds create the slick, slimy breakdown |
+| Whole oatmeal flour                                                              | 30          |           |     |                                                                                |
+| Seeds and inclusions                                                             | 30          |           |     |                                                                                |
+| Boiling water                                                                    | 100         |           |     |                                                                                |
+|                                                                                  |             |           |     |                                                                                |
+| **--- 3. Add the rest and knead ---**                                            |             |           |     |                                                                                |
+| Water 2                                                                          | 20          |           |     |                                                                                |
+| [[Sourdough starter types\|Sourdough starter (100%)]]                            | 90          |           |     |                                                                                |
+| Sea salt                                                                         | 13          |           |     |                                                                                |
+|                                                                                  |             |           |     |                                                                                |
+| **--- 4. Add the scald and ON LOWEST mix it in the already developed dough ---** |             |           |     |                                                                                |
+| Scald                                                                            |             |           |     |                                                                                |
+|                                                                                  |             |           |     |                                                                                |
+| **Inoculation**                                                                  |             |           |     |                                                                                |
+| **Overall hydration**                                                            |             |           |     |                                                                                |
+| **Overall weight**                                                               |             |           |     |                                                                                |
+|                                                                                  |             |           |     |                                                                                |
+| **Levain** (100% at 25-26C)                                                      |             |           |     |                                                                                |
+| Starter                                                                          | 20          |           |     |                                                                                |
+| White bread flour (13.3g)                                                        | 40          |           |     |                                                                                |
+| Water                                                                            | 40          |           |     |                                                                                |
+|                                                                                  |             |           |     |                                                                                |
+| **Overall hydration**                                                            |             |           |     |                                                                                |
+| **Overall weight**                                                               |             |           |     |                                                                                |
 
 
 
