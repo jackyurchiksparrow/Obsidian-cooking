@@ -39,11 +39,11 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ## Ingredients
 
-###### 1
+###### 2
 ###### Scale
 ###### 323 / (425+30+30+30) = 0.63
 ###### Calculate
-###### Show percentage columns
+###### Hide percentage columns
 
 | Ingredient                                                                       | Quantity, g | Baker's % | %   | Note                                                                           |
 | -------------------------------------------------------------------------------- | ----------- | --------- | --- | ------------------------------------------------------------------------------ |

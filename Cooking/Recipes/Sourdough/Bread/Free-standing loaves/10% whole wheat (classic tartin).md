@@ -42,20 +42,20 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Scale
 ###### 19+38+38 = 95
 ###### Calculate
-###### Hide percentage columns
+###### Show percentage columns
 
 | Ingredient                                            | Quantity, g | Baker's % | %   | Note |
 | ----------------------------------------------------- | ----------- | --------- | --- | ---- |
 | *Target bulk ~8-9h at 24C*                            |             |           |     |      |
 | **--- 1. Autolyze 1h ---**                            |             |           |     |      |
-| Water 1                                               | 370         |           |     |      |
-| Cuoco flour                                           | 504         |           |     |      |
-| Whole wheat flour; coarse                             | 55          |           |     |      |
+| Water 1                                               | 396         |           |     |      |
+| Cuoco flour                                           | 524         |           |     |      |
+| Whole wheat flour; coarse                             | 57          |           |     |      |
 |                                                       |             |           |     |      |
 | **--- 2. Add the levain and salt, knead ---**         |             |           |     |      |
-| Water 2                                               | 33          |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (100%)]] | 130         |           |     |      |
-| Salt                                                  | 12          |           |     |      |
+| Water 2                                               | 30          |           |     |      |
+| [[Sourdough starter types\|Sourdough starter (100%)]] | 90          |           |     |      |
+| Salt                                                  | 13          |           |     |      |
 |                                                       |             |           |     |      |
 | **--- 4. Ferment at 24C for ~5-6h  ---**              |             |           |     |      |
 | **--- 5.Shape and bake<br>---**                       |             |           |     |      |
@@ -72,10 +72,10 @@ window.onerror = function (message, source, lineno, colno, error) {
 | **Overall hydration**                                 |             |           |     |      |
 | **Overall weight**                                    |             |           |     |      |
 |                                                       |             |           |     |      |
-| **Levain (100%)** (5h at 25C)                         |             |           |     |      |
-| Starter                                               | 26          |           |     |      |
-| White bread flour (13.3g)                             | 52          |           |     |      |
-| Water                                                 | 52          |           |     |      |
+| **Levain (100%)** (5.5h at 25C)                       |             |           |     |      |
+| Starter                                               | 20          |           |     |      |
+| White bread flour (13.3g)                             | 40          |           |     |      |
+| Water                                                 | 40          |           |     |      |
 |                                                       |             |           |     |      |
 | **Overall hydration**                                 |             |           |     |      |
 | **Overall weight**                                    |             |           |     |      |
