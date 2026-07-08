@@ -48,13 +48,13 @@ window.onerror = function (message, source, lineno, colno, error) {
 | ----------------------------------------------------- | ----------- | --------- | --- | ---- |
 | *Target bulk ~8-9h at 24C*                            |             |           |     |      |
 | **--- 1. Autolyze 1h ---**                            |             |           |     |      |
-| Water 1                                               | 396         |           |     |      |
-| Cuoco flour                                           | 524         |           |     |      |
-| Whole wheat flour; coarse                             | 57          |           |     |      |
+| Water 1                                               | 386         |           |     |      |
+| Cuoco flour                                           | 498         |           |     |      |
+| Whole wheat flour; coarse                             | 54          |           |     |      |
 |                                                       |             |           |     |      |
 | **--- 2. Add the levain and salt, knead ---**         |             |           |     |      |
-| Water 2                                               | 30          |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (100%)]] | 90          |           |     |      |
+| Water 2                                               | 20          |           |     |      |
+| [[Sourdough starter types\|Sourdough starter (100%)]] | 130         |           |     |      |
 | Salt                                                  | 13          |           |     |      |
 |                                                       |             |           |     |      |
 | **--- 4. Ferment at 24C for ~5-6h  ---**              |             |           |     |      |
@@ -73,9 +73,9 @@ window.onerror = function (message, source, lineno, colno, error) {
 | **Overall weight**                                    |             |           |     |      |
 |                                                       |             |           |     |      |
 | **Levain (100%)** (5.5h at 25C)                       |             |           |     |      |
-| Starter                                               | 20          |           |     |      |
-| White bread flour (13.3g)                             | 40          |           |     |      |
-| Water                                                 | 40          |           |     |      |
+| Starter                                               | 26          |           |     |      |
+| White bread flour (13.3g)                             | 52          |           |     |      |
+| Water                                                 | 52          |           |     |      |
 |                                                       |             |           |     |      |
 | **Overall hydration**                                 |             |           |     |      |
 | **Overall weight**                                    |             |           |     |      |
