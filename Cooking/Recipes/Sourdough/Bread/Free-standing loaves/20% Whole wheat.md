@@ -43,7 +43,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Scale
 ###### 178+246 = 424
 ###### Calculate
-###### Hide percentage columns
+###### Show percentage columns
 
 | Ingredient                                                    | Quantity, g | Baker's % | %   | Note |
 | ------------------------------------------------------------- | ----------- | --------- | --- | ---- |
@@ -65,9 +65,9 @@ window.onerror = function (message, source, lineno, colno, error) {
 | **Overall weight**                                            |             |           |     |      |
 |                                                               |             |           |     |      |
 | **Levain (100%)** (5h at 25C)                                 |             |           |     |      |
-| Starter                                                       | 26          |           |     |      |
-| Cuoco flour                                                   | 52          |           |     |      |
-| Water                                                         | 52          |           |     |      |
+| Starter                                                       | 28          |           |     |      |
+| Cuoco flour                                                   | 56          |           |     |      |
+| Water                                                         | 56          |           |     |      |
 |                                                               |             |           |     |      |
 | **Overall hydration**                                         |             |           |     |      |
 | **Overall weight**                                            |             |           |     |      |
