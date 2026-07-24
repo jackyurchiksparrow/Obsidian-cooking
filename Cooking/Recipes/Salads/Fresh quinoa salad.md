@@ -1,13 +1,14 @@
 ---
 tags:
   - vegetables
+  - quinoa
 date: 2024-12-25
 thumbnail: https://lh3.googleusercontent.com/pw/AP1GczP5omzH-ToqYQKyaSnwzSiX5Obb0D7A6stgl6NS9pDlyqPHQjYq2vLPUWYcg66rsq-WwF6CVUo2xEWm5lo4ETHnxFDmO2hKB0DkVd2MJEjv1lDuXBQEuGCvEkk5DG_A9H8ActXCYVaI-DW3RNbHlqYI=w1145-h858-s-no-gm?authuser=0
-passive time: 
-active time: 
-yield: 
-nutrition rating: 
-taste rating: 
+passive time:
+active time:
+yield:
+nutrition rating:
+taste rating:
 credit: https://www.youtube.com/watch?v=pcH3isHdOzA
 part_of_the_set:
 ---
