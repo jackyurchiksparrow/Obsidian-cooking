@@ -44,27 +44,26 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Hide percentage columns
 
-| Ingredient | Quantity, g | Baker's % | %   | Note |
-| ---------- | ----------- | --------- | --- | ---- |
-|            |             |           |     |      |
-|            |             |           |     |      |
-|            |             |           |     |      |
-|            |             |           |     |      |
-|            |             |           |     |      |
-|            |             |           |     |      |
-|            |             |           |     |      |
-|            |             |           |     |      |
-|            |             |           |     |      |
-|            |             |           |     |      |
-|            |             |           |     |      |
-|            |             |           |     |      |
-|            |             |           |     |      |
-|            |             |           |     |      |
-|            |             |           |     |      |
-|            |             |           |     |      |
-|            |             |           |     |      |
-|            |             |           |     |      |
-|            |             |           |     |      |
+| Ingredient                                                                 | Quantity, g | Baker's % | %   | Note |
+| -------------------------------------------------------------------------- | ----------- | --------- | --- | ---- |
+| **--- 1. Autolyze 2h (flours + liquids only) ---**                         |             |           |     |      |
+| Water                                                                      | 205         |           |     |      |
+| Milk (lactose-free, whole)                                                 | 205         |           |     |      |
+| [[Flours\|Caputo Cuoco]] flour                                             | 261         |           |     |      |
+| [[Flours\|Ecorod (10.3% protein)]] flour                                   | 261         |           |     |      |
+| [[Flours\|Whole wheat flour (Caputo Integrale)]]                           | 63          |           |     |      |
+|                                                                            |             |           |     |      |
+| **--- 2. Add levain, honey, salt; knead to full development ---**          |             |           |     |      |
+| [[Sourdough starter types\|Sourdough starter (100%)]] (92 wheat + 60g rye) | 152         |           |     |      |
+| Honey                                                                      | 12          |           |     |      |
+| Sea salt                                                                   | 12          |           |     |      |
+|                                                                            |             |           |     |      |
+| **--- 3. Add butter last, in 2-3 additions ---**                           |             |           |     |      |
+| Butter; softened                                                           | 38          |           |     |      |
+|                                                                            |             |           |     |      |
+| **Inoculation**                                                            |             |           |     |      |
+| **Overall hydration**                                                      |             |           |     |      |
+| **Overall weight**                                                         |             |           |     |      |
 
 
 
