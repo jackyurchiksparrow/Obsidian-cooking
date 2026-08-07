@@ -42,7 +42,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Scale
 ###### 1700 / 2 = 850
 ###### Calculate
-###### Hide percentage columns
+###### Show percentage columns
 
 | Ingredient                                                                 | Quantity, g | Baker's % | %   | Note |
 | -------------------------------------------------------------------------- | ----------- | --------- | --- | ---- |
@@ -55,11 +55,11 @@ window.onerror = function (message, source, lineno, colno, error) {
 |                                                                            |             |           |     |      |
 | **--- 2. Add levain, honey, salt; knead to full development ---**          |             |           |     |      |
 | [[Sourdough starter types\|Sourdough starter (100%)]] (92 wheat + 60g rye) | 152         |           |     |      |
-| Honey                                                                      | 12          |           |     |      |
-| Sea salt                                                                   | 12          |           |     |      |
+| Honey                                                                      | 14          |           |     |      |
+| Sea salt                                                                   | 14          |           |     |      |
 |                                                                            |             |           |     |      |
 | **--- 3. Add butter last, in 2-3 additions ---**                           |             |           |     |      |
-| Butter; softened                                                           | 38          |           |     |      |
+| Butter; softened                                                           | 40          |           |     |      |
 |                                                                            |             |           |     |      |
 | **Inoculation**                                                            |             |           |     |      |
 | **Overall hydration**                                                      |             |           |     |      |
