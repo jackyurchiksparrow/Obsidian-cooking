@@ -46,31 +46,32 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Hide percentage columns
 
-| Ingredient                                            | Quantity, g | Baker's % | %   | Note           |
-| ----------------------------------------------------- | ----------- | --------- | --- | -------------- |
-| Water                                                 | 307         |           |     |                |
-| [[Sourdough starter types\|Sourdough starter (100%)]] | 112         |           |     |                |
-| Sea salt                                              | 12          |           |     |                |
-| White flour (10.3g)                                   | 120         |           |     |                |
-| White bread flour (13.3g)                             | 180         |           |     |                |
-| Whole wheat flour                                     | 50          |           |     |                |
-| [[Flours\|Whole spelt flour (organic)]]               | 87          |           |     |                |
-| Flax seed                                             | 11          |           |     | 1 heaped tbsp. |
-| Cranberries                                           | 57          |           |     |                |
-| Soaker liquid (discard the rest afterwards)           | 81          |           |     |                |
-|                                                       |             |           |     |                |
-| **Inoculation**                                       |             |           |     |                |
-| **Overall hydration**                                 |             |           |     |                |
-| **Overall weight**                                    |             |           |     |                |
-|                                                       |             |           |     |                |
-| **Levain** (8h at 19-20C):                            |             |           |     |                |
-| Starter                                               | 16          |           |     |                |
-| Whole spelt flour                                     | 18          |           |     |                |
-| White bread flour (13.3g)                             | 30          |           |     |                |
-| Water                                                 | 48          |           |     |                |
-|                                                       |             |           |     |                |
-| **Overall hydration**                                 |             |           |     |                |
-| **Overall weight**                                    |             |           |     |                |
+| Ingredient                                                                         | Quantity, g       | Baker's % | %   | Note |
+| ---------------------------------------------------------------------------------- | ----------------- | --------- | --- | ---- |
+| **--- 0. Soak 1 and soak 2 (do first) ---**                                        |                   |           |     |      |
+| Cranberries                                                                        | 72                |           |     |      |
+| Cranberries liquid (drain, discard, do not squeeze the fruit)                      | to cover          |           |     |      |
+| Flax seeds                                                                         | 11                |           |     |      |
+| Water for flax (gel, add to dough)                                                 | 3 times the seeds |           |     |      |
+|                                                                                    |                   |           |     |      |
+| **--- 1. Autolyze 1h ---**                                                         |                   |           |     |      |
+| Water                                                                              | 375               |           |     |      |
+| [[Flours\|Caputo Cuoco]] flour                                                     | 148               |           |     |      |
+| [[Flours\|Ecorod (10.3% protein)]] flour                                           | 230               |           |     |      |
+| [[Flours\|Whole wheat flour (Caputo Integrale)]]                                   | 55                |           |     |      |
+| [[Flours\|Whole spelt flour]]                                                      | 109               |           |     |      |
+|                                                                                    |                   |           |     |      |
+| **--- 2. Add levain and salt, mix BY HAND then coil folds. Bulk to **60–70%**---** |                   |           |     |      |
+| [[Sourdough starter types\|Sourdough starter (100%)]]                              | 88                |           |     |      |
+| Sea salt                                                                           | 13                |           |     |      |
+|                                                                                    |                   |           |     |      |
+| **--- 3. Fold in during 1st-2nd coil fold ---**                                    |                   |           |     |      |
+| Soaked cranberries                                                                 |                   |           |     |      |
+| Gelled flax                                                                        |                   |           |     |      |
+|                                                                                    |                   |           |     |      |
+| **Inoculation**                                                                    |                   |           |     |      |
+| **Overall hydration**                                                              |                   |           |     |      |
+| **Overall weight**                                                                 |                   |           |     |      |
 
 
 
