@@ -1,0 +1,7 @@
+- Baking stone the 2nd level from the bottom
+- L11 with stones on the baking stone, an upside-down shallow tray on the most top level
+- Preheat to 240-250C for 45–60 min
+- Load, steam 20 min
+- Pull steam, drop to 200-220C
+- Remove the tray at 30min
+- Finish to ~40-43min total

@@ -47,21 +47,22 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Ingredient                                                                                         | Quantity, g | Baker's % | %   | Note |
 | -------------------------------------------------------------------------------------------------- | ----------- | --------- | --- | ---- |
 | **--- 1. Autolyze 1h ---**                                                                         |             |           |     |      |
-| Water 1                                                                                            | 300         |           |     |      |
-| Bread flour (Zernari)                                                                              | 196         |           |     |      |
-| Low-protein wheat flour (10.3g)                                                                    | 293         |           |     |      |
-| Whole wheat flour; coarse                                                                          | 42          |           |     |      |
+| Water 1                                                                                            | 367         |           |     |      |
+| Bread flour (Zernari)                                                                              | 264         |           |     |      |
+| Low-protein wheat flour (10.3g)                                                                    | 264         |           |     |      |
+| Whole wheat flour; coarse                                                                          | 45          |           |     |      |
 |                                                                                                    |             |           |     |      |
 | **--- 2. Add the levain, scalded malt and salt, knead. Add water 2 towards the end if needed ---** |             |           |     |      |
-| Dark malt                                                                                          | 12          |           |     |      |
-| Water; boiling for malt scald                                                                      | 24          |           |     |      |
-| Water 2                                                                                            | 20          |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (100%)]]                                              | 135         |           |     | <br> |
-| Salt                                                                                               | 11          |           |     |      |
+| Dark malt                                                                                          | 13          |           |     |      |
+| Water; boiling for malt scald                                                                      | 26          |           |     |      |
+| Water 2                                                                                            | 22          |           |     |      |
+| [[Sourdough starter types\|Sourdough starter (100%)]]                                              | 90          |           |     | <br> |
+| Salt                                                                                               | 14          |           |     |      |
 |                                                                                                    |             |           |     |      |
 |                                                                                                    |             |           |     |      |
-| **--- 4. Ferment at 24C for ~5-6h  ---**                                                           |             |           |     |      |
-| **--- 5.Shape and bake<br>---**                                                                    |             |           |     |      |
+| **--- 4. Ferment at 25C for ~5-6h  ---**                                                           |             |           |     |      |
+| **--- 5. Pre-shape, 20min rest, shape, cold retard overnight. ---**                                |             |           |     |      |
+| **-- 6. ![[Baking a free-standing wheat loaf]]--**                                                 |             |           |     |      |
 |                                                                                                    |             |           |     |      |
 | **Inoculation**                                                                                    |             |           |     |      |
 | **Overall hydration**                                                                              |             |           |     |      |
