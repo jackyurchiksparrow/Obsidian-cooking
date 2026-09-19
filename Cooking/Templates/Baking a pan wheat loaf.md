@@ -1,7 +1,7 @@
 - Baking stone the 2nd level from the bottom
-- An upside-down shallow tray on the most top level
+- L11 with stones, an upside-down shallow tray on the most top level
 - Preheat to 240-250C for 45–60 min
-- Load, NO steam, but spritz generously before loading
-- Drop to 200-220C after in 20min
-- Remove the tray at 30min
-- Finish to ~40-43min total
+- Reduce to 220C immediately, load
+- In 20min, remove steam, drop to 200C after 
+- Remove the tray at 30min if not browned
+- Finish to ~40-43min total, optionally finish the sides
