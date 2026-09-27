@@ -42,11 +42,11 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ## Ingredients
 
-###### 1
+###### 1.2539
 ###### Scale
 ###### 48/16 = 3
 ###### Calculate
-###### Show percentage columns
+###### Hide percentage columns
 
 | Ingredient                                                                                                                                   | Quantity, g | Baker's % | %   | Note |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | --------- | --- | ---- |
