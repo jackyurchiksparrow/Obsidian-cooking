@@ -1,5 +1,6 @@
-- Stone on the second shelf from the bottom. Tray upside-down on the top shelf. Preheat everything to 250C for a full 45-60 minutes
-- 250C, 10 minutes, no steam, no fan, tray on
+- Baking stone on the second shelf from the bottom, L11 with stones on the baking stone, tray upside-down on the top shelf
+- preheat everything to 250C for a full 45-60 minutes
+- load, 250C for 10 minutes with steam to prevent cracking, no fan
 - 220C, 20 minutes, tray on
 - Pull the tray, 200C for 15–20 more minutes
 - When the center reads **98C**, take the loaf out of the pan and put it directly on the oven rack, drop to **190C**, turn the **fan on**, and give it **12–15 minutes**.
