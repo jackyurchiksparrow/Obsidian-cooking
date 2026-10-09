@@ -1,17 +1,17 @@
 ---
 tags:
   - sweet
-  - nextday
   - fast
   - yoghurt
+  - cottage_cheese
 date: 2025-03-16
 thumbnail: https://lh3.googleusercontent.com/pw/AP1GczNQ1Elto2ay2xTgVQAwz5sTYxbGjwcxlSu4VDLwu7273FVb8rxmRrKYCMgpq8TWxwztSzRSVCFXJuLKCDgtq7tOACFe4ezcCElrEHxfEaPbQcJHMyVvMcu7g23zT-oApOC2dL1l6yc0lzhlnz-eIj6g=w1204-h903-s-no-gm?authuser=0
 passive time: 35min
 active time: 20min
-yield: 
-nutrition rating: 
+yield:
+nutrition rating:
 taste rating: 9
-credit: 
+credit:
 part_of_the_set:
   - "[[Chocolate sauce; chocolate paste]]"
 ---
@@ -42,7 +42,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Scale
 ###### 26/16 = 1.63
 ###### Calculate
-###### Unreleased 3
+###### Hide percentage columns
 
 | Ingredient                                   | Quantity, g | %   | Note    |
 | -------------------------------------------- | ----------- | --- | ------- |
