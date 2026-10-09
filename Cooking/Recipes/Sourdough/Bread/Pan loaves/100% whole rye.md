@@ -50,11 +50,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### 2
 ###### Scale
 ###### 26/104 = 0.25
-<<<<<<< HEAD
-###### Calculate
-=======
 ###### Hide percentage columns
->>>>>>> origin/main
 ###### Hide percentage columns
 
 | Ingredient                                                                                                                                                                                                                                                                                                                                       | Quantity, g | Baker's % | %   | Note |
