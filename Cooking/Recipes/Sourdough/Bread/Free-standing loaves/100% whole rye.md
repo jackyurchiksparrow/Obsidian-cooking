@@ -39,48 +39,38 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 ## Ingredients
 
-###### 1
+###### 0.96
 ###### Scale
 ###### 185+90 = 275
 ###### Calculate
-###### Hide percentage columns
+###### Show percentage columns
 
-| Ingredient                                                                                                                                                                                             | Quantity, g | Baker's % | %   | Note |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- | --------- | --- | ---- |
-| **--- 1. Scald to cool to room temp (3-4h) ---**                                                                                                                                                       |             |           |     |      |
-| Boiling water                                                                                                                                                                                          | 120         |           |     |      |
-| Whole rye flour                                                                                                                                                                                        | 120         |           |     |      |
-|                                                                                                                                                                                                        |             |           |     |      |
-| **--- 2. Add the levain and salt, knead ---**                                                                                                                                                          |             |           |     |      |
-| Whole rye flour                                                                                                                                                                                        | 300         |           |     |      |
-| Whole wheat bran/germ                                                                                                                                                                                  | 60          |           |     |      |
-| Water                                                                                                                                                                                                  | 230         |           |     |      |
-| Honey                                                                                                                                                                                                  | 12          |           |     |      |
-| [[Sourdough starter types\|Rye sourdough starter (100%)]]                                                                                                                                              | 84          |           |     |      |
-| Salt                                                                                                                                                                                                   | 10          |           |     |      |
-|                                                                                                                                                                                                        |             |           |     |      |
-| **--- 4. Ferment at 28C for ~3-4h  ---**                                                                                                                                                               |             |           |     |      |
-| **--- 5.Shape. Proofing time 1 Hour until cracks appear at the top of the dusted banneton.<br><br>Bake:<br>Bake at 230c 20 min with lid remove the lid bake for another 25 to 30 min at 215c.<br>---** |             |           |     |      |
-|                                                                                                                                                                                                        |             |           |     |      |
-| **Inoculation**                                                                                                                                                                                        |             |           |     |      |
-| **Overall hydration**                                                                                                                                                                                  |             |           |     |      |
-| **Overall weight**                                                                                                                                                                                     |             |           |     |      |
-|                                                                                                                                                                                                        |             |           |     |      |
-| **Levain** (100% rye, 28C)                                                                                                                                                                             |             |           |     |      |
-| Starter                                                                                                                                                                                                | 20          |           |     |      |
-| Whole rye flour                                                                                                                                                                                        | 40          |           |     |      |
-| Water                                                                                                                                                                                                  | 40          |           |     |      |
-|                                                                                                                                                                                                        |             |           |     |      |
-| **Overall hydration**                                                                                                                                                                                  |             |           |     |      |
-| **Overall weight**                                                                                                                                                                                     |             |           |     |      |
-|                                                                                                                                                                                                        |             |           |     |      |
-| **Levain** (100% rye, 22C)                                                                                                                                                                             |             |           |     |      |
-| Starter                                                                                                                                                                                                | 9           |           |     |      |
-| Whole rye flour                                                                                                                                                                                        | 45          |           |     |      |
-| Water                                                                                                                                                                                                  | 45          |           |     |      |
-|                                                                                                                                                                                                        |             |           |     |      |
-| **Overall hydration**                                                                                                                                                                                  |             |           |     |      |
-| **Overall weight**                                                                                                                                                                                     |             |           |     |      |
+| Ingredient                                     | Quantity, g | Baker's % | %   | Note |
+| ---------------------------------------------- | ----------- | --------- | --- | ---- |
+| **Levain** (66%, ~11h at 20C)                  |             |           |     |      |
+| Rye sourdough starter (100%)                   | 12          |           |     |      |
+| Whole rye flour                                | 64          |           |     |      |
+| Water                                          | 39          |           |     |      |
+|                                                |             |           |     |      |
+| **Inoculation (PFF)**                          |             |           |     |      |
+| **Overall hydration**                          |             |           |     |      |
+| **Overall weight**                             |             |           |     |      |
+|                                                |             |           |     |      |
+| **--- 1. Scald, cool to room temp (3-4h) ---** |             |           |     |      |
+| Boiling water                                  | 180         |           |     |      |
+| Whole rye flour                                | 180         |           |     |      |
+|                                                |             |           |     |      |
+| **--- 2. Add the levain and salt, knead ---**  |             |           |     |      |
+| Whole rye flour                                | 450         |           |     |      |
+| Whole wheat bran/germ                          | 90          |           |     |      |
+| Water                                          | 366         |           |     |      |
+| Honey                                          | 18          |           |     |      |
+| Sourdough starter (66%)                        | 105         |           |     |      |
+| Salt                                           | 15          |           |     |      |
+|                                                |             |           |     |      |
+| **Overall hydration**                          |             |           |     |      |
+| **Inoculation**                                |             |           |     |      |
+| **Overall weight**                             |             |           |     |      |
 
 
 
