@@ -43,7 +43,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                         | Quantity, g | Note                                                                                                                                                     |
 | ---------------------------------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Vanilla beans                      | 18          | better be unsalted, but it is optional                                                                                                                   |
+| Vanilla beans                      | 18          |                                                                                                                                                          |
 | Vodka (any alcohol of 40+ degrees) | 180         |                                                                                                                                                          |
 |                                    |             | According to FDA, in order to be called extract, it must contain at least 40 degrees of spirit and the ratio of 10g of vanilla beans per 100g of liquid. |
 | **Overall weight**                 |             |                                                                                                                                                          |
