@@ -1,0 +1,6 @@
+- Baking stone the 2nd level from the bottom, L11 with stones on the baking stone, an upside-down shallow tray on the most top level
+- Preheat to 240-250C for 45–60 min
+- Load, 250C for 10min with a little steam to prevent cracking and make the crust crunchy, no fan
+- Pull steam, 220C for 20min
+- Pull the tray, 200C for at least 30min (60min overall)
+- Check the temp, it must be a confident 98C + extra 10min afterwards.
