@@ -43,13 +43,14 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Scale
 ###### 344/(418+55) = 0.73
 ###### Calculate
-###### Hide percentage columns
+###### Show percentage columns
 
 | Ingredient                                                                       | Quantity, g | Baker's % | %   | Note                                                                                                      |
 | -------------------------------------------------------------------------------- | ----------- | --------- | --- | --------------------------------------------------------------------------------------------------------- |
 | **--- 1. Autolyze 1-2h in the fridge ---**                                       |             |           |     | To maximize the extensibility of your white flour base before the buckwheat can disrupt it                |
 | Water                                                                            | 306         |           |     |                                                                                                           |
-| Cuoco flour                                                                      | 418         |           |     |                                                                                                           |
+| Cuoco flour                                                                      | 209         |           |     |                                                                                                           |
+| Zernari flour                                                                    | 209         |           |     |                                                                                                           |
 | [[Flours\|Whole wheat flour (Caputo)]]                                           | 55          |           |     |                                                                                                           |
 |                                                                                  |             |           |     |                                                                                                           |
 | **--- 2. Scald malt and buckwheat ---**                                          |             |           |     | to neutralize unstable ferments and fully hydrate and gelatinize the starch in buckwheat + enhance flavor |
@@ -58,7 +59,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | [[Flours\|Whole buckwheat flour]]                                                | 62          |           |     |                                                                                                           |
 |                                                                                  |             |           |     |                                                                                                           |
 | **--- 3. Add the LM + salt after autolyze, mix until starts strengthening. ---** |             |           |     |                                                                                                           |
-| [[Sourdough starter types\|Sourdough starter (100%)]]                            | 138         |           |     | <br><br>                                                                                                  |
+| [[Sourdough starter types\|Sourdough starter (100%)]]                            | 140         |           |     | <br><br>                                                                                                  |
 | Sea salt (add in the very end)                                                   | 13          |           |     |                                                                                                           |
 |                                                                                  |             |           |     |                                                                                                           |
 | **--- 4. Add buckwheat-malt scald gradually ---**                                |             |           |     |                                                                                                           |
@@ -69,10 +70,10 @@ window.onerror = function (message, source, lineno, colno, error) {
 | **Overall weight**                                                               |             |           |     |                                                                                                           |
 |                                                                                  |             |           |     |                                                                                                           |
 |                                                                                  |             |           |     |                                                                                                           |
-| **Levain** (3h at 28C):                                                          |             |           |     |                                                                                                           |
-| Sourdough starter (50%)                                                          | 25          |           |     |                                                                                                           |
-| Cuoco flour                                                                      | 50          |           |     |                                                                                                           |
-| Water                                                                            | 25          |           |     |                                                                                                           |
+| **Levain** 100%:                                                                 |             |           |     |                                                                                                           |
+| Sourdough starter (100%)                                                         | 30          |           |     |                                                                                                           |
+| Cuoco flour                                                                      | 60          |           |     |                                                                                                           |
+| Water                                                                            | 60          |           |     |                                                                                                           |
 |                                                                                  |             |           |     |                                                                                                           |
 | **Overall hydration**                                                            |             |           |     |                                                                                                           |
 | **Overall weight**                                                               |             |           |     |                                                                                                           |
