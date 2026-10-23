@@ -50,7 +50,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | ----------------------------------------------------------------- | ----------- | --------- | --- | -------------------------------------------------------------------------------------------- |
 | Water 1                                                           | 284         |           |     |                                                                                              |
 | Water 2                                                           | 20          |           |     |                                                                                              |
-| [[Sourdough starter types\|Sourdough starter (50%); LM]]          | 220         |           |     | 55g starter : 110g flour : 55g water; 4-5h at env. 28-31C, ideally tripled or almost tripled |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough starter (50%); LM]]          | 220         |           |     | 55g starter : 110g flour : 55g water; 4-5h at env. 28-31C, ideally tripled or almost tripled |
 | Sea salt                                                          | 14          |           |     |                                                                                              |
 | [[Flours\|Bread flour (Zernari) / any bread flour]]               | 202         |           |     |                                                                                              |
 | Low-protein flour (~10g)                                          | 75          |           |     |                                                                                              |

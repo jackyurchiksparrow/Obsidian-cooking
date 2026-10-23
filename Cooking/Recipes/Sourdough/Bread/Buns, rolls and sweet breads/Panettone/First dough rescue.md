@@ -50,7 +50,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | [[Flours\|Wheat flour (Manitoba)]]                       | 385         |           |     |                                        |
 | Butter                                                   | 105         |           |     | 82+%, cold                             |
 | Water (start with 80%)                                   | 189         |           |     | from the fridge                        |
-| [[Sourdough starter types\|Sourdough starter (50%)]]; LM | 136         |           |     | refreshed 3 times                      |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough starter (50%)]]; LM | 136         |           |     | refreshed 3 times                      |
 | Sugar                                                    | 106         |           |     | may also use brown                     |
 | Egg yolks                                                | 95          |           |     | ~4 large / 5 big pcs.; from the fridge |
 |                                                          |             |           |     |                                        |

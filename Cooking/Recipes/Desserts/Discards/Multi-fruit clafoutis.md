@@ -43,7 +43,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                            | Quantity, g                   | Baker's % | %   | Note   |
 | ----------------------------------------------------- | ----------------------------- | --------- | --- | ------ |
-| [[Sourdough starter types\|Sourdough discard (100%)]] | 160                           |           |     |        |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough discard (100%)]] | 160                           |           |     |        |
 | Milk                                                  | 520                           |           |     |        |
 | Eggs                                                  | 300                           |           |     | 6 pcs. |
 | [[Flours\|Bread flour (Zernari) / any 00 flour]]      | 220                           |           |     |        |

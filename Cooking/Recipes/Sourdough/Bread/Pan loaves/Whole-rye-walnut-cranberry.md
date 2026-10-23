@@ -66,7 +66,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Water 1                                               | 440         |           |     |                                 |
 | Water 2                                               | 20          |           |     |                                 |
 | Honey / molasses (optional)                           | 15          |           |     |                                 |
-| [[Sourdough starter types\|Sourdough starter (100%)]] | 230         |           |     | 48 starter: 96 flour : 96 water |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough starter (100%)]] | 230         |           |     | 48 starter: 96 flour : 96 water |
 | [[Flours\|Whole rye flour (Ecorod)]]                  | 385         |           |     |                                 |
 | Sea salt                                              | 8           |           |     |                                 |
 | Ground coriander / anise / fennel / caraway           | 3           |           |     |                                 |

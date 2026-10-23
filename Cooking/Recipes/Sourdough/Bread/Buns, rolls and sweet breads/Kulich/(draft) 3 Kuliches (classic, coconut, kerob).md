@@ -37,7 +37,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Ingredient                                                                                                                            | Quantity, g | Baker's % | %   | Note   |
 | ------------------------------------------------------------------------------------------------------------------------------------- | ----------- | --------- | --- | ------ |
 | **My coconut version**                                                                                                                |             |           |     |        |
-| [[Sourdough starter types\|Sourdough starter (50%)]]                                                                                  | 127         |           |     |        |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough starter (50%)]]                                                                                  | 127         |           |     |        |
 | Flour Manitoba                                                                                                                        | 137         |           |     |        |
 | Flour Zernari                                                                                                                         | 137         |           |     |        |
 | Coconut cream (fat part)                                                                                                              | 100         |           |     |        |
@@ -56,7 +56,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 |                                                                                                                                       |             |           |     |        |
 |                                                                                                                                       |             |           |     |        |
 | **My white version; classic**                                                                                                         |             |           |     |        |
-| [[Sourdough starter types\|Sourdough starter (50%)]]                                                                                  | 115         |           |     |        |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough starter (50%)]]                                                                                  | 115         |           |     |        |
 | [[Flours\|Bread flour (Zernari) / any 00 flour]]                                                                                      | 245         |           |     |        |
 | [[Flours\|Wheat flour (HH Manitoba)]]                                                                                                 | 76          |           |     |        |
 | Milk                                                                                                                                  | 148         |           |     |        |
@@ -75,7 +75,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 |                                                                                                                                       |             |           |     |        |
 |                                                                                                                                       |             |           |     |        |
 | **My kerob version**                                                                                                                  |             |           |     |        |
-| [[Sourdough starter types\|Sourdough starter (50%)]]                                                                                  | 116         |           |     |        |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough starter (50%)]]                                                                                  | 116         |           |     |        |
 | [[Flours\|Bread flour (Zernari) / any 00 flour]]                                                                                      | 187         |           |     |        |
 | [[Flours\|Wheat flour (HH Manitoba)]]                                                                                                 | 84          |           |     |        |
 | Dark Kerob                                                                                                                            | 57          |           |     |        |

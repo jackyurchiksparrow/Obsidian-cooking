@@ -49,7 +49,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | -------------------------------------------------------- | ----------- | --------- | --- | ---------------------------------------------------------------------------------------- |
 | Water                                                    | 325         |           |     |                                                                                          |
 | Pumpkin puree; baked with sugar (counts as water);       | 200         |           |     |                                                                                          |
-| [[Sourdough starter types\|Sourdough starter (50%); LM]] | 120         |           |     | 30g starter : 60 flour : 30 water; <br>4-5h at 26-28C, ideally tripled or almost tripled |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough starter (50%); LM]] | 120         |           |     | 30g starter : 60 flour : 30 water; <br>4-5h at 26-28C, ideally tripled or almost tripled |
 | Sea salt                                                 | 15          |           |     |                                                                                          |
 | [[Flours\|Bread flour (Zernari)]]                        | 530         |           |     |                                                                                          |
 | [[Flours\|Whole wheat flour (Caputo)]]                   | 75          |           |     |                                                                                          |
@@ -61,7 +61,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Milk; cold                                               | 150         |           |     |                                                                                          |
 | Water                                                    | 100         |           |     |                                                                                          |
 | Pumpkin puree; room-temp (counts as water)               | 250         |           |     |                                                                                          |
-| [[Sourdough starter types\|Sourdough starter (100%)]]    | 120         |           |     | Fed overnight at 8 p.m 1:9., ready by 9 a.m.                                             |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough starter (100%)]]    | 120         |           |     | Fed overnight at 8 p.m 1:9., ready by 9 a.m.                                             |
 | Sugar                                                    | 30          |           |     |                                                                                          |
 | Sea salt                                                 | 12          |           |     |                                                                                          |
 | Flour                                                    | 650         |           |     |                                                                                          |

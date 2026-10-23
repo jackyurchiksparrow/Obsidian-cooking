@@ -45,7 +45,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                           | Quantity, g     | Baker's % | %   | Note                                    |
 | ---------------------------------------------------- | --------------- | --------- | --- | --------------------------------------- |
-| [[Sourdough starter types\|Sourdough discard (50%)]] | 120             |           |     |                                         |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough discard (50%)]] | 120             |           |     |                                         |
 | [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 190             |           |     | s                                       |
 | [[Flours\|Whole wheat flour (Caputo)]]               | 90              |           |     |                                         |
 | Brown sugar                                          | 150             |           |     |                                         |

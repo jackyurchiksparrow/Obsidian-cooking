@@ -50,7 +50,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | **Bulk target: ~8-9h at 24C**                              |             |           |     |      |
 | Water                                                      | 409         |           |     |      |
 | Water 2                                                    | 36          |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (50%)]]       | 120         |           |     |      |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough starter (50%)]]       | 120         |           |     |      |
 | Sea salt                                                   | 14          |           |     |      |
 | [[Flours\|Durum Flour (Molino Cosma semolina rimacinata)]] | 208         |           |     |      |
 | Bread strong flour (Cuoco)                                 | 234         |           |     |      |

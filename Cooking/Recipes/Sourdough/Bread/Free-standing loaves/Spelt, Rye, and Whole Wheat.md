@@ -50,7 +50,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | **Be careful not to overknead, spelt has fragile gluten** |             |           |     |      |
 | Water                                                     | 424         |           |     |      |
 | Water 2                                                   | 20          |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (50%)]]      | 100         |           |     |      |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough starter (50%)]]      | 100         |           |     |      |
 | Sea salt                                                  | 14          |           |     |      |
 | [[Flours\|White flour (Caputo)]]                          | 275         |           |     |      |
 | [[Flours\|Whole spelt flour]]                             | 135         |           |     |      |

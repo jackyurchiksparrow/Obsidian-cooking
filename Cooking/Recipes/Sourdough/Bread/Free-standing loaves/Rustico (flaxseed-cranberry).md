@@ -66,7 +66,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | [[Flours\|Whole spelt flour]]                                                      | 109               |           |     |      |
 |                                                                                    |                   |           |     |      |
 | **--- 2. Add levain and salt, mix BY HAND then coil folds. Bulk to **50–60%**---** |                   |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (100%)]]                              | 88                |           |     |      |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough starter (100%)]]                              | 88                |           |     |      |
 | Sea salt                                                                           | 13                |           |     |      |
 |                                                                                    |                   |           |     |      |
 | **--- 3. Fold in during 1st-2nd coil fold ---**                                    |                   |           |     |      |

@@ -46,7 +46,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                           | Quantity, g | Baker's % | %   | Note                                                    |
 | ---------------------------------------------------- | ----------- | --------- | --- | ------------------------------------------------------- |
-| [[Sourdough starter types\|Sourdough discard (50%)]] | 500         |           |     | ~37% is whole wheat                                     |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough discard (50%)]] | 500         |           |     | ~37% is whole wheat                                     |
 | [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 315         |           |     |                                                         |
 | Sugar                                                | 120         |           |     |                                                         |
 | Salt; fine                                           | 6           |           |     | 1/2 tsp.                                                |

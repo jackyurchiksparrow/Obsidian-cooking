@@ -61,7 +61,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | **--- 2. Add the levain and salt, knead ---**                         |             |           |     |                                   |
 | Sugar / honey                                                         | 20          |           |     |                                   |
 | Malt paste                                                            |             |           |     |                                   |
-| [[Sourdough starter types\|Sourdough starter (50%)]]                  | 100         |           |     | 15.2% inoculation: 95g of LM <br> |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough starter (50%)]]                  | 100         |           |     | 15.2% inoculation: 95g of LM <br> |
 | Salt                                                                  | 13          |           |     |                                   |
 |                                                                       |             |           |     |                                   |
 | **--- 3. When the dough is developed and smooth, add the butter ---** |             |           |     |                                   |

@@ -54,7 +54,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 |                                                       |             |           |     |      |
 | **--- 2. Add the levain and salt, knead ---**         |             |           |     |      |
 | Water 2                                               | 20          |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (100%)]] | 150         |           |     | <br> |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough starter (100%)]] | 150         |           |     | <br> |
 | Salt                                                  | 12          |           |     |      |
 |                                                       |             |           |     |      |
 | **--- 4. Ferment. Target bulk: 6h at 26C ---**        |             |           |     |      |

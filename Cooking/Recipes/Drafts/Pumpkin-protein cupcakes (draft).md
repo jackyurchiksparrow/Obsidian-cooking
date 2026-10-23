@@ -44,7 +44,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                           | Quantity, g | Baker's % | Note   |
 | ---------------------------------------------------- | ----------- | --------- | ------ |
-| [[Sourdough starter types\|Sourdough discard (50%)]] | 263         |           |        |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough discard (50%)]] | 263         |           |        |
 | Whole wheat flour                                    | 45          |           |        |
 | Olive oil                                            | 60          |           |        |
 | Baking soda                                          | 5           |           |        |

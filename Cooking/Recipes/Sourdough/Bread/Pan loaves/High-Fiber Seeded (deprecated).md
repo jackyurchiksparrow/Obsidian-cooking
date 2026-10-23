@@ -56,7 +56,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Soaker liquid                                        | 120         |           |     |                              |
 | [[Fruit water]]                                      | 180         |           |     |                              |
 | Water                                                | 193         |           |     |                              |
-| [[Sourdough starter types\|Sourdough starter (50%)]] | 90          |           |     |                              |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough starter (50%)]] | 90          |           |     |                              |
 | Honey                                                | 38          |           |     |                              |
 | Sea salt                                             | 15          |           |     |                              |
 | [[Flours\|Wheat flour (HH Manitoba)]]                | 143         |           |     |                              |

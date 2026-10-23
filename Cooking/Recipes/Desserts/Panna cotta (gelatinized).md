@@ -32,7 +32,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 |                                                                                                                                                                                                                                                            |     |     |     |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- | --- |
 | ![](https://lh3.googleusercontent.com/pw/AP1GczPdxkdtzOV-NXGeBmWSG762iN8GSqZ3ir5NJf1T4eBLGHJMfbbqyV5V2fqP6jio3xvkACw-VKnDd26_egQMCmIaf1uEaT24K-fxnSbQmLiQVkV_y-hE2Xar_evdmL55D947bhESFmrpcULb-BOI71Bx=w1280-h960-s-no-gm?authuser=0)                       |     |     |     |
-| Volume: ~1825g<br><br>- Adjusted volume for 8 cups, readjusted again to less because of the gelatin (to fit one package).<br>- The amount of gelatin is at 1.4% ratio. It wouldn't hold on its own probably. Increase to 1.7% next time.<br><br>08.11.2025 |     |     |     |
+| Volume: ~1800g<br><br>- Adjusted volume for 8 cups, readjusted again to less because of the gelatin (to fit one package).<br>- The amount of gelatin is at 1.4% ratio. It wouldn't hold on its own probably. Increase to 1.7% next time.<br><br>08.11.2025 |     |     |     |
 
 ## Ingredients
 
@@ -42,21 +42,21 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Calculate
 ###### Hide percentage columns
 
-| Ingredient                                             | Quantity, g | %   | Note                                              |
-| ------------------------------------------------------ | ----------- | --- | ------------------------------------------------- |
-|                                                        |             |     |                                                   |
-| Milk                                                   | 980         |     |                                                   |
-| Cream (30%)                                            | 276         |     | aiming for ~20% cream based on milk               |
-| Milk 2 *(if not using the 30% cream)*                  | 202         |     |                                                   |
-| Butter *(if not using the 30% cream)*                  | 75          |     |                                                   |
-| [[Xanthan gum (E 415)]] *(if not using the 30% cream)* | a pinch     |     | for butter and milk not to separate in the fridge |
-| Sugar                                                  | 81          |     |                                                   |
-| Vanilla                                                | to taste    |     |                                                   |
-| Salt                                                   | to taste    |     |                                                   |
-| [[Gelatin]]                                            | 25          |     |                                                   |
-| Milk; cold (for gelatin blooming)                      | 125         |     |                                                   |
-|                                                        |             |     |                                                   |
-| **Overall weight**                                     |             |     |                                                   |
+| Ingredient                                                                                                                                                                                                                                                                                                                                                                                                                                     | Quantity, g | %   | Note                                                             |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | --- | ---------------------------------------------------------------- |
+| **--- 1. Soak the gelatin in cold water.<br>2. Heat milk, sugar, cream (or milk and butter), salt until the sugar dissolves.<br>3. Adjust the sugar and salt to taste and mix in the soaked gelatin.<br>4. If using butter and milk instead of cream, blend the mixture together with a few pinches of xanthan gum.<br>5. Add vanilla, stir.<br>6. Pour into the ramekins, allow to cool slightly. <br>7. Put into the fridge until set. ---** |             |     |                                                                  |
+| Milk                                                                                                                                                                                                                                                                                                                                                                                                                                           | 1015        |     |                                                                  |
+| Cream (30%)                                                                                                                                                                                                                                                                                                                                                                                                                                    | 276         |     | aiming for ~20% cream based on milk                              |
+| Milk 2 *(if not using the 30% cream)*                                                                                                                                                                                                                                                                                                                                                                                                          | 202         |     |                                                                  |
+| Butter *(if not using the 30% cream)*                                                                                                                                                                                                                                                                                                                                                                                                          | 75          |     |                                                                  |
+| [[Xanthan gum (E 415)]] *(if not using the 30% cream)*                                                                                                                                                                                                                                                                                                                                                                                         | a pinch     |     | for butter and milk not to separate in the fridge                |
+| Sugar                                                                                                                                                                                                                                                                                                                                                                                                                                          | 81          |     |                                                                  |
+| Vanilla                                                                                                                                                                                                                                                                                                                                                                                                                                        | to taste    |     |                                                                  |
+| Salt                                                                                                                                                                                                                                                                                                                                                                                                                                           | to taste    |     |                                                                  |
+| [[Gelatin]]                                                                                                                                                                                                                                                                                                                                                                                                                                    | 18          |     | 15 g if you serve in ramekins, 18 g if you want to turn them out |
+| Milk; cold (for gelatin blooming)                                                                                                                                                                                                                                                                                                                                                                                                              | 90          |     |                                                                  |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                |             |     |                                                                  |
+| **Overall weight**                                                                                                                                                                                                                                                                                                                                                                                                                             |             |     |                                                                  |
 
 
 
@@ -64,13 +64,6 @@ window.onerror = function (message, source, lineno, colno, error) {
 ---
 ## Directions:
 
-1. Soak the gelatin in cold water.
-2. Heat milk, sugar, cream (or milk and butter), salt until the sugar dissolves.
-3. Adjust the sugar and salt to taste and mix in the soaked gelatin.
-4. If using butter and milk instead of cream, blend the mixture together with a few pinches of xanthan gum.
-5. Add vanilla, stir.
-6. Pour into the ramekins, allow to cool slightly. 
-7. Put into the fridge until set.
 
 
 

@@ -44,7 +44,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                            | Quantity, g | Baker's % | %   | Note                            |
 | ----------------------------------------------------- | ----------- | --------- | --- | ------------------------------- |
-| [[Sourdough starter types\|Sourdough discard (100%)]] | 240         |           |     |                                 |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough discard (100%)]] | 240         |           |     |                                 |
 | Plain Greek yoghurt                                   | 100         |           |     |                                 |
 | Eggs                                                  | 150         |           |     | 3 pcs.                          |
 | [[Flours\|Bread flour (Zernari) / any 00 flour]]      | 155         |           |     |                                 |

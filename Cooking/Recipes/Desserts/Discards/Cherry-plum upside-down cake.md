@@ -45,7 +45,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                                  | Quantity, g | Baker's % | %   | Note             |
 | ----------------------------------------------------------- | ----------- | --------- | --- | ---------------- |
-| [[Sourdough starter types\|Sourdough discard (50%)]]; dried | 48          |           |     |                  |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough discard (50%)]]; dried | 48          |           |     |                  |
 | All-purpose flour                                           | 250         |           |     |                  |
 | Whole wheat flour                                           | 28          |           |     |                  |
 | Almond flour                                                | 40          |           |     |                  |

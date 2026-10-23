@@ -68,7 +68,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 |                                                      |                                |           |     |          |
 | **Overall weight**                                   |                                |           |     |          |
 |                                                      |                                |           |     |          |
-| [[Sourdough starter types\|Sourdough discard (50%)]] | 200                            |           |     |          |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough discard (50%)]] | 200                            |           |     |          |
 | [[Flours\|Bread flour (Zernari)]]                    | 860                            |           |     |          |
 | [[Flours\|Whole wheat flour (Caputo)]]               | 200                            |           |     |          |
 | Butter                                               | 480                            |           |     |          |

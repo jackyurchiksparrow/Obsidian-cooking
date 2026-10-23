@@ -43,7 +43,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                           | Quantity, g  | Baker's % | %   | Note                                                                                                |
 | ---------------------------------------------------- | ------------ | --------- | --- | --------------------------------------------------------------------------------------------------- |
-| [[Sourdough starter types\|Sourdough discard (50%)]] | 200          |           |     |                                                                                                     |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough discard (50%)]] | 200          |           |     |                                                                                                     |
 | [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 275          |           |     |                                                                                                     |
 | Whole oatmeal flour                                  | 75           |           |     |                                                                                                     |
 | Whole wheat flour                                    | 50           |           |     |                                                                                                     |

@@ -37,7 +37,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Ingredient                                                                           | Quantity, g         | Baker's % | %   | Note                             |
 | ------------------------------------------------------------------------------------ | ------------------- | --------- | --- | -------------------------------- |
 | <h3 style="color:#00ff13;">My white version (Daria Tsvek tweaked); chocolate</h3>    |                     |           |     |                                  |
-| [[Sourdough starter types\|Sourdough starter (50%)]]                                 | 138                 |           |     | 30 starter + 36 water + 72 flour |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough starter (50%)]]                                 | 138                 |           |     | 30 starter + 36 water + 72 flour |
 | [[Flours\|Bread flour (Zernari) / any 00 flour]]                                     | 247                 |           |     |                                  |
 | [[Flours\|Wheat flour (HH Manitoba)]]                                                | 76                  |           |     |                                  |
 | [[Cocoa powders\|Cocoa powder (Dutch)]]                                              | 45                  |           |     |                                  |
@@ -59,7 +59,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 |                                                                                      |                     |           |     |                                  |
 |                                                                                      |                     |           |     |                                  |
 | <h3 style="color:#00ff13;">My white version (Daria Tsvek tweaked); classic</h3>      |                     |           |     |                                  |
-| [[Sourdough starter types\|Sourdough starter (50%)]]                                 | 138                 |           |     | 30 starter + 36 water + 72 flour |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough starter (50%)]]                                 | 138                 |           |     | 30 starter + 36 water + 72 flour |
 | [[Flours\|Bread flour (Zernari) / any 00 flour]]                                     | 295                 |           |     |                                  |
 | [[Flours\|Wheat flour (HH Manitoba)]]                                                | 92                  |           |     |                                  |
 | Milk                                                                                 | 145                 |           |     |                                  |
@@ -79,7 +79,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 |                                                                                      |                     |           |     |                                  |
 |                                                                                      |                     |           |     |                                  |
 | <h3 style="color:#00ff13;">My white version (Daria Tsvek tweaked); red velvet</h3>   |                     |           |     |                                  |
-| [[Sourdough starter types\|Sourdough starter (50%)]]                                 | 127                 |           |     | 30 starter + 32 water + 64 flour |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough starter (50%)]]                                 | 127                 |           |     | 30 starter + 32 water + 64 flour |
 | [[Flours\|Bread flour (Zernari) / any 00 flour]]                                     | 247                 |           |     |                                  |
 | [[Flours\|Wheat flour (HH Manitoba)]]                                                | 76                  |           |     |                                  |
 | [[Cocoa powders\|Cocoa powder (Dutch)]]                                              | 14                  |           |     |                                  |

@@ -46,7 +46,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                                       | Quantity, g | Baker's % | %   | Note                 |
 | ---------------------------------------------------------------- | ----------- | --------- | --- | -------------------- |
-| [[Sourdough starter types\|Sourdough discard (50%)]]             | 120         |           |     |                      |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough discard (50%)]]             | 120         |           |     |                      |
 | [[Flours\|Any 00 flour / Bread flour (Zernari)]]                 | 660         |           |     |                      |
 | Baking soda                                                      |             |           |     | 1 tsp.               |
 | Ginger                                                           |             |           |     | 3 tsp.               |

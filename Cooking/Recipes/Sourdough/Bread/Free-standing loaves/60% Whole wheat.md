@@ -49,7 +49,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | ----------------------------------------------------- | ----------- | --------- | --- | ---- |
 | Water                                                 | 330         |           |     |      |
 | Water 2                                               | 20          |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (100%)]] | 200         |           |     |      |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough starter (100%)]] | 200         |           |     |      |
 | Sea salt                                              | 11          |           |     |      |
 | Caputo Cuoco flour                                    | 120         |           |     |      |
 | Whole wheat flour (Caputo Integrale)                  | 330         |           |     |      |

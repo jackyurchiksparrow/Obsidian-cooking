@@ -64,7 +64,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Ingredient                                           | Quantity, g | Baker's % | %   | Note                         |
 | ---------------------------------------------------- | ----------- | --------- | --- | ---------------------------- |
 | Water                                                | 441         |           |     |                              |
-| [[Sourdough starter types\|Sourdough starter (50%)]] | 100         |           |     | 52 flour 26 water 2g starter |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough starter (50%)]] | 100         |           |     | 52 flour 26 water 2g starter |
 | Honey / maple syrup                                  | 60          |           |     |                              |
 | Sea salt                                             | 15          |           |     |                              |
 | [[Flours\|Whole spelt flour]]                        | 684         |           |     |                              |

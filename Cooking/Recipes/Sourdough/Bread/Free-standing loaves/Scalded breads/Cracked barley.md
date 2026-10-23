@@ -49,7 +49,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | ------------------------------------------------------- | ----------- | --------- | --- | ------------------------------ |
 | Water                                                   | 340         |           |     |                                |
 | Water 2                                                 | 21          |           |     |                                |
-| [[Sourdough starter types\|Sourdough starter (50%)]]    | 90          |           |     |                                |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough starter (50%)]]    | 90          |           |     |                                |
 | Sea salt                                                | 15          |           |     |                                |
 | [[Flours\|Bread flour (Zernari) / any bread flour]]     | 218         |           |     |                                |
 | [[Flours\|Wheat flour (HH Manitoba)]]                   | 244         |           |     |                                |

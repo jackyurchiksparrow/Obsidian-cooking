@@ -46,7 +46,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | ----------------------------------------------------- | ----------- | --------- | --- | ---- |
 | [[Fruit water]]                                       | 180         |           |     |      |
 | Water                                                 | 304         |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (100%)]] | 90          |           |     |      |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough starter (100%)]] | 90          |           |     |      |
 | Sea salt                                              | 15          |           |     |      |
 | [[Flours\|Wheat flour (HH Manitoba)]]                 | 330         |           |     |      |
 | [[Flours\|Whole wheat flour (Caputo)]]                | 330         |           |     |      |

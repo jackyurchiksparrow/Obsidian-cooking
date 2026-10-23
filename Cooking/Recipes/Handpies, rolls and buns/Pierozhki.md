@@ -48,7 +48,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | **Dough**                                            |                |           |     |                                                                   |
 | Milk                                                 | 250            |           |     |                                                                   |
 | Water                                                | 140            |           |     |                                                                   |
-| [[Sourdough starter types\|Sourdough starter (50%)]] | 100            |           |     | 25g starter : 72g water : 60g white flour : 60g whole wheat flour |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough starter (50%)]] | 100            |           |     | 25g starter : 72g water : 60g white flour : 60g whole wheat flour |
 | [[Flours\|Whole wheat flour (Molino Pordenone)]]     | 280            |           |     |                                                                   |
 | [[Flours\|Bread flour]]                              | 280            |           |     |                                                                   |
 | Sugar                                                | 60             |           |     |                                                                   |

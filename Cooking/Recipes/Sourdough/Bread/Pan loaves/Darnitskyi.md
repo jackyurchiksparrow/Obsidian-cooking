@@ -68,7 +68,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | **Main dough** (bigger aluminum mold)                                             |             |           |     |                                   |
 | Water 1                                                                           | 210         |           |     |                                   |
 | Water 2                                                                           | 20          |           |     |                                   |
-| [[Sourdough starter types\|Sourdough starter; rye (100%)]]                        | 300         |           |     | 30 starter: 150 flour : 150 water |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough starter; rye (100%)]]                        | 300         |           |     | 30 starter: 150 flour : 150 water |
 | [[Flours\|Rye flour (Ecorod)]]                                                    | 130         |           |     |                                   |
 | [[Flours\|Bread flour (Zernari) / any bread flour]]                               | 200         |           |     |                                   |
 | Sea salt                                                                          | 10          |           |     |                                   |

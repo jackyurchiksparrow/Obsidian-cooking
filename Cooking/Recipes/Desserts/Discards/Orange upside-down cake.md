@@ -44,7 +44,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                           | Quantity, g          | Baker's % | %   | Note                                                 |
 | ---------------------------------------------------- | -------------------- | --------- | --- | ---------------------------------------------------- |
-| [[Sourdough starter types\|Sourdough discard (50%)]] | 50                   |           |     |                                                      |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough discard (50%)]] | 50                   |           |     |                                                      |
 | Fresh orange juice                                   | 180                  |           |     | If not enough, replace with sour cream/kefir/yoghurt |
 | Eggs                                                 | 150                  |           |     | 3 pcs.                                               |
 | Sour cream                                           | 80                   |           |     |                                                      |

@@ -52,7 +52,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | ------------------------------------------------------------ | ----------- | --------- | --- | ---- |
 | <h3 style="color:#00ff13;">Dough</h3>                        |             |           |     |      |
 | Water                                                        | 160         |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (50%)]] discard | 330         |           |     |      |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough starter (50%)]] discard | 330         |           |     |      |
 | Sea salt                                                     | 10          |           |     |      |
 | [[Flours\|Bread flour (Zernari) / any 00 flour]]             | 300         |           |     |      |
 | [[Flours\|Whole wheat flour (Molino Pordenone)]]             | 30          |           |     |      |

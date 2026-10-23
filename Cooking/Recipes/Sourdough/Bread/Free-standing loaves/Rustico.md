@@ -58,7 +58,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | [[Flours\|Whole spelt flour]]                                                                                                                | 120         |           |     |      |
 |                                                                                                                                              |             |           |     |      |
 | **--- 2. Add levain and salt, mix BY HAND then coil folds. Bulk to **55–60% or until the bubbles approaching the 1cm surface boundary**---** |             |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (100%)]]                                                                                        | 80          |           |     |      |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough starter (100%)]]                                                                                        | 80          |           |     |      |
 | Sea salt                                                                                                                                     | 14          |           |     |      |
 |                                                                                                                                              |             |           |     |      |
 | **--- 3. Pre-shape, 20min bench, shape, basket → fridge within 30min ---**                                                                   |             |           |     |      |

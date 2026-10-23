@@ -49,7 +49,7 @@ Just a beginner-friendly bread. Cool to add cold proof, but too stiff for me. An
 | ---------------------------------------------------------- | ----------- | --------- | --- | ---------------------------------------------- |
 | Water                                                      | 305         |           |     |                                                |
 | Water 2                                                    | 0           |           |     |                                                |
-| [[Sourdough starter types\|Sourdough starter; rye (100%)]] | 222         |           |     | 75:75:75 at about 20-23 to make it to 12 hours |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough starter; rye (100%)]] | 222         |           |     | 75:75:75 at about 20-23 to make it to 12 hours |
 | Sea salt                                                   | 13          |           |     |                                                |
 | [[Flours\|00 Flour (10% protein) - Ecorod]]                | 276         |           |     |                                                |
 | [[Flours\|Bread flour (Zernari) / any 00 flour]]           | 217         |           |     |                                                |

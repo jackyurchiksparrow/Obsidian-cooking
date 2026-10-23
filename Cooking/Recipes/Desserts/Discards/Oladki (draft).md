@@ -49,7 +49,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Ingredient                                            | Quantity, g | Baker's % | %   | Note                 |
 | ----------------------------------------------------- | ----------- | --------- | --- | -------------------- |
 | **Option 1 (more discard)**                           |             |           |     |                      |
-| [[Sourdough starter types\|Sourdough discard (50%)]]  | 300         |           |     | ~37% is whole wheat  |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough discard (50%)]]  | 300         |           |     | ~37% is whole wheat  |
 | Kefir / yoghurt / sour cream / buttermilk / ryazhenka | 400         |           |     |                      |
 | [[Flours\|Bread flour (Zernari) / any 00 flour]]      | 200         |           |     |                      |
 | Sugar                                                 | 75          |           |     |                      |
@@ -65,7 +65,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | **Overall hydration**                                 |             |           |     |                      |
 |                                                       |             |           |     |                      |
 | **Option 2 (more oladki)**                            |             |           |     |                      |
-| [[Sourdough starter types\|Sourdough discard (50%)]]  | 200         |           |     | ~37% is whole wheat  |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough discard (50%)]]  | 200         |           |     | ~37% is whole wheat  |
 | Kefir / yoghurt / sour cream / buttermilk / ryazhenka | 558         |           |     |                      |
 | [[Flours\|Bread flour (Zernari) / any 00 flour]]      | 367         |           |     |                      |
 | Sugar                                                 | 114         |           |     |                      |

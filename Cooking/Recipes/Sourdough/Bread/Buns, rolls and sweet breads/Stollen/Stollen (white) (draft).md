@@ -47,7 +47,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient                                           | Quantity, g | Baker's % | %   | Note |
 | ---------------------------------------------------- | ----------- | --------- | --- | ---- |
-| [[Sourdough starter types\|Sourdough starter (50%)]] |             |           |     |      |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough starter (50%)]] |             |           |     |      |
 |                                                      |             |           |     |      |
 |                                                      |             |           |     |      |
 | [[Fruit water]]                                      |             |           |     |      |

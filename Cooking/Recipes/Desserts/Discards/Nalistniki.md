@@ -47,7 +47,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Ingredient                                                    | Quantity, g | Baker's % | %   | Note                     |
 | ------------------------------------------------------------- | ----------- | --------- | --- | ------------------------ |
 | **Batter**                                                    |             |           |     |                          |
-| [[Sourdough starter types\|Sourdough discard (50%)]]; dried   | 155         |           |     |                          |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough discard (50%)]]; dried   | 155         |           |     |                          |
 | [[Flours\|Bread flour (Zernari) / any 00 flour]]              | 300         |           |     |                          |
 | Sugar                                                         | 85          |           |     |                          |
 | Salt; fine                                                    | 7           |           |     |                          |

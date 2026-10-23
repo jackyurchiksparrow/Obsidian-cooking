@@ -55,7 +55,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | **Assumed bulk:** 24C for ~5h                             |             |           |     |      |
 | Water 1                                                   | 398         |           |     |      |
 | Water 2                                                   | 20          |           |     |      |
-| [[Sourdough starter types\|Sourdough rye starter (100%)]] | 96          |           |     |      |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough rye starter (100%)]] | 96          |           |     |      |
 | Sea salt                                                  | 12          |           |     |      |
 | [[Flours\|Bread flour (Zernari) / any 00 flour]]          | 357         |           |     |      |
 | [[Flours\|Whole wheat flour (Molino Pordenone)]]          | 192         |           |     |      |

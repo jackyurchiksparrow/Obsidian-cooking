@@ -55,7 +55,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 |                                                               |             |           |     |      |
 | **--- 2. Add the levain, honey and salt, knead ---**          |             |           |     |      |
 | Water 2                                                       | 20          |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (100%)]]         | 168         |           |     |      |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough starter (100%)]]         | 168         |           |     |      |
 | Sea salt                                                      | 12          |           |     |      |
 | Honey                                                         | 20          |           |     |      |
 |                                                               |             |           |     |      |

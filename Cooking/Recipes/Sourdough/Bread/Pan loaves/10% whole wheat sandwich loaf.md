@@ -55,7 +55,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | [[Flours\|Whole wheat flour (Caputo Integrale)]]                           | 89          |           |     |      |
 |                                                                            |             |           |     |      |
 | **--- 2. Add levain, honey, salt; knead to full development ---**          |             |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (100%)]] (92 wheat + 60g rye) | 200         |           |     |      |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough starter (100%)]] (92 wheat + 60g rye) | 200         |           |     |      |
 | Honey                                                                      | 20          |           |     |      |
 | Sea salt                                                                   | 20          |           |     |      |
 |                                                                            |             |           |     |      |

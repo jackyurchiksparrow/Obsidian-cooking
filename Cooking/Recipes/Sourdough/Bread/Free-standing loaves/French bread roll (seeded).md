@@ -48,7 +48,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | ---------------------------------------------------- | ----------- | --------- | --- | ---- |
 | Water                                                | 350         |           |     |      |
 | Water 2                                              |             |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (50%)]] | 180         |           |     |      |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough starter (50%)]] | 180         |           |     |      |
 | Sea salt                                             | 14          |           |     |      |
 | Cuoco flour                                          | 334         |           |     |      |
 | [[Flours\|Wheat flour (HH Manitoba)]]                | 209         |           |     |      |

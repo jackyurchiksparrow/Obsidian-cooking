@@ -58,7 +58,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 |                                                       |             |           |     |      |
 | **--- 2. Add the levain and salt, knead ---**         |             |           |     |      |
 | Water 2                                               | 20          |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (100%)]] | 90          |           |     |      |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough starter (100%)]] | 90          |           |     |      |
 | Salt                                                  | 12          |           |     |      |
 | Soy sauce                                             | 1 tbsp.     |           |     |      |
 |                                                       |             |           |     |      |

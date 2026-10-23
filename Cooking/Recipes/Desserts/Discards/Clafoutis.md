@@ -44,7 +44,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Ingredient                                            | Quantity, g             | Baker's % | %   | Note   |
 | ----------------------------------------------------- | ----------------------- | --------- | --- | ------ |
 | **Batter**                                            |                         |           |     |        |
-| [[Sourdough starter types\|Sourdough discard (50%)]]  | 300                     |           |     |        |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough discard (50%)]]  | 300                     |           |     |        |
 | [[Flours\|Bread flour (Zernari) / any 00 flour]]      | 150                     |           |     |        |
 | Almond flour                                          | 50                      |           |     |        |
 | Sugar                                                 | 170                     |           |     |        |

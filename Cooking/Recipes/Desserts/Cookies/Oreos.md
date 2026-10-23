@@ -48,7 +48,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Sugar                                                                     | 130         |           |     |                                                |
 | Brown sugar                                                               | 45          |           |     |                                                |
 | Vanilla                                                                   | to taste    |           |     |                                                |
-| [[Sourdough starter types\|Sourdough discard (50%)]]                      | 90          |           |     |                                                |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough discard (50%)]]                      | 90          |           |     |                                                |
 | [[Flours\|White 00 flour (Caputo Cuoco)]]                                 | 120         |           |     |                                                |
 | [[Flours\|Bread flour (Zernari) / any 00 flour]] (if not using sourdough) | 60          |           |     |                                                |
 | [[Cocoa powders\|Cocoa powder; Dutch-processed]]                          | 24          |           |     |                                                |

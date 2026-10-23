@@ -50,7 +50,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Ingredient                                            | Quantity, g | Baker's % | %   | Note |
 | ----------------------------------------------------- | ----------- | --------- | --- | ---- |
 | **The dough**                                         |             |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (100%)]] | 540         |           |     |      |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough starter (100%)]] | 540         |           |     |      |
 | White bread flour (Zernari)                           | 710         |           |     |      |
 | Whole wheat flour                                     | 109         |           |     |      |
 | Water                                                 | 218         |           |     |      |

@@ -50,7 +50,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Honey                                                | 100         |           |     |      |
 | Sugar 1                                              | 100         |           |     |      |
 | Sugar 2                                              | 50          |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (80%)]] | 60          |           |     |      |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough starter (80%)]] | 60          |           |     |      |
 | Salt                                                 | 2           |           |     |      |
 | Raisins                                              | 40          |           |     |      |
 |                                                      |             |           |     |      |

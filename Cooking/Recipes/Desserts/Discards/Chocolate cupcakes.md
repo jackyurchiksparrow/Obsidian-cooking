@@ -46,7 +46,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Ingredient                                           | Quantity, g | Baker's % | %   | Note                              |
 | ---------------------------------------------------- | ----------- | --------- | --- | --------------------------------- |
 | Milk                                                 | 272         |           |     |                                   |
-| [[Sourdough starter types\|Sourdough discard (50%)]] | 150         |           |     | ~37% is whole wheat               |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough discard (50%)]] | 150         |           |     | ~37% is whole wheat               |
 | [[Flours\|Whole wheat flour (Molino Pordenone)]]     | 60          |           |     |                                   |
 | Cocoa powder; Dutch                                  | 20          |           |     |                                   |
 | Kerob; dark                                          | 12          |           |     |                                   |

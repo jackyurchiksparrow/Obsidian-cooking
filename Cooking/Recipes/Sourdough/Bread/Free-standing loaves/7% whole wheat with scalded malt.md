@@ -56,7 +56,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Dark malt                                                                                          | 12          |           |     |      |
 | Water; boiling for malt scald                                                                      | 23          |           |     |      |
 | Water 2                                                                                            | 20          |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (100%)]]                                              | 155         |           |     | <br> |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough starter (100%)]]                                              | 155         |           |     | <br> |
 | Salt                                                                                               | 13          |           |     |      |
 |                                                                                                    |             |           |     |      |
 |                                                                                                    |             |           |     |      |

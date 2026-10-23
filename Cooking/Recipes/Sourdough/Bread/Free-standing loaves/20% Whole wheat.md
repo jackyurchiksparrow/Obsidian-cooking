@@ -55,7 +55,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 |                                                               |             |           |     |      |
 | **--- 2. Add the levain and salt, knead ---**                 |             |           |     |      |
 | Water 2                                                       | 20          |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (100%)]]         | 130         |           |     |      |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough starter (100%)]]         | 130         |           |     |      |
 | Sea salt                                                      | 14          |           |     |      |
 |                                                               |             |           |     |      |
 | **--- 4. Ferment at 24C for ~5-6h  ---**                      |             |           |     |      |

@@ -41,13 +41,13 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Scale
 ###### 389+90 = 479
 ###### Calculate
-###### Unreleased 3
+###### Hide percentage columns
 
 | Ingredient                                           | Quantity, g | Baker's % | %   | Note |
 | ---------------------------------------------------- | ----------- | --------- | --- | ---- |
 | Water                                                | 353         |           |     |      |
 | Water 2                                              | 30          |           |     |      |
-| [[Sourdough starter types\|Sourdough starter (50%)]] | 90          |           |     |      |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough starter (50%)]] | 90          |           |     |      |
 | Sea salt                                             | 15          |           |     |      |
 | [[Flours\|Wheat flour (HH Manitoba)]]                | 232         |           |     |      |
 | [[Flours\|Bread flour (Zernari) / any 00 flour]]     | 238         |           |     |      |

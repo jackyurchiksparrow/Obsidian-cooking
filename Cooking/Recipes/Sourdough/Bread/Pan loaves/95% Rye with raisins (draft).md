@@ -49,7 +49,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 | Ingredient                                           | Quantity, g | Baker's % | %   | Note                                              |
 | ---------------------------------------------------- | ----------- | --------- | --- | ------------------------------------------------- |
 | Water                                                | 190         |           |     |                                                   |
-| [[Sourdough starter types\|Sourdough starter (80%)]] | 150         |           |     | feed with white and rye flour 50/50, may add malt |
+| [[0 Sourdough starter bacteria and temperatures\|Sourdough starter (80%)]] | 150         |           |     | feed with white and rye flour 50/50, may add malt |
 | Raisins                                              | 34          |           |     |                                                   |
 | Sea salt                                             | 8           |           |     |                                                   |
 | [[Flours\|Rye flour (Ecorod)]]                       | 288         |           |     |                                                   |
