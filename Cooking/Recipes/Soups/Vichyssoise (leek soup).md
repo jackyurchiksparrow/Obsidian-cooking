@@ -43,7 +43,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 
 | Ingredient         | Quantity, g | %   | Note    |
 | ------------------ | ----------- | --- | ------- |
-| Leeks              | 550         |     |         |
+| Leeks              | 750         |     |         |
 | Onion              | 150         |     | 1 big   |
 | Butter             | 30          |     | 2 tbsp. |
 | Potatoes           | 750         |     | 1 tsp.  |

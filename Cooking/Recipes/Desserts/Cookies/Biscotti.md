@@ -39,23 +39,23 @@ window.onerror = function (message, source, lineno, colno, error) {
 ###### Scale
 ###### 11.5+37.4+21.6+15.8+13+0.4+0.4 = 100.1
 ###### Calculate
-###### Unreleased 3
+###### Hide percentage columns
 
-| Ingredient                                            | Quantity, g  | Baker's % | %   | Note                                                                                     |
-| ----------------------------------------------------- | ------------ | --------- | --- | ---------------------------------------------------------------------------------------- |
+| Ingredient                                                                  | Quantity, g  | Baker's % | %   | Note                                                                                     |
+| --------------------------------------------------------------------------- | ------------ | --------- | --- | ---------------------------------------------------------------------------------------- |
 | [[0 Sourdough starter bacteria and temperatures\|Sourdough discard (100%)]] | 50           |           |     |                                                                                          |
-| [[Flours\|Bread flour (Zernari) / any 00 flour]]      | 300          |           |     |                                                                                          |
-| Almond flour                                          | 75           |           |     |                                                                                          |
-| Granulated sugar                                      | 150          |           |     |                                                                                          |
-| Baking soda                                           | 7            |           |     |                                                                                          |
-| Butter / oil; melted                                  | 100          |           |     |                                                                                          |
-| Anise seed; ground                                    | 6            |           |     |                                                                                          |
-| Sea salt                                              | 5            |           |     |                                                                                          |
-| Eggs                                                  | 150          |           |     | 3 pcs.                                                                                   |
-| Dried cherries / cranberries                          | 120          |           |     |                                                                                          |
-| Whole almonds / seeds, raw                            | 100          |           |     | add separately as much nuts as it can have<br><br>and add as much seeds to another batch |
-| Whole milk / egg + water                              | for egg wash |           |     |                                                                                          |
-| **Overall weight**                                    |              |           |     |                                                                                          |
+| [[Flours\|Bread flour (Zernari) / any 00 flour]]                            | 300          |           |     |                                                                                          |
+| Almond flour                                                                | 75           |           |     |                                                                                          |
+| Granulated sugar                                                            | 150          |           |     |                                                                                          |
+| Baking soda                                                                 | 7            |           |     |                                                                                          |
+| Butter / oil; melted                                                        | 100          |           |     |                                                                                          |
+| Anise seed; ground                                                          | 6            |           |     |                                                                                          |
+| Sea salt                                                                    | 5            |           |     |                                                                                          |
+| Eggs                                                                        | 150          |           |     | 3 pcs.                                                                                   |
+| Dried cherries / cranberries                                                | 120          |           |     |                                                                                          |
+| Whole almonds / seeds, raw                                                  | 100          |           |     | add separately as much nuts as it can have<br><br>and add as much seeds to another batch |
+| Whole milk / egg + water                                                    | for egg wash |           |     |                                                                                          |
+| **Overall weight**                                                          |              |           |     |                                                                                          |
 
 
 
