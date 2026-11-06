@@ -61,7 +61,7 @@ window.onerror = function (message, source, lineno, colno, error) {
 ---
 ## Directions:
 
-1. Cut and rinse leeks (we want to cut until the dark green part doesn't go on the way), soak them. The dirt will go down if it's there.  
+1. Cut and rinse leeks (we want to cut until the dark green part doesn't get in the way), soak them. The dirt will go down if it's there.  
 2. Peel potatoes, soak them to remove extra starch.  
 3. [[Browned butter|Brown the butter]]. Immediately add leeks, stir and let them cook. Lower the heat, add some salt, put the lid on (not completely). Cook until they are very tender and remind of a paste.  
 4. Add drained potatoes, season, stir. Add broth. Cook until the potatoes are very soft and easily pierced with a fork.  
